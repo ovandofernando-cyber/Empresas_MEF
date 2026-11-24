@@ -1,0 +1,215 @@
+{
+ "id": "hd_invest",
+ "razon_social": "HD Invest E.A.S. Unipersonal",
+ "ruc": "80134631-2",
+ "tipo": "E.A.S. (Unipersonal)",
+ "carpeta_mef": "HD Invest EAS Unipersonal",
+ "denominaciones_anteriores": [],
+ "constitucion": {
+  "fecha": "2023-05-29",
+  "escritura": "Proforma de estatuto de constitución para las E.A.S. (DGPEJyBF), instrumento privado",
+  "escribano": null,
+  "inscripcion_registro_publico": null,
+  "fuente": {
+   "archivo": "Proforma EAS.pdf",
+   "pagina": 1
+  },
+  "nota": "Fecha impresa en la proforma; inscripción no documentada. RA con tipo 'Regularización de EAS' presentada 16/11/2026."
+ },
+ "domicilio": [
+  {
+   "direccion": "Santa Teresa y Gumersindo Sosa, 305, Asunción",
+   "fecha_dato": "2023-05-29",
+   "fuente": {
+    "archivo": "Proforma EAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Santa Teresa y Gumersindo Sosa",
+   "fecha_dato": "2026-11-16",
+   "fuente": {
+    "archivo": "Constancia RA 2026 Siara.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": "Principal: 70209 - Otras actividades de administración y consultoría de administración de empresas n.c.p.; secundario: 82999 - Otras actividades de servicios de apoyo a empresas n.c.p.; y toda actividad civil y comercial lícita.",
+ "actividad_principal": "consultoría / administración de empresas (inversiones)",
+ "plazo_duracion": "Indefinido",
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 3060000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 10000000,
+   "cantidad_acciones": 306,
+   "fecha_dato": "2023-05-29",
+   "fuente": {
+    "archivo": "Proforma EAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 3060000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 10000000,
+   "cantidad_acciones": 306,
+   "fecha_dato": "2023-05-29",
+   "fuente": {
+    "archivo": "Proforma EAS.pdf",
+    "pagina": 5
+   },
+   "nota": "Integrado en efectivo en el acto constitutivo."
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "Karim Hamza Damani Chaparro",
+   "tipo_persona": "fisica",
+   "documento": "CI 3.875.748 (manuscrito junto a la firma)",
+   "nacionalidad": null,
+   "acciones": 306,
+   "clase_acciones": "ordinarias endosables nominativas, 1 voto c/u",
+   "votos": 306,
+   "porcentaje": 100.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2023-05-29",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Proforma EAS.pdf",
+    "pagina": 5
+   },
+   "confianza": "media",
+   "notas": "Único socio (EAS unipersonal). CI leído de anotación manuscrita, lectura media."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Karim Hamza Damani Chaparro",
+   "documento": "CI 3.875.748",
+   "cargo": "Representante legal y Presidente (Órgano de Administración)",
+   "fecha_asuncion": "2023-05-29",
+   "vigencia": null,
+   "fecha_dato": "2023-05-29",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Proforma EAS.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Oscar Fernando Rivela Gregor",
+   "documento": null,
+   "cargo": "Vicepresidente / Representante suplente",
+   "fecha_asuncion": "2023-05-29",
+   "vigencia": null,
+   "fecha_dato": "2023-05-29",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Proforma EAS.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Carlos Enrique Neffa Persano",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2023-05-29",
+   "vigencia": null,
+   "fecha_dato": "2023-05-29",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Proforma EAS.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta"
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "2023-05-29",
+   "evento": "constitucion",
+   "detalle": "Proforma de estatuto EAS unipersonal; Karim Hamza Damani Chaparro suscribe e integra 306 acciones (Gs. 3.060 M).",
+   "fuente": {
+    "archivo": "Proforma EAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-11-16",
+   "evento": "otro",
+   "detalle": "Presentación SIARA 'Regularización de EAS' (Constancia RA N° 35431).",
+   "fuente": {
+    "archivo": "Constancia RA 2026 Siara.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "Karim Hamza Damani Chaparro",
+   "tipo": "otro",
+   "detalle": "El socio único y representante de HD Invest figura también como 'Analista' del MEF que expidió la Constancia RA N° 35431 de la propia empresa (16/11/2026 22:27). Posible conflicto de interés / autoaprobación.",
+   "fuente": {
+    "archivo": "Constancia RA 2026 Siara.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Avda. Santa Teresa (Asunción)",
+   "tipo": "mismo_domicilio",
+   "detalle": "Domicilio en Santa Teresa y Gumersindo Sosa; no coincide exactamente con Torres del Paseo (Santa Teresa e/ Aviadores del Chaco y Herminio Maldonado). Sin vínculo documental directo con Ueno/Grupo Vázquez en los documentos remitidos.",
+   "fuente": {
+    "archivo": "Proforma EAS.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "andreabarrua20@gmail.com",
+   "telefono": null,
+   "fecha": "2026-11-16",
+   "fuente": {
+    "archivo": "Constancia RA 2026 Siara.pdf",
+    "pagina": 1
+   },
+   "notas": "Sólo figura el correo de la PEJ; la constancia no trae datos del solicitante."
+  }
+ ],
+ "correos_dominios": [
+  "gmail.com"
+ ],
+ "documentos": [
+  {
+   "archivo": "Constancia RA 2026 Siara.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-11-16",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 35431, tipo Regularización de EAS; analista Karim Hamza Damani Chaparro."
+  },
+  {
+   "archivo": "Proforma EAS.pdf",
+   "tipo": "escritura_constitucion",
+   "fecha": "2023-05-29",
+   "paginas": 6,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Proforma de estatuto EAS unipersonal (formulario DGPEJyBF) firmada por Karim Hamza Damani Chaparro: capital Gs. 3.060 M, 306 acciones."
+  }
+ ],
+ "observaciones": [
+  "Conflicto de interés: el analista que expide la constancia RA (Karim Hamza Damani Chaparro) es el mismo socio único y representante legal de la EAS.",
+  "La constancia RA se presentó y expidió el 16/11/2026 (después del inicio del expediente SIME 78.318/2026), como 'Regularización'.",
+  "No se remitió constancia de BF ni constancia de inscripción; no hay registro de accionistas.",
+  "No se encontró en estos documentos ningún vínculo explícito con Ueno, ITTI o Grupo Vázquez; la inclusión en el lote del MEF debería explicarse por otras fuentes.",
+  "La proforma no muestra sello de inscripción; el CI del socio sólo aparece manuscrito."
+ ]
+}

@@ -1,0 +1,1193 @@
+{
+  "id": "ueno_seguros",
+  "razon_social": "UENO SEGUROS S.A.",
+  "ruc": "80004049-0",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "UENO SEGUROS S.A",
+  "denominaciones_anteriores": [
+    {
+      "nombre": "\"ALFA\" SOCIEDAD ANONIMA DE SEGUROS Y REASEGUROS (Alfa S.A. de Seguros y Reaseguros)",
+      "hasta": "2022-12-06",
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": "1,5"
+      }
+    }
+  ],
+  "constitucion": {
+    "fecha": "1989-05-18",
+    "escritura": "N° 188",
+    "escribano": "José Luis Coscia Cueto (Reg. N° 107)",
+    "inscripcion_registro_publico": "Registro Público de Comercio N° 450 'A', folio 2275 y sgtes., Sección Contratos, 21/09/1989; personería jurídica por Decreto PE N° 2660 del 12/09/1989",
+    "fuente": {
+      "archivo": "Escritura pública N°188.pdf",
+      "pagina": "3,21-23"
+    }
+  },
+  "domicilio": [
+    {
+      "direccion": "Avda. Santa Teresa (SIARA)",
+      "fecha_dato": "2026-06-30",
+      "fuente": {
+        "archivo": "UENO SEGUROS S.A. RA.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Avda. Santa Teresa entre Herminio Maldonado y Aviadores del Chaco, Torres del Paseo, Torre 1 (sede social según acta)",
+      "fecha_dato": "2024-10-25",
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Avda. Mariscal López N° 4752, Asunción",
+      "fecha_dato": "2022-12-06",
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Yegros N° 944 e/ Manuel Domínguez y Tte. Fariña, Asunción",
+      "fecha_dato": "2014-03-11",
+      "fuente": {
+        "archivo": "EScritura Pública n° 222.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "direccion": "Independencia Nacional N° 349, 2do piso (domicilio especial de los fundadores)",
+      "fecha_dato": "1989-05-18",
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": 3
+      }
+    }
+  ],
+  "objeto_social": "Realizar todas las operaciones de seguros contra toda clase de riesgos y operaciones relacionadas; participar en otras sociedades o joint-ventures (Art. 4 reformado 2022).",
+  "actividad_principal": "seguros",
+  "plazo_duracion": "99 años desde inscripción (estatuto 1989)",
+  "capital": [
+    {
+      "tipo": "autorizado",
+      "monto": 100000000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 100000,
+      "fecha_dato": "2022-08-09",
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 6
+      }
+    },
+    {
+      "tipo": "suscripto",
+      "monto": 74085000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 74085,
+      "fecha_dato": "2025-12-31",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "tipo": "social",
+      "monto": 150000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 100000,
+      "cantidad_acciones": 1500,
+      "fecha_dato": "1989-05-18",
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": 18
+      }
+    }
+  ],
+  "accionistas": [
+    {
+      "nombre": "U PARAGUAY S.A.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80135001-8",
+      "nacionalidad": null,
+      "acciones": 60783,
+      "clase_acciones": "OVS/OVM",
+      "votos": null,
+      "porcentaje": 82.0449,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": "Suma de varias líneas: 5.648 OVS + 55.135 OVM (voto múltiple, 5 votos por acción según Art. 9 estatutos 2022). Gran parte proviene de compras de Grupo Vázquez a Ueno Bank, Financiera Ueno, Silvio Silvera, familia Turro (Marta vda. de Turro, Gabriel, Diego, Mónica Turro) en 2023-2024 y canje de Grupo Vázquez con U Paraguay el 30/06/2025, aprobado por la SIS el 30/12/2025; 748 acciones cedidas por Grupo Vázquez a U Paraguay el 28/06/2024 y 1 acción vía Miguel Vázquez."
+    },
+    {
+      "nombre": "NICOLAS TOLENTINO SARUBBI ZAYAS",
+      "tipo_persona": "fisica",
+      "documento": "CI 251.954",
+      "nacionalidad": null,
+      "acciones": 6557,
+      "clase_acciones": "OVS",
+      "votos": null,
+      "porcentaje": 8.8506,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": "CI tomado de Escritura 222/2014."
+    },
+    {
+      "nombre": "GRUPO VAZQUEZ S.A.E.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80086759-9 (RUC no figura en este registro; tomado de otras constancias)",
+      "nacionalidad": null,
+      "acciones": 3992,
+      "clase_acciones": "OVM",
+      "votos": null,
+      "porcentaje": 5.3884,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": "Acciones OVM (voto múltiple), N° 70.094 al 74.085."
+    },
+    {
+      "nombre": "MARIA AMERICA CABALLERO DE SARUBBI",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 732,
+      "clase_acciones": "OVS",
+      "votos": null,
+      "porcentaje": 0.9881,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": ""
+    },
+    {
+      "nombre": "JORGE RICARDO SARUBBI CABALLERO",
+      "tipo_persona": "fisica",
+      "documento": "CI 1.315.220",
+      "nacionalidad": null,
+      "acciones": 599,
+      "clase_acciones": "OVS",
+      "votos": null,
+      "porcentaje": 0.8085,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": "CI tomado de Escritura 222/2014."
+    },
+    {
+      "nombre": "JOSE JAVIER SARUBBI CABALLERO",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 566,
+      "clase_acciones": "OVS",
+      "votos": null,
+      "porcentaje": 0.764,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": ""
+    },
+    {
+      "nombre": "HECTOR MANUEL SARUBBI CABALLERO",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 537,
+      "clase_acciones": "OVS",
+      "votos": null,
+      "porcentaje": 0.7248,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": ""
+    },
+    {
+      "nombre": "MARTIN MARCELO SARUBBI CABALLERO",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 143,
+      "clase_acciones": "OVS",
+      "votos": null,
+      "porcentaje": 0.193,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": ""
+    },
+    {
+      "nombre": "ROMILDA CONCEPCION NUNES DE LEVI",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 116,
+      "clase_acciones": "OVS",
+      "votos": null,
+      "porcentaje": 0.1566,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": ""
+    },
+    {
+      "nombre": "RAMIRA ALMADA COLMAN",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 43,
+      "clase_acciones": "OVS",
+      "votos": null,
+      "porcentaje": 0.058,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": ""
+    },
+    {
+      "nombre": "GERARDO VALIENTE VERON",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 17,
+      "clase_acciones": "OVS",
+      "votos": null,
+      "porcentaje": 0.0229,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-31",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": "Socio fundador (1989) y primer Presidente."
+    },
+    {
+      "nombre": "GERARDO VALIENTE VERON",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 187,
+      "clase_acciones": "75 preferidas + 112 ordinarias",
+      "votos": null,
+      "porcentaje": 12.4667,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": "18-19"
+      },
+      "confianza": "alta",
+      "notas": "Suscripción en la constitución (1.500 acciones, Gs. 150.000.000, integrado 25%)."
+    },
+    {
+      "nombre": "ELIAS JOSE YANHO QUINTANA",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 187,
+      "clase_acciones": "75 preferidas + 112 ordinarias",
+      "votos": null,
+      "porcentaje": 12.4667,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": "18-19"
+      },
+      "confianza": "alta",
+      "notas": "Suscripción en la constitución (1.500 acciones, Gs. 150.000.000, integrado 25%)."
+    },
+    {
+      "nombre": "CARLOS RUBEN AQUINO MARTINEZ",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 187,
+      "clase_acciones": "75 preferidas + 112 ordinarias",
+      "votos": null,
+      "porcentaje": 12.4667,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": "18-19"
+      },
+      "confianza": "alta",
+      "notas": "Suscripción en la constitución (1.500 acciones, Gs. 150.000.000, integrado 25%)."
+    },
+    {
+      "nombre": "FULVIA ESTHER AGUIRRE SANCHEZ DE AQUINO",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 187,
+      "clase_acciones": "75 preferidas + 112 ordinarias",
+      "votos": null,
+      "porcentaje": 12.4667,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": "18-19"
+      },
+      "confianza": "alta",
+      "notas": "Suscripción en la constitución (1.500 acciones, Gs. 150.000.000, integrado 25%)."
+    },
+    {
+      "nombre": "JORGE RAUL ESCALADA RUDINGER",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 188,
+      "clase_acciones": "75 preferidas + 113 ordinarias",
+      "votos": null,
+      "porcentaje": 12.5333,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": "18-19"
+      },
+      "confianza": "alta",
+      "notas": "Suscripción en la constitución (1.500 acciones, Gs. 150.000.000, integrado 25%)."
+    },
+    {
+      "nombre": "LUIS ENRIQUE BENITEZ ELIAS",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 188,
+      "clase_acciones": "75 preferidas + 113 ordinarias",
+      "votos": null,
+      "porcentaje": 12.5333,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": "18-19"
+      },
+      "confianza": "alta",
+      "notas": "Suscripción en la constitución (1.500 acciones, Gs. 150.000.000, integrado 25%)."
+    },
+    {
+      "nombre": "OSCAR MAURICIO ACUÑA TORRES",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 188,
+      "clase_acciones": "75 preferidas + 113 ordinarias",
+      "votos": null,
+      "porcentaje": 12.5333,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": "18-19"
+      },
+      "confianza": "alta",
+      "notas": "Suscripción en la constitución (1.500 acciones, Gs. 150.000.000, integrado 25%)."
+    },
+    {
+      "nombre": "OSCAR MAURICIO ACUÑA APPLEYARD",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 188,
+      "clase_acciones": "75 preferidas + 113 ordinarias",
+      "votos": null,
+      "porcentaje": 12.5333,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": "18-19"
+      },
+      "confianza": "alta",
+      "notas": "Suscripción en la constitución (1.500 acciones, Gs. 150.000.000, integrado 25%)."
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "FRANKLIN GERARDO BOCCIA SILVEIRA",
+      "documento": "CI 1.343.171",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2024-10-25",
+      "vigencia": "hasta próxima asamblea",
+      "fecha_dato": "2024-10-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "EDUARDO JAVIER GROSS BROWN COSTA",
+      "documento": "CI 439.189",
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2024-10-25",
+      "vigencia": null,
+      "fecha_dato": "2024-10-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JULIO DANIEL REY FERNANDEZ",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2024-10-25",
+      "vigencia": null,
+      "fecha_dato": "2024-10-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "ADRIANA VÁZQUEZ MUNIAGURRIA",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2024-10-25",
+      "vigencia": null,
+      "fecha_dato": "2024-10-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CAROLINA MARÍA GALEANO DE BESTARD",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2024-10-25",
+      "vigencia": null,
+      "fecha_dato": "2024-10-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "SILVIA MURTO DE MÉNDEZ",
+      "documento": null,
+      "cargo": "Director suplente",
+      "fecha_asuncion": "2024-10-25",
+      "vigencia": null,
+      "fecha_dato": "2024-10-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "MIGUEL ALMADA FRUTOS",
+      "documento": null,
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "2024-10-25",
+      "vigencia": null,
+      "fecha_dato": "2024-10-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CESAR ASTIGARRAGA",
+      "documento": null,
+      "cargo": "Síndico suplente",
+      "fecha_asuncion": "2024-10-25",
+      "vigencia": null,
+      "fecha_dato": "2024-10-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "FRANKLIN BOCCIA",
+      "documento": null,
+      "cargo": "Presidente",
+      "fecha_asuncion": "2022-08-09",
+      "vigencia": null,
+      "fecha_dato": "2022-08-09",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 8
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "EDUARDO GROSS BROWN",
+      "documento": null,
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2022-08-09",
+      "vigencia": null,
+      "fecha_dato": "2022-08-09",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 8
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "ALVARO BRASSA",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2022-08-09",
+      "vigencia": null,
+      "fecha_dato": "2022-08-09",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 8
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "SILVIA MURTO",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2022-08-09",
+      "vigencia": null,
+      "fecha_dato": "2022-08-09",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 8
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JORGE RICARDO SARUBBI",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2022-08-09",
+      "vigencia": null,
+      "fecha_dato": "2022-08-09",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 8
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CAROLINA GALEANO DE BESTARD",
+      "documento": null,
+      "cargo": "Director suplente",
+      "fecha_asuncion": "2022-08-09",
+      "vigencia": null,
+      "fecha_dato": "2022-08-09",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 8
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "VERONICA VAZQUEZ",
+      "documento": null,
+      "cargo": "Director suplente",
+      "fecha_asuncion": "2022-08-09",
+      "vigencia": null,
+      "fecha_dato": "2022-08-09",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 8
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "PABLO DEBUCHY",
+      "documento": null,
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "2022-08-09",
+      "vigencia": null,
+      "fecha_dato": "2022-08-09",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 8
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "MIGUEL ALMADA",
+      "documento": null,
+      "cargo": "Síndico suplente",
+      "fecha_asuncion": "2022-08-09",
+      "vigencia": null,
+      "fecha_dato": "2022-08-09",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 8
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "NICOLAS TOLENTINO SARUBBI ZAYAS",
+      "documento": "CI 251.954",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2012-10-31",
+      "vigencia": "periodo 2012/2014",
+      "fecha_dato": "2014-03-11",
+      "vigente": false,
+      "fuente": {
+        "archivo": "EScritura Pública n° 222.pdf",
+        "pagina": "2-3"
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "INES INSAURRALDE",
+      "documento": null,
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2012-10-31",
+      "vigencia": "periodo 2012/2014",
+      "fecha_dato": "2014-03-11",
+      "vigente": false,
+      "fuente": {
+        "archivo": "EScritura Pública n° 222.pdf",
+        "pagina": 3
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "GRACIELA SOSA DE RIVAROLA",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2012-10-31",
+      "vigencia": "periodo 2012/2014",
+      "fecha_dato": "2014-03-11",
+      "vigente": false,
+      "fuente": {
+        "archivo": "EScritura Pública n° 222.pdf",
+        "pagina": 3
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JORGE RICARDO SARUBBI CABALLERO",
+      "documento": "CI 1.315.220",
+      "cargo": "Director titular",
+      "fecha_asuncion": "2012-10-31",
+      "vigencia": "periodo 2012/2014",
+      "fecha_dato": "2014-03-11",
+      "vigente": false,
+      "fuente": {
+        "archivo": "EScritura Pública n° 222.pdf",
+        "pagina": 3
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JUSTO SANTACRUZ",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2012-10-31",
+      "vigencia": "periodo 2012/2014 (director no accionista)",
+      "fecha_dato": "2014-03-11",
+      "vigente": false,
+      "fuente": {
+        "archivo": "EScritura Pública n° 222.pdf",
+        "pagina": 3
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "NICOLAS T. SARUBBI ZAYAS",
+      "documento": null,
+      "cargo": "Presidente",
+      "fecha_asuncion": "1998-09-24",
+      "vigencia": null,
+      "fecha_dato": "1998-10-24",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 51.pdf",
+        "pagina": "2-3"
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JOSE LUIS MORINIGO AVEIRO",
+      "documento": null,
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "1998-09-24",
+      "vigencia": null,
+      "fecha_dato": "1998-10-24",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 51.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "GERARDO VALIENTE VERON",
+      "documento": null,
+      "cargo": "Presidente",
+      "fecha_asuncion": "1989-05-18",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": 19
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "OSCAR MAURICIO ACUÑA TORRES",
+      "documento": null,
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "1989-05-18",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": 19
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JORGE RAUL ESCALADA RUDINGER",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "1989-05-18",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": 19
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CARLOS RUBEN AQUINO MARTINEZ",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "1989-05-18",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": 19
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "FULVIA ESTHER AGUIRRE DE AQUINO",
+      "documento": null,
+      "cargo": "Director suplente",
+      "fecha_asuncion": "1989-05-18",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": 19
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "AURELIO ROA CHAMORRO",
+      "documento": null,
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "1989-05-18",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": 19
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "RODOLFO EUSEBIO RODRIGUEZ LEITH",
+      "documento": null,
+      "cargo": "Síndico suplente",
+      "fecha_asuncion": "1989-05-18",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1989-05-18",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": 19
+      },
+      "confianza": "alta"
+    }
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {
+      "fecha": "1989-05-18",
+      "evento": "constitucion",
+      "detalle": "Constitución de 'ALFA' S.A. de Seguros y Reaseguros por 8 socios fundadores; 1.500 acciones (75 preferidas + 112/113 ordinarias c/u).",
+      "fuente": {
+        "archivo": "Escritura pública N°188.pdf",
+        "pagina": "3,18-19"
+      }
+    },
+    {
+      "fecha": "1992-04-06",
+      "evento": "aumento_capital",
+      "detalle": "Escritura 155 (Coscia Cueto): aumento de capital; aprobado por Decreto 570 del 05/10/1993.",
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "fecha": "1998-10-24",
+      "evento": "aumento_capital",
+      "detalle": "Escritura 51 (Hugo Ruiz Díaz): aumento de capital y modificación de estatutos (Asamblea Extraordinaria N° 2 del 24/09/1998); complementada por Escritura 9 del 06/04/1999.",
+      "fuente": {
+        "archivo": "Escritura Pública N° 51.pdf",
+        "pagina": "1-3"
+      }
+    },
+    {
+      "fecha": "2001-09-20",
+      "evento": "aumento_capital",
+      "detalle": "Escritura 99: emisión de acciones.",
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 3
+      }
+    },
+    {
+      "fecha": "2003-01-07",
+      "evento": "aumento_capital",
+      "detalle": "Escritura 4: emisión de acciones.",
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 3
+      }
+    },
+    {
+      "fecha": "2006-09-06",
+      "evento": "aumento_capital",
+      "detalle": "Escritura 126: emisión de acciones.",
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": 3
+      }
+    },
+    {
+      "fecha": "2014-03-11",
+      "evento": "modificacion_estatutos",
+      "detalle": "Escritura 222 (Peroni Giralt): transcripción de asambleas extraordinaria y ordinaria; modificación parcial de estatutos.",
+      "fuente": {
+        "archivo": "EScritura Pública n° 222.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "fecha": "2022-08-09",
+      "evento": "cambio_denominacion",
+      "detalle": "Asamblea Extraordinaria 39/2022: cambio de denominación a UENO SEGUROS S.A. (\"un grupo inversor desea invertir\"), capital autorizado Gs. 100.000 millones, acciones de voto múltiple (5 votos) y simple; Asamblea 40/2022: emisión de 90.000 acciones y nuevo directorio (Franklin Boccia presidente). Protocolizado por Escritura 186 del 06/12/2022.",
+      "fuente": {
+        "archivo": "Escritura Pública N° 186.pdf",
+        "pagina": "1-8"
+      }
+    },
+    {
+      "fecha": "2023-10-31",
+      "evento": "transferencia_acciones",
+      "detalle": "Financiera Ueno vende acciones a Grupo Vázquez.",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2024-04-30",
+      "evento": "transferencia_acciones",
+      "detalle": "Ueno Bank vende acciones a Grupo Vázquez (aprobado SIS 09/01/2025); también ventas de Silvio Silvera (22/05/2024) y familia Turro (01/08/2024) a Grupo Vázquez.",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "fecha": "2024-10-25",
+      "evento": "cambio_directorio",
+      "detalle": "Asamblea Ordinaria N° 46: directorio presidido por Franklin Boccia Silveira; capitalización del 100% de dividendos del ejercicio 2023/2024 (Gs. 7.481.654.400).",
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "fecha": "2025-06-30",
+      "evento": "transferencia_acciones",
+      "detalle": "Canje de acciones de Grupo Vázquez con U Paraguay S.A., aprobado por la SIS el 30/12/2025.",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      }
+    }
+  ],
+  "vinculos": [
+    {
+      "entidad_o_persona": "U PARAGUAY S.A.",
+      "tipo": "accionista_de",
+      "detalle": "Accionista mayoritario (60.783 acciones, 82,04%).",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "entidad_o_persona": "GRUPO VAZQUEZ S.A.E.",
+      "tipo": "accionista_de",
+      "detalle": "Accionista directo (3.992 OVM, 5,39%) y vendedor/canjeador de acciones a U Paraguay.",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "entidad_o_persona": "UENO BANK S.A.",
+      "tipo": "mencion_en_documento",
+      "detalle": "Ex accionista: vendió acciones a Grupo Vázquez (2024). Bernardo Algorta actuó como representante de Ueno Bank S.A. y Grupo Vázquez S.A.E. en la asamblea 46 (2024).",
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "entidad_o_persona": "FINANCIERA UENO",
+      "tipo": "mencion_en_documento",
+      "detalle": "Ex accionista: vendió a Grupo Vázquez el 31/10/2023.",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "MIGUEL VAZQUEZ",
+      "tipo": "mencion_en_documento",
+      "detalle": "Una acción cedida de Grupo Vázquez a Miguel Vázquez y de éste a U Paraguay (28/06/2024).",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "entidad_o_persona": "BERNARDO ALGORTA",
+      "tipo": "otro",
+      "detalle": "Representante de Ueno Bank S.A. y Grupo Vázquez S.A.E. en asamblea 2024.",
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "entidad_o_persona": "ADRIANA VÁZQUEZ MUNIAGURRIA",
+      "tipo": "director_comun",
+      "detalle": "Directora titular (2024); apellido Vázquez.",
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "CESAR ASTIGARRAGA",
+      "tipo": "director_comun",
+      "detalle": "Síndico suplente; Cesar Astigarraga Lambaré (CI 3807117) es presidente de Red UTS Paraguay S.A.",
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "FRANKLIN GERARDO BOCCIA SILVEIRA",
+      "tipo": "director_comun",
+      "detalle": "Presidente; firma digitalmente los documentos remitidos.",
+      "fuente": {
+        "archivo": "Acta de Asamblea Ordinaria.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "UENO / ITTI (sede Torres del Paseo, Avda. Santa Teresa)",
+      "tipo": "mismo_domicilio",
+      "detalle": "Domicilio SIARA Avda. Santa Teresa / Torres del Paseo Torre 1, igual sede que otras empresas del grupo.",
+      "fuente": {
+        "archivo": "UENO SEGUROS S.A. RA.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "declarantes_siara": [
+    {
+      "nombre": null,
+      "documento": null,
+      "correo": "SECRETARIAGENERAL@UENOSEGUROS.COM.PY",
+      "telefono": null,
+      "fecha": "2026-06-30",
+      "fuente": {
+        "archivo": "UENO SEGUROS S.A. RA.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "correos_dominios": [
+    "uenoseguros.com.py"
+  ],
+  "documentos": [
+    {
+      "archivo": "UENO SEGUROS S.A. RA.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2026-09-07",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Constancia RA N° 20350, actualización anual presentada 30/06/2026; sin datos de socios ni solicitante."
+    },
+    {
+      "archivo": "Registro de accionistas.pdf",
+      "tipo": "registro_accionistas",
+      "fecha": "2025-12-31",
+      "paginas": 2,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Registro de accionistas folios 15-16 al 31/12/2025 (74.085 acciones), con transferencias a Grupo Vázquez y canje con U Paraguay."
+    },
+    {
+      "archivo": "Acta de Asamblea Ordinaria.pdf",
+      "tipo": "acta_asamblea",
+      "fecha": "2024-10-25",
+      "paginas": 2,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Acta de Asamblea Ordinaria N° 46: elección de directorio y capitalización de dividendos."
+    },
+    {
+      "archivo": "Escritura pública N°188.pdf",
+      "tipo": "escritura_constitucion",
+      "fecha": "1989-05-18",
+      "paginas": 24,
+      "legibilidad": "ocr_malo",
+      "resumen": "Constitución de Alfa S.A. de Seguros y Reaseguros, Decreto 2660/1989 e inscripción."
+    },
+    {
+      "archivo": "Escritura Pública N° 51.pdf",
+      "tipo": "escritura_modificacion",
+      "fecha": "1998-10-24",
+      "paginas": 9,
+      "legibilidad": "ocr_malo",
+      "resumen": "Modificación de estatutos y aumento de capital (Asamblea Extraordinaria N° 2/1998)."
+    },
+    {
+      "archivo": "EScritura Pública n° 222.pdf",
+      "tipo": "escritura_modificacion",
+      "fecha": "2014-03-11",
+      "paginas": 24,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Transcripción de actas de asambleas; modificación parcial de estatutos; directorio 2012/2014."
+    },
+    {
+      "archivo": "Escritura Pública N° 186.pdf",
+      "tipo": "escritura_modificacion",
+      "fecha": "2022-12-06",
+      "paginas": 16,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Cambio de denominación a Ueno Seguros, capital autorizado Gs.100.000 millones, nuevo directorio."
+    }
+  ],
+  "observaciones": [
+    "No se remitió constancia de Beneficiarios Finales; la constancia RA no lista socios ni autoridades.",
+    "El registro no indica documentos de identidad de los accionistas; CI de Nicolás T. Sarubbi Zayas y Jorge R. Sarubbi Caballero tomados de la Escritura 222/2014.",
+    "Acciones OVM (voto múltiple, 5 votos según estatuto 2022): 55.135 de U Paraguay y 3.992 de Grupo Vázquez; porcentaje de votos no calculado en el documento. Con 5 votos por OVM, U Paraguay+Grupo Vázquez superarían ampliamente el 90% de los votos (cálculo propio, no verificado).",
+    "El acta 46 menciona 'Grupo Vazquez S.A.' y 'Grupo Vazquez S.A.E.' indistintamente; y 'Rumilda Nunes' (registro: Romilda Concepción Nunes de Levi).",
+    "Acta 46 (25/10/2024) aprueba balances del ejercicio cerrado al 30/06/2024; no se remitió acta posterior de elección de autoridades."
+  ]
+}

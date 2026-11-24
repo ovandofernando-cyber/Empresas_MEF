@@ -1,0 +1,70 @@
+{
+  "id": "fideicomiso_shopping_costanera",
+  "razon_social": "FIDEICOMISO SHOPPING COSTANERA",
+  "ruc": "80105334-0",
+  "tipo": "Fideicomiso (Estructura jurídica - Negocio fiduciario, Ley 921/96)",
+  "carpeta_mef": "Fideicomiso Shoping Costanera",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2019-01",
+    "escritura": "Contrato privado de Fideicomiso de Administración de Recursos Dinerarios para el desarrollo y construcción del Proyecto Inmobiliario 'Shopping Costanera y Executive Center Encarnación' (instrumento privado con certificación de firmas, no escritura)",
+    "escribano": "María de Lourdes Escobar Chiesa (Registro Notarial N° 1148, Encarnación) - certificación de firmas de Horacio José Biga y Carlos Emilio Soler",
+    "inscripcion_registro_publico": null,
+    "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 12},
+    "notas": "El texto dice 'a los ocho dos días del mes de enero del año 2019' (día ambiguo); la hoja de certificación de firmas indica 09 de enero (año ilegible, presumiblemente 2019); el nombre del archivo sugiere 21/01/2019."
+  },
+  "domicilio": [
+    {"direccion": "AVENIDA MARISCAL LOPEZ CASI MARY LYONS (Asunción) - domicilio del fiduciario", "fecha_dato": "2026-06-04", "fuente": {"archivo": "Constancias RA 2026 Simple.pdf", "pagina": 1}},
+    {"direccion": "Fiduciaria Financiera Finexpar S.A.E.C.A.: Casa N° 837 de la calle Mariscal López esquina Mary Lyons, Asunción", "fecha_dato": "2019-01", "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 1}}
+  ],
+  "objeto_social": "Fideicomiso de administración de recursos dinerarios para la ejecución, desarrollo, construcción y terminación del proyecto inmobiliario 'Shopping Costanera y Executive Center Encarnación' (Barrio Santa Rosa, Encarnación), venta de unidades a terceros y entrega de beneficios a fideicomitentes/beneficiarios.",
+  "actividad_principal": "inmobiliaria (desarrollo de shopping y centro de oficinas en Encarnación)",
+  "plazo_duracion": "3 años desde la firma, prorrogable hasta la finalización de la obra y transferencia de las unidades",
+  "capital": [
+    {"tipo": "social", "monto": 5000, "moneda": "USD", "valor_nominal_accion": null, "cantidad_acciones": null, "fecha_dato": "2019-01", "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 6}, "notas": "Valor histórico-contable inicial del patrimonio autónomo (aporte inicial en efectivo de RADICE S.A.). Además se aportan inmuebles (Fincas 44.191 a 44.194 de Encarnación) por USD 5.500.000 de Horacio José Biga y Carlos Emilio Soler, y compromiso de RADICE S.A. de transferir lotes 4A y 4B (Finca 3057) por USD 1.172.000. La constancia RA 2026 no declara capital."}
+  ],
+  "accionistas": [
+    {"nombre": "RADICE S.A.", "tipo_persona": "juridica", "documento": "RUC 80104014-7", "nacionalidad": "paraguaya", "acciones": null, "clase_acciones": "Fideicomitente desarrollador / beneficiario", "votos": null, "porcentaje": null, "porcentaje_calculado": false, "fecha_dato": "2019-01", "vigente": null, "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 1}, "confianza": "alta", "notas": "En el encabezado figura escrito 'RACIDE S.A.' (error tipográfico); el resto del contrato y el membrete dicen RADICE S.A. Domicilio: Avda. Caballero y Mcal. Estigarribia, Encarnación. Aporte inicial USD 5.000 y lotes 4A/4B. Beneficio: oficina en Executive Center (USD 585.000) y USD 585.000 en acciones del Shopping Costanera, más remanentes de la liquidación."},
+    {"nombre": "HORACIO JOSE BIGA", "tipo_persona": "fisica", "documento": "CI 5.990.871", "nacionalidad": null, "acciones": null, "clase_acciones": "Fideicomitente / beneficiario", "votos": null, "porcentaje": 80.0, "porcentaje_calculado": false, "fecha_dato": "2019-01", "vigente": null, "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 1}, "confianza": "alta", "notas": "Aporta (con Carlos Emilio Soler) inmueble valuado en USD 5.500.000. El 80% se refiere a su participación en los beneficios (piso 12 del Executive Center y acciones del Shopping), no a un capital accionario. Domicilio: Juan León Mallorquín N° 757 casi Jorge Memmel, Encarnación. Presidente de RADICE S.A."},
+    {"nombre": "CARLOS EMILIO SOLER", "tipo_persona": "fisica", "documento": "CI 5.992.466", "nacionalidad": null, "acciones": null, "clase_acciones": "Fideicomitente / beneficiario", "votos": null, "porcentaje": 20.0, "porcentaje_calculado": false, "fecha_dato": "2019-01", "vigente": null, "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 1}, "confianza": "alta", "notas": "20% de los beneficios de los fideicomitentes personas físicas. Domicilio: Edificio Radio Parque, piso 9, depto 9A, Ruta 1 y Ángel Samudio, Encarnación. Vicepresidente de RADICE S.A."}
+  ],
+  "autoridades": [
+    {"nombre": "FINANCIERA FINEXPAR S.A.E.C.A. (Unidad de Negocios Fiduciarios)", "documento": null, "cargo": "Fiduciario", "fecha_asuncion": "2019-01", "vigencia": "duración del contrato", "fecha_dato": "2019-01", "vigente": null, "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 1}, "confianza": "alta", "notas": "Habilitada por Nota SB.SG. N° 00862/2018 del 17/05/2018. En 2026 los correos del fiduciario son del dominio zbanco.com.py (posible continuadora/nueva denominación de Finexpar; no consta en los documentos)."},
+    {"nombre": "LUIS MARIA ZUBIZARRETA", "documento": null, "cargo": "Presidente del fiduciario (Financiera Finexpar S.A.E.C.A.), firmante", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2019-01", "vigente": false, "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "FRANCISCO BENZO", "documento": null, "cargo": "Director del fiduciario (Financiera Finexpar S.A.E.C.A.), firmante", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2019-01", "vigente": false, "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "LUIS MARIA EUGENIO ZUBIZARRETA ZAPUTOVICH", "documento": "CI 195355", "cargo": "Representante legal (declarado en SIARA); Presidente", "fecha_asuncion": "2026-01-22", "vigencia": "1 año", "fecha_dato": "2026-06-04", "vigente": true, "fuente": {"archivo": "Constancias RA 2026 Simple.pdf", "pagina": 1}, "confianza": "alta", "notas": "Domicilio: Avda. del Yacht N° 303, Lambaré. Empresario."},
+    {"nombre": "Pablo Marcelo Bedoya Saenz", "documento": "CI 8663273", "cargo": "Vicepresidente", "fecha_asuncion": "2026-01-22", "vigencia": "1 año", "fecha_dato": "2026-06-04", "vigente": true, "fuente": {"archivo": "Constancias RA 2026 Simple.pdf", "pagina": 1}, "confianza": "alta", "notas": "Domicilio: Calle Sevilla Nro. 1, Sta. Cruz"},
+    {"nombre": "Edgar Antonio Valda Careaga", "documento": "CI 8996346", "cargo": "Director", "fecha_asuncion": "2026-01-22", "vigencia": "1 año", "fecha_dato": "2026-06-04", "vigente": true, "fuente": {"archivo": "Constancias RA 2026 Simple.pdf", "pagina": 1}, "confianza": "alta", "notas": "Domicilio: Avda. Sta. Teresa Nro. 3045, Asunción"},
+    {"nombre": "Hugo Fernando Martínez Fernandez", "documento": "CI 1964836", "cargo": "Director", "fecha_asuncion": "2026-01-22", "vigencia": "1 año", "fecha_dato": "2026-06-04", "vigente": true, "fuente": {"archivo": "Constancias RA 2026 Simple.pdf", "pagina": 1}, "confianza": "alta", "notas": "Domicilio: Camacho Dure Nro. 550, Asunción"},
+    {"nombre": "Gonzalo Doria Zubizarreta", "documento": "CI 4311744", "cargo": "Director", "fecha_asuncion": "2026-01-22", "vigencia": "1 año", "fecha_dato": "2026-06-04", "vigente": true, "fuente": {"archivo": "Constancias RA 2026 Simple.pdf", "pagina": 1}, "confianza": "alta", "notas": "Domicilio: El Dorado Nro. 250, Asunción"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2019-01", "evento": "constitucion", "detalle": "Contrato de fideicomiso entre RADICE S.A. (fideicomitente desarrollador), Horacio José Biga y Carlos Emilio Soler (fideicomitentes) y Financiera Finexpar S.A.E.C.A. (fiduciaria). Duración 3 años prorrogable. Honorarios fiduciarios USD 24.000/año.", "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 1}},
+    {"fecha": "2026-01-22", "evento": "cambio_directorio", "detalle": "Asunción de autoridades declaradas en SIARA (Zubizarreta Zaputovich presidente, Bedoya Saenz vicepresidente, directores Valda Careaga, Martínez Fernández y Doria Zubizarreta) por 1 año; probablemente corresponden al directorio de la entidad fiduciaria.", "fuente": {"archivo": "Constancias RA 2026 Simple.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "FINANCIERA FINEXPAR S.A.E.C.A. / ZBANCO", "tipo": "otro", "detalle": "Fiduciaria del fideicomiso; en 2026 el correo del fideicomiso y del solicitante son @zbanco.com.py. FINEXPAR S.A.E.C.A. figura también como accionista de BIC S.A. (101 acciones serie B).", "fuente": {"archivo": "Constancias RA 2026 Simple.pdf", "pagina": 1}},
+    {"entidad_o_persona": "RADICE S.A. (RUC 80104014-7)", "tipo": "otro", "detalle": "Fideicomitente desarrollador y beneficiario. Su RUC base 80104014 coincide con el informado para Terravaz S.A. Emisora (80104014-0) pero con distinto dígito verificador: posible error de transcripción en una de las fuentes; requiere verificación (no se afirma vínculo).", "fuente": {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Grupo Vázquez / Ueno", "tipo": "otro", "detalle": "No se encontró en los documentos de esta carpeta ninguna mención a Ueno, Grupo Vázquez, GV Corp ni a personas de apellido Vázquez.", "fuente": null}
+  ],
+  "declarantes_siara": [
+    {"nombre": "CHRISTIAN ANDRES ZARATE VERA", "documento": "CI 4.982.065", "correo": "CZARATE@ZBANCO.COM.PY", "telefono": "0212187000", "fecha": "2026-06-04", "fuente": {"archivo": "Constancias RA 2026 Simple.pdf", "pagina": 1}},
+    {"nombre": "CHRISTIAN ANDRES ZARATE VERA", "documento": "CI 4.982.065", "correo": "CZARATE@ZBANCO.COM.PY", "telefono": "0212187000", "fecha": "2026-06-04", "fuente": {"archivo": "Constancia BF 2026 Simple.pdf", "pagina": 1}}
+  ],
+  "correos_dominios": ["zbanco.com.py", "radice.com.py"],
+  "documentos": [
+    {"archivo": "Constancias RA 2026 Simple.pdf", "tipo": "constancia_RA", "fecha": "2026-06-04", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia RA N° 416176 (certificado 7941285), periodo 2026. Sin socios declarados; representante legal Luis María Eugenio Zubizarreta Zaputovich; 5 autoridades con asunción 22-1-2026."},
+    {"archivo": "Constancia BF 2026 Simple.pdf", "tipo": "constancia_BF", "fecha": "2026-06-04", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia BF N° 418175 (certificado 7941651), periodo 2026. La tabla de beneficiarios finales está vacía."},
+    {"archivo": "contratodefideicomisoshoppingcostanera21012019091525.pdf", "tipo": "contrato_fideicomiso", "fecha": "2019-01", "paginas": 13, "legibilidad": "ocr_bueno", "resumen": "Contrato de fideicomiso de administración Shopping Costanera y Executive Center Encarnación entre RADICE S.A., H. J. Biga, C. E. Soler y Financiera Finexpar S.A.E.C.A., con certificación de firmas de la escribana M. de L. Escobar Chiesa."}
+  ],
+  "observaciones": [
+    "La constancia BF 2026 no declara ningún beneficiario final (tabla vacía), pese a que el contrato identifica fideicomitentes/beneficiarios (RADICE S.A., Horacio José Biga 80% y Carlos Emilio Soler 20%).",
+    "La constancia RA 2026 no declara socios/miembros; las autoridades listadas parecen ser el directorio de la fiduciaria (zbanco), no del fideicomiso.",
+    "Inconsistencia de nombre en el contrato: 'RACIDE S.A.' en el encabezado vs 'RADICE S.A.' en el resto del documento.",
+    "El RUC de RADICE S.A. (80104014-7) comparte la base numérica con el RUC informado para Terravaz S.A. Emisora (80104014-0); verificar.",
+    "Fecha exacta del contrato ambigua ('ocho dos días' de enero 2019).",
+    "Nombre de la carpeta MEF con error ortográfico: 'Shoping'.",
+    "No se observan vínculos documentales con Ueno Bank ni con el Grupo Vázquez en esta carpeta."
+  ]
+}

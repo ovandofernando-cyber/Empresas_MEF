@@ -1,0 +1,833 @@
+{
+  "id": "u_paraguay",
+  "razon_social": "U PARAGUAY S.A.",
+  "ruc": "80135001-8",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "U PARAGUAY S.A",
+  "denominaciones_anteriores": [
+    {
+      "nombre": "\"EL CABO\" SOCIEDAD ANÓNIMA",
+      "hasta": "2023-08-18",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": "1-2"
+      }
+    }
+  ],
+  "constitucion": {
+    "fecha": "2023-03-10",
+    "escritura": "N° 32",
+    "escribano": "María Verónica Peroni Manzoni (Reg. 656)",
+    "inscripcion_registro_publico": "DGRP Sección Personas Jurídicas y Comercio, Matrícula N° 40.903, Serie Comercial, N° 1, folio 1, 23/03/2023",
+    "fuente": {
+      "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+      "pagina": "1,18"
+    }
+  },
+  "domicilio": [
+    {
+      "direccion": "Avda. Santa Teresa (SIARA)",
+      "fecha_dato": "2026-05-22",
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Avda. Santa Teresa c/ Aviadores del Chaco, Torre 2, Piso 25, Asunción (domicilio de los comparecientes/representantes)",
+      "fecha_dato": "2025-09-24",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Benjamín Constant N° 624, Asunción (domicilio de las fundadoras)",
+      "fecha_dato": "2023-03-10",
+      "fuente": {
+        "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "objeto_social": "Comerciales, industriales generales, leasing, joint venture, oficinas de representación, construcción, inversiones, etc.",
+  "actividad_principal": "sociedad holding/inversora (tenedora de acciones de Ueno Seguros S.A.; inferido)",
+  "plazo_duracion": "99 años",
+  "capital": [
+    {
+      "tipo": "autorizado",
+      "monto": 1600000000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 1600000,
+      "fecha_dato": "2026-09-25",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "suscripto",
+      "monto": 1600000000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 1600000,
+      "fecha_dato": "2026-09-25",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "integrado",
+      "monto": 1600000000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 1600000,
+      "fecha_dato": "2026-09-25",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "suscripto",
+      "monto": 1567891000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 1567891,
+      "fecha_dato": "2026-05-29",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 29-05-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "suscripto",
+      "monto": 1465551000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 1465551,
+      "fecha_dato": "2025-12-30",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 30-02-2025.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "social",
+      "monto": 10000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 10,
+      "fecha_dato": "2023-03-10",
+      "fuente": {
+        "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+        "pagina": 15
+      }
+    },
+    {
+      "tipo": "integrado",
+      "monto": 2000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 2,
+      "fecha_dato": "2023-03-10",
+      "fuente": {
+        "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+        "pagina": 15
+      }
+    }
+  ],
+  "accionistas": [
+    {
+      "nombre": "U HOLDINGS S.à r.l.",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 1567888,
+      "clase_acciones": "OVS",
+      "votos": 1567888,
+      "porcentaje": 97.993,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2026-09-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Suma de 14 líneas del registro (integraciones 10/03/2023 a 29/05/2026). Sociedad extranjera (S.à r.l., forma luxemburguesa); sin RUC ni país en el registro. Representada por Federico Miguel Vázquez (asamblea 16/04/2026) y por Miguel Angel Almada Frutos (asambleas 21/07/2025)."
+    },
+    {
+      "nombre": "GRUPO VAZQUEZ S.A.E.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80086759-9 (de otras constancias; no figura en este registro)",
+      "nacionalidad": null,
+      "acciones": 32109,
+      "clase_acciones": "OVS",
+      "votos": 32109,
+      "porcentaje": 2.007,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2026-09-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Capitalización de 32.109 acciones el 25/09/2026."
+    },
+    {
+      "nombre": "GRUPO VAZQUEZ S.A.E. / MIGUEL VAZQUEZ (copropiedad)",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 1,
+      "clase_acciones": "OVS",
+      "votos": 1,
+      "porcentaje": 0.0001,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-09-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Acción N° 1 'en copropiedad' entre Grupo Vázquez S.A.E. y Miguel Vázquez (10/03/2023)."
+    },
+    {
+      "nombre": "FEDERICO MIGUEL VAZQUEZ VILLASANTI",
+      "tipo_persona": "fisica",
+      "documento": "CI 2941546 (de constancia BF Red UTS)",
+      "nacionalidad": null,
+      "acciones": 2,
+      "clase_acciones": "OVS",
+      "votos": 2,
+      "porcentaje": 0.0001,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-09-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Acciones N° 237.072 y 237.073 (28/06/2024)."
+    },
+    {
+      "nombre": "U HOLDINGS S.à r.l.",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 1567888,
+      "clase_acciones": "OVS",
+      "votos": 1567888,
+      "porcentaje": 99.9998,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-05-29",
+      "vigente": false,
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 29-05-2026.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Registro 29/05/2026 (capital suscripto 1.567.891)."
+    },
+    {
+      "nombre": "GRUPO VAZQUEZ S.A.E. / MIGUEL VAZQUEZ (copropiedad)",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 1,
+      "clase_acciones": "OVS",
+      "votos": 1,
+      "porcentaje": 0.0001,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-05-29",
+      "vigente": false,
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 29-05-2026.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": ""
+    },
+    {
+      "nombre": "FEDERICO MIGUEL VAZQUEZ VILLASANTI",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 2,
+      "clase_acciones": "OVS",
+      "votos": 2,
+      "porcentaje": 0.0001,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-05-29",
+      "vigente": false,
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 29-05-2026.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": ""
+    },
+    {
+      "nombre": "U HOLDINGS S.à r.l.",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 1465548,
+      "clase_acciones": "OVS",
+      "votos": 1465548,
+      "porcentaje": 99.9998,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-30",
+      "vigente": false,
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 30-02-2025.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Registro al 30/12/2025 (archivo rotulado 30-02-2025)."
+    },
+    {
+      "nombre": "GRUPO VAZQUEZ S.A.E. / MIGUEL VAZQUEZ (copropiedad)",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 1,
+      "clase_acciones": "OVS",
+      "votos": 1,
+      "porcentaje": 0.0001,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-30",
+      "vigente": false,
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 30-02-2025.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": ""
+    },
+    {
+      "nombre": "FEDERICO MIGUEL VAZQUEZ VILLASANTI",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 2,
+      "clase_acciones": "OVS",
+      "votos": 2,
+      "porcentaje": 0.0001,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-12-30",
+      "vigente": false,
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 30-02-2025.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": ""
+    },
+    {
+      "nombre": "GRUPO VAZQUEZ S.A.E.",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": null,
+      "clase_acciones": null,
+      "votos": null,
+      "porcentaje": 70.36,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2025-07-21",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": "2-4"
+      },
+      "confianza": "alta",
+      "notas": "Según actas de asamblea N° 5 y 6 del 21/07/2025 (Esc. 84): 70,36% de los votos, representado por Bernardo Algorta. CONTRADICE los registros de accionistas (donde Grupo Vázquez solo tiene 1 acción en copropiedad)."
+    },
+    {
+      "nombre": "U HOLDINGS S.à r.l.",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": null,
+      "clase_acciones": null,
+      "votos": null,
+      "porcentaje": 29.63,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2025-07-21",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": "2-4"
+      },
+      "confianza": "alta",
+      "notas": "Según actas N° 5 y 6 del 21/07/2025: 29,63% de los votos."
+    },
+    {
+      "nombre": "U HOLDINGS S.à r.l.",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 1465548,
+      "clase_acciones": "OVS",
+      "votos": 1465548,
+      "porcentaje": 100.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2026-04-16",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Único accionista presente en asamblea N° 7 (16/04/2026), 1.465.548 acciones."
+    },
+    {
+      "nombre": "KAMILA MANUELA GIMENEZ CARRIZOSA",
+      "tipo_persona": "fisica",
+      "documento": "CI 4.378.554",
+      "nacionalidad": null,
+      "acciones": 5,
+      "clase_acciones": "ordinarias nominativas",
+      "votos": 5,
+      "porcentaje": 50.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2023-03-10",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+        "pagina": 15
+      },
+      "confianza": "alta",
+      "notas": "Fundadora (abogada) de 'El Cabo' S.A.; integró 1 acción."
+    },
+    {
+      "nombre": "CAMILA ALESSANDRA BASILI YORKI",
+      "tipo_persona": "fisica",
+      "documento": "CI 3.797.138",
+      "nacionalidad": null,
+      "acciones": 5,
+      "clase_acciones": "ordinarias nominativas",
+      "votos": 5,
+      "porcentaje": 50.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2023-03-10",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+        "pagina": 15
+      },
+      "confianza": "alta",
+      "notas": "Fundadora (abogada) de 'El Cabo' S.A.; integró 1 acción."
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "JUAN MANUEL GUSTALE CARDONI",
+      "documento": "CI 2.479.821",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2026-04-16",
+      "vigencia": null,
+      "fecha_dato": "2026-04-16",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "FEDERICO MIGUEL VÁZQUEZ",
+      "documento": null,
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2026-04-16",
+      "vigencia": null,
+      "fecha_dato": "2026-04-16",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "ALEJANDRO GÓMEZ ABENTE",
+      "documento": "CI 1.432.121",
+      "cargo": "Director titular",
+      "fecha_asuncion": "2026-04-16",
+      "vigencia": null,
+      "fecha_dato": "2026-04-16",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "MIGUEL ALMADA",
+      "documento": null,
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "2026-04-16",
+      "vigencia": null,
+      "fecha_dato": "2026-04-16",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JOSÉ MARIA MONTERO",
+      "documento": null,
+      "cargo": "Síndico suplente",
+      "fecha_asuncion": "2026-04-16",
+      "vigencia": null,
+      "fecha_dato": "2026-04-16",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JUAN MANUEL GUSTALE CARDONI",
+      "documento": "CI 2.479.821",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2025-05-20",
+      "vigencia": "Acta AGO N° 04 del 20/05/2025",
+      "fecha_dato": "2025-09-24",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "ALEJANDRO GOMEZ ABENTE",
+      "documento": "CI 1.432.121",
+      "cargo": "Director titular",
+      "fecha_asuncion": "2025-05-20",
+      "vigencia": "Acta AGO N° 04 del 20/05/2025",
+      "fecha_dato": "2025-09-24",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "KAMILA MANUELA GIMENEZ CARRIZOSA",
+      "documento": "CI 4.378.554",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2023-03-10",
+      "vigencia": "primer directorio",
+      "fecha_dato": "2023-03-10",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+        "pagina": 15
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CAMILA ALESSANDRA BASILI YORKI",
+      "documento": "CI 3.797.138",
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2023-03-10",
+      "vigencia": "primer directorio",
+      "fecha_dato": "2023-03-10",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+        "pagina": 15
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "PAULINA FIGARI PENAYO",
+      "documento": "CI 4.493.620",
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "2023-03-10",
+      "vigencia": "primer directorio",
+      "fecha_dato": "2023-03-10",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+        "pagina": 15
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "ALBERTO LUIS FLEYTAS SQUEF",
+      "documento": "CI 4.344.167",
+      "cargo": "Síndico suplente",
+      "fecha_asuncion": "2023-03-10",
+      "vigencia": "primer directorio",
+      "fecha_dato": "2023-03-10",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+        "pagina": 15
+      },
+      "confianza": "alta"
+    }
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {
+      "fecha": "2023-03-10",
+      "evento": "constitucion",
+      "detalle": "Constitución de 'El Cabo' S.A. por dos abogadas (5 acciones c/u, capital Gs. 10 millones).",
+      "fuente": {
+        "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+        "pagina": "1,15"
+      }
+    },
+    {
+      "fecha": "2023-08-18",
+      "evento": "cambio_denominacion",
+      "detalle": "Escritura 72 (López de Aponte): pasa a denominarse U PARAGUAY S.A.; inscripta 28/09/2023.",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "fecha": "2023-03-10",
+      "evento": "transferencia_acciones",
+      "detalle": "Registro: integraciones de U Holdings S.à r.l. desde 10/03/2023 y acción N° 1 en copropiedad Grupo Vázquez/Miguel Vázquez.",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2024-06-28",
+      "evento": "otro",
+      "detalle": "Federico Miguel Vázquez Villasanti titular de 2 acciones.",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2025-07-21",
+      "evento": "aumento_capital",
+      "detalle": "Asambleas N° 5 (extraordinaria) y N° 6: capital Gs. 1,6 billones (1.600.000 acciones de Gs. 1.000.000) y emisión de 800.000 acciones; Grupo Vázquez 70,36% de votos y U Holdings 29,63%. Escritura 84 del 24/09/2025.",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": "1-6"
+      }
+    },
+    {
+      "fecha": "2025-06-30",
+      "evento": "transferencia_acciones",
+      "detalle": "Canje de acciones de Ueno Seguros: Grupo Vázquez canjea con U Paraguay (ver registro de Ueno Seguros).",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2026-04-16",
+      "evento": "cambio_directorio",
+      "detalle": "Asamblea Ordinaria N° 7: directorio Gustale/F. M. Vázquez/Gómez Abente; utilidades 2025 Gs. 335.877.033 a aportes para futuras capitalizaciones.",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "fecha": "2026-05-29",
+      "evento": "aumento_capital",
+      "detalle": "Capitalización U Holdings 102.340 acciones.",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 29-05-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2026-09-25",
+      "evento": "aumento_capital",
+      "detalle": "Capitalización Grupo Vázquez S.A.E. 32.109 acciones; capital íntegramente suscripto (1.600.000).",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "vinculos": [
+    {
+      "entidad_o_persona": "UENO SEGUROS S.A.",
+      "tipo": "participada",
+      "detalle": "U Paraguay es accionista mayoritario de Ueno Seguros (82,04% al 31/12/2025).",
+      "fuente": {
+        "archivo": "(carpeta UENO SEGUROS S.A) Registro de accionistas.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "entidad_o_persona": "U HOLDINGS S.à r.l.",
+      "tipo": "accionista_de",
+      "detalle": "Accionista principal (≈98% al 25/09/2026).",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "GRUPO VAZQUEZ S.A.E.",
+      "tipo": "accionista_de",
+      "detalle": "Accionista (2,01% registro 2026; 70,36% votos según actas 21/07/2025).",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "FEDERICO MIGUEL VAZQUEZ VILLASANTI",
+      "tipo": "director_comun",
+      "detalle": "Accionista (2 acciones), vicepresidente y representante de U Holdings.",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "entidad_o_persona": "MIGUEL VAZQUEZ",
+      "tipo": "accionista_de",
+      "detalle": "Copropietario de la acción N° 1 con Grupo Vázquez.",
+      "fuente": {
+        "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "BERNARDO ALGORTA",
+      "tipo": "otro",
+      "detalle": "Representante de Grupo Vázquez S.A.E. en asambleas de 2025 (también representó a Ueno Bank y Grupo Vázquez en Ueno Seguros).",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": "2-3"
+      }
+    },
+    {
+      "entidad_o_persona": "MIGUEL ANGEL ALMADA FRUTOS",
+      "tipo": "director_comun",
+      "detalle": "Representante de U Holdings en 2025 y síndico titular 2026; también síndico de Ueno Seguros.",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": 4
+      }
+    },
+    {
+      "entidad_o_persona": "ITTI (itti.digital)",
+      "tipo": "mismo_correo_dominio",
+      "detalle": "Correo SIARA LEGALES@ITTI.DIGITAL (dominio de ITTI S.A.E.C.A.).",
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "Torres del Paseo, Avda. Santa Teresa Torre 2 Piso 25",
+      "tipo": "mismo_domicilio",
+      "detalle": "Mismo domicilio que Grupo Vázquez/ITTI declarado en otras constancias.",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "declarantes_siara": [
+    {
+      "nombre": null,
+      "documento": null,
+      "correo": "LEGALES@ITTI.DIGITAL",
+      "telefono": null,
+      "fecha": "2026-05-22",
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "correos_dominios": [
+    "itti.digital"
+  ],
+  "documentos": [
+    {
+      "archivo": "CONSTANCIA RA.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2026-07-17",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Constancia RA N° 6948, actualización anual 22/05/2026."
+    },
+    {
+      "archivo": "REGISTRO ACCIONISTAS 25-09-2026.pdf",
+      "tipo": "registro_accionistas",
+      "fecha": "2026-09-25",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Registro folio 32 al 25/09/2026, capital 1.600.000 acciones."
+    },
+    {
+      "archivo": "REGISTRO ACCIONISTAS 29-05-2026.pdf",
+      "tipo": "registro_accionistas",
+      "fecha": "2026-05-29",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Registro folio 31 al 29/05/2026."
+    },
+    {
+      "archivo": "REGISTRO ACCIONISTAS 30-02-2025.pdf",
+      "tipo": "registro_accionistas",
+      "fecha": "2025-12-30",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Registro folio 15 al 30/12/2025 (nombre de archivo dice 30-02-2025)."
+    },
+    {
+      "archivo": "ACTA ORDINARIA.pdf",
+      "tipo": "acta_asamblea",
+      "fecha": "2026-04-16",
+      "paginas": 2,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Acta AGO N° 7; idéntico a 'ACTA ORDINARIA NRO 7.pdf' y 'ACTA OFDINARIA NRO 7.pdf' (mismo hash)."
+    },
+    {
+      "archivo": "ESCRITURA CONSTITUCIÒN.pdf",
+      "tipo": "escritura_constitucion",
+      "fecha": "2023-03-10",
+      "paginas": 26,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Constitución de 'El Cabo' S.A., dictamen DGPEJBF y registro."
+    },
+    {
+      "archivo": "ESCRITURA MODIFICACION NRO 84.pdf",
+      "tipo": "escritura_modificacion",
+      "fecha": "2025-09-24",
+      "paginas": 12,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Aumento de capital a Gs. 1,6 billones y emisión de 800.000 acciones; idéntico a 'ESCRITURA MODIFICACION NRO 84 (2).pdf'."
+    }
+  ],
+  "observaciones": [
+    "CONTRADICCIÓN RELEVANTE: las actas del 21/07/2025 asignan a Grupo Vázquez S.A.E. el 70,36% de los votos y a U Holdings 29,63%, mientras los registros de accionistas (al 30/12/2025 y posteriores) muestran a U Holdings con ≈100% desde 2023 y a Grupo Vázquez solo con 1 acción en copropiedad (hasta su capitalización de 32.109 acciones en 09/2026).",
+    "Los registros de 30/12/2025 y 29/05/2026 difieren en numeración y cantidades de títulos (p.ej. 12.793 vs 12.794 acciones en el primer título de U Holdings; filas del 19/12/2025 distintas), aunque el total de U Holdings coincide hasta dic-2025.",
+    "La Escritura 84 fecha la constitución el 10/03/2022, pero la escritura de constitución y el dictamen indican 10/03/2023.",
+    "U Holdings S.à r.l. es sociedad extranjera sin identificación (RUC/país) en los documentos; no hay constancia de Beneficiarios Finales. Federico Miguel Vázquez la representa.",
+    "Documentos duplicados en la carpeta (acta N° 7 tres veces; escritura 84 dos veces)."
+  ]
+}

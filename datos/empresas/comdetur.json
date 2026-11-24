@@ -1,0 +1,78 @@
+{
+  "id": "comdetur",
+  "razon_social": "COMPAÑIA DE DESARROLLO TURISTICO SOCIEDAD DE RESPONSABILIDAD LIMITADA (COMDETUR S.R.L.)",
+  "ruc": "80001894-0",
+  "tipo": "S.R.L.",
+  "carpeta_mef": "COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "1986-07-03",
+    "escritura": "N° 49 (folio 422 y sgtes., Protocolo Comercial)",
+    "escribano": "Luis María Zubizarreta (Registro N° 37, Asunción)",
+    "inscripcion_registro_publico": "Registro Público de Comercio, Sección Contratos, N° 67, Serie B, folio 305 y sgtes., 30-01-1989; Registro de Personas Jurídicas y Asociaciones N° 440, Serie F, folio 5026, 09-11-2009. Matrícula Jurídica/Comercial N° 26444 (Serie Comercial).",
+    "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 49.pdf", "pagina": 1},
+    "confianza": "alta"
+  },
+  "domicilio": [
+    {"direccion": "HERIB CAMPOS CERVERA 886", "fecha_dato": "2026-07-24", "fuente": {"archivo": "CONSTANCIA RA NRO 18603.pdf", "pagina": 1}},
+    {"direccion": "Domicilio legal: ciudad de Asunción", "fecha_dato": "2025-07-25", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 17}},
+    {"direccion": "Domicilio del gerente designado (2025): Avda. Santa Teresa entre Avda. Aviadores del Chaco y Herminio Maldonado, Paseo La Galería, Torre 3, Piso 11, Asunción", "fecha_dato": "2025-07-25", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 15}}
+  ],
+  "objeto_social": "Realización de todos los negocios relativos a turismo, viajes y actividades afines (publicidad y promoción turística), y en general toda clase de negocios y operaciones comerciales y financieras lícitas.",
+  "actividad_principal": "turismo",
+  "plazo_duracion": "Originalmente 25 años desde la inscripción; según contrato social vigente (2025) 'NOVENTA' [años] desde la inscripción (OCR).",
+  "capital": [
+    {"tipo": "social", "monto": 10000000, "moneda": "PYG", "valor_nominal_accion": 500000, "cantidad_acciones": 20, "fecha_dato": "1986-07-03", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 49.pdf", "pagina": 3}, "notas": "20 cuotas de Gs. 500.000; 10 cuotas cada socio, integradas en efectivo"},
+    {"tipo": "social", "monto": 445230000, "moneda": "PYG", "valor_nominal_accion": 445230, "cantidad_acciones": 1000, "fecha_dato": "2025-07-25", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 15}, "notas": "1.000 cuotas de Gs. 445.230, totalmente suscripto e integrado (aumentos de capital por escrituras N° 25/1991, N° 12/2011 y N° 11/2019)"}
+  ],
+  "accionistas": [
+    {"nombre": "ITTI SOCIEDAD ANONIMA EMISORA DE CAPITAL ABIERTO (ITTI S.A.E.C.A.)", "tipo_persona": "juridica", "documento": "RUC 80028355-4", "nacionalidad": "paraguaya", "acciones": 990, "clase_acciones": "cuotas sociales", "votos": 990, "porcentaje": 99.0, "porcentaje_calculado": true, "fecha_dato": "2025-07-25", "vigente": true, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 15}, "confianza": "alta", "notas": "Adquirió 975 cuotas de Hugo Raúl Fernández Rabade y 15 de Adriana Celeste López de Fernández. Monto Gs. 440.777.700."},
+    {"nombre": "DISCOVER PARAGUAY SOCIEDAD ANONIMA", "tipo_persona": "juridica", "documento": "RUC 80087415-3", "nacionalidad": "paraguaya", "acciones": 10, "clase_acciones": "cuotas sociales", "votos": 10, "porcentaje": 1.0, "porcentaje_calculado": true, "fecha_dato": "2025-07-25", "vigente": true, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 15}, "confianza": "alta", "notas": "Adquirió 10 cuotas de Adriana Celeste López de Fernández. Monto Gs. 4.452.300. Discover Paraguay es a su vez controlada por ITTI S.A.E.C.A."},
+    {"nombre": "HUGO RAUL FERNANDEZ RABADE", "tipo_persona": "fisica", "documento": "CI 753.588", "nacionalidad": "paraguaya", "acciones": 975, "clase_acciones": "cuotas sociales", "votos": 975, "porcentaje": 97.5, "porcentaje_calculado": true, "fecha_dato": "2025-07-25", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 13}, "confianza": "alta", "notas": "Socio hasta la cesión del 25-07-2025; precio a su favor USD 3.080.811"},
+    {"nombre": "ADRIANA CELESTE LOPEZ DE FERNANDEZ", "tipo_persona": "fisica", "documento": "CI 2.038.333", "nacionalidad": "paraguaya", "acciones": 25, "clase_acciones": "cuotas sociales", "votos": 25, "porcentaje": 2.5, "porcentaje_calculado": true, "fecha_dato": "2025-07-25", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 13}, "confianza": "alta", "notas": "Socia hasta la cesión del 25-07-2025 (recibió las cuotas de Anajulia Fernández Rabade por Esc. N° 11 del 02-10-2019); precio a su favor USD 79.126"},
+    {"nombre": "LUIS FERNANDO CANILLAS VALLEJO", "tipo_persona": "fisica", "documento": null, "nacionalidad": "paraguaya", "acciones": 10, "clase_acciones": "cuotas sociales", "votos": 10, "porcentaje": 50.0, "porcentaje_calculado": true, "fecha_dato": "1986-07-03", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 49.pdf", "pagina": 1}, "confianza": "alta", "notas": "Socio fundador y gerente"},
+    {"nombre": "CELSO OSCAR ALONSO BALBUENA", "tipo_persona": "fisica", "documento": null, "nacionalidad": "paraguaya", "acciones": 10, "clase_acciones": "cuotas sociales", "votos": 10, "porcentaje": 50.0, "porcentaje_calculado": true, "fecha_dato": "1986-07-03", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 49.pdf", "pagina": 1}, "confianza": "alta", "notas": "Socio fundador y gerente"}
+  ],
+  "autoridades": [
+    {"nombre": "GUILLERMO VAZQUEZ MUNIAGURRIA", "documento": "CI 3.799.529", "cargo": "Gerente", "fecha_asuncion": "2025-07-25", "vigencia": "Sin plazo (cláusula QUINTO del contrato social)", "fecha_dato": "2025-07-25", "vigente": true, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 15}, "confianza": "alta"},
+    {"nombre": "GUILLERMO VAZQUEZ MUNIAGURRIA", "documento": "CI 3.799.529", "cargo": "Representante legal", "fecha_asuncion": "2025-07-25", "vigencia": null, "fecha_dato": "2025-07-25", "vigente": true, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 15}, "confianza": "alta"},
+    {"nombre": "LUIS FERNANDO CANILLAS VALLEJO", "documento": null, "cargo": "Gerente", "fecha_asuncion": "1986-07-03", "vigencia": null, "fecha_dato": "1986-07-03", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 49.pdf", "pagina": 3}, "confianza": "alta"},
+    {"nombre": "CELSO OSCAR ALONSO BALBUENA", "documento": null, "cargo": "Gerente", "fecha_asuncion": "1986-07-03", "vigencia": null, "fecha_dato": "1986-07-03", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 49.pdf", "pagina": 3}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "1986-07-03", "evento": "constitucion", "detalle": "Constitución por Esc. N° 49 (Esc. Luis María Zubizarreta) por Luis Fernando Canillas Vallejo y Celso Oscar Alonso Balbuena, 10 cuotas c/u, capital Gs. 10.000.000.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 49.pdf", "pagina": 1}},
+    {"fecha": "1988-09-28", "evento": "transferencia_acciones", "detalle": "Esc. N° 56 (Esc. Magdalena C. de Valenzuela): los fundadores ceden la totalidad de sus cuotas a María Lys Zubizarreta de Doria y Carlos Montorfano Serafini (complementada por Esc. N° 8 del 21-02-1991).", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 2}},
+    {"fecha": "1991-04-18", "evento": "transferencia_acciones", "detalle": "Esc. N° 22: Carlos Montorfano Serafini cede la totalidad de sus cuotas a Luis María Zubizarreta.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 3}},
+    {"fecha": "1991-06-28", "evento": "aumento_capital", "detalle": "Esc. N° 25: aumento del capital social.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 3}},
+    {"fecha": "2009-10-19", "evento": "transferencia_acciones", "detalle": "Esc. N° 44 (Esc. María Ydalina Asunción Villalba de Añazco): María Lys Zubizarreta de Doria y Luis María Zubizarreta Zaputovich ceden la totalidad de las cuotas a Hugo Raúl Fernández Rabade y Anajulia Fernández Rabade.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 4}},
+    {"fecha": "2011-07-01", "evento": "aumento_capital", "detalle": "Esc. N° 12 (Esc. María Angela Mosqueira de Lizza): aumento del capital social (fecha leída por OCR '1% de julio').", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 4}},
+    {"fecha": "2019-10-02", "evento": "aumento_capital", "detalle": "Esc. N° 11: aumento de capital y cesión de todas las cuotas de Anajulia Fernández Rabade a Adriana Celeste López de Fernández; inscripta 02-12-2019 (Matrícula N° 26444).", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 5}},
+    {"fecha": "2025-07-03", "evento": "otro", "detalle": "Acta N° 244 del Directorio de ITTI S.A.E.C.A. aprueba la compra de cuotas de una S.R.L.; Acta N° 30 del Directorio de Discover Paraguay S.A. (04-07-2025) aprueba lo mismo.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 9}},
+    {"fecha": "2025-07-25", "evento": "transferencia_acciones", "detalle": "Esc. N° 201 (Esc. José María Livieres Guggiari, Reg. 940): Hugo Raúl Fernández Rabade y Adriana Celeste López de Fernández ceden sus 1.000 cuotas: 990 a ITTI S.A.E.C.A. y 10 a Discover Paraguay S.A. Precio total USD 3.159.937 (USD 1.061.937 por transferencia y USD 2.098.000 mediante dación en pago de bonos corporativos de ITTI S.A.E.C.A. emitidos el 28-07-2025, 5 años, 6,2%). Se modifican arts. 4°, 5° y 6°: gerente Guillermo Vázquez Muniagurria. Inscripta en DGRP (Matrícula N° 26444).", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 13}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "ITTI S.A.E.C.A. (RUC 80028355-4)", "tipo": "accionista_de", "detalle": "Socia mayoritaria (990 de 1.000 cuotas, 99%) desde el 25-07-2025. Representada por César Astigarraga (Presidente) y Luis Ernesto Angulo Rivera (Vicepresidente).", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 13}},
+    {"entidad_o_persona": "DISCOVER PARAGUAY S.A. (RUC 80087415-3)", "tipo": "accionista_de", "detalle": "Socia minoritaria (10 cuotas, 1%) desde el 25-07-2025. Representada por André Gayol Pires (Presidente) y Paola Analía Meza (Vicepresidente).", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 13}},
+    {"entidad_o_persona": "Guillermo Vázquez Muniagurria (CI 3.799.529)", "tipo": "director_comun", "detalle": "Gerente de COMDETUR; también Director titular de ITTI S.A.E.C.A. (Acta 38 de ITTI, 23-04-2025), director de Grupo Vázquez S.A.E. y presidente de Nubicom Paraguay S.A.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 8}},
+    {"entidad_o_persona": "Directorio de ITTI S.A.E.C.A. (Acta N° 38, 23-04-2025)", "tipo": "mencion_en_documento", "detalle": "Presidente César Astigarraga; Vicepresidente Luis Ernesto Angulo; Directores titulares Paola Analía Meza, Guillermo Vázquez, Diana Mongelós; Directores suplentes Luis Linares, Marta Marín de Daumas, Miguel Ángel Almada Frutos; Síndico titular José María Montero Zuccolillo; Síndico suplente Héctor Palazón Ruiz.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 8}},
+    {"entidad_o_persona": "Directorio de Discover Paraguay S.A. (Acta N° 10, 23-05-2025)", "tipo": "mencion_en_documento", "detalle": "Presidente André Gayol; Vicepresidente Paola Meza; Directora titular Raquel Vázquez; Directora suplente Diana Mongelós; Síndico titular Miguel Almada; Síndico suplente Rodolfo Barrios.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 11}},
+    {"entidad_o_persona": "Torres del Paseo / Paseo La Galería, Avda. Santa Teresa N° 1827, Torre 3, Piso 11", "tipo": "mismo_domicilio", "detalle": "Domicilio de los representantes de ITTI y Discover y del gerente; sede de Ueno Holding / ITTI.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "pagina": 2}},
+    {"entidad_o_persona": "itti.digital", "tipo": "mismo_correo_dominio", "detalle": "Correo SIARA de COMDETUR: LEGALES@ITTI.DIGITAL (mismo correo que Grupo Hendy S.A.).", "fuente": {"archivo": "CONSTANCIA RA NRO 18603.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [],
+  "correos_dominios": ["itti.digital"],
+  "documentos": [
+    {"archivo": "CONSTANCIA RA NRO 18603.pdf", "tipo": "constancia_RA", "fecha": "2026-09-01", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia de Registro Administrativo N° 18603 (actualización por cumplimiento anual, presentada 24-07-2026). Solo datos de cabecera (sin socios ni autoridades)."},
+    {"archivo": "ESCRITURA MODIFICACION NRO 49.pdf", "tipo": "escritura_constitucion", "fecha": "1986-07-03", "paginas": 8, "legibilidad": "ocr_bueno", "resumen": "Pese al nombre del archivo, es la escritura de constitución de COMDETUR S.R.L. (2 socios, capital Gs. 10 millones)."},
+    {"archivo": "ESCRITURA MODIFICACION NRO 201.pdf", "tipo": "escritura_modificacion", "fecha": "2025-07-25", "paginas": 24, "legibilidad": "ocr_bueno", "resumen": "Cesión de la totalidad de las cuotas a ITTI S.A.E.C.A. (99%) y Discover Paraguay S.A. (1%) por USD 3.159.937 y designación de Guillermo Vázquez Muniagurria como gerente. Contiene historia societaria y actas de ITTI y Discover."}
+  ],
+  "observaciones": [
+    "La constancia RA del nuevo SIARA (2026) no detalla socios, autoridades ni beneficiarios finales; no hay constancia BF en la carpeta.",
+    "El archivo 'ESCRITURA MODIFICACION NRO 49' es en realidad la escritura de constitución de 1986.",
+    "En la escritura 201 el socio fundador figura como 'Oscar Celso Alonso Balbuena' mientras que en la escritura 49 es 'Celso Oscar Alonso Balbuena'.",
+    "Parte del precio (USD 2.098.000) se paga con bonos corporativos de ITTI S.A.E.C.A., lo que vincula financieramente la operación al grupo.",
+    "Domicilio SIARA (Herib Campos Cervera 886) difiere del domicilio de los socios (Torres del Paseo); coincide con el domicilio SIARA de Discover Paraguay S.A. ('HERIB CAMPOS CERVERA').",
+    "Escritura firmada digitalmente por Guillermo Vázquez Muniagurria el 28-05-2026."
+  ]
+}

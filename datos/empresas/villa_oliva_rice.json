@@ -1,0 +1,455 @@
+{
+  "id": "villa_oliva_rice",
+  "razon_social": "VILLA OLIVA RICE S.A.",
+  "ruc": "80024544-0",
+  "tipo": "Sociedad Anónima (SIARA: Sociedades Anónimas Emisoras)",
+  "carpeta_mef": "Villa Oliva Rice SA",
+  "denominaciones_anteriores": [
+    {
+      "nombre": "GANADERA MARCA PLANCHA SOCIEDAD ANÓNIMA",
+      "hasta": null,
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": 2
+      }
+    }
+  ],
+  "constitucion": {
+    "fecha": "2001-01-22",
+    "escritura": "N° 3",
+    "escribano": "Alma María Ayala de Benítez",
+    "inscripcion_registro_publico": "Personas Jurídicas N° 249, Serie A, folio 1976, 09/05/2001; Registro Público de Comercio N° 122, Serie F, folio 1139, 09/05/2001",
+    "fuente": {
+      "archivo": "Escritura 3272 16-12-2025.pdf",
+      "pagina": 2
+    }
+  },
+  "domicilio": [
+    {
+      "direccion": "Molas López (SIARA)",
+      "fecha_dato": "2026-06-05",
+      "fuente": {
+        "archivo": "Constancia RA SIARA.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Edificio Gloria, Piso 5, Avda. Dr. Molas López entre Juan XXIII y Avda. Aviadores del Chaco, Asunción (domicilio de los comparecientes)",
+      "fecha_dato": "2025-12-16",
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "objeto_social": null,
+  "actividad_principal": "agro / industria arrocera (inferido del nombre y de la fusión con Rice Paraguay S.A.; objeto no leído)",
+  "plazo_duracion": null,
+  "capital": [
+    {
+      "tipo": "suscripto",
+      "monto": 359595200000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 189760000,
+      "cantidad_acciones": 1895,
+      "fecha_dato": "2025-11-25",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "social",
+      "monto": null,
+      "moneda": "PYG",
+      "valor_nominal_accion": 189760000,
+      "cantidad_acciones": 2386,
+      "fecha_dato": "2026-05-21",
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 4
+      }
+    }
+  ],
+  "accionistas": [
+    {
+      "nombre": "CAMILATAM S.A.",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": "uruguaya (domicilio)",
+      "acciones": 1894,
+      "clase_acciones": "ordinarias",
+      "votos": 1894,
+      "porcentaje": 99.9472,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-11-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Domicilio: Plaza Independencia N° 811 PB, Montevideo, Uruguay. Acciones suscriptas 24/11/2020 y 27/05/2022; composición post fusión por absorción de Rice Paraguay S.A. (Acta de Directorio N° 604 del 25/11/2025). Asistió a asambleas 30/04 y 21/05/2026 con 1.894 acciones."
+    },
+    {
+      "nombre": "SAMAN S.A. (Sociedad Anónima Molinos Arroceros Nacionales)",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": "uruguaya (domicilio)",
+      "acciones": 1,
+      "clase_acciones": "ordinarias",
+      "votos": 1,
+      "porcentaje": 0.0528,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-11-25",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Domicilio: Rambla Baltasar Brum N° 2772, Montevideo, Uruguay. Recibió 1 acción de Camilatam el 25/11/2025. Renunció a suscribir la emisión de 489 acciones de 2026."
+    },
+    {
+      "nombre": "CAMILATAM S.A. (en Rice Paraguay S.A., absorbida)",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 350592,
+      "clase_acciones": null,
+      "votos": 330592,
+      "porcentaje": null,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2025-10-15",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": 7
+      },
+      "confianza": "alta",
+      "notas": "Accionista de la sociedad absorbida Rice Paraguay S.A. (RUC 80071879-8): 350.592 acciones de Gs. 250.000 (votos consignados 330.592). Saman tenía 2 acciones."
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "MARCOS ALEX SILVA DOS SANTOS",
+      "documento": "CI 7.980.682 (brasileño)",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2026-05-21",
+      "vigencia": null,
+      "fecha_dato": "2026-05-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 3
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LEOMAR GOLDONI",
+      "documento": null,
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2026-05-21",
+      "vigencia": null,
+      "fecha_dato": "2026-05-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 3
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "EDUARDO STINGER",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2026-05-21",
+      "vigencia": "también representante legal ante autoridad tributaria",
+      "fecha_dato": "2026-05-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": "3-4"
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LUCIANO MAGGI QUARTIERO",
+      "documento": null,
+      "cargo": "Director titular / Presidente suplente",
+      "fecha_asuncion": "2026-05-21",
+      "vigencia": null,
+      "fecha_dato": "2026-05-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 3
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CARLOS ACUÑA",
+      "documento": null,
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "2026-05-21",
+      "vigencia": null,
+      "fecha_dato": "2026-05-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 3
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LÍDER NÚÑEZ",
+      "documento": null,
+      "cargo": "Síndico suplente",
+      "fecha_asuncion": "2026-05-21",
+      "vigencia": null,
+      "fecha_dato": "2026-05-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 3
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LEOMAR GOLDONI",
+      "documento": null,
+      "cargo": "Representante legal (ante autoridad tributaria)",
+      "fecha_asuncion": "2026-05-21",
+      "vigencia": null,
+      "fecha_dato": "2026-05-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 4
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "MARCOS ALEX SILVA DOS SANTOS",
+      "documento": "CI 7.980.682",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2025-04-24",
+      "vigencia": null,
+      "fecha_dato": "2025-12-16",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LEOMAR GOLDONI",
+      "documento": null,
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2025-04-24",
+      "vigencia": null,
+      "fecha_dato": "2025-12-16",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "EDUARDO STINGER",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2025-04-24",
+      "vigencia": null,
+      "fecha_dato": "2025-12-16",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "VERONICA FRANCO",
+      "documento": null,
+      "cargo": "Apoderado",
+      "fecha_asuncion": "2026-04-30",
+      "vigencia": "apoderada del accionista Camilatam S.A.",
+      "fecha_dato": "2026-05-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "EDUARDO AMMATUNA",
+      "documento": null,
+      "cargo": "Apoderado",
+      "fecha_asuncion": "2026-04-30",
+      "vigencia": "apoderado del accionista Saman S.A.",
+      "fecha_dato": "2026-05-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    }
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {
+      "fecha": "2001-01-22",
+      "evento": "constitucion",
+      "detalle": "Constituida como Ganadera Marca Plancha S.A. (Esc. 3).",
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "fecha": "2011-10-15",
+      "evento": "modificacion_estatutos",
+      "detalle": "Esc. 87; luego Esc. 96 (24/11/2011), 156 (02/10/2014, aumento de capital), 270 (30/12/2014), 42 (14/10/2015), 60 (08/02/2019), 37 (24/08/2022, aumento), 72 (02/12/2022, emisión), 47 (05/06/2023).",
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": "2-4"
+      }
+    },
+    {
+      "fecha": "2025-10-15",
+      "evento": "fusion",
+      "detalle": "Asambleas extraordinarias aprueban compromiso previo de fusión por absorción de Rice Paraguay S.A. (RUC 80071879-8, ex Supernova S.A.) por Villa Oliva Rice S.A.",
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": "6-7"
+      }
+    },
+    {
+      "fecha": "2025-11-25",
+      "evento": "transferencia_acciones",
+      "detalle": "Acta de Directorio N° 604: composición post fusión; Camilatam transfiere 1 acción a Saman S.A.",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2025-12-16",
+      "evento": "fusion",
+      "detalle": "Escritura 3272 (Peroni Giralt): acuerdo definitivo de fusión, disolución de Rice Paraguay S.A. y modificación de estatutos de Villa Oliva Rice.",
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2026-05-21",
+      "evento": "aumento_capital",
+      "detalle": "Asamblea Ordinaria N° 50 (cuarto intermedio): elección de directorio y emisión de 489 acciones de Gs. 189.760.000 (Gs. 92.792.640.000); capital queda en 2.386 acciones.",
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": "3-5"
+      }
+    }
+  ],
+  "vinculos": [
+    {
+      "entidad_o_persona": "RICE PARAGUAY S.A. (RUC 80071879-8)",
+      "tipo": "otro",
+      "detalle": "Sociedad absorbida por fusión (2025).",
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "CAMILATAM S.A.",
+      "tipo": "accionista_de",
+      "detalle": "Accionista controlante (99,95%).",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "SAMAN S.A. / Molinos Arroceros Nacionales",
+      "tipo": "accionista_de",
+      "detalle": "Accionista minoritario (1 acción).",
+      "fuente": {
+        "archivo": "Registro de accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "CARLOS ACUÑA",
+      "tipo": "director_comun",
+      "detalle": "Síndico titular de Villa Oliva Rice y síndico suplente de Rice Paraguay.",
+      "fuente": {
+        "archivo": "Escritura 3272 16-12-2025.pdf",
+        "pagina": 4
+      }
+    }
+  ],
+  "declarantes_siara": [
+    {
+      "nombre": null,
+      "documento": null,
+      "correo": "CASET@AMARAL.COM.PY",
+      "telefono": null,
+      "fecha": "2026-06-05",
+      "fuente": {
+        "archivo": "Constancia RA SIARA.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "correos_dominios": [
+    "amaral.com.py"
+  ],
+  "documentos": [
+    {
+      "archivo": "Constancia RA SIARA.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2026-07-16",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Constancia RA N° 6603, actualización anual 05/06/2026."
+    },
+    {
+      "archivo": "Registro de accionistas.pdf",
+      "tipo": "registro_accionistas",
+      "fecha": "2025-11-25",
+      "paginas": 2,
+      "legibilidad": "texto",
+      "resumen": "Registro de acciones al 25/11/2025: Camilatam 1.894, Saman 1."
+    },
+    {
+      "archivo": "Acta de Asamblea.pdf",
+      "tipo": "acta_asamblea",
+      "fecha": "2026-05-21",
+      "paginas": 5,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Acta Asamblea Ordinaria N° 50 (30/04/2026 y reanudación 21/05/2026): pérdidas 2025 Gs. 22.612.925.067, directorio, emisión de 489 acciones."
+    },
+    {
+      "archivo": "Escritura 3272 16-12-2025.pdf",
+      "tipo": "escritura_modificacion",
+      "fecha": "2025-12-16",
+      "paginas": 70,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Fusión por absorción de Rice Paraguay S.A., disolución de ésta y modificación de estatutos. Solo se leyeron las primeras 7 páginas."
+    }
+  ],
+  "observaciones": [
+    "Sin constancia de Beneficiarios Finales; no se identifican personas físicas controlantes (accionistas son sociedades uruguayas).",
+    "Inconsistencia aritmética: 1.895 acciones + 489 emitidas = 2.384, pero el acta dice que el capital queda representado por 2.386 acciones.",
+    "En Rice Paraguay, Camilatam figura con 350.592 acciones pero 330.592 votos (posible error de tipeo).",
+    "No se observaron vínculos directos con Ueno / Grupo Vázquez en los documentos leídos. El escribano Peroni Giralt (Reg. 528) también intervino en Escritura 222/2014 de Alfa/Ueno Seguros.",
+    "Escritura de 70 páginas leída parcialmente (pp. 1-7)."
+  ]
+}

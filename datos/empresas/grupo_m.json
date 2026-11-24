@@ -1,0 +1,91 @@
+{
+  "id": "grupo_m",
+  "razon_social": "GRUPO M SOCIEDAD ANONIMA",
+  "ruc": "80084086-0",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "GRUPO M S.A",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2014-04-25",
+    "escritura": "N° 39",
+    "escribano": "Arsenio Ocampos Velázquez",
+    "inscripcion_registro_publico": "Inscripta por mandato judicial: Sección Personas Jurídicas y Asociaciones Serie E N° 522, folio 2705 y sgtes., 19-05-2014; Registro Público de Comercio N° 322 Serie B folio 3117, 19-05-2014. Modificación de estatutos por Esc. N° 10 del 14-01-2021: Matrícula Jurídica N° 33.097 y Matrícula Comercial N° 33.004 (21-01-2021).",
+    "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 1}
+  },
+  "domicilio": [
+    {"direccion": "AVENIDA SANTA TERESA 1827 (Asunción)", "fecha_dato": "2026-10-05", "fuente": {"archivo": "CONSTANCIA RA 30304.pdf", "pagina": 1}},
+    {"direccion": "Sede social: Avda. Santa Teresa 1827 entre Aviadores del Chaco y Herminio Maldonado, Asunción", "fecha_dato": "2026-04-13", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}},
+    {"direccion": "Sede social: Avda. Santa Teresa y Aviadores del Chaco, Torre del Paseo, Torre 3, Piso 11, Asunción", "fecha_dato": "2025-11-28", "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 1}},
+    {"direccion": "Domicilio del accionista en el registro: Santa Teresa 1827", "fecha_dato": "2025-09-30", "fuente": {"archivo": "REGISTRO ACCIONISTA.pdf", "pagina": 3}}
+  ],
+  "objeto_social": null,
+  "actividad_principal": null,
+  "plazo_duracion": null,
+  "capital": [
+    {"tipo": "social", "monto": 100000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 100, "fecha_dato": "2020-10-09", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 3}, "notas": "Capital original según Art. 5 vigente antes de la modificación: 100 acciones ordinarias al portador"},
+    {"tipo": "social", "monto": 5000000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 5000, "fecha_dato": "2021-04-16", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 4}, "notas": "Aumento aprobado en AGE 01/2020 (09-10-2020), protocolizado por Esc. 187; acciones nominativas"},
+    {"tipo": "suscripto", "monto": 1640000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 1640, "fecha_dato": "2025-11-28", "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 1}, "notas": "Total del cómputo de asamblea y del registro de accionistas"}
+  ],
+  "accionistas": [
+    {"nombre": "CESAR JAVIER MENGUAL MAZACOTTE", "tipo_persona": "fisica", "documento": "CI 3471686", "nacionalidad": "paraguaya", "acciones": null, "clase_acciones": null, "votos": null, "porcentaje": 50.0, "porcentaje_calculado": false, "fecha_dato": "2020-10-09", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 2}, "confianza": "alta", "notas": "50% del capital integrado en AGE 01/2020; Presidente"},
+    {"nombre": "AUGUSTO CESAR MENGUAL HERKEN", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": null, "clase_acciones": null, "votos": null, "porcentaje": 50.0, "porcentaje_calculado": false, "fecha_dato": "2020-10-09", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 2}, "confianza": "alta", "notas": "50% del capital integrado en AGE 01/2020; Vicepresidente"},
+    {"nombre": "ITTI S.A.E.C.A.", "tipo_persona": "juridica", "documento": null, "nacionalidad": "paraguaya", "acciones": 1624, "clase_acciones": null, "votos": 1624, "porcentaje": 99.02, "porcentaje_calculado": true, "fecha_dato": "2025-09-30", "vigente": false, "fuente": {"archivo": "REGISTRO ACCIONISTA.pdf", "pagina": 1}, "confianza": "alta", "notas": "Acciones N° 1-1624, valor Gs. 1.624.000.000, fecha de suscripción anotada 29-05-2014, domicilio Santa Teresa 1827. El 30/09/2025 vende y transfiere 1476 acciones a Oscar Urdapilleta y 148 a Diego Gómez."},
+    {"nombre": "GRUPO VAZQUEZ S.A.E.", "tipo_persona": "juridica", "documento": null, "nacionalidad": "paraguaya", "acciones": 16, "clase_acciones": null, "votos": 16, "porcentaje": 0.98, "porcentaje_calculado": true, "fecha_dato": "2025-09-30", "vigente": false, "fuente": {"archivo": "REGISTRO ACCIONISTA.pdf", "pagina": 1}, "confianza": "alta", "notas": "Acciones N° 1625-1640, fecha 29-05-2014. El 30/09/2025 vende y transfiere 16 acciones a Diego Gómez."},
+    {"nombre": "OSCAR LUIS URDAPILLETA GARCIA", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 1476, "clase_acciones": null, "votos": 1476, "porcentaje": 90.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-13", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}, "confianza": "alta", "notas": "Acciones 1-1476 (registro folio 3). Nombre completo según firma digital: OSCAR LUIS URDAPILLETA GARCIA. Domicilio Santa Teresa 1827."},
+    {"nombre": "DIEGO SEBASTIAN GOMEZ ARCE", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 164, "clase_acciones": null, "votos": 164, "porcentaje": 10.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-13", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}, "confianza": "alta", "notas": "148 acciones de ITTI + 16 de Grupo Vázquez; registro anota acciones '1475-1640' (debería ser 1477-1640). Nombre completo según firma digital."}
+  ],
+  "autoridades": [
+    {"nombre": "CESAR JAVIER MENGUAL MAZACOTTE", "documento": "CI 3471686", "cargo": "Presidente", "fecha_asuncion": "2020-05-18", "vigencia": "designado por AGO N° 108 (sic) del 18-05-2020", "fecha_dato": "2021-04-16", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "AUGUSTO CESAR MENGUAL HERKEN", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2020-10-09", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 4}, "confianza": "alta"},
+    {"nombre": "DIEGO SEBASTIAN GOMEZ ARCE", "documento": null, "cargo": "Presidente", "fecha_asuncion": "2025-11-28", "vigencia": null, "fecha_dato": "2025-11-28", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "OSCAR LUIS URDAPILLETA GARCIA", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2025-11-28", "vigencia": null, "fecha_dato": "2025-11-28", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "SERGIO AMADO PIZURNO SZARAN", "documento": "CI 740326 (según firma digital en documentos de MOWI S.A.)", "cargo": "Director titular", "fecha_asuncion": "2025-11-28", "vigencia": null, "fecha_dato": "2025-11-28", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 1}, "confianza": "media", "notas": "En el acta figura como 'Sergio Pizurno'; presidió la asamblea y firma como 'Presidente del Directorio'"},
+    {"nombre": "JOSE MARIA MONTERO", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2025-11-28", "vigencia": null, "fecha_dato": "2025-11-28", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 2}, "confianza": "media"},
+    {"nombre": "HECTOR PALAZON", "documento": null, "cargo": "Síndico suplente", "fecha_asuncion": "2025-11-28", "vigencia": null, "fecha_dato": "2025-11-28", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 2}, "confianza": "media"},
+    {"nombre": "OSCAR LUIS URDAPILLETA GARCIA", "documento": null, "cargo": "Presidente", "fecha_asuncion": "2026-04-13", "vigencia": "hasta próxima AGO", "fecha_dato": "2026-09-01", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "DIEGO SEBASTIAN GOMEZ ARCE", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2026-04-13", "vigencia": "renunció; renuncia aceptada por Acta de Directorio N° 33 del 01-09-2026", "fecha_dato": "2026-09-01", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 3}, "confianza": "alta"},
+    {"nombre": "RAQUEL MONZON VILLASANTI", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2026-04-13", "vigencia": "retribución Gs. 660.000 mensuales", "fecha_dato": "2026-09-01", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2014-04-25", "evento": "constitucion", "detalle": "Constitución por Escritura N° 39 (Esc. Arsenio Ocampos Velázquez); capital Gs. 100.000.000 (100 acciones al portador).", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 1}},
+    {"fecha": "2015-10-05", "evento": "aumento_capital", "detalle": "AGE aprobó aumento a Gs. 5.000.000.000 pero no fue protocolizada.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 3}},
+    {"fecha": "2020-10-09", "evento": "aumento_capital", "detalle": "AGE 01/2020 (vía Zoom) con accionistas César Javier Mengual Mazacotte (50%) y Augusto César Mengual Herken (50%): aprueba nuevamente capital Gs. 5.000.000.000 (5.000 acciones nominativas de Gs. 1.000.000). Secretario: Oscar Ramón Espínola Servián.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 2}},
+    {"fecha": "2021-04-16", "evento": "modificacion_estatutos", "detalle": "Escritura N° 187 (Esc. Mirtha Raquel Sosa Romero, Reg. 454): protocoliza AGE 01/2020 y modifica Art. 5 (capital). Dictamen DRFS N° 76254 (19-04-2021). Inscripción en DGRP (abril 2021).", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "pagina": 4}},
+    {"fecha": "2025-09-30", "evento": "transferencia_acciones", "detalle": "ITTI S.A.E.C.A. (1624 acc.) vende 1476 acciones a Oscar Urdapilleta y 148 a Diego Gómez; Grupo Vázquez S.A.E. (16 acc.) vende 16 a Diego Gómez. Resultado: Urdapilleta 1476 (90%), Gómez 164 (10%).", "fuente": {"archivo": "REGISTRO ACCIONISTA.pdf", "pagina": 2}},
+    {"fecha": "2025-11-28", "evento": "cambio_directorio", "detalle": "AGO N° 20: Pres. Diego Gómez; VP Oscar Urdapilleta; Director Sergio Pizurno; Síndico tit. José María Montero; Síndico supl. Héctor Palazón. Presidente de asamblea: Sergio Pizurno.", "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 1}},
+    {"fecha": "2026-04-13", "evento": "cambio_directorio", "detalle": "AGO N° 21: aprueba EEFF 2025 (resultado del ejercicio Gs. 7.753.550.766; importe neto Gs. 8.705.677.918 destinado a 'Aporte a futura capitalización'); Directorio: Pres. Oscar Urdapilleta; Dir. tit. Diego Gómez; Síndico tit. Raquel Monzón Villasanti.", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}},
+    {"fecha": "2026-09-01", "evento": "cambio_directorio", "detalle": "Acta de Directorio N° 33: se acepta renuncia del Director Titular Diego Gómez.", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 3}},
+    {"fecha": "2026-10-05", "evento": "cambio_directorio", "detalle": "Comunicación SIARA 'Actualización por elección de autoridades' (Constancia RA N° 30304).", "fuente": {"archivo": "CONSTANCIA RA 30304.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "ITTI S.A.E.C.A.", "tipo": "accionista_de", "detalle": "Fue titular del 99,02% (1624/1640 acc.) hasta el 30/09/2025.", "fuente": {"archivo": "REGISTRO ACCIONISTA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "GRUPO VAZQUEZ S.A.E.", "tipo": "accionista_de", "detalle": "Fue titular del 0,98% (16 acc.) hasta el 30/09/2025.", "fuente": {"archivo": "REGISTRO ACCIONISTA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Avda. Santa Teresa 1827 (sede de ITTI/Grupo Vázquez)", "tipo": "mismo_domicilio", "detalle": "Domicilio social y de los accionistas actuales coincide con el de ITTI/Grupo Vázquez (Santa Teresa 1827, Torre 2/3, Paseo La Galería).", "fuente": {"archivo": "REGISTRO ACCIONISTA.pdf", "pagina": 3}},
+    {"entidad_o_persona": "ITTI (itti.digital)", "tipo": "mismo_correo_dominio", "detalle": "Correo de la PEJ en SIARA: LEGALES@ITTI.DIGITAL, aun después de la venta a personas físicas.", "fuente": {"archivo": "CONSTANCIA RA 30304.pdf", "pagina": 1}},
+    {"entidad_o_persona": "SERGIO AMADO PIZURNO SZARAN", "tipo": "director_comun", "detalle": "Director en Grupo M (2025) y accionista/firmante en MOWI S.A.", "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [
+    {"nombre": null, "documento": null, "correo": "LEGALES@ITTI.DIGITAL", "telefono": null, "fecha": "2026-09-03", "fuente": {"archivo": "CONSTANCIA RA 25702.pdf", "pagina": 1}, "notas": "Constancia RA N° 25702, cumplimiento anual presentado 03/09/2026, expedida 02/10/2026 (analista Melisa Alexandra Centurión Aguilar)"},
+    {"nombre": null, "documento": null, "correo": "LEGALES@ITTI.DIGITAL", "telefono": null, "fecha": "2026-10-05", "fuente": {"archivo": "CONSTANCIA RA 30304.pdf", "pagina": 1}, "notas": "Constancia RA N° 30304, actualización por elección de autoridades presentada 05/10/2026, expedida 28/10/2026 (analista Daniela María Mieres Coronel)"}
+  ],
+  "correos_dominios": ["itti.digital"],
+  "documentos": [
+    {"archivo": "CONSTANCIA RA 25702.pdf", "tipo": "constancia_RA", "fecha": "2026-10-02", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia SIARA de cumplimiento anual; sin nómina."},
+    {"archivo": "CONSTANCIA RA 30304.pdf", "tipo": "constancia_RA", "fecha": "2026-10-28", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia SIARA por elección de autoridades; sin nómina."},
+    {"archivo": "REGISTRO ACCIONISTA.pdf", "tipo": "registro_accionistas", "fecha": "2025-09-30", "paginas": 3, "legibilidad": "manuscrito", "resumen": "ITTI 1624 y GV 16 acciones (2014) transferidas el 30/09/2025 a Oscar Urdapilleta (1476) y Diego Gómez (164)."},
+    {"archivo": "ACTA ORDINARIA NRO 20.pdf", "tipo": "acta_asamblea", "fecha": "2025-11-28", "paginas": 2, "legibilidad": "manuscrito", "resumen": "AGO N° 20: composición 90/10 y elección de directorio y síndicos."},
+    {"archivo": "ACTA ORDINARIA NRO 21.pdf", "tipo": "acta_asamblea", "fecha": "2026-04-13", "paginas": 3, "legibilidad": "manuscrito", "resumen": "AGO N° 21: EEFF 2025, utilidades a futura capitalización, nuevo directorio; incluye Acta de Directorio N° 33 (renuncia de Diego Gómez)."},
+    {"archivo": "ESCRITURA MODIFICACION NRO 187.pdf", "tipo": "escritura_modificacion", "fecha": "2021-04-16", "paginas": 12, "legibilidad": "ocr_bueno", "resumen": "Protocolización AGE 01/2020 de aumento de capital a Gs. 5.000 M; datos de constitución; accionistas Mengual 50/50."}
+  ],
+  "observaciones": [
+    "No hay constancia de BF ni nómina SIARA con accionistas; los BF declarados se desconocen.",
+    "Inconsistencia: en 2020 los accionistas eran César Javier Mengual Mazacotte y Augusto César Mengual Herken (50/50), pero el registro de accionistas presentado muestra a ITTI S.A.E.C.A. y Grupo Vázquez S.A.E. con suscripción fechada 29-05-2014; no hay documento de la transferencia de los Mengual a ITTI/GV.",
+    "Capital social autorizado Gs. 5.000 M pero solo figuran 1.640 acciones suscriptas (Gs. 1.640 M); no hay acta de emisión.",
+    "Error en registro: acciones de Diego Gómez numeradas 1475-1640 (solapan con 1-1476 de Urdapilleta).",
+    "Acta N° 20: el texto designa Presidente a Diego Gómez, pero Sergio Pizurno firma como 'Presidente del Directorio'.",
+    "Tras la venta a personas físicas (sep-2025) la sociedad sigue domiciliada en Santa Teresa 1827 y usa el correo legales@itti.digital: indicio de que sigue gestionada por el grupo ITTI/Vázquez (posibles testaferros o ejecutivos del grupo).",
+    "Grandes utilidades 2025 (Gs. 7.753 M) no distribuidas sino destinadas a aporte a futura capitalización.",
+    "No se dispone de CI de Urdapilleta ni de Gómez en los documentos."
+  ]
+}

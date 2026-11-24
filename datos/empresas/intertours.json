@@ -1,0 +1,670 @@
+{
+ "id": "intertours",
+ "razon_social": "Intertours S.A.",
+ "ruc": "80014477-5",
+ "tipo": "Sociedad Anónima",
+ "carpeta_mef": "INTERTOURS SA",
+ "denominaciones_anteriores": [
+  {
+   "nombre": "INTERTOURS S.R.L.",
+   "hasta": "1995-11-06",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 5
+   }
+  }
+ ],
+ "constitucion": {
+  "fecha": "1986-04-03",
+  "escritura": "N° 01 (como Intertours S.R.L.)",
+  "escribano": "Graciela Alderete de Riso",
+  "inscripcion_registro_publico": "Registro de Comercio N° 273, folio 178, 09/04/1986. Transformación en S.A. por Esc. N° 866 del 06/11/1995 (Esc. José Luis Coscia Cueto), inscripta Personas Jurídicas N° 718 folio 9718 Serie B 30/11/1995 y Comercio N° 1390 folio 10640 Serie D 01/12/1995.",
+  "fuente": {
+   "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+   "pagina": 5
+  }
+ },
+ "domicilio": [
+  {
+   "direccion": "Herib Campos Cervera (Asunción)",
+   "fecha_dato": "2026-09-10",
+   "fuente": {
+    "archivo": "COSNTANCIA RA 28889.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Dr. Cirilo Cáceres Zorrilla N° 1037 c/ Papa Juan XXIII, Asunción (local social)",
+   "fecha_dato": "2019-07-11",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 6
+   }
+  },
+  {
+   "direccion": "Avenida Perú casi España, Asunción (domicilio especial de los comparecientes)",
+   "fecha_dato": "2019-11-25",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 4
+   }
+  }
+ ],
+ "objeto_social": null,
+ "actividad_principal": "turismo (agencia de viajes)",
+ "plazo_duracion": null,
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 4000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 4000,
+   "fecha_dato": "2019-07-11",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 8
+   },
+   "nota": "Art. 5°: 4.000 acciones ordinarias nominativas endosables, series I y II de 2.000 c/u."
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 4000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 4000,
+   "fecha_dato": "2026-08-17",
+   "fuente": {
+    "archivo": "CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 4000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 4000,
+   "fecha_dato": "2026-08-17",
+   "fuente": {
+    "archivo": "CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 1000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 1000,
+   "fecha_dato": "2019-07-11",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 11
+   },
+   "nota": "Antes del aumento de 2019."
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "Miguel Ángel Martín del Castillo",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.109.145",
+   "nacionalidad": "uruguaya",
+   "acciones": 750,
+   "clase_acciones": "ordinarias",
+   "votos": 750,
+   "porcentaje": 75.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2019-07-11",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 9
+   },
+   "confianza": "alta",
+   "notas": "Antes de la emisión de 3.000 acciones."
+  },
+  {
+   "nombre": "Nelson Arnaldo Ferreira Prieto",
+   "tipo_persona": "fisica",
+   "documento": "CI 755.630",
+   "nacionalidad": null,
+   "acciones": 250,
+   "clase_acciones": "ordinarias",
+   "votos": 250,
+   "porcentaje": 25.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2019-07-11",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 9
+   },
+   "confianza": "alta",
+   "notas": "CI tomado de la constancia de transferencia 2026."
+  },
+  {
+   "nombre": "Miguel Ángel Martín del Castillo",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.109.145",
+   "nacionalidad": "uruguaya",
+   "acciones": 3000,
+   "clase_acciones": "ordinarias nominativas endosables",
+   "votos": 3000,
+   "porcentaje": 75.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2019-11-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 11
+   },
+   "confianza": "alta",
+   "notas": "Suscribe 2.250 nuevas acciones integradas con utilidades acumuladas."
+  },
+  {
+   "nombre": "Nelson Arnaldo Ferreira Prieto",
+   "tipo_persona": "fisica",
+   "documento": "CI 755.630",
+   "nacionalidad": null,
+   "acciones": 1000,
+   "clase_acciones": "ordinarias nominativas endosables",
+   "votos": 1000,
+   "porcentaje": 25.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2019-11-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 11
+   },
+   "confianza": "alta",
+   "notas": "Suscribe 750 nuevas acciones."
+  },
+  {
+   "nombre": "Miguel Martín del Castillo",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.109.145",
+   "nacionalidad": null,
+   "acciones": 400,
+   "clase_acciones": "ordinarias",
+   "votos": 400,
+   "porcentaje": 10.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-09-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Acta de Asamblea Ordinaria N° 34 (manuscrita) transcripta en el libro."
+  },
+  {
+   "nombre": "Nelson Ferreira (Prieto)",
+   "tipo_persona": "fisica",
+   "documento": "CI 755.630",
+   "nacionalidad": null,
+   "acciones": 600,
+   "clase_acciones": "ordinarias",
+   "votos": 600,
+   "porcentaje": 15.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-09-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Acta N° 34 manuscrita."
+  },
+  {
+   "nombre": "Match S.A.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 1200,
+   "clase_acciones": "ordinarias",
+   "votos": 1200,
+   "porcentaje": 30.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-09-24",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Representada por Diego Gómez. Vigente por no haber transferencia posterior documentada."
+  },
+  {
+   "nombre": "ITTI S.A.E.C.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80028355-4",
+   "nacionalidad": "paraguaya",
+   "acciones": 1800,
+   "clase_acciones": "ordinarias",
+   "votos": 1800,
+   "porcentaje": 45.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-09-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Representada por Guillermo Vázquez."
+  },
+  {
+   "nombre": "ITTI S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80028355-4",
+   "nacionalidad": "paraguaya",
+   "acciones": 2800,
+   "clase_acciones": "ordinarias",
+   "votos": 2800,
+   "porcentaje": 70.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-07-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf",
+    "pagina": 1
+   },
+   "confianza": "media",
+   "notas": "1.800 (acta 2025) + 400 de Miguel Ángel del Castillo (acc. 1-400) + 600 de Nelson Ferreira Prieto (acc. 401-1000) adquiridas el 22/07/2026. Cálculo propio; no hay registro de accionistas actualizado."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Miguel Ángel Martín del Castillo",
+   "documento": "CI 1.109.145",
+   "cargo": "Presidente",
+   "fecha_asuncion": null,
+   "vigencia": "Actas 22 (17/04/2018) y 23 (17/04/2019)",
+   "fecha_dato": "2019-11-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Rodrigo Antonio Martín Ferreira",
+   "documento": "CI 2.239.308",
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2019-11-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Carmen Silvero",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2019-07-11",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 6
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Miguel Martín (del Castillo)",
+   "documento": "CI 1.109.145",
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2025-09-24",
+   "vigencia": "renunció 29/07/2026",
+   "fecha_dato": "2026-07-31",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 1
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "Nelson Ferreira (Prieto)",
+   "documento": "CI 755.630",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-09-24",
+   "vigencia": "renunció 29/07/2026",
+   "fecha_dato": "2026-07-31",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 1
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "Luis Marcelo Cardozo (Ledesma)",
+   "documento": null,
+   "cargo": "Presidente",
+   "fecha_asuncion": "2025-09-24",
+   "vigencia": "mandato hasta 24/06/2028 o próxima asamblea",
+   "fecha_dato": "2026-07-31",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 1
+   },
+   "confianza": "media",
+   "notas": "Firma digitalmente los documentos remitidos (firma 'LUIS MARCELO CARDOZO LEDESMA')."
+  },
+  {
+   "nombre": "Geraldine Person",
+   "documento": null,
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2026-07-31",
+   "vigencia": "hasta 24/06/2028",
+   "fecha_dato": "2026-07-31",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 1
+   },
+   "confianza": "media",
+   "notas": "Directora titular desde 24/09/2025."
+  },
+  {
+   "nombre": "Mónica Costa",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-09-24",
+   "vigencia": "hasta 24/06/2028",
+   "fecha_dato": "2026-07-31",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 1
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "Miguel Almada",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2025-09-24",
+   "vigencia": null,
+   "fecha_dato": "2026-07-31",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 1
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "Rodolfo Barrios",
+   "documento": null,
+   "cargo": "Síndico suplente",
+   "fecha_asuncion": "2025-09-24",
+   "vigencia": null,
+   "fecha_dato": "2025-09-24",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 5
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "Cesar Astigarraga",
+   "documento": null,
+   "cargo": "Representante legal de ITTI S.A.E. (comprador)",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2026-07-22",
+   "vigente": null,
+   "fuente": {
+    "archivo": "CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "No es autoridad de Intertours; firma la compra por ITTI."
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "1986-04-03",
+   "evento": "constitucion",
+   "detalle": "Constitución como Intertours S.R.L. (Esc. N° 01).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 5
+   }
+  },
+  {
+   "fecha": "1990-09-04",
+   "evento": "modificacion_estatutos",
+   "detalle": "Esc. N° 18 (Graciela Alderete de Riso).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 5
+   }
+  },
+  {
+   "fecha": "1995-11-06",
+   "evento": "cambio_denominacion",
+   "detalle": "Transformación en S.A.: Intertours S.A. (Esc. N° 866).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 5
+   }
+  },
+  {
+   "fecha": "2019-07-03",
+   "evento": "modificacion_estatutos",
+   "detalle": "Esc. N° 64 (Carlos A. Insfrán Ojeda).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 5
+   }
+  },
+  {
+   "fecha": "2019-07-11",
+   "evento": "aumento_capital",
+   "detalle": "Asambleas Extraordinaria N° 24 y Ordinaria (N° 25/23): capital a Gs. 4.000 M; emisión de 3.000 acciones integradas con utilidades (Martín 2.250, Ferreira 750). Protocolizado por Esc. N° 321 del 25/11/2019.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+    "pagina": 8
+   }
+  },
+  {
+   "fecha": "2025-09-24",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea Ordinaria N° 34: accionistas Martín del Castillo 400, Ferreira 600, Match S.A. 1.200, ITTI SAECA 1.800; directorio Pres. Marcelo Cardozo, VP Miguel Martín, Dirs. Geraldine Person, Mónica Costa, Nelson Ferreira; Síndicos Miguel Almada / Rodolfo Barrios.",
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "fecha": "2026-07-22",
+   "evento": "transferencia_acciones",
+   "detalle": "ITTI S.A.E. compra 400 acciones a Miguel Ángel del Castillo y 600 a Nelson Ferreira Prieto (Gs. 1.000.000 c/u); comunicada 29/07/2026; constancia DGPEJBF N° 54801 del 17/08/2026.",
+   "fuente": {
+    "archivo": "CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-07-31",
+   "evento": "cambio_directorio",
+   "detalle": "Acta Directorio N° 109: renuncias de Miguel Martín del Castillo y Nelson Ferreira Prieto; Pres. Luis Marcelo Cardozo, VP Geraldine Person, Dir. Mónica Costa.",
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "ITTI S.A.E. (RUC 80028355-4)",
+   "tipo": "accionista_de",
+   "detalle": "Accionista mayoritario (70% calculado tras compras de julio 2026; 45% en 2025).",
+   "fuente": {
+    "archivo": "CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Match S.A.",
+   "tipo": "accionista_de",
+   "detalle": "Accionista 30% (representante Diego Gómez).",
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "entidad_o_persona": "Guillermo Vázquez (Muniagurria)",
+   "tipo": "mencion_en_documento",
+   "detalle": "Representó a ITTI SAECA en la Asamblea N° 34 (2025).",
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 6
+   }
+  },
+  {
+   "entidad_o_persona": "Luis Marcelo Cardozo Ledesma",
+   "tipo": "director_comun",
+   "detalle": "Presidente de Intertours; director titular de Oniria S.A. (renunció oct-2026); firma digitalmente documentos de Kostas Viajes e Intertours remitidos al MEF.",
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Miguel Almada (Miguel Angel Almada Frutos)",
+   "tipo": "director_comun",
+   "detalle": "Síndico de Intertours; síndico de V Media; director suplente de AIME; representante de L. F. Ríos en Technoma.",
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Rodolfo Barrios (Rodolfo Andrés Barrios Duba)",
+   "tipo": "director_comun",
+   "detalle": "Síndico suplente de Intertours; síndico titular de Oniria S.A.",
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+    "pagina": 5
+   }
+  },
+  {
+   "entidad_o_persona": "legales@itti.digital",
+   "tipo": "mismo_correo_dominio",
+   "detalle": "Correo de la PEJ en SIARA es de ITTI (igual que ITTI y Kostas Viajes).",
+   "fuente": {
+    "archivo": "COSNTANCIA RA 28889.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Kostas Viajes y Turismo S.R.L.",
+   "tipo": "mismo_domicilio",
+   "detalle": "Ambas declaran dirección 'Herib Campos Cervera' en SIARA.",
+   "fuente": {
+    "archivo": "COSNTANCIA RA 28889.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Cesar Astigarraga (Lambaré), CI 3.807.117",
+   "tipo": "mencion_en_documento",
+   "detalle": "Representante legal de ITTI en la compra de acciones; también Presidente de ITTI y Tiva.",
+   "fuente": {
+    "archivo": "CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": "Helen Recalde",
+   "documento": "CI 4.905.465",
+   "correo": "helenrecaldev@gmail.com",
+   "telefono": "0994677901",
+   "fecha": "2026-08-17",
+   "fuente": {
+    "archivo": "CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf",
+    "pagina": 1
+   },
+   "notas": "Responsable de la comunicación de transferencia de acciones."
+  },
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "legales@itti.digital",
+   "telefono": null,
+   "fecha": "2026-09-10",
+   "fuente": {
+    "archivo": "COSNTANCIA RA 28889.pdf",
+    "pagina": 1
+   },
+   "notas": "Correo de la PEJ en RA anual."
+  }
+ ],
+ "correos_dominios": [
+  "itti.digital",
+  "gmail.com"
+ ],
+ "documentos": [
+  {
+   "archivo": "ACTA DIRECTORIO NRO 109.pdf",
+   "tipo": "acta_directorio",
+   "fecha": "2026-07-31",
+   "paginas": 6,
+   "legibilidad": "manuscrito",
+   "resumen": "Libro manuscrito: Acta Directorio N° 109 (31/07/2026) y Acta Asamblea Ordinaria N° 34 (24/09/2025) con cómputo de accionistas y directorio; incluye hoja de rúbrica del libro (1996)."
+  },
+  {
+   "archivo": "CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf",
+   "tipo": "otro",
+   "fecha": "2026-08-17",
+   "paginas": 3,
+   "legibilidad": "texto",
+   "resumen": "Constancia de comunicación de transferencia de acciones N° 54801: ITTI S.A.E. compra 400 + 600 acciones (22/07/2026). Firmada digitalmente por L. M. Cardozo Ledesma."
+  },
+  {
+   "archivo": "COSNTANCIA RA 28889.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-10-19",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 28889 (cumplimiento anual, presentada 10/09/2026); correo legales@itti.digital."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICACION NRO 321.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2019-11-25",
+   "paginas": 15,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Esc. N° 321 (Carlos A. Insfrán Ojeda): protocoliza asambleas del 11/07/2019, aumento de capital a Gs. 4.000 M y emisión de 3.000 acciones; antecedentes societarios."
+  }
+ ],
+ "observaciones": [
+  "No se remitió registro de accionistas ni constancia BF; la composición vigente (ITTI 70% / Match S.A. 30%) es un cálculo a partir del acta de 2025 y de la constancia de transferencia de 2026.",
+  "El vendedor figura como 'Miguel Angel del Castillo' en la constancia de transferencia y como 'Miguel Martín del Castillo' en el acta manuscrita; la escritura lo identifica como Miguel Ángel Martín del Castillo, CI 1.109.145 (misma persona).",
+  "El acta de asamblea 2019 de emisión se cita como N° 25 y como N° 23 dentro de la misma escritura.",
+  "Entre 2019 (Martín 3.000 / Ferreira 1.000) y 2025 (400/600/1.200/1.800) no hay documentos de las transferencias que dieron entrada a ITTI y Match S.A.",
+  "Archivo 'COSNTANCIA RA' con error tipográfico en el nombre; la constancia RA es un resumen sin socios ni autoridades.",
+  "Autoridades sin número de CI (Cardozo, Person, Costa, Almada, Barrios)."
+ ]
+}

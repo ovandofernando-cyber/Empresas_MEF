@@ -1,0 +1,892 @@
+{
+  "id": "red_uts_paraguay",
+  "razon_social": "RED UTS PARAGUAY S.A.",
+  "ruc": "80018381-9",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "RED UTS PARAGUAY SA",
+  "denominaciones_anteriores": [
+    {
+      "nombre": "MILENIUM TRADING SOCIEDAD ANONIMA",
+      "hasta": "2008-06-30",
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf",
+        "pagina": "1-2"
+      }
+    }
+  ],
+  "constitucion": {
+    "fecha": "1998-09-17",
+    "escritura": "N° 60",
+    "escribano": "Carmen Estigarribia Mallada de Fasanello (Reg. 331, Lambaré)",
+    "inscripcion_registro_publico": "Personas Jurídicas N° 381, folio 5409, Serie A, 22/10/1998; Registro Público de Comercio N° 841, Serie A, folio 5387, 26/10/1998",
+    "fuente": {
+      "archivo": "RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf",
+      "pagina": "1-2"
+    }
+  },
+  "domicilio": [
+    {
+      "direccion": "Avda. Santa Teresa N° 1827 entre Avda. Aviadores del Chaco y Herminio Maldonado, Edificio Torres del Paseo, Torre 3, Nivel 11, Asunción",
+      "fecha_dato": "2026-02-11",
+      "fuente": {
+        "archivo": "CONSTANCIA BF NRO 405711.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Avda. Santa Teresa c/ Aviadores del Chaco, Torre 2, Piso 15 (domicilio de los comparecientes)",
+      "fecha_dato": "2025-01-21",
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Lambaré (domicilio legal original)",
+      "fecha_dato": "1998-09-17",
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 2
+      }
+    }
+  ],
+  "objeto_social": "Original (1998): importación, exportación, distribución y representación de artículos de bazar, juguetería y mercería; inmobiliaria, agro, industria, transporte, representación, inversión y consultoría.",
+  "actividad_principal": "tecnología / servicios (red UTS; objeto actual no leído)",
+  "plazo_duracion": null,
+  "capital": [
+    {
+      "tipo": "social",
+      "monto": 5000000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 5000,
+      "fecha_dato": "2024-12-13",
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf",
+        "pagina": "5-8"
+      }
+    },
+    {
+      "tipo": "suscripto",
+      "monto": 343000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 343,
+      "fecha_dato": "2026-01-21",
+      "fuente": {
+        "archivo": "RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "social",
+      "monto": 600000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 600,
+      "fecha_dato": "1998-09-17",
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 13
+      }
+    }
+  ],
+  "accionistas": [
+    {
+      "nombre": "ITTI S.A.E.C.A.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80028355-4",
+      "nacionalidad": null,
+      "acciones": 138,
+      "clase_acciones": "OVS",
+      "votos": 138,
+      "porcentaje": 40.2332,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-01-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Títulos 1-22, 23-56, 79-100, 101-122, 123-125, 126-130, 314-343. Transfirió 68 acciones a André Gayol el 21/01/2026. En el acta 35 (20/04/2026) figura como 'ITTI S.A.E.' con 138 acciones y 40,23%."
+    },
+    {
+      "nombre": "MÓNICA GABRIELA MASULLI BARCAROLO",
+      "tipo_persona": "fisica",
+      "documento": "CI 1.150.588",
+      "nacionalidad": null,
+      "acciones": 69,
+      "clase_acciones": "OVS",
+      "votos": 69,
+      "porcentaje": 20.1166,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-01-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Títulos 199-222 y 223-267 (31/10/2022). Representante legal según SIARA."
+    },
+    {
+      "nombre": "JACK SAMY FLEISCHMAN BENATHAN",
+      "tipo_persona": "fisica",
+      "documento": "CI 2.389.204",
+      "nacionalidad": null,
+      "acciones": 68,
+      "clase_acciones": "OVS",
+      "votos": 68,
+      "porcentaje": 19.8251,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-01-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "media",
+      "notas": "Títulos 57-78, 268-305, 306-313 (21/11/2022). Peruano. NO aparece en las asambleas 32/33 (2024) ni 35 (2026); posible omisión o transferencia no registrada."
+    },
+    {
+      "nombre": "ANDRÉ GAYOL (PIRES)",
+      "tipo_persona": "fisica",
+      "documento": "CI 2.377.708 (constancia BF)",
+      "nacionalidad": null,
+      "acciones": 68,
+      "clase_acciones": "OVS",
+      "votos": 68,
+      "porcentaje": 19.8251,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-01-21",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Títulos 131-198 recibidos de ITTI S.A.E.C.A. el 21/01/2026."
+    },
+    {
+      "nombre": "ITTI S.A.E.C.A.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80028355-4",
+      "nacionalidad": null,
+      "acciones": 206,
+      "clase_acciones": "OVS",
+      "votos": 206,
+      "porcentaje": 60.0583,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-06-27",
+      "vigente": false,
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": "Constancia RA (periodo 2025): 7 líneas 22+34+22+22+3+73+30."
+    },
+    {
+      "nombre": "MONICA MASULLI",
+      "tipo_persona": "fisica",
+      "documento": "CI 1150588",
+      "nacionalidad": null,
+      "acciones": 69,
+      "clase_acciones": "OVS",
+      "votos": 69,
+      "porcentaje": 20.1166,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-06-27",
+      "vigente": false,
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta",
+      "notas": "Constancia RA: 7,00% + 13,12%."
+    },
+    {
+      "nombre": "JACK FLEISCHMAN",
+      "tipo_persona": "fisica",
+      "documento": "CI 2389204",
+      "nacionalidad": null,
+      "acciones": 68,
+      "clase_acciones": "OVS",
+      "votos": 68,
+      "porcentaje": 19.8251,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-06-27",
+      "vigente": false,
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta",
+      "notas": "Constancia RA: 6,41% + 11,08% + 2,33%."
+    },
+    {
+      "nombre": "JACK SAMY FLEISCHMAN BENATHAN",
+      "tipo_persona": "fisica",
+      "documento": "CI 2.389.204",
+      "nacionalidad": null,
+      "acciones": 270,
+      "clase_acciones": "ordinarias",
+      "votos": null,
+      "porcentaje": 45.0,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 13
+      },
+      "confianza": "alta",
+      "notas": "Fundador de Milenium Trading S.A."
+    },
+    {
+      "nombre": "RAUL JOSE GUALBERTO PRONO TOÑANEZ",
+      "tipo_persona": "fisica",
+      "documento": "CI 550.400",
+      "nacionalidad": null,
+      "acciones": 270,
+      "clase_acciones": "ordinarias",
+      "votos": null,
+      "porcentaje": 45.0,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 13
+      },
+      "confianza": "alta",
+      "notas": "Fundador."
+    },
+    {
+      "nombre": "JOSE FELIX BOGADO TABACMAN",
+      "tipo_persona": "fisica",
+      "documento": "CI 353.615",
+      "nacionalidad": null,
+      "acciones": 60,
+      "clase_acciones": "ordinarias",
+      "votos": null,
+      "porcentaje": 10.0,
+      "porcentaje_calculado": true,
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 13
+      },
+      "confianza": "alta",
+      "notas": "Fundador."
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "CÉSAR MANUEL ASTIGARRAGA LAMBARÉ",
+      "documento": "CI 3.807.117",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2026-04-20",
+      "vigencia": null,
+      "fecha_dato": "2026-04-20",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LUIS MARCELO CARDOZO LEDESMA",
+      "documento": null,
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2026-04-20",
+      "vigencia": null,
+      "fecha_dato": "2026-04-20",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "ANDRE GAYOL PIRES",
+      "documento": "CI 2.377.708",
+      "cargo": "Director titular",
+      "fecha_asuncion": "2026-04-20",
+      "vigencia": null,
+      "fecha_dato": "2026-04-20",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "BERNARDO JOSÉ ALGORTA REY",
+      "documento": null,
+      "cargo": "Director suplente",
+      "fecha_asuncion": "2026-04-20",
+      "vigencia": null,
+      "fecha_dato": "2026-04-20",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "MARTA MARIN DE DAUMAS",
+      "documento": null,
+      "cargo": "Director suplente",
+      "fecha_asuncion": "2026-04-20",
+      "vigencia": null,
+      "fecha_dato": "2026-04-20",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JOSE MARIA MONTERO ZUCCOLILLO",
+      "documento": null,
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "2026-04-20",
+      "vigencia": null,
+      "fecha_dato": "2026-04-20",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "HECTOR PALAZÓN RUIZ",
+      "documento": null,
+      "cargo": "Síndico suplente",
+      "fecha_asuncion": "2026-04-20",
+      "vigencia": null,
+      "fecha_dato": "2026-04-20",
+      "vigente": true,
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "MONICA GABRIELA MASULLI BARCAROLO",
+      "documento": "CI 1150588",
+      "cargo": "Representante legal",
+      "fecha_asuncion": null,
+      "vigencia": null,
+      "fecha_dato": "2025-06-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CESAR ASTIGARRAGA LAMBARÉ",
+      "documento": "CI 3807117",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2025-05-25",
+      "vigencia": "Hasta la próx. Asamblea",
+      "fecha_dato": "2025-06-27",
+      "vigente": false,
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LUIS ERNESTO ANGULO (RIVERA)",
+      "documento": "CI 8307881",
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2025-05-25",
+      "vigencia": "Hasta la próx. Asamblea",
+      "fecha_dato": "2025-06-27",
+      "vigente": false,
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "ANDRE GAYOL",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2025-05-25",
+      "vigencia": "Hasta la próx. Asamblea",
+      "fecha_dato": "2025-06-27",
+      "vigente": false,
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "PAOLA MEZA",
+      "documento": "CI 2525200",
+      "cargo": "Director titular",
+      "fecha_asuncion": "2025-05-25",
+      "vigencia": "Hasta la próx. Asamblea",
+      "fecha_dato": "2025-06-27",
+      "vigente": false,
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CESAR MANUEL ASTIGARRAGA LAMBARE",
+      "documento": "CI 3.807.117",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2024-04-29",
+      "vigencia": "Acta AGO N° 31",
+      "fecha_dato": "2025-01-21",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LUIS ERNESTO ANGULO RIVERA",
+      "documento": "CI 8.307.881",
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2024-04-29",
+      "vigencia": "Acta AGO N° 31",
+      "fecha_dato": "2025-01-21",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JACK SAMY FLEISCHMAN BENATHAN",
+      "documento": "CI 2.389.204",
+      "cargo": "Presidente",
+      "fecha_asuncion": "1998-09-17",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 13
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "RAUL JOSE G. PRONO TOÑANEZ",
+      "documento": "CI 550.400",
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "1998-09-17",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 13
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JOSE FELIX BOGADO TABACMAN",
+      "documento": "CI 353.615",
+      "cargo": "Director titular",
+      "fecha_asuncion": "1998-09-17",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 13
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CARLOS MARCELO QUEVEDO",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "1998-09-17",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 13
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "RAMIRO FREITAS OCAMPO",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "1998-09-17",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 13
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "MARIA ESTELA RUIZ DIAZ DE BOGADO",
+      "documento": null,
+      "cargo": "Director suplente",
+      "fecha_asuncion": "1998-09-17",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": "13-14"
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JOSE ANDRES BOGADO",
+      "documento": null,
+      "cargo": "Director suplente",
+      "fecha_asuncion": "1998-09-17",
+      "vigencia": "primer directorio (lectura parcial)",
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 14
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "JUAN CARLOS DESCALZO JARA",
+      "documento": null,
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "1998-09-17",
+      "vigencia": "primer directorio",
+      "fecha_dato": "1998-09-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": 14
+      },
+      "confianza": "alta"
+    }
+  ],
+  "beneficiarios_finales": [
+    {
+      "nombre": "FEDERICO MIGUEL VAZQUEZ",
+      "documento": "CI 2941546 (RUC 2941546-2)",
+      "nacionalidad": "Paraguaya",
+      "domicilio": "Avda. Aviadores del Chaco - Torres del Paseo, Torre 3, Piso 11",
+      "porcentaje": 36.46,
+      "tipo_control": "propiedad indirecta (condición B)",
+      "cadena_control": "Accionista mayoritario de GRUPO VAZQUEZ S.A.E., que controla ITTI S.A.E.C.A., accionista de Red UTS",
+      "fecha_dato": "2026-02-11",
+      "fuente": {
+        "archivo": "CONSTANCIA BF NRO 405711.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JACK FLEISCHMAN",
+      "documento": "CI 2389204 (RUC 2389204-8)",
+      "nacionalidad": "Peruana",
+      "domicilio": "Edificio The Top - Avda. Aviadores del Chaco",
+      "porcentaje": 19.83,
+      "tipo_control": "propiedad directa (condición A) - socio",
+      "cadena_control": "N/A",
+      "fecha_dato": "2026-02-11",
+      "fuente": {
+        "archivo": "CONSTANCIA BF NRO 405711.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "MONICA MASULLI",
+      "documento": "CI 1150588 (RUC 1150588-5)",
+      "nacionalidad": "Paraguaya",
+      "domicilio": "Avda. Aviadores del Chaco - Torres del Paseo, Torre 3, Piso 11",
+      "porcentaje": 20.12,
+      "tipo_control": "propiedad directa (condición A) - socia",
+      "cadena_control": "N/A",
+      "fecha_dato": "2026-02-11",
+      "fuente": {
+        "archivo": "CONSTANCIA BF NRO 405711.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "ANDRÉ GAYOL",
+      "documento": "CI 2377708 (RUC 2377708-7)",
+      "nacionalidad": "Paraguaya",
+      "domicilio": "Capitán Suárez N° 2193 - Asunción",
+      "porcentaje": 19.83,
+      "tipo_control": "propiedad directa (condición A) - socio desde 21-01-2026",
+      "cadena_control": "N/A",
+      "fecha_dato": "2026-02-11",
+      "fuente": {
+        "archivo": "CONSTANCIA BF NRO 405711.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    }
+  ],
+  "historial": [
+    {
+      "fecha": "1998-09-17",
+      "evento": "constitucion",
+      "detalle": "Constitución de Milenium Trading S.A. en Lambaré (Fleischman 270, Prono 270, Bogado 60 acciones).",
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+        "pagina": "2,13"
+      }
+    },
+    {
+      "fecha": "2008-06-30",
+      "evento": "cambio_denominacion",
+      "detalle": "Esc. 35 (Marina Galeano): pasa a RED UTS PARAGUAY S.A.",
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "fecha": "2008-12-18",
+      "evento": "modificacion_estatutos",
+      "detalle": "Esc. 98 (complementada por Esc. 2 del 14/01/2009), Esc. 642 (04/08/2009, Luis A. Peroni), Esc. 1771 (10/08/2022, Luis Enrique Peroni).",
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf",
+        "pagina": "2-3"
+      }
+    },
+    {
+      "fecha": "2022-10-31",
+      "evento": "transferencia_acciones",
+      "detalle": "Registro: títulos a nombre de Mónica Masulli (31/10/2022), ITTI S.A.E.C.A. (17/11/2022) y Jack Fleischman (21/11/2022); BF de Federico Vázquez desde 21/11/2022.",
+      "fuente": {
+        "archivo": "RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2024-12-13",
+      "evento": "aumento_capital",
+      "detalle": "Asambleas 32 y 33: capital Gs. 5.000 millones (5.000 acciones) y emisión de 4.657 acciones (N° 344-5.000); presidida por Guillermo Vázquez en representación de ITTI. Escritura 7 del 21/01/2025.",
+      "fuente": {
+        "archivo": "RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf",
+        "pagina": "3-8"
+      }
+    },
+    {
+      "fecha": "2026-01-21",
+      "evento": "transferencia_acciones",
+      "detalle": "ITTI S.A.E.C.A. transfiere 68 acciones a André Gayol.",
+      "fuente": {
+        "archivo": "RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2026-04-20",
+      "evento": "cambio_directorio",
+      "detalle": "Asamblea Ordinaria 35: nuevo directorio (Astigarraga presidente); rectificación de distribución de utilidades 2024 por pérdida acumulada Gs. 1.405.098.164; utilidades 2025 Gs. 994.697.798 a reservas.",
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": "1-2"
+      }
+    }
+  ],
+  "vinculos": [
+    {
+      "entidad_o_persona": "ITTI S.A.E.C.A. (RUC 80028355-4)",
+      "tipo": "accionista_de",
+      "detalle": "Accionista mayoritario (40,23% tras transferencia 2026; 60,06% en 2025).",
+      "fuente": {
+        "archivo": "RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "GRUPO VAZQUEZ S.A.E.",
+      "tipo": "otro",
+      "detalle": "Controlante de ITTI según constancia BF (cadena de control de Federico Vázquez).",
+      "fuente": {
+        "archivo": "CONSTANCIA BF NRO 405711.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "FEDERICO MIGUEL VAZQUEZ",
+      "tipo": "otro",
+      "detalle": "Beneficiario final 36,46% vía ITTI/Grupo Vázquez.",
+      "fuente": {
+        "archivo": "CONSTANCIA BF NRO 405711.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "GUILLERMO VÁZQUEZ",
+      "tipo": "otro",
+      "detalle": "Representante de ITTI y presidente de asambleas 2024 y 2026.",
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "BERNARDO JOSÉ ALGORTA REY",
+      "tipo": "director_comun",
+      "detalle": "Director suplente 2026; representante de Grupo Vázquez/Ueno Bank en otras empresas.",
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "entidad_o_persona": "CÉSAR MANUEL ASTIGARRAGA LAMBARÉ",
+      "tipo": "director_comun",
+      "detalle": "Presidente; síndico suplente de Ueno Seguros (2024).",
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "entidad_o_persona": "JOSE MARIA MONTERO ZUCCOLILLO",
+      "tipo": "director_comun",
+      "detalle": "Síndico titular; José María Montero es síndico suplente de U Paraguay.",
+      "fuente": {
+        "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "entidad_o_persona": "UENO HOLDING (uenoholding.com.py)",
+      "tipo": "mismo_correo_dominio",
+      "detalle": "Correo SIARA y del solicitante CARLOS.DAVALOS@UENOHOLDING.COM.PY.",
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "Torres del Paseo, Torre 3, Nivel 11",
+      "tipo": "mismo_domicilio",
+      "detalle": "Sede social; mismo edificio que Ueno/ITTI/Grupo Vázquez.",
+      "fuente": {
+        "archivo": "CONSTANCIA BF NRO 405711.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "declarantes_siara": [
+    {
+      "nombre": "CARLOS DÁVALOS",
+      "documento": "CI 4.780.245",
+      "correo": "CARLOS.DAVALOS@UENOHOLDING.COM.PY",
+      "telefono": "0984503598",
+      "fecha": "2025-06-27",
+      "fuente": {
+        "archivo": "CONSTANCIA RA.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "nombre": "HELEN RECALDE",
+      "documento": "CI 4.905.465",
+      "correo": "HELENRECALDEV@GMAIL.COM",
+      "telefono": "0994677901",
+      "fecha": "2026-02-11",
+      "fuente": {
+        "archivo": "CONSTANCIA BF NRO 405711.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "correos_dominios": [
+    "uenoholding.com.py",
+    "reduts.com.py",
+    "gmail.com"
+  ],
+  "documentos": [
+    {
+      "archivo": "CONSTANCIA BF NRO 405711.pdf",
+      "tipo": "constancia_BF",
+      "fecha": "2026-02-11",
+      "paginas": 2,
+      "legibilidad": "texto",
+      "resumen": "Constancia BF N° 405711 (periodo 2025): 4 beneficiarios finales."
+    },
+    {
+      "archivo": "CONSTANCIA RA.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2025-06-27",
+      "paginas": 3,
+      "legibilidad": "texto",
+      "resumen": "Constancia RA N° 374270 (periodo 2025): socios ITTI, Masulli, Fleischman; directorio 25/05/2025."
+    },
+    {
+      "archivo": "RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf",
+      "tipo": "registro_accionistas",
+      "fecha": "2026-01-21",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Registro folio 2 al 21/01/2026: 343 acciones."
+    },
+    {
+      "archivo": "RED UTS SA/ACTA DIRECTORIO NRO 35.pdf",
+      "tipo": "acta_asamblea",
+      "fecha": "2026-04-20",
+      "paginas": 2,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Pese al nombre 'ACTA DIRECTORIO', es el Acta de Asamblea Ordinaria N° 35 del 20/04/2026."
+    },
+    {
+      "archivo": "RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf",
+      "tipo": "escritura_constitucion",
+      "fecha": "1998-09-17",
+      "paginas": 22,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Constitución de Milenium Trading S.A."
+    },
+    {
+      "archivo": "RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf",
+      "tipo": "escritura_modificacion",
+      "fecha": "2025-01-21",
+      "paginas": 14,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Transcripción de asambleas 32 y 33 (13/12/2024): capital Gs. 5.000 millones y emisión de 4.657 acciones."
+    }
+  ],
+  "observaciones": [
+    "Capital: se aprobó la emisión de 4.657 acciones (hasta 5.000) en 2024, pero el registro de 2026 solo muestra 343 acciones; no consta suscripción de las nuevas acciones.",
+    "Jack Fleischman (68 acciones según registro, RA y BF) no figura en las nóminas de asistentes de las asambleas de 2024 y 2026; en 2026 el acta totaliza 275 acciones pero usa porcentajes calculados sobre 343.",
+    "El archivo 'ACTA DIRECTORIO NRO 35' es en realidad un acta de asamblea ordinaria de accionistas.",
+    "BF suma 96,24% (36,46+19,83+20,12+19,83); el 36,46% de Federico Vázquez parece calcularse sobre la participación previa de ITTI (60,06%), no sobre el 40,23% posterior a la transferencia a André Gayol.",
+    "Nombres con variantes: Luis Ernesto Angulo / Angulo Rivera; André Gayol / Andre Gayol Pires; Mónica Masulli / Masulli Barcarolo; ITTI S.A.E. / S.A.E.C.A. Domicilio de Jack Fleischman: 'Edificio The Tower' (RA) vs 'The Top' (BF y registro)."
+  ]
+}

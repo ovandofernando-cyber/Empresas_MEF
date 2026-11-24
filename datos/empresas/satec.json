@@ -1,0 +1,91 @@
+{
+  "id": "satec",
+  "razon_social": "SERVICIOS DE ASISTENCIA TECNOLÓGICA AL COMERCIO SOCIEDAD ANÓNIMA (SATEC S.A. / SATECSA)",
+  "ruc": "80055186-9",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "Servicios de Asistencia Tecnológica al Comercio SA SATEC",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2009-04-07",
+    "escritura": "N° 62",
+    "escribano": "María Emilia Báez Delvalle",
+    "inscripcion_registro_publico": "DGRP Sección Personas Jurídicas y Asociaciones N° 289, folio 2966, Serie A, 17/04/2009; Registro Público de Comercio N° 131, Serie B, folio 9453, 17/04/2009",
+    "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 2},
+    "confianza": "media"
+  },
+  "domicilio": [
+    {"direccion": "Bélgica casi Avda. Mcal. López, Asunción", "fecha_dato": "2026-04-09", "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}},
+    {"direccion": "BELGICA", "fecha_dato": "2026-09-21", "fuente": {"archivo": "Constancia 2026 SIARA.pdf", "pagina": 1}}
+  ],
+  "objeto_social": null,
+  "actividad_principal": "tecnología / servicios al comercio (según denominación)",
+  "plazo_duracion": null,
+  "capital": [
+    {"tipo": "suscripto", "monto": 1000000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 1000, "fecha_dato": "2021-12-29", "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 3}, "notas": "1.000 acciones presentes (100%) en la Asamblea Extraordinaria del 29/12/2021."},
+    {"tipo": "social", "monto": 10000000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 10000, "fecha_dato": "2022-08-16", "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 7}},
+    {"tipo": "integrado", "monto": 5000000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 5000, "fecha_dato": "2026-10-08", "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}, "notas": "Suma del registro de accionistas (todas integradas en su totalidad)."}
+  ],
+  "accionistas": [
+    {"nombre": "María Elena Matsumiya (de Endo)", "tipo_persona": "fisica", "documento": "CI 907.164", "nacionalidad": "paraguaya", "acciones": 334, "clase_acciones": "nominativas", "votos": 334, "porcentaje": 33.4, "porcentaje_calculado": true, "fecha_dato": "2022-05-04", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 5}, "confianza": "alta"},
+    {"nombre": "Katsuhiko Víctor Maehara", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 333, "clase_acciones": "nominativas", "votos": 333, "porcentaje": 33.3, "porcentaje_calculado": true, "fecha_dato": "2022-05-04", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 5}, "confianza": "alta"},
+    {"nombre": "Kazuki Endo", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 333, "clase_acciones": "nominativas", "votos": 333, "porcentaje": 33.3, "porcentaje_calculado": true, "fecha_dato": "2022-05-04", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 5}, "confianza": "alta"},
+    {"nombre": "MARÍA ELENA MATSUMIYA TAKADA", "tipo_persona": "fisica", "documento": "CI 907.164", "nacionalidad": "paraguaya", "acciones": 1450, "clase_acciones": "nominativas", "votos": 1450, "porcentaje": 29.0, "porcentaje_calculado": true, "fecha_dato": "2026-10-08", "vigente": true, "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}, "confianza": "alta", "notas": "Títulos 1,4,5,8; domicilio Leandro Prieto N° 3772, Asunción. Transfirió 20 acciones a Santiago Weiler Gustafson el 18/12/2025."},
+    {"nombre": "KATSUHIKO VÍCTOR MAEHARA UEDA", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 1450, "clase_acciones": "nominativas", "votos": 1450, "porcentaje": 29.0, "porcentaje_calculado": true, "fecha_dato": "2026-10-08", "vigente": true, "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}, "confianza": "alta", "notas": "Domicilio Toribio Pacheco N° 6070, Asunción. Transfirió 15 acciones a Santiago Weiler Gustafson el 18/12/2025."},
+    {"nombre": "KAZUKI ENDO", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 1450, "clase_acciones": "nominativas", "votos": 1450, "porcentaje": 29.0, "porcentaje_calculado": true, "fecha_dato": "2026-10-08", "vigente": true, "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}, "confianza": "alta", "notas": "Mismo domicilio que María Elena Matsumiya (Leandro Prieto N° 3772). Transfirió 15 acciones a Santiago Weiler Gustafson el 18/12/2025."},
+    {"nombre": "IGNACIO FLORENTÍN MENDOZA (Ignacio Constantino Florentín Mendoza)", "tipo_persona": "fisica", "documento": "CI 495.352", "nacionalidad": "paraguaya", "acciones": 150, "clase_acciones": "nominativas", "votos": 150, "porcentaje": 3.0, "porcentaje_calculado": true, "fecha_dato": "2026-10-08", "vigente": true, "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}, "confianza": "alta", "notas": "Domicilio Andrés Barbero N° 1260, San Lorenzo."},
+    {"nombre": "NESTOR DÍAZ CÁCERES", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 150, "clase_acciones": "nominativas", "votos": 150, "porcentaje": 3.0, "porcentaje_calculado": true, "fecha_dato": "2026-10-08", "vigente": true, "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "BLANCA BRITEZ DE NARA", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 150, "clase_acciones": "nominativas", "votos": 150, "porcentaje": 3.0, "porcentaje_calculado": true, "fecha_dato": "2026-10-08", "vigente": true, "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "JOSÉ IGNACIO CABALLERO", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 75, "clase_acciones": "nominativas", "votos": 75, "porcentaje": 1.5, "porcentaje_calculado": true, "fecha_dato": "2026-10-08", "vigente": true, "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "ELIAS VALIENTE VILLALBA", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 75, "clase_acciones": "nominativas", "votos": 75, "porcentaje": 1.5, "porcentaje_calculado": true, "fecha_dato": "2026-10-08", "vigente": true, "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "SANTIAGO WEILER GUSTAFSON", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 50, "clase_acciones": "nominativas", "votos": 50, "porcentaje": 1.0, "porcentaje_calculado": true, "fecha_dato": "2026-10-08", "vigente": true, "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}, "confianza": "alta", "notas": "Tres asientos (20 + 15 + 15) recibidos por transferencia el 18/12/2025 de Matsumiya, Maehara y Endo."}
+  ],
+  "autoridades": [
+    {"nombre": "Katsuhiko Víctor Maehara", "documento": null, "cargo": "Presidente (de asamblea; presidía el directorio según actas 2021-2022)", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2022-05-04", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 3}, "confianza": "media"},
+    {"nombre": "Ignacio Constantino Florentín Mendoza", "documento": "CI 495.352", "cargo": "Presidente", "fecha_asuncion": "2022-05-04", "vigencia": null, "fecha_dato": "2022-08-16", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 6}, "confianza": "alta"},
+    {"nombre": "María Elena Matsumiya de Endo", "documento": "CI 907.164", "cargo": "Director titular", "fecha_asuncion": "2022-05-04", "vigencia": null, "fecha_dato": "2022-08-16", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 6}, "confianza": "alta"},
+    {"nombre": "Blanca Britez", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2022-05-04", "vigencia": null, "fecha_dato": "2022-05-04", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 6}, "confianza": "alta"},
+    {"nombre": "Néstor Díaz", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2022-05-04", "vigencia": null, "fecha_dato": "2022-05-04", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 6}, "confianza": "alta"},
+    {"nombre": "José Caballero", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2022-05-04", "vigencia": null, "fecha_dato": "2022-05-04", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 6}, "confianza": "alta"},
+    {"nombre": "Narciso Sanabria", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2022-05-04", "vigencia": null, "fecha_dato": "2022-05-04", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 6}, "confianza": "alta"},
+    {"nombre": "Santiago Weiler", "documento": null, "cargo": "Síndico suplente", "fecha_asuncion": "2022-05-04", "vigencia": null, "fecha_dato": "2022-05-04", "vigente": false, "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 6}, "confianza": "alta"},
+    {"nombre": "Ignacio Florentín (Mendoza)", "documento": "CI 495.352", "cargo": "Presidente", "fecha_asuncion": "2026-04-09", "vigencia": null, "fecha_dato": "2026-04-09", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "María Elena Matsumiya", "documento": "CI 907.164", "cargo": "Director titular", "fecha_asuncion": "2026-04-09", "vigencia": null, "fecha_dato": "2026-04-09", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "José Caballero", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2026-04-09", "vigencia": null, "fecha_dato": "2026-04-09", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "Santiago Weiler", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2026-04-09", "vigencia": null, "fecha_dato": "2026-04-09", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "Elias Valiente", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2026-04-09", "vigencia": null, "fecha_dato": "2026-04-09", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "Narciso Sanabria", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2026-04-09", "vigencia": null, "fecha_dato": "2026-04-09", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "Eliana Villalba", "documento": null, "cargo": "Síndico suplente", "fecha_asuncion": "2026-04-09", "vigencia": null, "fecha_dato": "2026-04-09", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2009-04-07", "evento": "constitucion", "detalle": "Constitución por escritura N° 62 ante la Esc. Ma. Emilia Báez Delvalle; inscripta el 17/04/2009.", "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 2}},
+    {"fecha": "2019-11-20", "evento": "modificacion_estatutos", "detalle": "Modificación de estatutos por escritura N° 53 (Esc. Sofía Raquel Fernández Casabianca), inscripta el 21/04/2020 (Mat. Jurídica 29548, Mat. Comercial 30020).", "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 2}},
+    {"fecha": "2021-12-29", "evento": "aumento_capital", "detalle": "Asamblea Extraordinaria (100%: Matsumiya 334, Maehara 333, Endo 333 acciones) aprueba aumentar el capital social a Gs. 10.000.000.000.", "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 3}},
+    {"fecha": "2022-05-04", "evento": "cambio_directorio", "detalle": "Asamblea Ordinaria: directorio Ignacio Florentín (Pte), Matsumiya, Blanca Britez, Néstor Díaz, José Caballero; síndicos Narciso Sanabria y Santiago Weiler; emisión de acciones por Gs. 5.000.000.000.", "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 6}},
+    {"fecha": "2022-08-16", "evento": "modificacion_estatutos", "detalle": "Escritura N° 40 (Esc. Teresa DeJesús Barrios, Reg. 645, Lambaré): modificación del art. 5° (capital Gs. 10.000 millones, 10.000 acciones nominativas no endosables de Gs. 1.000.000) y emisión por Gs. 5.000 millones.", "fuente": {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "pagina": 7}},
+    {"fecha": "2025-12-18", "evento": "transferencia_acciones", "detalle": "Matsumiya (20), Maehara (15) y Endo (15) transfieren acciones a Santiago Weiler Gustafson.", "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}},
+    {"fecha": "2026-04-09", "evento": "cambio_directorio", "detalle": "Asamblea Ordinaria (61% presente): Ignacio Florentín Pte; directores Matsumiya, José Caballero, Santiago Weiler, Elias Valiente; síndicos Narciso Sanabria / Eliana Villalba.", "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "BIC S.A. (Buró de Información Comercial)", "tipo": "participada", "detalle": "'SATECSA S.A.' figura como accionista de BIC S.A. con 100 acciones serie B (0,86%); representada por Nelson Torales en la asamblea BIC de 10/04/2025.", "fuente": {"archivo": "Registro de accionistas.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Grupo Vázquez / Ueno", "tipo": "otro", "detalle": "No se encontró mención a Ueno, Grupo Vázquez, GV Corp ni a ITTI en los documentos de esta carpeta. Accionistas son personas físicas (familias Matsumiya/Endo/Maehara y directivos).", "fuente": null}
+  ],
+  "declarantes_siara": [
+    {"nombre": null, "documento": null, "correo": "COBRANZAS@SATECSA.COM.PY", "telefono": null, "fecha": "2026-09-21", "fuente": {"archivo": "Constancia 2026 SIARA.pdf", "pagina": 1}, "notas": "Constancia RA formato nuevo (N° 29178) sin datos del solicitante; analista MEF Liza Ana Belén Duarte Benítez; expedida 20/10/2026."}
+  ],
+  "correos_dominios": ["satecsa.com.py"],
+  "documentos": [
+    {"archivo": "Constancia 2026 SIARA.pdf", "tipo": "constancia_RA", "fecha": "2026-09-21", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia RA N° 29178 por cumplimiento anual (presentada 21/09/2026); no detalla socios ni autoridades."},
+    {"archivo": "Acta de Asamblea.pdf", "tipo": "acta_asamblea", "fecha": "2026-04-09", "paginas": 2, "legibilidad": "ocr_bueno", "resumen": "Asamblea Ordinaria 2026: presentes Matsumiya, Maehara, Florentín (61%); utilidades a capitalización; nuevo directorio y síndicos."},
+    {"archivo": "Escritura 40 16-08-2022 modificación de estatutos.pdf", "tipo": "escritura_modificacion", "fecha": "2022-08-16", "paginas": 21, "legibilidad": "ocr_bueno", "resumen": "Modificación de estatutos por aumento de capital a Gs. 10.000 millones y emisión de Gs. 5.000 millones; transcribe actas del 29/12/2021 y 04/05/2022."},
+    {"archivo": "Registro de accionistas.pdf", "tipo": "registro_accionistas", "fecha": "2026-10-08", "paginas": 1, "legibilidad": "texto", "resumen": "Hoja 12: 11 asientos, 5.000 acciones nominativas integradas; principales Matsumiya, Maehara, Endo (1.450 c/u)."}
+  ],
+  "observaciones": [
+    "No se aportó constancia de Beneficiarios Finales.",
+    "La constancia RA 2026 (formato nuevo) no detalla socios, autoridades ni capital.",
+    "Pese a las transferencias a Santiago Weiler (20+15+15) del 18/12/2025, el registro mantiene 1.450 acciones para cada uno de Matsumiya, Maehara y Endo; la suma total (5.000) es coherente con la emisión, por lo que las 1.450 serían saldos posteriores a la transferencia, pero los rangos de numeración se superponen (p.ej. acciones 2117-2132 vs 1001-2116).",
+    "En el registro, el asiento de 20 acciones de Weiler cubre las acciones 2117-2132 (16 números), inconsistente.",
+    "Objeto social no extraído (no consta en las páginas revisadas).",
+    "Sin vínculos documentales con el Grupo Vázquez/Ueno, salvo la participación cruzada en BIC S.A., donde también son accionistas Ueno Bank, Ueno Holding, ITTI, Red Digital y Vinanzas."
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "gsr",
+  "razon_social": "GSR E.A.S.",
+  "ruc": "80131927-7",
+  "tipo": "E.A.S.",
+  "carpeta_mef": "GSR E.A.S",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2023-02-20",
+    "escritura": "Proforma de Estatuto de Constitución para las E.A.S. (modelo DGPEJyBF; instrumento privado)",
+    "escribano": null,
+    "inscripcion_registro_publico": "Inscripción ante la Dirección General de Personas y Estructuras Jurídicas y Beneficiarios Finales (fecha no consta)",
+    "fuente": {"archivo": "Proforma de Estatuto EAS.pdf", "pagina": 1}
+  },
+  "domicilio": [
+    {"direccion": "TTE. ALCORTA C/LUIS PATRI, 255, Asunción", "fecha_dato": "2023-02-20", "fuente": {"archivo": "Proforma de Estatuto EAS.pdf", "pagina": 1}},
+    {"direccion": "TTE. ALCORTA C/LUIS PATRI", "fecha_dato": "2026-04-06", "fuente": {"archivo": "Constancia de RA 2026.pdf", "pagina": 1}}
+  ],
+  "objeto_social": "Objeto principal: 80000 - Actividades de investigación y seguridad; objeto secundario sin definir; puede realizar todo tipo de actividades civiles y comerciales lícitas.",
+  "actividad_principal": "seguridad e investigación",
+  "plazo_duracion": "99 años desde la inscripción del estatuto",
+  "capital": [
+    {"tipo": "social", "monto": 100000000, "moneda": "PYG", "valor_nominal_accion": 10000000, "cantidad_acciones": 10, "fecha_dato": "2023-02-20", "fuente": {"archivo": "Proforma de Estatuto EAS.pdf", "pagina": 1}},
+    {"tipo": "suscripto", "monto": 100000000, "moneda": "PYG", "valor_nominal_accion": 10000000, "cantidad_acciones": 10, "fecha_dato": "2026-04-06", "fuente": {"archivo": "Constancia de RA 2026.pdf", "pagina": 1}},
+    {"tipo": "integrado", "monto": 100000000, "moneda": "PYG", "valor_nominal_accion": 10000000, "cantidad_acciones": 10, "fecha_dato": "2026-04-06", "fuente": {"archivo": "Constancia de RA 2026.pdf", "pagina": 1}}
+  ],
+  "accionistas": [
+    {"nombre": "JULIO ESTEBAN JOSE MARTINEZ APPLEYARD", "tipo_persona": "fisica", "documento": "CI 3640891", "nacionalidad": null, "acciones": 5, "clase_acciones": "ordinarias nominativas no endosables, 1 voto", "votos": 5, "porcentaje": 50.0, "porcentaje_calculado": true, "fecha_dato": "2023-02-20", "vigente": false, "fuente": {"archivo": "Proforma de Estatuto EAS.pdf", "pagina": 5}, "confianza": "media", "notas": "Socio fundador; CI manuscrita junto a la firma ('3640891'), lectura incierta. No figura en la constancia RA 2026."},
+    {"nombre": "EDUARDO DANIEL AGÜERO", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 5, "clase_acciones": "ordinarias nominativas no endosables, 1 voto", "votos": 5, "porcentaje": 50.0, "porcentaje_calculado": true, "fecha_dato": "2023-02-20", "vigente": false, "fuente": {"archivo": "Proforma de Estatuto EAS.pdf", "pagina": 5}, "confianza": "alta", "notas": "Socio fundador. No figura en la constancia RA 2026."},
+    {"nombre": "JOSE AUGUSTO SALA CARDOZO", "tipo_persona": "fisica", "documento": "CI 3969552 (RUC 3969552-2)", "nacionalidad": "paraguaya", "acciones": 5, "clase_acciones": "Ordinarias", "votos": 5, "porcentaje": 50.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-06", "vigente": true, "fuente": {"archivo": "Constancia de RA 2026.pdf", "pagina": 1}, "confianza": "alta", "notas": "Contador; domicilio Asunción. Valor de cada acción Gs. 10.000.000."},
+    {"nombre": "RODRIGO MIGUEL RUIZ GIMENEZ", "tipo_persona": "fisica", "documento": "CI 4194277", "nacionalidad": "paraguaya", "acciones": 5, "clase_acciones": "Ordinarias", "votos": 5, "porcentaje": 50.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-06", "vigente": true, "fuente": {"archivo": "Constancia de RA 2026.pdf", "pagina": 1}, "confianza": "alta", "notas": "Ingeniero comercial; domicilio Asunción."}
+  ],
+  "autoridades": [
+    {"nombre": "JULIO ESTEBAN JOSE MARTINEZ APPLEYARD", "documento": "CI 3640891", "cargo": "Representante legal (Presidente, primer Órgano de Administración)", "fecha_asuncion": "2023-02-20", "vigencia": null, "fecha_dato": "2023-02-20", "vigente": false, "fuente": {"archivo": "Proforma de Estatuto EAS.pdf", "pagina": 5}, "confianza": "media"},
+    {"nombre": "JOSE AUGUSTO SALA CARDOZO", "documento": "CI 3969552", "cargo": "Representante legal", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2026-04-06", "vigente": true, "fuente": {"archivo": "Constancia de RA 2026.pdf", "pagina": 1}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [
+    {"nombre": "JOSE AUGUSTO SALA CARDOZO", "documento": "CI 3969552 (RUC 3969552-2)", "nacionalidad": "paraguaya", "domicilio": "Asunción", "porcentaje": 50.0, "tipo_control": "participación sustantiva (propiedad directa)", "cadena_control": null, "fecha_dato": "2026-04-06", "fuente": {"archivo": "Constancia de BF 2026.pdf", "pagina": 1}, "confianza": "alta", "notas": "Nacido 19-06-1984, contador. BF desde 01-05-2025. Aparece además una segunda fila del mismo titular con 0,0% de participación y votos 'desde 03-10-2025' (registro duplicado/inconsistente)."},
+    {"nombre": "RODRIGO MIGUEL RUIZ GIMENEZ", "documento": "CI 4194277", "nacionalidad": "paraguaya", "domicilio": "Asunción", "porcentaje": 50.0, "tipo_control": "participación sustantiva (propiedad directa)", "cadena_control": null, "fecha_dato": "2026-04-06", "fuente": {"archivo": "Constancia de BF 2026.pdf", "pagina": 1}, "confianza": "alta", "notas": "Nacido 04-12-1990, ingeniero comercial. BF desde 01-05-2025."}
+  ],
+  "historial": [
+    {"fecha": "2023-02-20", "evento": "constitucion", "detalle": "Constitución por proforma de estatuto EAS; capital Gs. 100.000.000 en 10 acciones de Gs. 10.000.000; socios Julio Esteban José Martínez Appleyard (5) y Eduardo Daniel Agüero (5); representante legal Martínez Appleyard.", "fuente": {"archivo": "Proforma de Estatuto EAS.pdf", "pagina": 1}},
+    {"fecha": "2025-05-01", "evento": "transferencia_acciones", "detalle": "Según la constancia BF, José Augusto Sala Cardozo y Rodrigo Miguel Ruiz Giménez son beneficiarios finales (50% c/u) desde 01-05-2025, lo que implica una transferencia total de acciones de los fundadores; no se aportó documento de la transferencia.", "fuente": {"archivo": "Constancia de BF 2026.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "Grupo Vázquez / Ueno", "tipo": "otro", "detalle": "No se encontró mención a Ueno, Grupo Vázquez, GV Corp ni a personas de apellido Vázquez en los documentos de esta carpeta. Correos declarados son de gmail.com.", "fuente": null}
+  ],
+  "declarantes_siara": [
+    {"nombre": "JOSE AUGUSTO SALA", "documento": "CI 3969552", "correo": "josesalacard@gmail.com", "telefono": "(0972)443668", "fecha": "2026-04-06", "fuente": {"archivo": "Constancia de RA 2026.pdf", "pagina": 1}},
+    {"nombre": "JOSE AUGUSTO SALA", "documento": "CI 3969552", "correo": "josesalacard@gmail.com", "telefono": "(0972)443668", "fecha": "2026-04-06", "fuente": {"archivo": "Constancia de BF 2026.pdf", "pagina": 1}}
+  ],
+  "correos_dominios": ["gmail.com"],
+  "documentos": [
+    {"archivo": "Constancia de RA 2026.pdf", "tipo": "constancia_RA", "fecha": "2026-04-06", "paginas": 2, "legibilidad": "texto", "resumen": "Constancia EAS RA N° 127991 (certificado 7754766). Capital suscripto e integrado Gs. 100.000.000; socios Sala Cardozo y Ruiz Giménez 50% c/u; representante legal Sala Cardozo; correo empresa mgsreas@gmail.com."},
+    {"archivo": "Constancia de BF 2026.pdf", "tipo": "constancia_BF", "fecha": "2026-04-06", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia EAS BF N° 52781 (certificado 7754765). BF: Sala Cardozo 50% y Ruiz Giménez 50% desde 01-05-2025; fila adicional de Sala Cardozo con 0% desde 03-10-2025."},
+    {"archivo": "Proforma de Estatuto EAS.pdf", "tipo": "escritura_constitucion", "fecha": "2023-02-20", "paginas": 5, "legibilidad": "ocr_bueno", "resumen": "Estatuto proforma de GSR E.A.S.: objeto actividades de investigación y seguridad; capital Gs. 100 millones; socios fundadores Martínez Appleyard y Agüero; representante legal Martínez Appleyard."}
+  ],
+  "observaciones": [
+    "Los socios fundadores (Martínez Appleyard y Agüero) no coinciden con los socios declarados en 2026 (Sala Cardozo y Ruiz Giménez); no se aportó documento de transferencia de acciones ni registro de accionistas.",
+    "La constancia BF contiene una fila duplicada de José Augusto Sala Cardozo con 0% y fecha 03-10-2025, inconsistente con la otra fila (50% desde 01-05-2025).",
+    "CI del fundador Julio E. J. Martínez Appleyard leída de anotación manuscrita (3640891); confianza media. CI de Eduardo Daniel Agüero no consta.",
+    "Empresa de seguridad/investigación sin vínculos documentados con Ueno o Grupo Vázquez en esta carpeta; correos personales gmail."
+  ]
+}

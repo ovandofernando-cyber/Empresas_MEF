@@ -1,0 +1,548 @@
+{
+ "id": "ueno_casa_de_bolsa",
+ "razon_social": "UENO CASA DE BOLSA SOCIEDAD ANONIMA",
+ "ruc": "80124419-6",
+ "tipo": "Sociedad Anónima",
+ "carpeta_mef": "UENO CASA DE BOLSA S.A",
+ "denominaciones_anteriores": [
+  {
+   "nombre": "FORWARD INVEST SOCIEDAD ANONIMA",
+   "hasta": "2023-04-03",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 2
+   }
+  }
+ ],
+ "constitucion": {
+  "fecha": "2022-03-11",
+  "escritura": "N° 530",
+  "escribano": "Luis Enrique Peroni Giralt",
+  "inscripcion_registro_publico": "DGRP Sección Personas Jurídicas y Comercio, Matrícula Jurídica N° 1645, Serie SUACE, N° 1, folio 01, 21/04/2022",
+  "fuente": {
+   "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+   "pagina": 2
+  },
+  "confianza": "alta"
+ },
+ "domicilio": [
+  {
+   "direccion": "Avenida Santa Teresa N° 2.106 e/ Aviadores del Chaco y Herminio Maldonado, Asunción",
+   "fecha_dato": "2023-04-03",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "direccion": "Avda. Santa Teresa, entre Aviadores del Chaco y Herminio Maldonado, Asunción",
+   "fecha_dato": "2026-02-06",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "AVENIDA SANTA TERESA",
+   "fecha_dato": "2026-05-26",
+   "fuente": {
+    "archivo": "CONSTANCIA RA 4379.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": "Casa de bolsa: compra y venta de valores por cuenta propia y de terceros, asesoría en valores, suscripción transitoria de emisiones, colocación, representación de obligacionistas, administración de carteras y custodia, créditos para adquisición de valores y demás operaciones de intermediación autorizadas por la CNV.",
+ "actividad_principal": "mercado de valores (casa de bolsa)",
+ "plazo_duracion": "99 años desde la inscripción",
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 20000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 20000,
+   "fecha_dato": "2022-08-12",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 2
+   },
+   "notas": "Aumento de Gs. 19.997.000.000 aprobado en Asamblea Extraordinaria N° 1 de Forward Invest (capital previo implícito Gs. 3.000.000)."
+  },
+  {
+   "tipo": "integrado",
+   "monto": 12214000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 12214,
+   "fecha_dato": "2026-02-06",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "FINANCIERA UENO S.A.E.C.A. (hoy Ueno Bank S.A.)",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80026157-7",
+   "nacionalidad": "paraguaya",
+   "acciones": 1,
+   "clase_acciones": "OVS (ordinarias voto simple)",
+   "votos": 1,
+   "porcentaje": null,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2022-08-12",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 2
+   },
+   "confianza": "media",
+   "notas": "Accionista de Forward Invest S.A. con 1 acción de Gs. 100.000 (representada por Federico Miguel Vázquez Villasanti). Total de acciones antes del aumento no consta."
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 1,
+   "clase_acciones": "OVS (ordinarias voto simple)",
+   "votos": 1,
+   "porcentaje": null,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2022-08-12",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 2
+   },
+   "confianza": "media",
+   "notas": "Accionista de Forward Invest S.A. con 1 acción de Gs. 100.000 (representada por Miguel Ángel Almada Frutos)."
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 10821,
+   "clase_acciones": "OVS (ordinarias voto simple)",
+   "votos": 10821,
+   "porcentaje": 88.6,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-06-27",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Folio 6 (27/06/2025): títulos 1 (1), 1.251-11.250 (10.000), 11.251-11.293 (43), 11.338-12.114 (777); domicilio Torres del Paseo, Torre 2, Piso 25."
+  },
+  {
+   "nombre": "U PARAGUAY S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 1393,
+   "clase_acciones": "OVS (ordinarias voto simple)",
+   "votos": 1393,
+   "porcentaje": 11.4,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-06-27",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Folio 6: títulos 2-1.249 (1.248), 1.250 (1), 11.294-11.337 (44), 12.115-12.214 (100); domicilio Torres del Paseo, Torre 3, Piso 11."
+  },
+  {
+   "nombre": "U PARAGUAY S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 12213,
+   "clase_acciones": "OVS (ordinarias voto simple)",
+   "votos": 12213,
+   "porcentaje": 99.99,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-02-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Folio 7 del registro (30/06/2025) y Acta N° 10 (06/02/2026): 12.213 acciones en 7 asientos (Gs. 12.213.000.000); representada por Alejandro Gómez Abente. Los títulos 1.251-11.250, 11.251-11.293 y 11.338-12.114 fueron transferidos de Grupo Vázquez a U Paraguay el 30/06/2025."
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 1,
+   "clase_acciones": "OVS (ordinarias voto simple)",
+   "votos": 1,
+   "porcentaje": 0.01,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-02-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Título 1 (1 acción); representada por Bernardo Algorta en el Acta N° 10."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "LIZ RAQUEL VAZQUEZ BENITEZ",
+   "documento": "CI 1.050.627",
+   "cargo": "Presidente (Director Presidente)",
+   "fecha_asuncion": "2023-02-06",
+   "vigencia": null,
+   "fecha_dato": "2023-04-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "VERONICA VAZQUEZ MUNIAGURRIA",
+   "documento": "CI 3.224.278",
+   "cargo": "Vicepresidente (Director Vicepresidente)",
+   "fecha_asuncion": "2023-02-06",
+   "vigencia": null,
+   "fecha_dato": "2023-04-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Eduardo Javier Gross Brown Costa",
+   "documento": "CI 439.189",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2026-02-06",
+   "vigencia": null,
+   "fecha_dato": "2026-02-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "CI tomada del acta de Ueno Bank (Gross Brown Costa, Eduardo Javier 439189, accionista de Ueno Bank). Firma digitalmente el acta."
+  },
+  {
+   "nombre": "Carlos Francisco Impagliatelli Bareiro",
+   "documento": null,
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2026-02-06",
+   "vigencia": null,
+   "fecha_dato": "2026-02-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Escrito 'Impaglatelli' en el acta. Firma digitalmente el registro de accionistas; director titular de Ueno Bank (julio 2026)."
+  },
+  {
+   "nombre": "Carolina Galeano de Bestard",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-02-06",
+   "vigencia": null,
+   "fecha_dato": "2026-02-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Leonardo Rafael Alfonzo Segovia",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2026-02-06",
+   "vigencia": null,
+   "fecha_dato": "2026-02-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Ricardo Fernandez",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2026-02-06",
+   "vigencia": null,
+   "fecha_dato": "2026-02-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Alejandro Gómez Abente",
+   "documento": "CI 1.432.121",
+   "cargo": "Presidente de Asamblea y representante del accionista U Paraguay S.A.",
+   "fecha_asuncion": "2026-02-06",
+   "vigencia": null,
+   "fecha_dato": "2026-02-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "CI tomada de la escritura 44/2024 de Ueno Bank; director titular de Ueno Bank."
+  },
+  {
+   "nombre": "Bernardo Algorta",
+   "documento": null,
+   "cargo": "Secretario de Asamblea y representante del accionista Grupo Vázquez S.A.E.",
+   "fecha_asuncion": "2026-02-06",
+   "vigencia": null,
+   "fecha_dato": "2026-02-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "2022-03-11",
+   "evento": "constitucion",
+   "detalle": "Constitución como FORWARD INVEST S.A. por escritura N° 530 (Esc. Luis Enrique Peroni Giralt); inscripta 21/04/2022.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2022-08-12",
+   "evento": "aumento_capital",
+   "detalle": "Asamblea Extraordinaria N° 1: accionistas Financiera Ueno S.A.E.C.A. (rep. Federico Miguel Vázquez Villasanti) y Grupo Vázquez S.A.E. (rep. Miguel Ángel Almada Frutos), 1 acción c/u; aumento a Gs. 20.000.000.000 y reforma total de estatutos con cambio de denominación a UENO CASA DE BOLSA S.A.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2023-04-03",
+   "evento": "cambio_denominacion",
+   "detalle": "Escritura N° 40 (Esc. María Teresa López de Aponte): transcripción de actas extraordinarias N° 1 y 4 y ordinaria N° 2; Forward Invest S.A. pasa a denominarse Ueno Casa de Bolsa S.A. Comparecen Liz Raquel Vázquez Benítez (Pta.) y Verónica Vázquez Muniagurria (Vice).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2023-05-12",
+   "evento": "aumento_capital",
+   "detalle": "Suscripción de 11.250 acciones (títulos 1-11.250) originalmente por ueno Bank.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2023-06-30",
+   "evento": "aumento_capital",
+   "detalle": "Suscripción de 87 acciones (títulos 11.251-11.337) por ueno Bank.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2024-05-30",
+   "evento": "transferencia_acciones",
+   "detalle": "ueno Bank transfiere a Grupo Vázquez S.A.E. 10.000 acciones (títulos 1.251-11.250).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2024-06-28",
+   "evento": "transferencia_acciones",
+   "detalle": "ueno Bank transfiere a Grupo Vázquez el resto; Grupo Vázquez transfiere a U Paraguay S.A. 1.248 + 44 acciones; 1 acción (título 1.250) pasa de Grupo Vázquez a Miguel Vázquez y de éste a U Paraguay el mismo día.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-06-27",
+   "evento": "aumento_capital",
+   "detalle": "Suscripción de 777 acciones por Grupo Vázquez y 100 acciones por U Paraguay (folio 6).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-06-30",
+   "evento": "transferencia_acciones",
+   "detalle": "Grupo Vázquez S.A.E. transfiere a U Paraguay S.A. 10.820 acciones (títulos 1.251-11.250, 11.251-11.293, 11.338-12.114), conservando solo el título 1.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2026-02-06",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea Ordinaria N° 10 (continuación de la iniciada el 09/01/2026): directorio Gross Brown Costa (Pte), Impagliatelli Bareiro (Vice), Galeano de Bestard, Alfonzo Segovia (supl.), síndico Ricardo Fernández.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "U PARAGUAY S.A. (RUC 80135001-8)",
+   "tipo": "accionista_de",
+   "detalle": "Controlante con 99,99%; también accionista controlante de Ueno Bank.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "GRUPO VAZQUEZ S.A.E. (RUC 80086759-9)",
+   "tipo": "accionista_de",
+   "detalle": "Socio fundador/accionista; hasta 30/06/2025 tenía 88,6%; hoy 1 acción.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "UENO BANK S.A. (ex Financiera Ueno S.A.E.C.A.)",
+   "tipo": "accionista_de",
+   "detalle": "Fue socio fundador y suscriptor original de las acciones emitidas en 2023, transferidas a Grupo Vázquez en 2024.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Miguel Vázquez",
+   "tipo": "accionista_de",
+   "detalle": "Titular transitorio de 1 acción el 28/06/2024.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Federico Miguel Vázquez Villasanti / Miguel Ángel Almada Frutos / Liz Raquel Vázquez Benítez / Verónica Vázquez Muniagurria",
+   "tipo": "director_comun",
+   "detalle": "Personas del entorno Vázquez/Ueno en la administración inicial; Almada Frutos es síndico de Ueno Bank; Liz Raquel Vázquez Benítez fue síndica de Place Analyzer.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Eduardo Javier Gross Brown Costa, Carlos F. Impagliatelli Bareiro, Alejandro Gómez Abente",
+   "tipo": "director_comun",
+   "detalle": "Gross Brown es accionista de Ueno Bank; Impagliatelli y Gómez Abente son directores de Ueno Bank.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 10.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Luis Enrique Peroni Giralt (escribano)",
+   "tipo": "otro",
+   "detalle": "Mismo escribano de constitución que IDL (2008).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+    "pagina": 2
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "SECRETARIAGENERAL@UENOCASADEBOLSA.COM.PY",
+   "telefono": null,
+   "fecha": "2026-05-26",
+   "fuente": {
+    "archivo": "CONSTANCIA RA 4379.pdf",
+    "pagina": 1
+   },
+   "notas": "Constancia RA N° 4379 formato nuevo, sin datos del solicitante; analista Rodrigo Manuel Ruiz Díaz Moral; expedida 17/06/2026."
+  }
+ ],
+ "correos_dominios": [
+  "uenocasadebolsa.com.py"
+ ],
+ "documentos": [
+  {
+   "archivo": "CONSTANCIA RA 4379.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-05-26",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 4379 por cumplimiento anual; sin detalle de socios/autoridades."
+  },
+  {
+   "archivo": "ACTA ORDINARIA NRO 10.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-02-06",
+   "paginas": 2,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Asamblea Ordinaria N° 10: U Paraguay 12.213 acciones y Grupo Vázquez 1 (total 12.214); nuevo directorio."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICACION NRO 40.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2023-04-03",
+   "paginas": 43,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Escritura N° 40: reforma de estatutos de Forward Invest S.A. hoy Ueno Casa de Bolsa S.A.; aumento a Gs. 20.000 millones."
+  },
+  {
+   "archivo": "REGISTRO ACCIONISTAS FOLIO 6.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2025-06-30",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "Folios 6 (27/06/2025) y 7 (30/06/2025) con historial de transferencias ueno Bank -> Grupo Vázquez -> U Paraguay."
+  }
+ ],
+ "observaciones": [
+  "No se aportó constancia de Beneficiarios Finales.",
+  "La constancia RA no detalla socios, autoridades ni capital.",
+  "En el registro, el asiento de 100 acciones (títulos 12.115-12.214) figura con monto Gs. 1.000.000 en lugar de Gs. 100.000.000.",
+  "En el folio 7, la anotación 'transferencia de Grupo Vazquez de U Paraguay' tiene redacción inconsistente (debería ser 'a U Paraguay').",
+  "La acción de Miguel Vázquez (28/06/2024) no tiene CI registrada; identidad exacta no determinada.",
+  "No se revisaron las últimas páginas de la escritura N° 40 (directorio inicial de Ueno Casa de Bolsa en 2023, salvo comparecientes)."
+ ]
+}

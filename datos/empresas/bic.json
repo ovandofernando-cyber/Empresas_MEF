@@ -1,0 +1,1528 @@
+{
+ "id": "bic",
+ "razon_social": "BIC SOCIEDAD ANÓNIMA (BURÓ DE INFORMACIÓN COMERCIAL) / BURÓ DE INFORMACIÓN COMERCIAL SOCIEDAD ANONIMA",
+ "ruc": "80090066-9",
+ "tipo": "Sociedad Anónima",
+ "carpeta_mef": "BIC SA",
+ "denominaciones_anteriores": [
+  {
+   "nombre": "NEIVA SOCIEDAD ANÓNIMA",
+   "hasta": "2018-08-08",
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "constitucion": {
+  "fecha": "2015-05-26",
+  "escritura": "N° 79",
+  "escribano": "María Guadalupe Peroni Manzoni",
+  "inscripcion_registro_publico": "DGRP Personas Jurídicas Matrícula Jurídica N° 12, N° 1, folio 1, 01/07/2015; Registro Público de Comercio Matrícula Comercial N° 13, N° 1, folio 1, 01/07/2015",
+  "fuente": {
+   "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+   "pagina": 1
+  },
+  "confianza": "media"
+ },
+ "domicilio": [
+  {
+   "direccion": "Oliva N° 781 entre Ayolas y O'Leary, Asunción",
+   "fecha_dato": "2025-04-10",
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "OLIVA",
+   "fecha_dato": "2026-07-30",
+   "fuente": {
+    "archivo": "Constancia RA SIARA.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": null,
+ "actividad_principal": "buró de información crediticia/comercial (servicios de información, factoring app)",
+ "plazo_duracion": null,
+ "capital": [
+  {
+   "tipo": "suscripto",
+   "monto": 11581000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 11581,
+   "fecha_dato": "2026-09-22",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "notas": "Total de acciones suscriptas e integradas según registro (series A y B)."
+  },
+  {
+   "tipo": "integrado",
+   "monto": 11581000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 11581,
+   "fecha_dato": "2026-09-22",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   }
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "EMPRESA IZAGUIRRE BARRAIL INVERSORA S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 682,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 5.889,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 600, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "NEGOFIN S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 682,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 5.889,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 600, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "GESTION Y VENTA S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 582,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 5.025,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 500, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "UNIVERSO DE CREDITOS Y CONSUMO SA",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 682,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 5.889,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 600, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "COMPAÑIA ADMINISTRADORA DE RIESGOS S.A (CARSA)",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 682,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 5.889,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 600, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "CREDISOLUCIÓN S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 682,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 5.889,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 600, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "SDM SERVICIOS Y MANDATOS S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 582,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 5.025,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 500, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "SERFIN S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 582,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 5.025,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 500, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "ELECTROBAN S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 382,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 3.299,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 300, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "BELLA VISTA SOCIEDAD ANONIMA DE INMUEBLES Y MANDATOS",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 182,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 1.572,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 100, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "PAC S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 482,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 4.162,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 400, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "PIRA PIRE S.A DE ADMINISTRACIÓN CREDITOS Y MANDATOS",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 282,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 2.435,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 200, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "BANCO CONTINENTAL S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 1446,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 12.486,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 1200, Serie B: 246 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "CRISOL ENCARNACION FINANCIERA S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 400,
+   "clase_acciones": "Serie A",
+   "votos": null,
+   "porcentaje": 3.454,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 400, Serie B: 0 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "SISTEMAS Y GESTIONES S.A (SIGESA)",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 282,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 2.435,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 200, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "COOP. MULT. DE AHORRO CRED. Y SERV. MEDALLA MILAGROSA LTDA.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 482,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 4.162,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 400, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "CÁMARA INDUSTRIAL PARAGUAYA DE MOTOCICLETAS Y AUTOMOTORES",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 150,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 1.295,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 100, Serie B: 50 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "UENO BANK S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 864,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 7.46,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 700, Serie B: 164 acciones; todas totalmente integradas (VN Gs. 1.000.000). Entidad vinculada al grupo Ueno/Vázquez. Figura con la denominación 'UENO BANK S.A.E.C.A' (la denominación actual es Ueno Bank S.A.); suscripción 19/9/2019 (entonces Financiera El Comercio S.A.E.C.A.)."
+  },
+  {
+   "nombre": "UENO HOLDING S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 182,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 1.572,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 100, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000). Entidad vinculada al grupo Ueno/Vázquez."
+  },
+  {
+   "nombre": "ITTI S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 182,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 1.572,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 100, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000). Entidad vinculada al grupo Ueno/Vázquez."
+  },
+  {
+   "nombre": "IOIO S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 182,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 1.572,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 100, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "RED DIGITAL S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 182,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 1.572,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 100, Serie B: 82 acciones; todas totalmente integradas (VN Gs. 1.000.000). Entidad vinculada al grupo Ueno/Vázquez."
+  },
+  {
+   "nombre": "VINANZAS S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 150,
+   "clase_acciones": "Serie A y Serie B",
+   "votos": null,
+   "porcentaje": 1.295,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 100, Serie B: 50 acciones; todas totalmente integradas (VN Gs. 1.000.000). Entidad vinculada al grupo Ueno/Vázquez."
+  },
+  {
+   "nombre": "CREDICLAVE S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 20,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.173,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 20 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "VIP GROUP S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 21,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.181,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 21 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "TARJETA PY S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 20,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.173,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 20 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "CREDITO AMIGO SA",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 20,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.173,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 20 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "SOLUFIN S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 51,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.44,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 51 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "DIPRESA S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 20,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.173,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 20 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "TUPI RAMOS GENERALES S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 51,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.44,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 51 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "LHC S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 30,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.259,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 30 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "PRECIOS BAJOS PARAGUAY S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 21,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.181,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 21 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "SIMPLE S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 20,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.173,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 20 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "JET TRADE ELECTRODOMESTICOS S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 20,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.173,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 20 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "SERSA S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 20,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.173,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 20 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "SALLUSTRO Y CIA S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 20,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.173,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 20 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "SATECSA S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 100,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.863,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 100 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "FINEXPAR S.A.E.C.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 101,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.872,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 101 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "SOLUCIONES DE NEGOCIOS S.A",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 20,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.173,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 20 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  },
+  {
+   "nombre": "COOPENSA (COOP. MULT. DE AHORRO Y CREDITO, CONS, PROD Y SERV NTRA SRA DE LA ASUNCION LTDA.)",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 40,
+   "clase_acciones": "Serie B",
+   "votos": null,
+   "porcentaje": 0.345,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-22",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Serie A: 0, Serie B: 40 acciones; todas totalmente integradas (VN Gs. 1.000.000)."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "PEDRO ESPINOLA VARGAS PEÑA",
+   "documento": "CI 488.876",
+   "cargo": "Presidente del Directorio (Director titular)",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista COMPAÑÍA ADMINISTRADORA DE RIESGOS S.A – CARSA"
+  },
+  {
+   "nombre": "DIANA ARELLANO",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista COMPAÑÍA ADMINISTRADORA DE RIESGOS S.A – CARSA"
+  },
+  {
+   "nombre": "JUAN MAX REJALAGA",
+   "documento": "CI 1.046.140",
+   "cargo": "Vicepresidente del Directorio (Director titular)",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista CREDI SOLUCIÓN S.A.E.C.A"
+  },
+  {
+   "nombre": "CARLOS BALTEYRO",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista CREDI SOLUCIÓN S.A.E.C.A"
+  },
+  {
+   "nombre": "VENANCIO RÍOS PORTILLO",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista NEGOFIN S.A.E.C.A"
+  },
+  {
+   "nombre": "WIDILFO ESCOBAR",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista NEGOFIN S.A.E.C.A"
+  },
+  {
+   "nombre": "JULIO CÉSAR VÁZQUEZ PIATTI",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista UNIVERSO DE CRÉDITOS Y CONSUMO S.A"
+  },
+  {
+   "nombre": "JOSÉ ANIBAL ARGUELLO ROJAS",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista UNIVERSO DE CRÉDITOS Y CONSUMO S.A"
+  },
+  {
+   "nombre": "ADELIO ALBERTO IBÁÑEZ",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista EMPRESA IZAGUIRRE BARRAIL INVERSORA S.A.E.C.A"
+  },
+  {
+   "nombre": "REBECCA GISELLE RECALDE RUIZ",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista EMPRESA IZAGUIRRE BARRAIL INVERSORA S.A.E.C.A"
+  },
+  {
+   "nombre": "SERGIO DANIEL MARIN PERALTA",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista SDM SERVICIOS Y MANDATOS S.A"
+  },
+  {
+   "nombre": "JOSÉ ROLANDO BÁEZ AGUILERA",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista SDM SERVICIOS Y MANDATOS S.A"
+  },
+  {
+   "nombre": "JOSÉ NICOLÁS RIVAROLA ONETO",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista ELECTROBAN S.A.E.C.A"
+  },
+  {
+   "nombre": "THALYA BENTO",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista ELECTROBAN S.A.E.C.A"
+  },
+  {
+   "nombre": "JOSÉ ORLANDO CÁCERES ACOSTA",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista PAC S.A"
+  },
+  {
+   "nombre": "JOSÉ EDUARDO CÁCERES ARAUJO",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista PAC S.A"
+  },
+  {
+   "nombre": "GUSTAVO DÍAZ",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista SERFIN S.A"
+  },
+  {
+   "nombre": "LUIS DÍAZ",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista SERFIN S.A"
+  },
+  {
+   "nombre": "PAULA MARIA VELILLA",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista SISTEMAS Y GESTIONES S.A – SIGESA"
+  },
+  {
+   "nombre": "CARLOS GUSTAVO HEISECKE GONZALEZ",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista SISTEMAS Y GESTIONES S.A – SIGESA"
+  },
+  {
+   "nombre": "LORENZO BARRETO DUARTE",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista COOP. MULT. DE AHORRO CRED. Y SERV. MEDALLA MILAGROSA LTDA"
+  },
+  {
+   "nombre": "VALENTÍN GALEANO",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista COOP. MULT. DE AHORRO CRED. Y SERV. MEDALLA MILAGROSA LTDA"
+  },
+  {
+   "nombre": "LUIS FERNANDO BÁEZ",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista BANCO CONTINENTAL S.A.E.C.A"
+  },
+  {
+   "nombre": "JUAN JOSÉ PANDO RODAS",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista BANCO CONTINENTAL S.A.E.C.A"
+  },
+  {
+   "nombre": "CÉSAR CORONEL",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista CÁMARA INDUSTRIAL PARAGUAYA DE MOTOCICLETAS Y AUTOMOTORES"
+  },
+  {
+   "nombre": "ALICIA SAMANIEGO",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Designado por el accionista CÁMARA INDUSTRIAL PARAGUAYA DE MOTOCICLETAS Y AUTOMOTORES"
+  },
+  {
+   "nombre": "FERNANDO BECONI",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "STEPHAN VYSOKOLÁN",
+   "documento": null,
+   "cargo": "Síndico suplente (también asesor jurídico)",
+   "fecha_asuncion": "2025-04-10",
+   "vigencia": "periodo 2025-2026 (2 años)",
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "CHRISTIAN L. MENDOZA GÓMEZ",
+   "documento": null,
+   "cargo": "Gerente General",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2025-04-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "PEDRO RAMON ESPINOLA VARGAS PEÑA",
+   "documento": "CI 488.876",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2022-04-07",
+   "vigencia": null,
+   "fecha_dato": "2022-07-11",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Nombrado por Acta de Asamblea Ordinaria N° 19 del 07/04/2022"
+  },
+  {
+   "nombre": "JUAN MAX REJALAGA QUIÑONES",
+   "documento": "CI 1.046.140",
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2022-04-07",
+   "vigencia": null,
+   "fecha_dato": "2022-07-11",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "2015-05-26",
+   "evento": "constitucion",
+   "detalle": "Constituida como NEIVA S.A. por escritura N° 79 (N.P. María Guadalupe Peroni Manzoni).",
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2017-01-24",
+   "evento": "modificacion_estatutos",
+   "detalle": "Escritura N° 09 (N.P. Celia Concepción Gómez).",
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2017-09-14",
+   "evento": "modificacion_estatutos",
+   "detalle": "Escritura N° 12 (N.P. Mónica Celeste Mendoza Aranda).",
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2018-08-08",
+   "evento": "cambio_denominacion",
+   "detalle": "Escritura N° 122: modificación de estatutos, cambio de denominación (NEIVA S.A. -> BIC S.A. Buró de Información Comercial) y reducción del capital social.",
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2022-04-07",
+   "evento": "modificacion_estatutos",
+   "detalle": "Asamblea Extraordinaria N° 20: aprueba reforma estatutaria (capitalización) salvo art. 28, pasando a cuarto intermedio. Presentes, entre otros, Financiera Ueno S.A.E.C.A. y Credicentro S.A.E.C.A. (ambas representadas por Miguel Almada) y Visión Banco S.A.E.C.A. (Oscar Urbieta).",
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "fecha": "2022-07-11",
+   "evento": "modificacion_estatutos",
+   "detalle": "Escritura N° 14 (N.P. Mónica Celeste Mendoza Aranda, Reg. 1201, Presidente Franco): transcripción del acta y modificación de estatutos.",
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-04-10",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea Ordinaria N° 25: aprueba ejercicio 2024 (ganancia Gs. 930.647.805), capitaliza reservas facultativas y utilidades (Gs. 2.379.142.281); elige directorio de 13 titulares y 13 suplentes 2025-2026; Pedro Espínola Vargas Peña presidente, Juan Max Rejalaga vicepresidente.",
+   "fuente": {
+    "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "fecha": "2025-08-25",
+   "evento": "aumento_capital",
+   "detalle": "Suscripción de Banco Continental S.A.E.C.A. (1.200 serie A y 246 serie B) con fecha 25/8/2025 según registro.",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 2
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "UENO BANK S.A. (registrado como UENO BANK S.A.E.C.A)",
+   "tipo": "accionista_de",
+   "detalle": "864 acciones (7,46%) de BIC.",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "entidad_o_persona": "UENO HOLDING S.A.E.C.A",
+   "tipo": "accionista_de",
+   "detalle": "182 acciones (1,57%).",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "entidad_o_persona": "ITTI S.A.E.C.A",
+   "tipo": "accionista_de",
+   "detalle": "182 acciones (1,57%).",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "entidad_o_persona": "RED DIGITAL S.A (REDISA)",
+   "tipo": "accionista_de",
+   "detalle": "182 acciones (1,57%).",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "entidad_o_persona": "VINANZAS S.A",
+   "tipo": "accionista_de",
+   "detalle": "150 acciones (1,30%).",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "entidad_o_persona": "Grupo Ueno/Vázquez (agregado)",
+   "tipo": "otro",
+   "detalle": "En conjunto Ueno Bank, Ueno Holding, ITTI, Red Digital y Vinanzas suman 1.560 acciones (13,47%); ninguna de ellas designa director en el directorio 2025-2026.",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "entidad_o_persona": "SATECSA S.A (SATEC)",
+   "tipo": "accionista_de",
+   "detalle": "100 acciones (0,86%).",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   }
+  },
+  {
+   "entidad_o_persona": "FINEXPAR S.A.E.C.A",
+   "tipo": "accionista_de",
+   "detalle": "101 acciones (0,87%); Finexpar fue fiduciaria del Fideicomiso Shopping Costanera.",
+   "fuente": {
+    "archivo": "Registro de accionistas.pdf",
+    "pagina": 5
+   }
+  },
+  {
+   "entidad_o_persona": "Miguel Almada",
+   "tipo": "otro",
+   "detalle": "Representó a Financiera Ueno S.A.E.C.A. y a Credicentro S.A.E.C.A. en la Asamblea Extraordinaria N° 20 (2022); Miguel Ángel Almada Frutos es síndico titular de Ueno Bank (2026).",
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "entidad_o_persona": "Visión Banco S.A.E.C.A.",
+   "tipo": "accionista_de",
+   "detalle": "Accionista presente en 2022 (absorbido luego por Ueno Bank); no figura en el registro actual.",
+   "fuente": {
+    "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+    "pagina": 3
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "FACTURACION@BICSA.COM.PY",
+   "telefono": null,
+   "fecha": "2026-07-30",
+   "fuente": {
+    "archivo": "Constancia RA SIARA.pdf",
+    "pagina": 1
+   },
+   "notas": "Constancia RA N° 27610 (formato nuevo) sin datos del solicitante; analista MEF Aníbal Lovera González; expedida 10/10/2026."
+  }
+ ],
+ "correos_dominios": [
+  "bicsa.com.py"
+ ],
+ "documentos": [
+  {
+   "archivo": "Constancia RA SIARA.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-07-30",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 27610 por cumplimiento anual; no detalla socios ni autoridades."
+  },
+  {
+   "archivo": "Acta de Asamblea 25 10-04-2025.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2025-04-10",
+   "paginas": 5,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Asamblea Ordinaria N° 25: estados 2024, capitalización, remuneraciones y directorio 2025-2026 (13+13), síndicos Beconi/Vysokolán. La pág. 1 contiene además el cierre de otra acta."
+  },
+  {
+   "archivo": "Escritura 14 11-07-2022 Modificación de Estatutos.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2022-07-11",
+   "paginas": 22,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Escritura N° 14: historia societaria (NEIVA S.A. 2015) y transcripción del Acta Extraordinaria N° 20 de reforma de estatutos."
+  },
+  {
+   "archivo": "Registro de accionistas.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-09-22",
+   "paginas": 5,
+   "legibilidad": "texto",
+   "resumen": "Registro (págs. 2-6 del libro): 40 accionistas personas jurídicas, total 11.581 acciones de Gs. 1.000.000 series A y B."
+  }
+ ],
+ "observaciones": [
+  "No se aportó constancia de Beneficiarios Finales; BIC tiene capital atomizado (máx. Banco Continental 12,49%).",
+  "La constancia RA 2026 no detalla socios, autoridades ni capital.",
+  "El registro aportado comienza en 'Página 2' del libro; la suma de acciones de los asientos (11.581) coincide con el total declarado, por lo que no faltarían titulares.",
+  "El registro denomina 'UENO BANK S.A.E.C.A' al accionista; la razón social actual es Ueno Bank S.A.",
+  "Banco Río S.A.E.C.A. figura presente en la asamblea 2025 pero no en el registro de accionistas aportado.",
+  "Los rangos de numeración de títulos no siempre coinciden con las cantidades de acciones (p.ej. Ueno Holding serie A 100 acciones con rango 00001-00060 y 01021-01040).",
+  "Objeto social no extraído en detalle."
+ ]
+}

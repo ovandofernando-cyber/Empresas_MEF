@@ -1,0 +1,77 @@
+{
+  "id": "hanoi",
+  "razon_social": "HANOI S.A.",
+  "ruc": "80089722-6",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "HANOI SA",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2015-01-28",
+    "escritura": "N° 03",
+    "escribano": "Verónica Josefina Ruiz Llano",
+    "inscripcion_registro_publico": null,
+    "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 1},
+    "confianza": "media"
+  },
+  "domicilio": [
+    {"direccion": "Prof. Francisco Chávez N° 273 casi Dr. Bestard, Asunción", "fecha_dato": "2018-08-30", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 1}},
+    {"direccion": "AVENIDA SANTA TERESA 1827 TORRE 3 PISO 11 (Torres del Paseo), Asunción", "fecha_dato": "2026-07-27", "fuente": {"archivo": "CONSTANCIA RA NRO 23985.pdf", "pagina": 1}}
+  ],
+  "objeto_social": null,
+  "actividad_principal": null,
+  "plazo_duracion": null,
+  "capital": [
+    {"tipo": "social", "monto": 560000000, "moneda": "PYG", "valor_nominal_accion": 100000, "cantidad_acciones": 5600, "fecha_dato": "2017-06-20", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 2}, "notas": "Capital anterior al aumento (calculado de 5.600 acciones presentes en el Acta N° 5)."},
+    {"tipo": "social", "monto": 2000000000, "moneda": "PYG", "valor_nominal_accion": 100000, "cantidad_acciones": 20000, "fecha_dato": "2018-08-30", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 4}},
+    {"tipo": "integrado", "monto": 2000000000, "moneda": "PYG", "valor_nominal_accion": 100000, "cantidad_acciones": 20000, "fecha_dato": "2026-08-25", "fuente": {"archivo": "REGISTRO ACCIONISTAS-HOJA 11.pdf", "pagina": 1}}
+  ],
+  "accionistas": [
+    {"nombre": "MATIAS GABRIEL BRIZUELA CARTES", "tipo_persona": "fisica", "documento": "CI 2.201.981", "nacionalidad": "paraguaya", "acciones": 1904, "clase_acciones": "ordinarias", "votos": null, "porcentaje": 34.0, "porcentaje_calculado": false, "fecha_dato": "2017-06-20", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 2}, "confianza": "media"},
+    {"nombre": "JORGE FRANCO TUBINO", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 1848, "clase_acciones": "ordinarias", "votos": null, "porcentaje": 33.0, "porcentaje_calculado": false, "fecha_dato": "2017-06-20", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 2}, "confianza": "media"},
+    {"nombre": "VIVIANNE BERNARDES DE CIBILS", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 952, "clase_acciones": "ordinarias", "votos": null, "porcentaje": 17.0, "porcentaje_calculado": false, "fecha_dato": "2017-06-20", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 2}, "confianza": "media"},
+    {"nombre": "CRISTHIAN CIBILS WILSON SMITH", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 896, "clase_acciones": "ordinarias", "votos": null, "porcentaje": 16.0, "porcentaje_calculado": false, "fecha_dato": "2017-06-20", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 2}, "confianza": "media"},
+    {"nombre": "ITTI S.A.E.", "tipo_persona": "juridica", "documento": "RUC 80028355-4", "nacionalidad": "paraguaya", "acciones": 14552, "clase_acciones": "ordinarias (VN Gs. 100.000)", "votos": 14552, "porcentaje": 72.76, "porcentaje_calculado": false, "fecha_dato": "2026-08-25", "vigente": true, "fuente": {"archivo": "REGISTRO ACCIONISTAS-HOJA 11.pdf", "pagina": 1}, "confianza": "alta", "notas": "Suma de 12 asientos del registro, todos con fecha de suscripción 14/3/2024; coincide con el Acta N° 22 (30/03/2026: 14.552 votos, 72,76%, Gs. 1.455.200.000, representada por Guillermo Vázquez)."},
+    {"nombre": "MARKHEL S.A.", "tipo_persona": "juridica", "documento": null, "nacionalidad": null, "acciones": 5448, "clase_acciones": "ordinarias (VN Gs. 100.000)", "votos": 5448, "porcentaje": 27.24, "porcentaje_calculado": true, "fecha_dato": "2026-08-25", "vigente": true, "fuente": {"archivo": "REGISTRO ACCIONISTAS-HOJA 11.pdf", "pagina": 1}, "confianza": "alta", "notas": "Suma de 10 asientos del registro con fecha 14/3/2024. No asistió a la Asamblea N° 22. RUC no consta."}
+  ],
+  "autoridades": [
+    {"nombre": "MATIAS GABRIEL BRIZUELA CARTES", "documento": "CI 2.201.981", "cargo": "Presidente", "fecha_asuncion": "2017-06-20", "vigencia": null, "fecha_dato": "2018-08-30", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 1}, "confianza": "alta", "notas": "Electo en Asamblea General Ordinaria Acta N° 04 del 20/06/2017."},
+    {"nombre": "César Astigarraga", "documento": "CI 3.807.117", "cargo": "Presidente", "fecha_asuncion": "2026-03-30", "vigencia": null, "fecha_dato": "2026-03-30", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 22.pdf", "pagina": 2}, "confianza": "alta", "notas": "CI tomada de la constancia RA de Place Analyzer (César Manuel Astigarraga Lambaré)."},
+    {"nombre": "Diana Mongelos", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2026-03-30", "vigencia": null, "fecha_dato": "2026-03-30", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 22.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "Diego Gómez (Diego Sebastián Gómez Arce)", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2026-03-30", "vigencia": null, "fecha_dato": "2026-03-30", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 22.pdf", "pagina": 2}, "confianza": "alta", "notas": "Presidente de la Asamblea N° 22; firma digitalmente acta y registro."}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2015-01-28", "evento": "constitucion", "detalle": "Constitución por escritura N° 03 ante la Esc. Verónica Josefina Ruiz Llano.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 1}},
+    {"fecha": "2017-06-20", "evento": "aumento_capital", "detalle": "Asamblea General Extraordinaria N° 5: accionistas Brizuela Cartes (34%), Franco Tubino (33%), Bernardes de Cibils (17%), Cibils Wilson Smith (16%); se aprueba aumentar el capital de Gs. 560.000.000 a Gs. 2.000.000.000 (20.000 acciones de Gs. 100.000) y modificar arts. 4° y 10°.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 2}},
+    {"fecha": "2018-08-30", "evento": "modificacion_estatutos", "detalle": "Escritura N° 204 (Esc. María Stella Galiano Acosta, Reg. 659): protocolización del acta y modificación de estatutos por aumento de capital.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "pagina": 1}},
+    {"fecha": "2024-03-14", "evento": "transferencia_acciones", "detalle": "Registro de accionistas: todas las 20.000 acciones figuran a nombre de ITTI S.A.E. (14.552) y MARKHEL S.A. (5.448) con fecha 14/3/2024. No se aportó documento de la adquisición a los socios anteriores.", "fuente": {"archivo": "REGISTRO ACCIONISTAS-HOJA 11.pdf", "pagina": 1}},
+    {"fecha": "2026-03-30", "evento": "cambio_directorio", "detalle": "Asamblea Ordinaria N° 22 (solo ITTI presente, 72,76%): sin utilidades a distribuir; directorio Astigarraga (Pte), Mongelos (Vice), Gómez (titular).", "fuente": {"archivo": "ACTA ORDINARIA NRO 22.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "ITTI S.A.E.C.A. (RUC 80028355-4)", "tipo": "accionista_de", "detalle": "Accionista mayoritario (72,76%).", "fuente": {"archivo": "REGISTRO ACCIONISTAS-HOJA 11.pdf", "pagina": 1}},
+    {"entidad_o_persona": "MARKHEL S.A.", "tipo": "accionista_de", "detalle": "Accionista minoritario (27,24%); no identificado en otros documentos de esta carpeta.", "fuente": {"archivo": "REGISTRO ACCIONISTAS-HOJA 11.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Guillermo Vázquez", "tipo": "otro", "detalle": "Representante de ITTI S.A.E. y secretario de la Asamblea N° 22.", "fuente": {"archivo": "ACTA ORDINARIA NRO 22.pdf", "pagina": 1}},
+    {"entidad_o_persona": "César Manuel Astigarraga Lambaré", "tipo": "director_comun", "detalle": "Presidente de Hanoi; también presidente de IDL, director de Place Analyzer y síndico suplente de Ueno Bank.", "fuente": {"archivo": "ACTA ORDINARIA NRO 22.pdf", "pagina": 2}},
+    {"entidad_o_persona": "Diana Mongelos (Diana Leticia Mongelos González)", "tipo": "director_comun", "detalle": "Vicepresidenta de Hanoi; directora titular / vicepresidenta 2da de Ueno Bank.", "fuente": {"archivo": "ACTA ORDINARIA NRO 22.pdf", "pagina": 2}},
+    {"entidad_o_persona": "Avda. Santa Teresa 1827, Torre 3, Piso 11", "tipo": "mismo_domicilio", "detalle": "Mismo domicilio que ITTI, Place Analyzer y U Paraguay.", "fuente": {"archivo": "CONSTANCIA RA NRO 23985.pdf", "pagina": 1}},
+    {"entidad_o_persona": "itti.digital", "tipo": "mismo_correo_dominio", "detalle": "Correo SIARA LEGALES@ITTI.DIGITAL, igual que IDL.", "fuente": {"archivo": "CONSTANCIA RA NRO 23985.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [
+    {"nombre": null, "documento": null, "correo": "LEGALES@ITTI.DIGITAL", "telefono": null, "fecha": "2026-07-27", "fuente": {"archivo": "CONSTANCIA RA NRO 23985.pdf", "pagina": 1}, "notas": "Constancia RA formato nuevo sin datos del solicitante; analista MEF Aníbal Lovera González; expedida 22/09/2026."}
+  ],
+  "correos_dominios": ["itti.digital"],
+  "documentos": [
+    {"archivo": "CONSTANCIA RA NRO 23985.pdf", "tipo": "constancia_RA", "fecha": "2026-07-27", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia RA N° 23985, actualización por cumplimiento anual presentada 27/07/2026; no detalla socios ni autoridades."},
+    {"archivo": "ACTA ORDINARIA NRO 22.pdf", "tipo": "acta_asamblea", "fecha": "2026-03-30", "paginas": 3, "legibilidad": "ocr_bueno", "resumen": "Asamblea Ordinaria N° 22: ITTI 72,76% presente; sin utilidades; elige directorio Astigarraga/Mongelos/Gómez."},
+    {"archivo": "ESCRITURA MODIFICACION NRO 204.pdf", "tipo": "escritura_modificacion", "fecha": "2018-08-30", "paginas": 10, "legibilidad": "ocr_malo", "resumen": "Modificación de estatutos por aumento de capital a Gs. 2.000 millones; transcribe Acta Extraordinaria N° 5 (20/06/2017) con accionistas personas físicas."},
+    {"archivo": "REGISTRO ACCIONISTAS-HOJA 11.pdf", "tipo": "registro_accionistas", "fecha": "2026-08-25", "paginas": 1, "legibilidad": "texto", "resumen": "Hoja 11: 22 asientos del 14/3/2024 a nombre de ITTI S.A.E. y MARKHEL S.A.; total Gs. 2.000.000.000."}
+  ],
+  "observaciones": [
+    "No se aportó constancia de Beneficiarios Finales de Hanoi.",
+    "La constancia RA no detalla socios, autoridades ni capital.",
+    "No hay documento que explique cómo ITTI y Markhel S.A. adquirieron las acciones de los socios fundadores/2017 (Brizuela Cartes, Franco Tubino, Bernardes de Cibils, Cibils Wilson Smith).",
+    "MARKHEL S.A. (27,24%) no tiene RUC ni representante identificados; no asistió a la asamblea de 2026.",
+    "Objeto social y plazo no extraídos (escritura escaneada con OCR deficiente; no constan en las páginas revisadas).",
+    "Las CI de los socios de 2017 distintos de Brizuela Cartes no constan en las páginas revisadas."
+  ]
+}

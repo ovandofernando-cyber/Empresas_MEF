@@ -1,0 +1,971 @@
+{
+ "id": "redipro",
+ "razon_social": "Red Digital de Procesamiento S.A. (REDIPRO)",
+ "ruc": "80114621-6",
+ "tipo": "Sociedad Anónima",
+ "carpeta_mef": "RED DIGITAL DE PROCESAMIENTO S.A",
+ "denominaciones_anteriores": [],
+ "constitucion": {
+  "fecha": null,
+  "escritura": null,
+  "escribano": null,
+  "inscripcion_registro_publico": null,
+  "fuente": null,
+  "nota": "No se remitió escritura. Las primeras acciones (1 y 2) tienen fecha de suscripción 09/09/2020 y originalmente pertenecían a Kamila Manuela Gimenez Carrizosa y Camila Alesandra Basilli Yorki."
+ },
+ "domicilio": [
+  {
+   "direccion": "Avenida Santa Teresa entre Aviadores del Chaco y Herminio Maldonado, Torres del Paseo La Galería, Torre 3, Piso 11",
+   "fecha_dato": "2026-01-13",
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": null,
+ "actividad_principal": "procesamiento digital / medios de pago (inferido de la denominación; objeto no documentado)",
+ "plazo_duracion": null,
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 1000000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": null,
+   "fecha_dato": "2026-10-02",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 766681000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 766681,
+   "fecha_dato": "2026-10-02",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 766681000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 766681,
+   "fecha_dato": "2026-10-02",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 50000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 50000,
+   "fecha_dato": "2026-01-13",
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 50000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 50000,
+   "fecha_dato": "2026-01-13",
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 390552,
+   "clase_acciones": "50.000 ordinarias voto simple + 340.552 preferidas",
+   "votos": 50000,
+   "porcentaje": 50.94,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "TOTAL consolidado: 100% de los votos. Cifra coincide con la planilla BENEFICIARIOS FINALES (390552 acciones; 50,94% capital; 100% votos)."
+  },
+  {
+   "nombre": "Ueno Bank S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80026157-7",
+   "nacionalidad": "paraguaya",
+   "acciones": 376129,
+   "clase_acciones": "preferidas",
+   "votos": 0,
+   "porcentaje": 49.06,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "TOTAL consolidado: 49,06% capital, 0% votos. Integradas 29/05/2026."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 1,
+   "clase_acciones": "ordinarias voto simple, acciones 1 al 1, suscr. 2020-09-09",
+   "votos": 1,
+   "porcentaje": 0.0001,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Kamila Manuela Gimenez Carrizosa transfiere a ITTI SAECA el 01/07/2022; ITTI SAECA vende a Ueno Bank 28/04/2025; Ueno Bank vende a U Paraguay S.A. 30/09/2026."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 1,
+   "clase_acciones": "ordinarias voto simple, acciones 2 al 2, suscr. 2020-09-09",
+   "votos": 1,
+   "porcentaje": 0.0001,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Camila Alesandra Basilli Yorki transfiere a Ueno Holding SAECA 01/07/2022; Ueno Holding transfiere a Grupo Vazquez 15/09/202[3]; Grupo Vazquez transfiere a U Paraguay 30/09/2023."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 10320,
+   "clase_acciones": "ordinarias voto simple, acciones 3 al 10322, suscr. 2022-10-05",
+   "votos": 10320,
+   "porcentaje": 1.3461,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Financiera Ueno vende a UH (Ueno Holding) 31/07; Ueno Holding transfiere a Grupo Vazquez 15/09/23; Grupo Vazquez transfiere a U Paraguay 30/09/2023."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 8528,
+   "clase_acciones": "ordinarias voto simple, acciones 10323 al 18850, suscr. 2022-10-05",
+   "votos": 8528,
+   "porcentaje": 1.1123,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Venta de ITTI a Grupo Vazquez 30/06/2025; cesión de Grupo Vazquez a U Paraguay 30/06/2025."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 2472,
+   "clase_acciones": "ordinarias voto simple, acciones 18851 al 21322, suscr. 2022-10-05",
+   "votos": 2472,
+   "porcentaje": 0.3224,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). ITTI SAECA transfiere a Grupo Vazquez SAE 07/08/2023; Grupo Vazquez transfiere a U Paraguay 30/09/2023."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 28678,
+   "clase_acciones": "ordinarias voto simple, acciones 21323 al 50000, suscr. 2022-10-05",
+   "votos": 28678,
+   "porcentaje": 3.7405,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Integración de aporte en fecha 18/12/25."
+  },
+  {
+   "nombre": "Ueno Bank S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80026157-7",
+   "nacionalidad": "paraguaya",
+   "acciones": 376129,
+   "clase_acciones": "preferidas (sin voto), acciones 50001 al 426129, suscr. 2026-05-29",
+   "votos": 0,
+   "porcentaje": 49.0594,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Integración realizada por Ueno Bank S.A. 29/05/2026."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 9714,
+   "clase_acciones": "preferidas (sin voto), acciones 426130 al 435843, suscr. 2026-05-29",
+   "votos": 0,
+   "porcentaje": 1.267,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Ueno Bank vende a U Paraguay S.A. 02/10/2026."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 68000,
+   "clase_acciones": "preferidas (sin voto), acciones 435844 al 503843, suscr. 2026-05-29",
+   "votos": 0,
+   "porcentaje": 8.8694,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Ueno Bank realiza cesión a U Paraguay S.A. 02/10/2026."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 5979,
+   "clase_acciones": "preferidas (sin voto), acciones 503844 al 509822, suscr. 2026-05-29",
+   "votos": 0,
+   "porcentaje": 0.7799,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Ueno Bank vende a U Paraguay S.A. 30/09/2026."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 180646,
+   "clase_acciones": "preferidas (sin voto), acciones 509823 al 690468, suscr. 2026-05-29",
+   "votos": 0,
+   "porcentaje": 23.5621,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Ueno Bank vende a Red Digital SA 09/09/2026; Red Digital S.A. vende a ITTI S.A.E. 25/09/2026; ITTI S.A.E. vende a Grupo Vazquez S.A.E. 25/09/2026; Grupo Vazquez S.A.E. vende a U-Paraguay S.A. 25/09/2026."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 76213,
+   "clase_acciones": "preferidas (sin voto), acciones 690469 al 766681, suscr. 2026-05-29",
+   "votos": 0,
+   "porcentaje": 9.9406,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fila del registro (detalle por título). Integración realizada por U Paraguay S.A. 29/05/2026."
+  },
+  {
+   "nombre": "Ueno Bank S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80026157-7",
+   "nacionalidad": "paraguaya",
+   "acciones": 1,
+   "clase_acciones": "ordinaria voto simple",
+   "votos": 1,
+   "porcentaje": 0.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-01-13",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Constancia RA (período 2025, emitida 13/01/2026). Capital suscripto declarado Gs. 50.000 M."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 49999,
+   "clase_acciones": "ordinarias voto simple (filas: 1; 10.320; 8.528; 2.472; 28.678)",
+   "votos": 49999,
+   "porcentaje": 99.998,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-01-13",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Constancia RA: % por fila 0,00/20,64/17,06/4,94/57,36."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Eduardo Gross Brown (Eduardo Javier Gross Brown Costa)",
+   "documento": "CI 439189",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2025-05-28",
+   "vigencia": "1 año o hasta la próxima asamblea",
+   "fecha_dato": "2026-01-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Firma digitalmente el registro de accionistas (09/10/2026). En planilla BF: C1 autoridad desde 17/04/2026, correo eduardo@grossbrown.com.py."
+  },
+  {
+   "nombre": "Cesar Berea (Cesar Berea Vargas)",
+   "documento": "CI 2368373",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-05-28",
+   "vigencia": "1 año o hasta la próxima asamblea",
+   "fecha_dato": "2026-01-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Representante Legal según RA. Correo cesar.berea@itti.digital."
+  },
+  {
+   "nombre": "Silvia Bracho (Silvia Susana Bracho Meza)",
+   "documento": "CI 1418920",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-05-28",
+   "vigencia": "1 año o hasta la próxima asamblea",
+   "fecha_dato": "2026-01-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Correo silvia.bracho@upay.com.py."
+  }
+ ],
+ "beneficiarios_finales": [
+  {
+   "nombre": "Federico Miguel Vazquez Villasanti",
+   "documento": "CI 2941546 (constancia escribe 2.941.546)",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Avda. Santa Teresa, Torre 2, Piso 25",
+   "porcentaje": 62.87,
+   "tipo_control": "propiedad indirecta (A) - 77,75% derecho a voto",
+   "cadena_control": "Accionista mayoritario en Grupo Vázquez S.A.E. -> ITTI S.A.E.C.A. - Ueno Holding",
+   "fecha_dato": "2025-06-26",
+   "fuente": {
+    "archivo": "Constancia BF.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Constancia BF aprobada N° 378560 (período 2025). Nacido 28-02-1990. Desde 2022."
+  },
+  {
+   "nombre": "U Paraguay S.A.",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "domicilio": null,
+   "porcentaje": 50.94,
+   "tipo_control": "A - participación >=10% del capital (100% votos)",
+   "cadena_control": null,
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Declaración en proceso de aprobación; BF desde 30/09/2023; correo legales@itti.digital; 390.552 acciones. Segunda fila: A desde 21/05/2026 con cadena Ueno Bank."
+  },
+  {
+   "nombre": "Ueno Bank Sociedad Anónima",
+   "documento": "RUC 80026157-7",
+   "nacionalidad": "paraguaya",
+   "domicilio": null,
+   "porcentaje": 49.06,
+   "tipo_control": "A - participación >=10% del capital (0% votos)",
+   "cadena_control": null,
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "En proceso de aprobación; desde 28/04/2025; correo impuestos@ueno.com.py; 376.129 acciones."
+  },
+  {
+   "nombre": "U Holdings S.A.R.L.",
+   "documento": "Cédula tributaria extranjera B280698 (Luxemburgo)",
+   "nacionalidad": "luxemburguesa",
+   "domicilio": "Luxemburgo",
+   "porcentaje": null,
+   "tipo_control": "A - participación >=10% del capital (indirecta)",
+   "cadena_control": "a través de U Paraguay S.A. (RUC 80135001-8)",
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "En proceso de aprobación; desde 19/12/2025; correo miguel.almada@itti.digital (dos filas)."
+  },
+  {
+   "nombre": "Federico Miguel Vazquez Villasanti",
+   "documento": "CI 2941546 / RUC 2941546-2",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Asunción",
+   "porcentaje": null,
+   "tipo_control": "E - control o cadena de titularidad; además C1 autoridad",
+   "cadena_control": "a través de U Holdings S.A.R.L. (B280698) [desde 05/10/2023 y 29/09/2023] y de U Paraguay S.A. [desde 05/10/2023]; C1 vía Ueno Bank (20/02/2026, correo miguel@ueno.com.py) y vía U Paraguay (16/04/2026)",
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "En proceso de aprobación; correo administracion@grupovazquez.com. Aparece 6 veces en la planilla."
+  },
+  {
+   "nombre": "Juan Manuel Gustale Cardoni",
+   "documento": "CI 2479821",
+   "nacionalidad": "paraguaya",
+   "domicilio": null,
+   "porcentaje": null,
+   "tipo_control": "C1 - autoridad o representante legal",
+   "cadena_control": "Ueno Bank (20/02/2026) y U Paraguay (16/04/2026; dos filas)",
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Abogado; juan.gustale@ueno.com.py; tel +595981792394."
+  },
+  {
+   "nombre": "Diana Leticia Mongelos Gonzalez",
+   "documento": "CI 3490272",
+   "nacionalidad": "paraguaya",
+   "domicilio": null,
+   "porcentaje": null,
+   "tipo_control": "C1 - autoridad o representante legal",
+   "cadena_control": "Ueno Bank S.A.",
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Abogada; diana.mongelos@ueno.com.py; desde 20/02/2026."
+  },
+  {
+   "nombre": "Jose Maria Montero Zuccolillo",
+   "documento": "CI 1786163",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Asunción",
+   "porcentaje": null,
+   "tipo_control": "C1 - autoridad o representante legal",
+   "cadena_control": "U Paraguay S.A.",
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "josemaria@monteropalazon.com; desde 16/04/2026."
+  },
+  {
+   "nombre": "Miguel Angel Almada Frutos",
+   "documento": "CI 1202532",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Asunción",
+   "porcentaje": null,
+   "tipo_control": "C1 - autoridad o representante legal",
+   "cadena_control": "U Paraguay S.A.",
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "miguel.almada@itti.digital; tel +595982284479; desde 16/04/2026."
+  },
+  {
+   "nombre": "Alejandro Gomez Abente",
+   "documento": "CI 1432121",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Asunción",
+   "porcentaje": null,
+   "tipo_control": "C1 - autoridad o representante legal",
+   "cadena_control": "U Paraguay S.A. (16/04/2026, dos filas) y Ueno Bank (20/02/2026, MBA)",
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "alejandro.gomez.abente@ueno.com.py / alejandro.gomez@ueno.com.py."
+  },
+  {
+   "nombre": "Mariana Isabel Torres Rubiani",
+   "documento": "CI 2035857",
+   "nacionalidad": null,
+   "domicilio": "País: Andorra",
+   "porcentaje": null,
+   "tipo_control": "C1 - autoridad o representante legal",
+   "cadena_control": "Ueno Bank S.A.",
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "Registro de Beneficiarios Finales declarado en el SIARA en proceso de aprobación.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "mariana.torres@ueno.com.py; desde 20/02/2026."
+  },
+  {
+   "nombre": "Diego Fernando Duarte Schussmuller",
+   "documento": "CI 1055727",
+   "nacionalidad": "paraguaya",
+   "domicilio": null,
+   "porcentaje": null,
+   "tipo_control": "C1 - autoridad o representante legal",
+   "cadena_control": "Ueno Bank S.A.",
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "diego.duarte@ueno.com.py; desde 20/02/2026."
+  },
+  {
+   "nombre": "Julio Daniel Rey Fernandez",
+   "documento": "CI 1417970",
+   "nacionalidad": "paraguaya",
+   "domicilio": null,
+   "porcentaje": null,
+   "tipo_control": "C1 - autoridad o representante legal",
+   "cadena_control": "Ueno Bank S.A.",
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "julio.rey@ueno.com.py; desde 20/02/2026."
+  },
+  {
+   "nombre": "Silvia Susana Bracho Meza",
+   "documento": "CI 1418920",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Asunción",
+   "porcentaje": 0.0,
+   "tipo_control": "C1 - autoridad o representante legal (directora)",
+   "cadena_control": null,
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Desde 17/04/2026."
+  },
+  {
+   "nombre": "Cesar Berea Vargas",
+   "documento": "CI 2368373",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Asunción",
+   "porcentaje": 0.0,
+   "tipo_control": "C1 - autoridad o representante legal (director)",
+   "cadena_control": null,
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Desde 17/04/2026."
+  },
+  {
+   "nombre": "Eduardo Javier Gross Brown Costa",
+   "documento": "CI 439189",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Asunción",
+   "porcentaje": 0.0,
+   "tipo_control": "C1 - autoridad o representante legal (presidente)",
+   "cadena_control": null,
+   "fecha_dato": "2026-10",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Desde 17/04/2026."
+  }
+ ],
+ "historial": [
+  {
+   "fecha": "2020-09-09",
+   "evento": "constitucion",
+   "detalle": "Suscripción de acciones 1 y 2 (titulares originales Kamila Manuela Gimenez Carrizosa y Camila Alesandra Basilli Yorki, según anotaciones).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2022-07-01",
+   "evento": "transferencia_acciones",
+   "detalle": "Acción 1 a ITTI SAECA; acción 2 a Ueno Holding SAECA.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2022-10-05",
+   "evento": "aumento_capital",
+   "detalle": "Emisión de acciones 3 a 50.000 (suscritas 05/10/2022); titulares sucesivos Financiera Ueno/Ueno Holding/ITTI/Grupo Vázquez.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2023-09-30",
+   "evento": "transferencia_acciones",
+   "detalle": "Grupo Vázquez transfiere a U Paraguay acciones 2, 3-10.322 y 18.851-21.322 (previa transferencia de Ueno Holding a Grupo Vázquez 15/09/2023 e ITTI a Grupo Vázquez 07/08/2023).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-04-28",
+   "evento": "transferencia_acciones",
+   "detalle": "ITTI SAECA vende acción 1 a Ueno Bank.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-06-30",
+   "evento": "transferencia_acciones",
+   "detalle": "ITTI vende acciones 10.323-18.850 a Grupo Vázquez, que las cede a U Paraguay el mismo día.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-12-18",
+   "evento": "aumento_capital",
+   "detalle": "Integración de aporte acciones 21.323-50.000 (U Paraguay).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-05-29",
+   "evento": "aumento_capital",
+   "detalle": "Emisión de 716.681 acciones preferidas (50.001-766.681), integradas por Ueno Bank (690.468-50.000) y U Paraguay (76.213).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-09-25",
+   "evento": "transferencia_acciones",
+   "detalle": "180.646 preferidas: Ueno Bank -> Red Digital S.A. (09/09/2026) -> ITTI S.A.E. -> Grupo Vázquez S.A.E. -> U Paraguay S.A. (todas 25/09/2026).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-09-30",
+   "evento": "transferencia_acciones",
+   "detalle": "Ueno Bank vende a U Paraguay acción ordinaria 1 y 5.979 preferidas.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-10-02",
+   "evento": "transferencia_acciones",
+   "detalle": "Ueno Bank vende 9.714 preferidas y cede 68.000 preferidas a U Paraguay S.A.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "U Paraguay S.A. (RUC 80135001-8)",
+   "tipo": "accionista_de",
+   "detalle": "Accionista controlante (100% votos, 50,94% capital).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Ueno Bank S.A. (RUC 80026157-7)",
+   "tipo": "accionista_de",
+   "detalle": "Titular de 376.129 preferidas (49,06% capital); vendió/cedió a U Paraguay en sep-oct 2026 durante el período previo a la resolución bancaria.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "U Holdings S.A.R.L. (Luxemburgo, B280698)",
+   "tipo": "accionista_de",
+   "detalle": "BF por cadena a través de U Paraguay S.A.",
+   "fuente": {
+    "archivo": "BENEFICIARIOS FINALES.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Grupo Vázquez S.A.E.",
+   "tipo": "mencion_en_documento",
+   "detalle": "Titular intermedio de acciones (2023-2026); su accionista mayoritario Federico M. Vázquez Villasanti es BF.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "ITTI S.A.E./S.A.E.C.A.",
+   "tipo": "mencion_en_documento",
+   "detalle": "Ex accionista; correos @itti.digital de U Paraguay, Cesar Berea y Miguel Almada; cadena BF 'ITTI S.A.E.C.A. - UENO HOLDING'.",
+   "fuente": {
+    "archivo": "Constancia BF.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Ueno Holding S.A.E.C.A. / Financiera Ueno",
+   "tipo": "mencion_en_documento",
+   "detalle": "Ex accionistas (2022-2023).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Red Digital S.A. (REDISA)",
+   "tipo": "mencion_en_documento",
+   "detalle": "Adquirió y revendió 180.646 preferidas (09/09/2026 - 25/09/2026).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Alan Gabriel Campos Pardo (CI 3.172.236)",
+   "tipo": "mismo_solicitante",
+   "detalle": "Declarante SIARA también de AIME S.A.; correos alan.campos@uenoholding.com.py y a.pardo08@hotmail.com.",
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Torres del Paseo La Galería Torre 3 Piso 11 / Torre 2 Piso 25",
+   "tipo": "mismo_domicilio",
+   "detalle": "Domicilio social Torre 3 Piso 11 (como ITTI, AIME, Tiva); U Paraguay en Torre 2 Piso 25 (como Grupo Vázquez).",
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": "Alan Gabriel Campos Pardo",
+   "documento": "CI 3.172.236",
+   "correo": "alan.campos@uenoholding.com.py",
+   "telefono": "0982798974",
+   "fecha": "2025-06-26",
+   "fuente": {
+    "archivo": "Constancia BF.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "nombre": "Alan Gabriel Campos Pardo",
+   "documento": "CI 3.172.236",
+   "correo": "a.pardo08@hotmail.com",
+   "telefono": "0982798974",
+   "fecha": "2026-01-13",
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "correos_dominios": [
+  "uenoholding.com.py",
+  "hotmail.com",
+  "itti.digital",
+  "ueno.com.py",
+  "upay.com.py",
+  "grupovazquez.com",
+  "grossbrown.com.py",
+  "monteropalazon.com"
+ ],
+ "documentos": [
+  {
+   "archivo": "BENEFICIARIOS FINALES.pdf",
+   "tipo": "otro",
+   "fecha": null,
+   "paginas": 8,
+   "legibilidad": "texto",
+   "resumen": "Exportación (planilla) de 27 filas de BF declarados en SIARA: U Paraguay, Ueno Bank, U Holdings SARL, F. M. Vázquez Villasanti y autoridades C1 de Ueno Bank/U Paraguay."
+  },
+  {
+   "archivo": "Constancia BF.pdf",
+   "tipo": "constancia_BF",
+   "fecha": "2025-06-26",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia BF N° 378560: BF Federico Miguel Vázquez Villasanti 62,87% / 77,75% votos vía Grupo Vázquez - ITTI - Ueno Holding."
+  },
+  {
+   "archivo": "Constancia RA.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-01-13",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "RA N° 400916 (período 2025): capital 50.000 M; Ueno Bank 1 acc., U Paraguay 49.999; directorio Gross Brown/Berea/Bracho."
+  },
+  {
+   "archivo": "REGISTRO ACCIONISTAS 02-10-2026.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-10-02",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Registro al 02/10/2026: 766.681 acciones; U Paraguay 50.000 OVS + 340.552 pref.; Ueno Bank 376.129 pref. Firmado digitalmente por E. J. Gross Brown Costa 09/10/2026."
+  },
+  {
+   "archivo": "Registro de Beneficiarios Finales declarado en el SIARA en proceso de aprobación.pdf",
+   "tipo": "otro",
+   "fecha": null,
+   "paginas": 3,
+   "legibilidad": "texto",
+   "resumen": "Captura de pantalla SIARA: listado de 28 BF 'en proceso de aprobación' (U Holdings S.A.R.L. con país Luxemburgo; M. I. Torres Rubiani con país Andorra)."
+  }
+ ],
+ "observaciones": [
+  "La declaración de BF vigente (2026) está PENDIENTE / en proceso de aprobación en SIARA; la única constancia BF aprobada es de junio 2025 (F. M. Vázquez Villasanti).",
+  "Entre el 09/09/2026 y el 02/10/2026 Ueno Bank transfirió a U Paraguay una acción ordinaria y 263.339 preferidas (9.714 + 68.000 + 5.979 + 180.646, esta última vía Red Digital S.A. -> ITTI -> Grupo Vázquez -> U Paraguay el mismo día 25/09/2026): operación circular entre empresas del grupo inmediatamente antes de la resolución de Ueno Bank.",
+  "Capital: RA (enero 2026) declara 50.000 M; el registro de octubre 2026 declara 766.681 M suscripto e integrado tras emisión de preferidas del 29/05/2026.",
+  "El registro anota 'UENO HOLDING TRANSFIERE A GRUPO VAZQUEZ EN FECHA 15/09/202' (año incompleto) y la última fila tiene domicilio 'Torre 2, Piso 26' (resto Piso 25).",
+  "Constancia BF escribe el CI de F. M. Vázquez Villasanti como 2.941.546 sin DV; en Tiva figura como 2491546 (dígitos transpuestos).",
+  "Correo de la PEJ en la RA es personal (a.pardo08@hotmail.com) del declarante.",
+  "U Paraguay S.A. figura como BF (persona jurídica), lo que no corresponde a la definición de BF (persona física)."
+ ]
+}

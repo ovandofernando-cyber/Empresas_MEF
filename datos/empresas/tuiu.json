@@ -1,0 +1,82 @@
+{
+  "id": "tuiu",
+  "razon_social": "TUIU SOCIEDAD ANONIMA",
+  "ruc": "80154118-2",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "TUIU S.A",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2024-11-28",
+    "escritura": "N° 216",
+    "escribano": "María Teresa López de Aponte (Registro N° 637, Asunción)",
+    "inscripcion_registro_publico": null,
+    "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 1},
+    "confianza": "alta"
+  },
+  "domicilio": [
+    {"direccion": "AVDA. SANTA TERESA (Asunción)", "fecha_dato": "2026-09-15", "fuente": {"archivo": "CONSTANCIA RA 16474.pdf", "pagina": 1}},
+    {"direccion": "Sede social: Avda. Santa Teresa e/ Herminio Maldonado, Asunción", "fecha_dato": "2026-08-26", "fuente": {"archivo": "ACTA ORDINARIA NRO 7.pdf", "pagina": 1}},
+    {"direccion": "Domicilio social y legal: ciudad de Asunción", "fecha_dato": "2024-11-28", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 6}}
+  ],
+  "objeto_social": "Servicios de valor agregado a servicios financieros: recepción y envío de dinero de y para clientes y remesas punto a punto por cualquier medio; joint ventures y otras actividades.",
+  "actividad_principal": "fintech / remesas y envío de dinero",
+  "plazo_duracion": "99 años desde la inscripción",
+  "capital": [
+    {"tipo": "social", "monto": 500000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 500, "fecha_dato": "2024-11-28", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}, "notas": "500 acciones nominativas N° 1 al 500; emitido, suscripto e integrado Gs. 500.000.000"},
+    {"tipo": "integrado", "monto": 500000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 500, "fecha_dato": "2026-08-26", "fuente": {"archivo": "ACTA ORDINARIA NRO 7.pdf", "pagina": 1}}
+  ],
+  "accionistas": [
+    {"nombre": "LUIS FERNANDO RIOS ESPINOLA", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 250, "clase_acciones": "serie A; según la constitución, las 250 acciones de ITTI eran de voto múltiple (1.250 votos en asamblea)", "votos": 1250, "porcentaje": 50.0, "porcentaje_calculado": false, "fecha_dato": "2026-08-26", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 7.pdf", "pagina": 1}, "confianza": "alta", "notas": "Compró a ITTI S.A.E.C.A. el 28-08-2025 (registro). Domicilio calle 06 de enero, Fernando de la Mora. Porcentaje de votos calculado: 1250/1500 = 83,33%."},
+    {"nombre": "ANDRE GAYOL PIRES", "tipo_persona": "fisica", "documento": "CI 2.377.708", "nacionalidad": "paraguaya", "acciones": 250, "clase_acciones": "ordinarias de voto simple (serie A)", "votos": 250, "porcentaje": 50.0, "porcentaje_calculado": false, "fecha_dato": "2026-08-26", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 7.pdf", "pagina": 1}, "confianza": "alta", "notas": "200 acciones propias + 50 compradas a Nicolás Sebastián Di Iorio Olivares el 25-11-2025. Domicilio Avda. Santa Teresa N° 2679. Votos 250/1500 = 16,67%."},
+    {"nombre": "ITTI S.A.E.C.A.", "tipo_persona": "juridica", "documento": "RUC 80028355-4", "nacionalidad": "paraguaya", "acciones": 250, "clase_acciones": "nominativas de voto múltiple", "votos": null, "porcentaje": 50.0, "porcentaje_calculado": true, "fecha_dato": "2024-11-28", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}, "confianza": "alta", "notas": "Socia fundadora; integró en efectivo, mano de obra, licencias e infraestructura tecnológica. Vendió a Luis Fernando Ríos Espínola el 28-08-2025."},
+    {"nombre": "NICOLAS SEBASTIAN DI IORIO OLIVARES", "tipo_persona": "fisica", "documento": "CI 3.385.185", "nacionalidad": "paraguaya", "acciones": 50, "clase_acciones": "ordinarias de voto simple", "votos": 50, "porcentaje": 10.0, "porcentaje_calculado": true, "fecha_dato": "2024-11-28", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}, "confianza": "alta", "notas": "Socio fundador; vendió a André Gayol Pires el 25-11-2025."},
+    {"nombre": "ANDRE GAYOL PIRES", "tipo_persona": "fisica", "documento": "CI 2.377.708", "nacionalidad": "paraguaya", "acciones": 200, "clase_acciones": "ordinarias de voto simple", "votos": 200, "porcentaje": 40.0, "porcentaje_calculado": true, "fecha_dato": "2024-11-28", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}, "confianza": "alta", "notas": "Tenencia fundacional"}
+  ],
+  "autoridades": [
+    {"nombre": "ANDRE GAYOL (ANDRE GAYOL PIRES)", "documento": "CI 2.377.708", "cargo": "Presidente", "fecha_asuncion": "2026-08-26", "vigencia": null, "fecha_dato": "2026-08-26", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 7.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "LUIS FERNANDO RIOS ESPINOLA", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2026-08-26", "vigencia": null, "fecha_dato": "2026-08-26", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 7.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "MONICA GADEA (MONICA LETICIA GADEA GOMEZ DE LA FUENTE)", "documento": "CI 1.539.203", "cargo": "Síndico titular", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2026-08-26", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 7.pdf", "pagina": 2}, "confianza": "media", "notas": "Firma como síndico titular el Acta N° 7; CI tomada de la escritura de constitución (era síndico suplente)."},
+    {"nombre": "RODRIGO FRANCO (RODRIGO RAMON FRANCO ORTIZ)", "documento": null, "cargo": "Presidente", "fecha_asuncion": "2026-04-23", "vigencia": null, "fecha_dato": "2026-04-23", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "LUIS RIOS", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2026-04-23", "vigencia": null, "fecha_dato": "2026-04-23", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "RAQUEL MONZON VILLASANTI", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2026-04-23", "vigencia": null, "fecha_dato": "2026-04-23", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "CESAR MANUEL ASTIGARRAGA LAMBARE", "documento": "CI 3.807.117", "cargo": "Presidente", "fecha_asuncion": "2024-11-28", "vigencia": null, "fecha_dato": "2024-11-28", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}, "confianza": "alta"},
+    {"nombre": "LUIS ERNESTO ANGULO RIVERA", "documento": "CI 8.307.881", "cargo": "Vicepresidente", "fecha_asuncion": "2024-11-28", "vigencia": null, "fecha_dato": "2024-11-28", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}, "confianza": "alta"},
+    {"nombre": "ANDRE GAYOL PIRES", "documento": "CI 2.377.708", "cargo": "Director titular", "fecha_asuncion": "2024-11-28", "vigencia": null, "fecha_dato": "2024-11-28", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}, "confianza": "alta"},
+    {"nombre": "MIGUEL ANGEL ALMADA FRUTOS", "documento": "CI 1.202.532", "cargo": "Síndico titular", "fecha_asuncion": "2024-11-28", "vigencia": null, "fecha_dato": "2024-11-28", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}, "confianza": "alta"},
+    {"nombre": "MONICA LETICIA GADEA GOMEZ DE LA FUENTE", "documento": "CI 1.539.203", "cargo": "Síndico suplente", "fecha_asuncion": "2024-11-28", "vigencia": null, "fecha_dato": "2024-11-28", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2024-07-25", "evento": "otro", "detalle": "Acta de Directorio N° 209 de ITTI S.A.E.C.A. autoriza la constitución de la sociedad (transcripta en la escritura).", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 4}},
+    {"fecha": "2024-11-28", "evento": "constitucion", "detalle": "Constitución por Esc. N° 216: ITTI S.A.E.C.A. 250 acciones de voto múltiple, André Gayol Pires 200 y Nicolás Sebastián Di Iorio Olivares 50 (voto simple). Capital Gs. 500.000.000. ITTI representada por César Astigarraga y Luis Angulo.", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 1}},
+    {"fecha": "2025-08-28", "evento": "transferencia_acciones", "detalle": "ITTI S.A.E.C.A. vende sus 250 acciones a Luis Fernando Ríos Espínola.", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
+    {"fecha": "2025-11-25", "evento": "transferencia_acciones", "detalle": "Nicolás Sebastián Di Iorio Olivares vende 50 acciones a André Gayol Pires.", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
+    {"fecha": "2026-04-23", "evento": "cambio_directorio", "detalle": "Asamblea Ordinaria N° 6: Presidente Rodrigo Franco, Vicepresidente Luis Ríos, Síndico titular Raquel Monzón Villasanti; la sociedad no presenta utilidades en 2025.", "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 2}},
+    {"fecha": "2026-08-26", "evento": "cambio_directorio", "detalle": "Asamblea Ordinaria N° 7 (recomposición): Presidente André Gayol, Vicepresidente Luis Fernando Ríos Espínola; firma la síndico Mónica Gadea. Comunicado al SIARA (actualización por elección de autoridades, 15-09-2026).", "fuente": {"archivo": "ACTA ORDINARIA NRO 7.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "ITTI S.A.E.C.A. (RUC 80028355-4)", "tipo": "accionista_de", "detalle": "Socia fundadora con 50% del capital y acciones de voto múltiple (control de votos) hasta el 28-08-2025.", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}},
+    {"entidad_o_persona": "André Gayol Pires (CI 2.377.708)", "tipo": "director_comun", "detalle": "Accionista y presidente de TUIU; ex presidente y accionista de Discover Paraguay S.A.; representante de Discover en la compra de COMDETUR.", "fuente": {"archivo": "ACTA ORDINARIA NRO 7.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Rodrigo Ramón Franco Ortiz", "tipo": "director_comun", "detalle": "Presidente de TUIU (abr-ago 2026) y de Grupo Hendy S.A. (abr-oct 2026); firma digitalmente los documentos de TUIU remitidos al MEF.", "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 2}},
+    {"entidad_o_persona": "César Astigarraga / Luis Angulo / Miguel Almada", "tipo": "director_comun", "detalle": "Primer directorio y sindicatura de TUIU integrados por directivos de ITTI S.A.E.C.A. (Astigarraga, Angulo, Almada).", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 20}},
+    {"entidad_o_persona": "Laura Isabel Pane Baum (laurapane@hotmail.com)", "tipo": "mismo_correo_dominio", "detalle": "Correo SIARA de TUIU es LAURAPANE@HOTMAIL.COM, el mismo de la solicitante SIARA de Red Digital S.A. (Laura Isabel Pane Baum, CI 3.461.067).", "fuente": {"archivo": "CONSTANCIA RA 16474.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Escribana María Teresa López de Aponte (Reg. 637)", "tipo": "otro", "detalle": "Escribana habitual del grupo (Grupo Vázquez, Ueno Holding, Kaitel, Grupo Hendy).", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [],
+  "correos_dominios": ["hotmail.com"],
+  "documentos": [
+    {"archivo": "CONSTANCIA RA 16474.pdf", "tipo": "constancia_RA", "fecha": "2026-10-20", "paginas": 1, "legibilidad": "texto", "resumen": "Pese al nombre, es la Constancia N° 29102 (actualización por elección de autoridades, presentada 15-09-2026); solo cabecera."},
+    {"archivo": "CONSTANCIA RA NRO 16474.pdf", "tipo": "constancia_RA", "fecha": "2026-08-20", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia N° 16474 (actualización anual, presentada 20-07-2026); solo cabecera."},
+    {"archivo": "REGISTRO ACCIONISTAS.pdf", "tipo": "registro_accionistas", "fecha": "2025-11-25", "paginas": 1, "legibilidad": "texto", "resumen": "Folio 3: Luis Fernando Ríos Espínola 250 (de ITTI, 28-08-2025), André Gayol Pires 200 + 50 (de Di Iorio, 25-11-2025). Firmado por Rodrigo Ramón Franco Ortiz el 01-07-2026."},
+    {"archivo": "ACTA ORDINARIA NRO 6.pdf", "tipo": "acta_asamblea", "fecha": "2026-04-23", "paginas": 2, "legibilidad": "ocr_bueno", "resumen": "Asamblea N° 6: Ríos 250 acciones (1.250 votos) y Gayol 250 (250 votos); directorio Rodrigo Franco / Luis Ríos."},
+    {"archivo": "ACTA ORDINARIA NRO 7.pdf", "tipo": "acta_asamblea", "fecha": "2026-08-26", "paginas": 2, "legibilidad": "ocr_bueno", "resumen": "Asamblea N° 7: recomposición del directorio, André Gayol presidente y Luis Fernando Ríos vicepresidente."},
+    {"archivo": "ESCRITURA CONSTITUCION NRO 216.pdf", "tipo": "escritura_constitucion", "fecha": "2024-11-28", "paginas": 24, "legibilidad": "ocr_bueno", "resumen": "Constitución de TUIU S.A. por ITTI S.A.E.C.A. (250 acciones de voto múltiple), André Gayol (200) y Nicolás Di Iorio (50); objeto remesas/envío de dinero."}
+  ],
+  "observaciones": [
+    "El registro de accionistas consigna todas las acciones como serie 'A' sin distinguir voto múltiple, pero las actas asignan 1.250 votos a las 250 acciones de Ríos (provenientes de ITTI, de voto múltiple): Ríos controla 83,33% de los votos con 50% del capital.",
+    "Luis Fernando Ríos Espínola no tiene CI consignada en los documentos.",
+    "Los nombres de archivo de las constancias no coinciden con su número (el archivo 'CONSTANCIA RA 16474' es la N° 29102).",
+    "Sin constancia BF; el grupo ITTI salió formalmente del capital en agosto de 2025, pero directivos del grupo siguieron en el directorio (Rodrigo Franco en 2026) y el correo SIARA coincide con el declarante de Red Digital.",
+    "Inscripción registral de la constitución no verificada en las páginas leídas."
+  ]
+}

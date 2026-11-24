@@ -1,0 +1,86 @@
+{
+  "id": "grupo_hendy",
+  "razon_social": "GRUPO HENDY S.A.",
+  "ruc": "80082125-4",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "GRUPO HENDY  S.A",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2013-11-15",
+    "escritura": "N° 244",
+    "escribano": "José Javier Ramírez [apellido materno ilegible en OCR]",
+    "inscripcion_registro_publico": "Sección Personas Jurídicas y Asociaciones, Serie SUAE, N° 157, folio 2006 y sgtes.; Registro Público de Comercio, Serie SUAE, N° 157, folio 2006 y sgtes.; ambas el 27-12-2013 (OCR)",
+    "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 1},
+    "confianza": "media"
+  },
+  "domicilio": [
+    {"direccion": "AVDA. SANTA TERESA (Asunción)", "fecha_dato": "2026-06-19", "fuente": {"archivo": "CONSTANCIA RA 29439.pdf", "pagina": 1}},
+    {"direccion": "Avda. Santa Teresa 1827 entre Aviadores del Chaco y Herminio Maldonado, Torre 3, Piso 11, Asunción (local de asamblea 02-10-2026)", "fecha_dato": "2026-10-02", "fuente": {"archivo": "CONSTANCIA ASAMBLEARIA NRO 259596.pdf", "pagina": 1}},
+    {"direccion": "Sede social: Avda. Santa Teresa 1827 entre Aviadores del Chaco y Herminio Maldonado, Asunción", "fecha_dato": "2026-04-13", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}},
+    {"direccion": "Ntra. Sra. de la Asunción esquina Gral. Díaz, Asunción (local de la firma en 2015)", "fecha_dato": "2015-10-05", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 2}}
+  ],
+  "objeto_social": null,
+  "actividad_principal": null,
+  "plazo_duracion": null,
+  "capital": [
+    {"tipo": "social", "monto": 5000000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 5000, "fecha_dato": "2015-10-05", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 6}, "notas": "Aumento de capital por Asamblea Extraordinaria N° 1; emisión de nueva serie por Gs. 800.000.000 (Asamblea Ordinaria N° 2)"},
+    {"tipo": "suscripto", "monto": 1970000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 1970, "fecha_dato": "2026-04-13", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}, "notas": "Suma de capital de los accionistas presentes (1.773.000.000 + 197.000.000)"}
+  ],
+  "accionistas": [
+    {"nombre": "VANESSA (VANESA) ESTHER GODOY AYALA", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 1773, "clase_acciones": "ordinarias (N° 1 al 1773)", "votos": 1773, "porcentaje": 90.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-13", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}, "confianza": "media", "notas": "Recibió 1.773 acciones de ITTI S.A.E.C.A. el 30-09-2025 (registro, p. 2-3). Domicilio Santa Teresa 1827. Nombre completo según firma digital: VANESSA ESTHER GODOY AYALA. Manuscrito."},
+    {"nombre": "OSCAR URDAPILLETA (OSCAR LUIS URDAPILLETA GARCIA)", "tipo_persona": "fisica", "documento": "CI 1.495.964 (según constancias de Ueno Holding; no consta en esta carpeta)", "nacionalidad": "paraguaya", "acciones": 197, "clase_acciones": "ordinarias (N° 1774 al 1970)", "votos": 197, "porcentaje": 10.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-13", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}, "confianza": "media", "notas": "Recibió 178 acciones de ITTI S.A.E.C.A. y 19 de Grupo Vázquez S.A.E. el 30-09-2025. Firma digital de la escritura 43: OSCAR LUIS URDAPILLETA GARCIA."},
+    {"nombre": "ITTI S.A.E.C.A.", "tipo_persona": "juridica", "documento": null, "nacionalidad": "paraguaya", "acciones": 1951, "clase_acciones": "ordinarias (N° 1 al 1951)", "votos": 1951, "porcentaje": 99.04, "porcentaje_calculado": true, "fecha_dato": "2013-11-15", "vigente": false, "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}, "confianza": "media", "notas": "Fecha de suscripción anotada 15-11-2013 (fecha de constitución). Transfirió 1.773 acciones a Vanessa Godoy y 178 a Oscar Urdapilleta el 30-09-2025."},
+    {"nombre": "GRUPO VAZQUEZ S.A.E.", "tipo_persona": "juridica", "documento": "RUC 80086759-9 (no consta en esta carpeta)", "nacionalidad": "paraguaya", "acciones": 19, "clase_acciones": "ordinarias (N° 1952 al 1970)", "votos": 19, "porcentaje": 0.96, "porcentaje_calculado": true, "fecha_dato": "2013-11-15", "vigente": false, "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}, "confianza": "media", "notas": "Transfirió sus 19 acciones a Oscar Urdapilleta el 30-09-2025."},
+    {"nombre": "CESAR JAVIER MENGUAL MAZACOTTE", "tipo_persona": "fisica", "documento": "CI 3.471.686", "nacionalidad": "paraguaya", "acciones": null, "clase_acciones": null, "votos": null, "porcentaje": 35.0, "porcentaje_calculado": false, "fecha_dato": "2015-10-05", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 2}, "confianza": "alta", "notas": "35% del capital integrado según Asambleas N° 1 y 2 de 2015"},
+    {"nombre": "MARCELO GIMENEZ RECALDE", "tipo_persona": "fisica", "documento": "CI 514.881", "nacionalidad": "paraguaya", "acciones": null, "clase_acciones": null, "votos": null, "porcentaje": 35.0, "porcentaje_calculado": false, "fecha_dato": "2015-10-05", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 2}, "confianza": "alta", "notas": "35% del capital integrado"},
+    {"nombre": "AUGUSTO CESAR MENGUAL HERKEN", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": null, "clase_acciones": null, "votos": null, "porcentaje": 10.0, "porcentaje_calculado": false, "fecha_dato": "2015-10-05", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 2}, "confianza": "alta", "notas": "10% del capital integrado; el 20% restante no estuvo presente y no se identifica"}
+  ],
+  "autoridades": [
+    {"nombre": "OSCAR URDAPILLETA", "documento": "CI 1.495.964 (cruce)", "cargo": "Presidente", "fecha_asuncion": "2026-10-02", "vigencia": null, "fecha_dato": "2026-10-19", "vigente": true, "fuente": {"archivo": "CONSTANCIA ASAMBLEARIA NRO 259596.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "VANESSA GODOY", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2026-10-02", "vigencia": null, "fecha_dato": "2026-10-19", "vigente": true, "fuente": {"archivo": "CONSTANCIA ASAMBLEARIA NRO 259596.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "RODRIGO FRANCO", "documento": null, "cargo": "Presidente", "fecha_asuncion": "2026-04-13", "vigencia": null, "fecha_dato": "2026-04-13", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}, "confianza": "media"},
+    {"nombre": "DIEGO GOMEZ", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2026-04-13", "vigencia": null, "fecha_dato": "2026-04-13", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}, "confianza": "media"},
+    {"nombre": "VANESSA GODOY", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2026-04-13", "vigencia": null, "fecha_dato": "2026-04-13", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}, "confianza": "media"},
+    {"nombre": "WALTER HERMOSA", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2026-04-13", "vigencia": null, "fecha_dato": "2026-04-13", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}, "confianza": "media"},
+    {"nombre": "CESAR JAVIER MENGUAL MAZACOTTE", "documento": "CI 3.471.686", "cargo": "Presidente", "fecha_asuncion": "2015-10-05", "vigencia": null, "fecha_dato": "2016-04-08", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 5}, "confianza": "alta"},
+    {"nombre": "MARCELO GIMENEZ RECALDE", "documento": "CI 514.881", "cargo": "Vicepresidente", "fecha_asuncion": "2015-10-05", "vigencia": null, "fecha_dato": "2016-04-08", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 5}, "confianza": "alta"},
+    {"nombre": "AUGUSTO CESAR MENGUAL HERKEN", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2015-10-05", "vigencia": null, "fecha_dato": "2015-10-05", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 6}, "confianza": "alta"},
+    {"nombre": "RUDOLPH FERNANDO GOETZ GONZALEZ", "documento": null, "cargo": "Director suplente", "fecha_asuncion": "2015-10-05", "vigencia": null, "fecha_dato": "2015-10-05", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 6}, "confianza": "alta"},
+    {"nombre": "JOSE GASPAR BRITEZ MARTINEZ", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2015-10-05", "vigencia": null, "fecha_dato": "2015-10-05", "vigente": false, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 6}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2013-11-15", "evento": "constitucion", "detalle": "Constitución por Escritura N° 244; inscripta 27-12-2013.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 1}},
+    {"fecha": "2015-10-05", "evento": "aumento_capital", "detalle": "Asamblea Extraordinaria N° 1: modifica art. 19 (firma social) y art. 2°, aumenta capital a Gs. 5.000.000.000 (5.000 acciones de Gs. 1.000.000). Asamblea Ordinaria N° 2: emisión de nueva serie por Gs. 800.000.000 y elección de directorio (Mengual Mazacotte presidente). Protocolizado por Escritura N° 43 del 08-04-2016 (Esc. María Teresa López de Aponte, Reg. 637).", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 2}},
+    {"fecha": "2025-09-30", "evento": "transferencia_acciones", "detalle": "ITTI S.A.E.C.A. transfiere 1.773 acciones ordinarias a Vanessa Godoy y 178 a Oscar Urdapilleta; Grupo Vázquez S.A.E. transfiere 19 acciones a Oscar Urdapilleta.", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 2}},
+    {"fecha": "2026-04-13", "evento": "cambio_directorio", "detalle": "Asamblea Ordinaria N° 21 (Vanessa Godoy 90%, Oscar Urdapilleta 10%): aprueba balance 2025 (utilidad neta Gs. 468.550.601 destinada a compensar pérdidas anteriores); directorio Rodrigo Franco (Pres.), Diego Gómez (VP), Vanessa Godoy (Dir.), síndico Walter Hermosa.", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}},
+    {"fecha": "2026-10-02", "evento": "cambio_directorio", "detalle": "Asamblea Ordinaria (recomposición del directorio): Presidente Oscar Urdapilleta, Vicepresidenta Vanessa Godoy. Comunicada a la DGPEJBF (trámite 259596, 16-10-2026).", "fuente": {"archivo": "CONSTANCIA ASAMBLEARIA NRO 259596.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "ITTI S.A.E.C.A.", "tipo": "accionista_de", "detalle": "Fue accionista de 1.951 de 1.970 acciones hasta el 30-09-2025.", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
+    {"entidad_o_persona": "GRUPO VAZQUEZ S.A.E.", "tipo": "accionista_de", "detalle": "Fue accionista de 19 acciones hasta el 30-09-2025.", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Oscar Luis Urdapilleta García (CI 1.495.964)", "tipo": "director_comun", "detalle": "Accionista (10%) y Presidente de Grupo Hendy; Presidente y representante legal de Ueno Holding S.A.E.C.A.; director titular de Red Digital S.A.", "fuente": {"archivo": "CONSTANCIA ASAMBLEARIA NRO 259596.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Rodrigo Ramón Franco Ortiz", "tipo": "director_comun", "detalle": "Presidente de Grupo Hendy (abr-2026) y Presidente de TUIU S.A. (Acta N° 6, abr-2026); firma digitalmente documentos de TUIU.", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}},
+    {"entidad_o_persona": "Avda. Santa Teresa 1827, Torres del Paseo, Torre 3, Piso 11", "tipo": "mismo_domicilio", "detalle": "Sede y domicilio de accionistas, igual que Ueno Holding, ITTI, Discover, Red Digital.", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}},
+    {"entidad_o_persona": "itti.digital", "tipo": "mismo_correo_dominio", "detalle": "Correo SIARA LEGALES@ITTI.DIGITAL (igual que COMDETUR).", "fuente": {"archivo": "CONSTANCIA RA 29439.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Escribana María Teresa López de Aponte (Reg. 637)", "tipo": "otro", "detalle": "Misma escribana que la fusión Grupo Vázquez/Ueno Holding (Esc. 131/2025) y otras escrituras del grupo; la escritura 43 de Hendy es de 2016, antes de la entrada de ITTI (según el registro, ITTI figura desde 2013).", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [
+    {"nombre": "Alan Gabriel Campos Pardo (solicitante comunicación asamblearia)", "documento": "CI 3.172.236", "correo": "a.pardo08@hotmail.com", "telefono": "0216584100", "fecha": "2026-10-16", "fuente": {"archivo": "CONSTANCIA ASAMBLEARIA NRO 259596.pdf", "pagina": 1}}
+  ],
+  "correos_dominios": ["itti.digital", "hotmail.com"],
+  "documentos": [
+    {"archivo": "CONSTANCIA RA 29439.pdf", "tipo": "constancia_RA", "fecha": "2026-10-22", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia de Registro Administrativo N° 29439 (actualización anual presentada 19-06-2026); solo cabecera."},
+    {"archivo": "CONSTANCIA ASAMBLEARIA NRO 259596.pdf", "tipo": "otro", "fecha": "2026-10-19", "paginas": 2, "legibilidad": "texto", "resumen": "Constancia de comunicación asamblearia de la Asamblea Ordinaria del 02-10-2026: recomposición del directorio (Urdapilleta presidente, Godoy vicepresidenta)."},
+    {"archivo": "REGISTRO ACCIONISTAS.pdf", "tipo": "registro_accionistas", "fecha": "2025-09-30", "paginas": 3, "legibilidad": "manuscrito", "resumen": "Libro manuscrito: ITTI 1.951 y Grupo Vázquez 19 acciones (15-11-2013), transferidas el 30-09-2025 a Vanessa Godoy (1.773) y Oscar Urdapilleta (197)."},
+    {"archivo": "ACTA ORDINARIA NRO 21.pdf", "tipo": "acta_asamblea", "fecha": "2026-04-13", "paginas": 2, "legibilidad": "manuscrito", "resumen": "Asamblea Ordinaria N° 21 (folios 50-51): Vanessa Godoy 90% y Oscar Urdapilleta 10%; elección de directorio presidido por Rodrigo Franco."},
+    {"archivo": "ESCRITURA MODIFICACION NRO 43.pdf", "tipo": "escritura_modificacion", "fecha": "2016-04-08", "paginas": 10, "legibilidad": "ocr_bueno", "resumen": "Transcripción de Asambleas Extraordinaria N° 1 y Ordinaria N° 2 del 05-10-2015: aumento de capital a Gs. 5.000 millones, emisión de Gs. 800 millones, directorio Mengual/Giménez."}
+  ],
+  "observaciones": [
+    "Inconsistencia grave: el registro de accionistas consigna a ITTI S.A.E.C.A. (1.951 acciones) y Grupo Vázquez S.A.E. (19) con fecha de suscripción 15-11-2013, pero en las asambleas de 2015 los accionistas eran César Javier Mengual Mazacotte (35%), Marcelo Giménez Recalde (35%) y Augusto César Mengual Herken (10%). En 2013 ITTI se llamaba 'IT Consultores Tecnología y Organización S.A.' y Grupo Vázquez 'F.M.V.V. S.A.I.C.A.G.'. Parece un libro rehecho; faltan las transferencias intermedias.",
+    "Desde el 30-09-2025 la sociedad pasa de estar en manos de ITTI/Grupo Vázquez a dos personas físicas que son directivos del grupo (Vanessa Godoy y Oscar Urdapilleta, este último Presidente de Ueno Holding): posible tenencia fiduciaria o de testaferro; no hay constancia BF que lo aclare.",
+    "Cambio de directorio en abril 2026 (Rodrigo Franco presidente) y de nuevo en octubre 2026 (Oscar Urdapilleta presidente).",
+    "Registro y acta manuscritos; nombres de pila con variantes (Vanesa/Vanessa).",
+    "Sin constancia BF ni datos de objeto social en la carpeta."
+  ]
+}

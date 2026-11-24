@@ -1,0 +1,633 @@
+{
+ "id": "aime_corredores",
+ "razon_social": "AIME S.A. Corredores de Seguros",
+ "ruc": "80095816-0",
+ "tipo": "Sociedad Anónima",
+ "carpeta_mef": "Aime S.A. Corredores de seguros",
+ "denominaciones_anteriores": [],
+ "constitucion": {
+  "fecha": null,
+  "escritura": null,
+  "escribano": null,
+  "inscripcion_registro_publico": null,
+  "fuente": null,
+  "nota": "No se remitió escritura de constitución. Las primeras acciones del registro manuscrito tienen fecha de suscripción 20/10/2016 y la Constancia BF 2026 2 indica BF desde 20-10-2016."
+ },
+ "domicilio": [
+  {
+   "direccion": "Avda. Santa Teresa entre Avda. Aviadores del Chaco y Herminio Maldonado, Torres del Paseo La Galería, Torre 3, Piso 11 (Asunción)",
+   "fecha_dato": "2026-01-29",
+   "fuente": {
+    "archivo": "Constancia RA 2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Avda. Santa Teresa entre Herminio Maldonado y Aviadores del Chaco, Torres del Paseo La Galería, Torre 3, Piso 11 (local social según actas de directorio)",
+   "fecha_dato": "2025-12-29",
+   "fuente": {
+    "archivo": "Acta de Dirertorio 22-2025.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": null,
+ "actividad_principal": "seguros (corredora/intermediación de seguros, según denominación)",
+ "plazo_duracion": null,
+ "capital": [
+  {
+   "tipo": "suscripto",
+   "monto": 5000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": null,
+   "cantidad_acciones": null,
+   "fecha_dato": "2026-01-29",
+   "fuente": {
+    "archivo": "Constancia RA 2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 1840000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": null,
+   "cantidad_acciones": null,
+   "fecha_dato": "2026-01-29",
+   "fuente": {
+    "archivo": "Constancia RA 2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 5000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 10000000,
+   "cantidad_acciones": 500,
+   "fecha_dato": null,
+   "fuente": {
+    "archivo": "registroaccionistaaime.pdf",
+    "pagina": 1
+   },
+   "nota": "Total del registro de accionistas digital (500 acciones x Gs. 10.000.000)."
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "Mauro Vargas Wildberger",
+   "tipo_persona": "fisica",
+   "documento": "CI 2178019 (RUC 2178019-6)",
+   "nacionalidad": "paraguaya",
+   "acciones": 400,
+   "clase_acciones": "ordinarias voto simple (OVS)",
+   "votos": 400,
+   "porcentaje": 80.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": null,
+   "vigente": false,
+   "fuente": {
+    "archivo": "registroaccionistaaime.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Registro digital sin fecha: títulos 1 (1 acc.), 2-8 (7), 11-402 (392). Nota: Mauro vende a Credicentro SAECA el 30/06/2022 y Credicentro SAECA revende a Mauro el 11/08/2022."
+  },
+  {
+   "nombre": "Martin Vargas Wildberger",
+   "tipo_persona": "fisica",
+   "documento": "CI 404.147 (según registro digital; es el CI de Gloria Villasanti; en SIARA el CI de Martin es 3504730)",
+   "nacionalidad": null,
+   "acciones": 100,
+   "clase_acciones": "ordinarias voto simple (OVS)",
+   "votos": 100,
+   "porcentaje": 20.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": null,
+   "vigente": false,
+   "fuente": {
+    "archivo": "registroaccionistaaime.pdf",
+    "pagina": 1
+   },
+   "confianza": "media",
+   "notas": "Acciones 9-10 (2) compradas a Gloria Elizabeth Villasanti Farinha el 11/08/2022; acciones 403-500 (98)."
+  },
+  {
+   "nombre": "Mauro Vargas Wildberger",
+   "tipo_persona": "fisica",
+   "documento": "CI 2178019 (RUC 2178019-6)",
+   "nacionalidad": null,
+   "acciones": 182,
+   "clase_acciones": "OVS",
+   "votos": 182,
+   "porcentaje": 98.91,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-01-13",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Constancia RA período 2024 (también Constancia RA 2025 3, 18/06/2025, donde figura como 'MAURA')."
+  },
+  {
+   "nombre": "Martin Vargas Wildberger",
+   "tipo_persona": "fisica",
+   "documento": "CI 3504730 (RUC 3504730-5)",
+   "nacionalidad": null,
+   "acciones": 2,
+   "clase_acciones": "OVS",
+   "votos": 2,
+   "porcentaje": 1.09,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-01-13",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Idem Constancia RA 2025 3 (18/06/2025)."
+  },
+  {
+   "nombre": "Mauro Vargas Wildberger",
+   "tipo_persona": "fisica",
+   "documento": "CI 2178019",
+   "nacionalidad": null,
+   "acciones": 400,
+   "clase_acciones": "ordinaria voto simple",
+   "votos": 400,
+   "porcentaje": 80.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-06-17",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2025 2.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Constancia RA 2025 2 (17/06/2025); los % declarados suman 99,6%."
+  },
+  {
+   "nombre": "Martin Vargas Wildberger",
+   "tipo_persona": "fisica",
+   "documento": "CI 3504730",
+   "nacionalidad": null,
+   "acciones": 100,
+   "clase_acciones": "ordinaria voto simple",
+   "votos": 100,
+   "porcentaje": 19.6,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-06-17",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2025 2.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "100 acciones declaradas como 19,60% (100/500 = 20%)."
+  },
+  {
+   "nombre": "Martin Vargas Wildberger",
+   "tipo_persona": "fisica",
+   "documento": "CI 3504730 (RUC 3504730-5)",
+   "nacionalidad": "paraguaya",
+   "acciones": 176,
+   "clase_acciones": "ordinaria voto simple",
+   "votos": 176,
+   "porcentaje": 95.65,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-01-29",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA 2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Registro manuscrito (folio 11): títulos 09 (acc. 9-10, 2 acc., suscr. 01/12/2022) y 11 (acc. 11-184, 174 acc., 01/12/2022, 'integrada por Acta de Directorio N° 13. Mauro Vargas vende a Martin Vargas' ~27/01/26). RA 2026 declara valor nominal Gs. 1.000.000; el registro manuscrito indica Gs. 10.000.000 por acción."
+  },
+  {
+   "nombre": "Mauro Vargas Wildberger",
+   "tipo_persona": "fisica",
+   "documento": "CI 2178019 (RUC 2178019-6)",
+   "nacionalidad": null,
+   "acciones": 8,
+   "clase_acciones": "ordinaria voto simple",
+   "votos": 8,
+   "porcentaje": 4.35,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-01-29",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA 2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Registro manuscrito: títulos 01 (1 acc., 20/10/2016) y 02 (acc. 2-8, 7 acc., 20/10/2016)."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Ross Mary Monti",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": null,
+   "vigencia": "renunció (aceptada en Acta Directorio 19 del 02/12/2024)",
+   "fecha_dato": "2024-12-02",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Acta de Directorio 19-2025.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Gloria Elizabeth Villasanti Farinha",
+   "documento": "CI 404147",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2024-12-02",
+   "vigencia": "1 año o hasta la próxima asamblea",
+   "fecha_dato": "2026-01-29",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA 2026.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Carlos Mauricio Benitez Duarte",
+   "documento": "CI 2464429",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2024-12-02",
+   "vigencia": "renunció; reemplazado por Acta Directorio 22 del 29/12/2025",
+   "fecha_dato": "2025-12-29",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Acta de Dirertorio 22-2025.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Figuró como Representante Legal en Constancias RA 2025 2 y 3."
+  },
+  {
+   "nombre": "Raúl Sanchez",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-12-29",
+   "vigencia": "hasta la próxima Asamblea General Ordinaria",
+   "fecha_dato": "2026-01-29",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Dirertorio 22-2025.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Abogado (RA 2026); CI no declarado."
+  },
+  {
+   "nombre": "Miguel Angel Almada Frutos",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2024-12-02",
+   "vigencia": "ratificado 29/12/2025",
+   "fecha_dato": "2025-12-29",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Dirertorio 22-2025.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Ricardo Fernandez",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2025-12-29",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Dirertorio 22-2025.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "El síndico designó el directorio en ambas actas."
+  }
+ ],
+ "beneficiarios_finales": [
+  {
+   "nombre": "Mauro Vargas Wildberger",
+   "documento": "CI 2178019 (RUC 2178019-6)",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Dr. Toribio Pacheco esq. Saravi, Asunción",
+   "porcentaje": 99.9,
+   "tipo_control": "propiedad directa (A - accionista mayoritario)",
+   "cadena_control": "No aplica",
+   "fecha_dato": "2025-06-18",
+   "fuente": {
+    "archivo": "Constancia BF 2026 2.pdf",
+    "pagina": 1
+   },
+   "confianza": "media",
+   "notas": "Nacido 08-07-1987. BF desde 20-10-2016. La constancia lleva el mismo N° 371250 y fecha de emisión que 'Constancia BF 2025.pdf', que no tiene BF declarados."
+  },
+  {
+   "nombre": "Martin Vargas Wildberger",
+   "documento": "CI/RUC 3504730-5",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Calle Dr. Toribio Pacheco esq. Saravi, Asunción",
+   "porcentaje": 95.65,
+   "tipo_control": "propiedad directa (A - accionista mayoritario)",
+   "cadena_control": "N-A",
+   "fecha_dato": "2026-01-29",
+   "fuente": {
+    "archivo": "Constancia BF 2026 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Nacido 12-03-1992. BF desde 27-01-2026. Vigente."
+  }
+ ],
+ "historial": [
+  {
+   "fecha": "2016-10-20",
+   "evento": "constitucion",
+   "detalle": "Suscripción de las acciones 1 y 2-8 por Mauro Vargas Wildberger (registro manuscrito); BF desde esa fecha.",
+   "fuente": {
+    "archivo": "regsitrodeaccionistaactualizadoaimes.a.corredoradeseguros202638.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2022-06-30",
+   "evento": "transferencia_acciones",
+   "detalle": "Mauro Vargas Wildberger vende (acción 1) a Credicentro SAECA; Credicentro SAECA la revende a Mauro el 11/08/2022.",
+   "fuente": {
+    "archivo": "registroaccionistaaime.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2022-08-11",
+   "evento": "transferencia_acciones",
+   "detalle": "Gloria Elizabeth Villasanti Farinha vende acciones 9-10 a Martin Vargas Wildberger (Gloria fue accionista antes de 2022).",
+   "fuente": {
+    "archivo": "registroaccionistaaime.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2022-12-01",
+   "evento": "aumento_capital",
+   "detalle": "Títulos 09 (2 acc.) y 11 (174 acc.) a nombre de Martin Vargas W. con fecha de suscripción 01/12/2022 (registro manuscrito).",
+   "fuente": {
+    "archivo": "regsitrodeaccionistaactualizadoaimes.a.corredoradeseguros202638.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2024-12-02",
+   "evento": "cambio_directorio",
+   "detalle": "Renuncia de directora Ross Mary Monti; síndico designa: Pres. Gloria E. Villasanti Farinha, Dir. Tit. Carlos M. Benitez Duarte, Dir. Sup. Miguel A. Almada Frutos, Síndico Ricardo Fernandez.",
+   "fuente": {
+    "archivo": "Acta de Directorio 19-2025.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-12-29",
+   "evento": "cambio_directorio",
+   "detalle": "Renuncia de Carlos Benitez; Dir. Tit. Raúl Sanchez; se mantienen Gloria Villasanti (Pres.) y Miguel Almada (Sup.).",
+   "fuente": {
+    "archivo": "Acta de Dirertorio 22-2025.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-01-27",
+   "evento": "transferencia_acciones",
+   "detalle": "Mauro Vargas vende a Martin Vargas (anotación manuscrita, fecha aprox. 27/01/26); Martin pasa a 176 de 184 acciones (95,65%).",
+   "fuente": {
+    "archivo": "regsitrodeaccionistaactualizadoaimes.a.corredoradeseguros202638.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "Gloria Elizabeth Villasanti Farinha (CI 404147)",
+   "tipo": "director_comun",
+   "detalle": "Presidente de AIME; accionista mayoritaria y Vicepresidente de V Media S.A.; ex accionista de AIME (vendió a Martin Vargas 11/08/2022).",
+   "fuente": {
+    "archivo": "Constancia RA 2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Miguel Angel Almada Frutos",
+   "tipo": "director_comun",
+   "detalle": "Director suplente de AIME; síndico de V Media e Intertours; figura en BF de Redipro con correo @itti.digital.",
+   "fuente": {
+    "archivo": "Acta de Dirertorio 22-2025.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Mauro Vargas",
+   "tipo": "otro",
+   "detalle": "Mauro Vargas actúa como representante del accionista CBS S.A. en la Asamblea N° 28 de V Media S.A. (08/05/2026). Fuente externa: carpeta V MEDIA SA, ACTA ORDINARIA NRO 28.pdf p.2",
+   "fuente": null
+  },
+  {
+   "entidad_o_persona": "Credicentro SAECA",
+   "tipo": "otro",
+   "detalle": "Fue titular transitorio de 1 acción (30/06/2022 a 11/08/2022).",
+   "fuente": {
+    "archivo": "registroaccionistaaime.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Grupo Ueno / ITTI (Torres del Paseo La Galería, Torre 3, Piso 11)",
+   "tipo": "mismo_domicilio",
+   "detalle": "Domicilio social en Torre 3 Piso 11 de Torres del Paseo La Galería, igual que ITTI, Tiva y Redipro.",
+   "fuente": {
+    "archivo": "Constancia RA 2026.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Alan Gabriel Campos Pardo (CI 3.172.236)",
+   "tipo": "mismo_solicitante",
+   "detalle": "Declarante SIARA con correo @uenoholding.com.py; también declarante de Red Digital de Procesamiento S.A.",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": "Alan Gabriel Campos Pardo",
+   "documento": "CI 3.172.236",
+   "correo": "alan.campos@uenoholding.com.py",
+   "telefono": "0982798974",
+   "fecha": "2025-01-13",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "nombre": "Alan Gabriel Campos Pardo",
+   "documento": "CI 3.172.236",
+   "correo": "alan.campos@uenoholding.com.py",
+   "telefono": "0982798974",
+   "fecha": "2025-06-18",
+   "fuente": {
+    "archivo": "Constancia BF 2026 2.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "nombre": "Alan Gabriel Campos Pardo",
+   "documento": "CI 3.172.236",
+   "correo": "a.pardo08@hotmail.com",
+   "telefono": "0982798974",
+   "fecha": "2026-01-29",
+   "fuente": {
+    "archivo": "Constancia RA 2026.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "correos_dominios": [
+  "uenoholding.com.py",
+  "hotmail.com"
+ ],
+ "documentos": [
+  {
+   "archivo": "Acta de Directorio 19-2025.pdf",
+   "tipo": "acta_directorio",
+   "fecha": "2024-12-02",
+   "paginas": 1,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Acta Directorio N° 19: renuncia de Ross Mary Monti; designa Pres. Gloria Villasanti, Dir. Carlos Benitez, Sup. Miguel Almada, Síndico Ricardo Fernandez."
+  },
+  {
+   "archivo": "Acta de Dirertorio 22-2025.pdf",
+   "tipo": "acta_directorio",
+   "fecha": "2025-12-29",
+   "paginas": 1,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Acta Directorio N° 22: renuncia de Carlos Benitez; Dir. Tit. Raúl Sanchez; Pres. Gloria Villasanti; Sup. Miguel Almada."
+  },
+  {
+   "archivo": "Constancia BF 2025.pdf",
+   "tipo": "constancia_BF",
+   "fecha": "2025-06-18",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia BF N° 371250 sin beneficiarios finales declarados (tabla vacía)."
+  },
+  {
+   "archivo": "Constancia BF 2026 1.pdf",
+   "tipo": "constancia_BF",
+   "fecha": "2026-01-29",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia BF N° 405093: BF Martin Vargas Wildberger 95,65%."
+  },
+  {
+   "archivo": "Constancia BF 2026 2.pdf",
+   "tipo": "constancia_BF",
+   "fecha": "2025-06-18",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia BF N° 371250 (mismo número que BF 2025): BF Mauro Vargas Wildberger 99,9%."
+  },
+  {
+   "archivo": "Constancia RA 2025 1.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2025-01-13",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "RA N° 330540 (período 2024): Mauro 182 acc. (98,91%), Martin 2 (1,09%); Pres. Gloria Villasanti, Dir. Carlos Benitez."
+  },
+  {
+   "archivo": "Constancia RA 2025 2.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2025-06-17",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "RA N° 364073: Mauro 400 acc. (80%), Martin 100 (19,6%)."
+  },
+  {
+   "archivo": "Constancia RA 2025 3.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2025-06-18",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "RA N° 364550: vuelve a 182/2 acciones (98,91%/1,09%)."
+  },
+  {
+   "archivo": "Constancia RA 2026.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-01-29",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "RA N° 401830 (período 2025): Martin 176 (95,65%), Mauro 8 (4,35%); capital suscripto 5.000 M, integrado 1.840 M; Pres. Gloria Villasanti, Dir. Raúl Sanchez."
+  },
+  {
+   "archivo": "registroaccionistaaime.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": null,
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Planilla digital (imagen) 500 acciones: Mauro 400 (80%), Martin 100 (20%)."
+  },
+  {
+   "archivo": "registroaccionistaaime.vdocx.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": null,
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Duplicado de la planilla (idéntico a vdocx28 y vdocx34); difiere sólo en monto 930.000.000 vs 980.000.000 de la última fila."
+  },
+  {
+   "archivo": "registroaccionistaaime.vdocx28.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": null,
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Duplicado idéntico de registroaccionistaaime.vdocx.pdf."
+  },
+  {
+   "archivo": "registroaccionistaaime.vdocx34.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": null,
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Duplicado idéntico de registroaccionistaaime.vdocx.pdf."
+  },
+  {
+   "archivo": "regsitrodeaccionistaactualizadoaimes.a.corredoradeseguros202638.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-01-27",
+   "paginas": 1,
+   "legibilidad": "manuscrito",
+   "resumen": "Libro rubricado (folio 10-11): 184 acciones; Mauro 8, Martin 176; anotaciones de transferencias."
+  }
+ ],
+ "observaciones": [
+  "Composición accionaria inconsistente entre fuentes: 182+2 acciones (RA ene-2025 y RA 18/06/2025), 400+100 (RA 17/06/2025 y planilla digital), 8+176 (RA ene-2026 y libro manuscrito). Dos constancias RA de días consecutivos (17 y 18/06/2025) declaran composiciones distintas.",
+  "Capital: RA 2026 declara suscripto Gs. 5.000 M e integrado Gs. 1.840 M (184 acciones x 10 M), pero valor nominal Gs. 1.000.000; el libro manuscrito indica Gs. 10.000.000 por acción.",
+  "Constancia BF 2025 y Constancia BF 2026 2 tienen el mismo N° 371250 y la misma fecha de emisión (18/06/2025) pero distinto código de verificación; una sin BF y otra con Mauro Vargas 99,9%. El nombre del archivo 'BF 2026 2' no corresponde a su fecha.",
+  "La planilla digital del registro atribuye a Martin Vargas Wildberger el CI 404.147, que es el CI de Gloria Elizabeth Villasanti Farinha (Presidente).",
+  "RA 2026: el campo 'Correo electrónico' de la PEJ contiene una dirección postal y el 'Representante Legal' no trae número de CI.",
+  "No se remitió estatuto/escritura de constitución ni actas de asamblea; Raúl Sanchez y Ricardo Fernandez sin CI.",
+  "Constancias RA 2025 1 y 3 escriben 'MAURA' / 'MILDBERGER' (errores de tipeo)."
+ ]
+}

@@ -1,0 +1,96 @@
+{
+  "id": "place_analyzer",
+  "razon_social": "PLACE ANALYZER S.A.",
+  "ruc": "80117081-8",
+  "tipo": "Sociedad Anónima (transformada desde E.A.S.)",
+  "carpeta_mef": "PLACE ANALYZER SA",
+  "denominaciones_anteriores": [
+    {"nombre": "PLACE ANALYZER E.A.S.", "hasta": "2025-03-25", "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 1}}
+  ],
+  "constitucion": {
+    "fecha": null,
+    "escritura": "Constituida originalmente como Place Analyzer E.A.S. (SUACE; estatutos en fotocopia agregada a la escritura N° 104 del 04/12/2023, Esc. María Teresa López de Aponte). Transformada a S.A. por Escritura N° 44 del 25/03/2025.",
+    "escribano": "María Teresa López de Aponte (Registro N° 637)",
+    "inscripcion_registro_publico": "Constitución de Place Analyzer S.A. inscripta bajo N° 4, Folio 1 (Matrícula 46091), fecha 2025 (OCR: 'JS-4-25'); Matrícula de comerciante N° 11420, folio 11420",
+    "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 1},
+    "confianza": "media"
+  },
+  "domicilio": [
+    {"direccion": "AVDA. SANTA TERESA N° 1827 ENTRE AVDA. AVIADORES DEL CHACO Y HERMINIO MALDONADO, EDIFICIO TORRES DEL PASEO, TORRE 3, NIVEL 11, ASUNCIÓN", "fecha_dato": "2025-10-07", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}}
+  ],
+  "objeto_social": "Creación, desarrollo, adecuación e implementación de programas de ordenador o software y su explotación comercial.",
+  "actividad_principal": "tecnología (software)",
+  "plazo_duracion": "99 años desde la inscripción",
+  "capital": [
+    {"tipo": "social", "monto": 1000000000, "moneda": "PYG", "valor_nominal_accion": 10000000, "cantidad_acciones": 100, "fecha_dato": "2025-03-25", "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 3}},
+    {"tipo": "integrado", "monto": 1000000000, "moneda": "PYG", "valor_nominal_accion": 10000000, "cantidad_acciones": 100, "fecha_dato": "2025-03-25", "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/REGISTRO ACCIONISTAS FOLIO 2.pdf", "pagina": 1}, "notas": "La constancia RA 2025 deja vacíos los campos de capital suscripto e integrado."}
+  ],
+  "accionistas": [
+    {"nombre": "ITTI S.A.E.C.A.", "tipo_persona": "juridica", "documento": "RUC 80028355-4", "nacionalidad": "paraguaya", "acciones": 48, "clase_acciones": "OVS", "votos": 48, "porcentaje": 48.0, "porcentaje_calculado": false, "fecha_dato": "2024-04-29", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 1}, "confianza": "media", "notas": "Acta Asamblea Extraordinaria N° 03 de Place Analyzer E.A.S. (acciones 1-48), representada por Luis Angulo; además 12 acciones (81-92) a nombre de ITTI en la misma acta (total ITTI 60)."},
+    {"nombre": "ITTI S.A.E.C.A.", "tipo_persona": "juridica", "documento": "RUC 80028355-4", "nacionalidad": "paraguaya", "acciones": 12, "clase_acciones": "OVS", "votos": 12, "porcentaje": 12.0, "porcentaje_calculado": false, "fecha_dato": "2024-04-29", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 1}, "confianza": "media", "notas": "Acciones 81-92 (OCR deficiente)."},
+    {"nombre": "Gustavo Enrique Mayeregger Varela", "tipo_persona": "fisica", "documento": "CI 822.983", "nacionalidad": "paraguaya", "acciones": 32, "clase_acciones": "OVS", "votos": 32, "porcentaje": 32.0, "porcentaje_calculado": false, "fecha_dato": "2024-04-29", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "Federico Hernán Vargas Peña Gill", "tipo_persona": "fisica", "documento": "CI 2.207.101", "nacionalidad": "paraguaya", "acciones": 8, "clase_acciones": "OVS", "votos": 8, "porcentaje": 8.0, "porcentaje_calculado": false, "fecha_dato": "2024-04-29", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 1}, "confianza": "alta", "notas": "Figura como 'Hernan Vargas Peña' en el acta transcripta."},
+    {"nombre": "ITTI S.A.E.C.A.", "tipo_persona": "juridica", "documento": "RUC 80028355-4", "nacionalidad": "paraguaya", "acciones": 60, "clase_acciones": "Ordinarias nominativas", "votos": 60, "porcentaje": 60.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-14", "vigente": true, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 1}, "confianza": "alta", "notas": "Registro de accionistas (25/03/2025): acciones 1-60 a nombre 'ITTI S.A.E.', domicilio Torres del Paseo. Representada por Guillermo Vázquez en la Asamblea Ordinaria N° 1 (14/04/2026). Constancia RA 2025: 60 acciones de Gs. 10.000.000 (porcentaje en blanco)."},
+    {"nombre": "Gustavo Enrique Mayeregger Varela", "tipo_persona": "fisica", "documento": "CI 822.983", "nacionalidad": "paraguaya", "acciones": 32, "clase_acciones": "Ordinarias de voto simple", "votos": 32, "porcentaje": 32.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-14", "vigente": true, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 1}, "confianza": "alta", "notas": "Acciones 61-92 según registro (escrito 'Mageregger')."},
+    {"nombre": "Federico Hernán Vargas Peña Gill", "tipo_persona": "fisica", "documento": "CI 2.207.101", "nacionalidad": "paraguaya", "acciones": 8, "clase_acciones": "Ordinarias de voto simple", "votos": 8, "porcentaje": 8.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-14", "vigente": true, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 1}, "confianza": "alta", "notas": "Acciones 93-100 según registro."}
+  ],
+  "autoridades": [
+    {"nombre": "Gustavo Enrique Mayeregger Varela", "documento": "CI 822.983", "cargo": "Presidente", "fecha_asuncion": "2025-03-25", "vigencia": null, "fecha_dato": "2025-03-25", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 16}, "confianza": "media", "notas": "Primer directorio de la S.A. (cláusula transitoria)"},
+    {"nombre": "Federico Hernán Vargas Peña Gill", "documento": "CI 2.207.101", "cargo": "Vicepresidente", "fecha_asuncion": "2025-03-25", "vigencia": null, "fecha_dato": "2025-03-25", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 16}, "confianza": "media"},
+    {"nombre": "César Manuel Astigarraga Lambaré", "documento": "CI 3.807.117", "cargo": "Director titular", "fecha_asuncion": "2025-03-25", "vigencia": null, "fecha_dato": "2025-03-25", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 16}, "confianza": "media"},
+    {"nombre": "Paola Analía Meza", "documento": "CI 2.525.200", "cargo": "Director titular", "fecha_asuncion": "2025-03-25", "vigencia": null, "fecha_dato": "2025-03-25", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 16}, "confianza": "media"},
+    {"nombre": "Marcos Eugenio Godinot", "documento": null, "cargo": "Director suplente", "fecha_asuncion": "2025-03-25", "vigencia": null, "fecha_dato": "2025-03-25", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 16}, "confianza": "media"},
+    {"nombre": "Liz Raquel Vázquez Benítez", "documento": "CI 1.050.627", "cargo": "Síndico titular", "fecha_asuncion": "2025-03-25", "vigencia": "anual", "fecha_dato": "2025-03-25", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 16}, "confianza": "media"},
+    {"nombre": "Gustavo Enrique Mayeregger Varela", "documento": "CI 822.983", "cargo": "Presidente", "fecha_asuncion": "2025-04-15", "vigencia": "Hasta la próxima asamblea", "fecha_dato": "2025-10-07", "vigente": false, "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}, "confianza": "alta", "notas": "Domicilio Moisés Bertoni N° 2031; Licenciado"},
+    {"nombre": "Federico Hernan Vargas Peña", "documento": "CI 2.207.101", "cargo": "Vicepresidente y Representante legal", "fecha_asuncion": "2025-04-15", "vigencia": "Hasta la próxima asamblea", "fecha_dato": "2025-10-07", "vigente": false, "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}, "confianza": "alta", "notas": "Domicilio Nuestra Señora del Carmen N° 728; representante legal declarado en SIARA"},
+    {"nombre": "César Manuel Astigarraga Lambaré", "documento": "CI 3.807.117", "cargo": "Director titular", "fecha_asuncion": "2025-04-15", "vigencia": "Hasta la próxima asamblea", "fecha_dato": "2025-10-07", "vigente": false, "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "Paola Analia Meza", "documento": "CI 2.525.200", "cargo": "Director titular", "fecha_asuncion": "2025-04-15", "vigencia": "Hasta la próxima asamblea", "fecha_dato": "2025-10-07", "vigente": false, "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "Gustavo Mayeregger", "documento": "CI 822.983", "cargo": "Presidente", "fecha_asuncion": "2026-04-14", "vigencia": null, "fecha_dato": "2026-04-14", "vigente": true, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "Federico Vargas Peña", "documento": "CI 2.207.101", "cargo": "Vicepresidente", "fecha_asuncion": "2026-04-14", "vigencia": null, "fecha_dato": "2026-04-14", "vigente": true, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "César Astigarraga", "documento": "CI 3.807.117", "cargo": "Director titular", "fecha_asuncion": "2026-04-14", "vigencia": null, "fecha_dato": "2026-04-14", "vigente": true, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "Paola Meza", "documento": "CI 2.525.200", "cargo": "Director titular", "fecha_asuncion": "2026-04-14", "vigencia": null, "fecha_dato": "2026-04-14", "vigente": true, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "Guillermo Vázquez", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2026-04-14", "vigencia": null, "fecha_dato": "2026-04-14", "vigente": true, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta", "notas": "También representante legal de ITTI S.A.E. en la asamblea y secretario de asamblea."},
+    {"nombre": "Rodolfo Barrios", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2026-04-14", "vigencia": null, "fecha_dato": "2026-04-14", "vigente": true, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "Luis Angulo", "documento": null, "cargo": "Representante de ITTI S.A.E.C.A. y Presidente de Asamblea (Asamblea Extraordinaria N° 03 de la E.A.S.)", "fecha_asuncion": "2024-04-29", "vigencia": null, "fecha_dato": "2024-04-29", "vigente": false, "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 1}, "confianza": "media"}
+  ],
+  "beneficiarios_finales": [
+    {"nombre": "Federico Miguel Vázquez Villasanti", "documento": "CI 2.941.546", "nacionalidad": "paraguaya", "domicilio": "Asunción", "porcentaje": 43.77, "tipo_control": "propiedad indirecta (A); 55,87% de derecho a voto", "cadena_control": "Accionista mayoritario en Grupo Vázquez S.A.E. -> ITTI S.A.E.C.A. -> Place Analyzer S.A.", "fecha_dato": "2025-10-07", "fuente": {"archivo": "CONSTANCIA BF NRO 399459.pdf", "pagina": 1}, "confianza": "alta", "notas": "Nacido 28-02-1990, empresario. BF desde 19-06-2023."},
+    {"nombre": "Gustavo Enrique Mayeregger Varela", "documento": "CI 822.983", "nacionalidad": "paraguaya", "domicilio": "Moisés Bertoni N° 2031", "porcentaje": 32.0, "tipo_control": "propiedad directa (A); 32% de votos", "cadena_control": "Accionista en Place Analyzer S.A.", "fecha_dato": "2025-10-07", "fuente": {"archivo": "CONSTANCIA BF NRO 399459.pdf", "pagina": 1}, "confianza": "alta", "notas": "Nacido 07-04-1975, licenciado. BF desde 01-06-2021."}
+  ],
+  "historial": [
+    {"fecha": "2023-12-04", "evento": "constitucion", "detalle": "Estatutos de Place Analyzer E.A.S. (constituida vía SUACE) agregados en fotocopia a la escritura N° 104 del 04/12/2023 (Esc. López de Aponte). Fecha exacta de constitución no consta.", "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 1}},
+    {"fecha": "2024-04-29", "evento": "otro", "detalle": "Asamblea General Extraordinaria N° 03 de Place Analyzer E.A.S. resuelve transformar la E.A.S. en S.A. Presentes: ITTI S.A.E.C.A. (rep. Luis Angulo) 60%, Gustavo Mayeregger 32%, Hernán Vargas Peña 8%. Comunicada por certificado N° 5245480 del 25-09-2024.", "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 1}},
+    {"fecha": "2025-03-25", "evento": "modificacion_estatutos", "detalle": "Escritura N° 44 (Esc. María Teresa López de Aponte): transformación de Place Analyzer E.A.S. en Place Analyzer S.A.; capital Gs. 1.000.000.000 en 100 acciones de Gs. 10.000.000; suscripción ITTI 60, Mayeregger 32, Vargas Peña Gill 8; primer directorio y síndica Liz Raquel Vázquez Benítez.", "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "pagina": 1}},
+    {"fecha": "2025-04-15", "evento": "cambio_directorio", "detalle": "Directorio declarado en SIARA: Mayeregger (Pte), Vargas Peña (Vice), Astigarraga Lambaré y Meza (titulares).", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"fecha": "2026-04-14", "evento": "cambio_directorio", "detalle": "Asamblea Ordinaria N° 1 (ejercicios 2024 y 2025, sin utilidades): Directorio Mayeregger (Pte), Vargas Peña (Vice), Astigarraga, Meza y Guillermo Vázquez (titulares); síndico Rodolfo Barrios.", "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 2}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "ITTI S.A.E.C.A. (RUC 80028355-4)", "tipo": "accionista_de", "detalle": "ITTI es accionista controlante (60%) de Place Analyzer.", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Grupo Vázquez S.A.E. / Federico Miguel Vázquez Villasanti (CI 2.941.546)", "tipo": "accionista_de", "detalle": "Beneficiario final indirecto vía Grupo Vázquez S.A.E. -> ITTI S.A.E.C.A.; Federico Miguel Vázquez Villasanti es además Vicepresidente 1° de Ueno Bank.", "fuente": {"archivo": "CONSTANCIA BF NRO 399459.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Guillermo Vázquez", "tipo": "director_comun", "detalle": "Director titular y representante de ITTI; también preside/representa asambleas en IDL, Hanoi, Franede (Guillermo Vázquez) y es director suplente de Ueno Bank (Guillermo Vázquez Muniagurria).", "fuente": {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "pagina": 2}},
+    {"entidad_o_persona": "César Manuel Astigarraga Lambaré (CI 3.807.117)", "tipo": "director_comun", "detalle": "Director titular; también presidente de IDL y Hanoi, y síndico suplente de Ueno Bank.", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Paola Analía Meza (CI 2.525.200)", "tipo": "director_comun", "detalle": "Directora titular; también directora titular de IDL.", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Sandra Noemí Caballero Almada (CI 3.525.422)", "tipo": "mismo_solicitante", "detalle": "Declarante SIARA con correo @uenoholding.com.py; misma declarante en Franede (con correo @gvcorp.com.py y @uenoholding.com.py).", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Torres del Paseo, Avda. Santa Teresa 1827, Torre 3, Nivel 11", "tipo": "mismo_domicilio", "detalle": "Domicilio social compartido con ITTI, Hanoi, U Paraguay y otras empresas del grupo.", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [
+    {"nombre": "Sandra Noemi Caballero Almada", "documento": "CI 3.525.422", "correo": "sandra.caballero@uenoholding.com.py", "telefono": "0981110369", "fecha": "2025-10-07", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"nombre": "Sandra Noemi Caballero Almada", "documento": "CI 3.525.422", "correo": "sandra.caballero@uenoholding.com.py", "telefono": "0981110369", "fecha": "2025-10-07", "fuente": {"archivo": "CONSTANCIA BF NRO 399459.pdf", "pagina": 1}}
+  ],
+  "correos_dominios": ["itti.digital", "uenoholding.com.py"],
+  "documentos": [
+    {"archivo": "CONSTANCIA RA.pdf", "tipo": "constancia_RA", "fecha": "2025-10-07", "paginas": 2, "legibilidad": "texto", "resumen": "Constancia RA N° 395404 (cert. 7447196), periodo 2025: socios ITTI 60, Mayeregger 32%, Vargas Peña 8%; directorio desde 15-04-2025; correo empresa FEDEREICO.VARGAS@ITTI.DIGITAL."},
+    {"archivo": "CONSTANCIA BF NRO 399459.pdf", "tipo": "constancia_BF", "fecha": "2025-10-07", "paginas": 1, "legibilidad": "texto", "resumen": "BF: Federico Miguel Vázquez Villasanti 43,77% (55,87% votos) vía Grupo Vázquez S.A.E. e ITTI; Gustavo E. Mayeregger Varela 32%."},
+    {"archivo": "PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf", "tipo": "acta_asamblea", "fecha": "2026-04-14", "paginas": 3, "legibilidad": "ocr_bueno", "resumen": "Asamblea Ordinaria N° 1: aprueba ejercicios 2024-2025 sin utilidades; elige directorio (Mayeregger Pte.) y síndico Rodolfo Barrios."},
+    {"archivo": "PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf", "tipo": "escritura_modificacion", "fecha": "2025-03-25", "paginas": 24, "legibilidad": "ocr_bueno", "resumen": "Transformación de E.A.S. a S.A., nuevos estatutos, capital Gs. 1.000 millones, primer directorio, inscripción registral."},
+    {"archivo": "PLACE ANALYZER SA-SIARA/REGISTRO ACCIONISTAS FOLIO 2.pdf", "tipo": "registro_accionistas", "fecha": "2025-03-25", "paginas": 2, "legibilidad": "texto", "resumen": "Folio 2: ITTI S.A.E. acciones 1-60; Gustavo Mayeregger Varela 61-92; Federico Vargas Peña 93-100."}
+  ],
+  "observaciones": [
+    "La base de datos lista la empresa como 'Place Analyzer E.A.S.', pero fue transformada en S.A. por escritura N° 44 del 25/03/2025; la carpeta MEF y SIARA ya la denominan S.A.",
+    "Constancia RA 2025: no informa capital suscripto/integrado; el porcentaje de ITTI aparece en blanco; correo empresa con error tipográfico 'FEDEREICO.VARGAS@ITTI.DIGITAL'.",
+    "El BF Gustavo Mayeregger figura 'desde 01-06-2021', anterior a la constitución documentada de la E.A.S. (estatutos referenciados en 2023).",
+    "En la cadena de control el BF figura 'Grupo Vázquez S.A.E.C.A.' y 'Grupo Vázquez S.A.E.' (denominación inconsistente).",
+    "La suma de porcentajes de BF (43,77% + 32%) y el 60% de ITTI implican que Federico M. Vázquez Villasanti controla ~72,95% de ITTI (dato no documentado aquí).",
+    "Inscripción registral leída por OCR (fecha y números con confianza media)."
+  ]
+}

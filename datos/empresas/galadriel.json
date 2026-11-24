@@ -1,0 +1,80 @@
+{
+  "id": "galadriel",
+  "razon_social": "GALADRIEL S.A.",
+  "ruc": "80167018-7",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "Galadriel S.A",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2025-11-05",
+    "escritura": "N° 111 (folio 432, Protocolo División Comercial Sección B)",
+    "escribano": "Rosa Elena María Di Martino Ortiz (Registro N° 4, Asunción)",
+    "inscripcion_registro_publico": "DGRP entrada N° 15417288 (20-01-2026). Sección Personas Jurídicas y Asociaciones: Serie SUACE, N° 1, folio 1 y sgtes., 20-01-2026 (en el sello del testimonio figura 'Persona Jurídica N° 2365 - Serie SUACE'). Registro Público de Comercio / Matrícula de comerciante: N° 13726, folio 13726, 20-01-2026. Constancia de inscripción DRFS (Abogacía del Tesoro/DGPEJBF) N° trámite 125123 del 18-02-2026; dictamen DRFS N° 118505 del 05-01-2026. Publicación Diario La Nación 05, 06 y 07-02-2026.",
+    "fuente": {"archivo": "Constancia como Inscripción.pdf", "pagina": 1}
+  },
+  "domicilio": [
+    {"direccion": "AVDA AVIADORES DEL CHACO 2050, EDIFICIO WTC, TORRE 3, PISO 19, ASUNCIÓN", "fecha_dato": "2026-02-23", "fuente": {"archivo": "Constancia de RA 2026 (2).pdf", "pagina": 1}},
+    {"direccion": "Avenida Aviadores del Chaco N° 2050, Asunción (domicilio comercial en matrícula de comerciante)", "fecha_dato": "2026-01-20", "fuente": {"archivo": "Escritura N° 111.pdf", "pagina": 25}}
+  ],
+  "objeto_social": "Objeto amplio: comerciales, industriales, agrícolas, ganaderas, importación/exportación, comisiones, representaciones, servicios, inversiones y participación en el capital de otras empresas, viajes y turismo, maquila, inmobiliarias, construcciones, transporte, asesoramiento.",
+  "actividad_principal": "sociedad de objeto amplio / vehículo de inversión (sin actividad específica identificada)",
+  "plazo_duracion": "100 años desde la inscripción",
+  "capital": [
+    {"tipo": "social", "monto": 500000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 500, "fecha_dato": "2025-11-05", "fuente": {"archivo": "Escritura N° 111.pdf", "pagina": 6}, "confianza": "media"},
+    {"tipo": "suscripto", "monto": 10000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 10, "fecha_dato": "2026-02-23", "fuente": {"archivo": "Constancia de RA 2026 (2).pdf", "pagina": 1}},
+    {"tipo": "integrado", "monto": 10000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 10, "fecha_dato": "2026-02-23", "fuente": {"archivo": "Constancia de RA 2026 (2).pdf", "pagina": 1}}
+  ],
+  "accionistas": [
+    {"nombre": "ANTONIO IGNACIO VILLA BERKEMEYER", "tipo_persona": "fisica", "documento": "CI 2034678 (RUC 2034678-6)", "nacionalidad": "paraguaya", "acciones": 9, "clase_acciones": "ordinarias nominativas", "votos": 9, "porcentaje": 90.0, "porcentaje_calculado": false, "fecha_dato": "2026-02-23", "vigente": true, "fuente": {"archivo": "Constancia de RA 2026 (2).pdf", "pagina": 1}, "confianza": "alta", "notas": "Abogado; domicilio Avda. Aviadores del Chaco 2050, Edif. WTC, Torre 3, Piso 19. Suscribió 9 acciones en la constitución (Art. 41). La constancia 7666667 consigna valor 'G. 10.000.000' por acción y la 7668659 'G. 1.000.000'."},
+    {"nombre": "JORGE DAVID PERALTA SOSA", "tipo_persona": "fisica", "documento": "CI 4049157 (RUC 4049157-9)", "nacionalidad": "paraguaya", "acciones": 1, "clase_acciones": "ordinarias nominativas", "votos": 1, "porcentaje": 10.0, "porcentaje_calculado": false, "fecha_dato": "2026-02-23", "vigente": true, "fuente": {"archivo": "Constancia de RA 2026 (2).pdf", "pagina": 1}, "confianza": "alta", "notas": "Abogado; suscribió 1 acción en la constitución."}
+  ],
+  "autoridades": [
+    {"nombre": "JORGE DAVID PERALTA SOSA", "documento": "CI 4049157", "cargo": "Director titular / Representante legal", "fecha_asuncion": "2025-11-05", "vigencia": "3 años", "fecha_dato": "2026-02-23", "vigente": true, "fuente": {"archivo": "Constancia de RA 2026 (2).pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "ANTONIO IGNACIO VILLA BERKEMEYER", "documento": "CI 2034678", "cargo": "Director suplente", "fecha_asuncion": "2025-11-05", "vigencia": "3 años (estatuto)", "fecha_dato": "2025-11-05", "vigente": true, "fuente": {"archivo": "Escritura N° 111.pdf", "pagina": 20}, "confianza": "alta"},
+    {"nombre": "ROSSANA CESPEDES", "documento": "CI 2189588", "cargo": "Síndico titular", "fecha_asuncion": "2025-11-05", "vigencia": null, "fecha_dato": "2025-11-05", "vigente": null, "fuente": {"archivo": "Escritura N° 111.pdf", "pagina": 20}, "confianza": "media"},
+    {"nombre": "FEDERICO VALINOTTI", "documento": "CI 1517086 (OCR dudoso)", "cargo": "Síndico suplente", "fecha_asuncion": "2025-11-05", "vigencia": null, "fecha_dato": "2025-11-05", "vigente": null, "fuente": {"archivo": "Escritura N° 111.pdf", "pagina": 20}, "confianza": "baja"}
+  ],
+  "beneficiarios_finales": [
+    {"nombre": "ANTONIO IGNACIO VILLA BERKEMEYER", "documento": "CI 2034678 (RUC 2034678-6)", "nacionalidad": "paraguaya", "domicilio": "Avda. Aviadores del Chaco 2050, Edificio WTC, Torre 3, Piso 19", "porcentaje": 90.0, "tipo_control": "Condición A (propiedad directa) - 90% participación y 90% votos", "cadena_control": "N-A (directo)", "fecha_dato": "2025-11-05", "fuente": {"archivo": "drfs-003---comunicacion-en-el-registro-administrativo-de-beneficiarios-finales-7666669.pdf", "pagina": 1}, "confianza": "alta", "notas": "Fecha de nacimiento 13-05-1986, abogado"},
+    {"nombre": "JORGE DAVID PERALTA SOSA", "documento": "CI 4049157 (RUC 4049157-9)", "nacionalidad": "paraguaya", "domicilio": "Avda. Aviadores del Chaco 2050, Edificio WTC, Torre 3, Piso 20", "porcentaje": 10.0, "tipo_control": "Condición A (propiedad directa) - 10% participación y 10% votos; información adicional: Director", "cadena_control": "N-A (directo)", "fecha_dato": "2025-11-05", "fuente": {"archivo": "drfs-003---comunicacion-en-el-registro-administrativo-de-beneficiarios-finales-7666669.pdf", "pagina": 1}, "confianza": "alta", "notas": "Fecha de nacimiento 18-12-1995, abogado"}
+  ],
+  "historial": [
+    {"fecha": "2025-11-05", "evento": "constitucion", "detalle": "Constitución por Escritura N° 111 (Esc. Rosa Elena Di Martino Ortiz). Capital social Gs. 500.000.000 (500 acciones de Gs. 1.000.000); emitidas, suscriptas e integradas 10 acciones: Antonio Ignacio Villa Berkemeyer 9, Jorge David Peralta Sosa 1. Primer directorio: Director titular Jorge David Peralta Sosa; Director suplente Antonio Ignacio Villa Berkemeyer; Síndico titular Rossana Céspedes; Síndico suplente Federico Valinotti.", "fuente": {"archivo": "Escritura N° 111.pdf", "pagina": 19}},
+    {"fecha": "2026-01-20", "evento": "otro", "detalle": "Inscripción en Registro de Personas Jurídicas (Serie SUACE) y matrícula de comerciante N° 13726.", "fuente": {"archivo": "Escritura N° 111.pdf", "pagina": 25}},
+    {"fecha": "2026-02-18", "evento": "otro", "detalle": "Constancia de inscripción DRFS N° trámite 125123 (certificado 7661858).", "fuente": {"archivo": "Constancia como Inscripción.pdf", "pagina": 1}},
+    {"fecha": "2026-02-21", "evento": "otro", "detalle": "Comunicación inicial SIARA RA (constancia 403162, certificados 7666667/7666668) y BF (constancia 406326, certificados 7666669/7666670). Correo PEJ: contabilidad.lgk@gmail.com.", "fuente": {"archivo": "drfs-002---comunicacion-en-el-registro-administrativo-de-personas-y-estructuras-juridicas-7666667.pdf", "pagina": 1}},
+    {"fecha": "2026-02-23", "evento": "otro", "detalle": "Actualización de datos SIARA RA (constancia 403323, certificados 7668659/7668660): cambia correo de la PEJ a CONTABILIDAD16@LOGISTIK.COM.PY.", "fuente": {"archivo": "Constancia de RA 2026 (2).pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "ARWENT S.A.", "tipo": "mencion_en_documento", "detalle": "En la carpeta de Galadriel se incluye la Escritura N° 110 del mismo día (05-11-2025), misma escribana y mismos otorgantes (Villa Berkemeyer y Peralta Sosa), que constituye otra sociedad: ARWENT S.A. Posible sociedad gemela.", "fuente": {"archivo": "Escritura Pública N° 110.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Logistik (logistik.com.py)", "tipo": "mismo_correo_dominio", "detalle": "Correo de la PEJ en la actualización SIARA: CONTABILIDAD16@LOGISTIK.COM.PY (y antes CONTABILIDAD.LGK@GMAIL.COM, 'LGK'). Indica que la contabilidad la lleva una empresa 'Logistik'; posible vínculo con otra empresa del grupo (p.ej. Impresión Distribución y Logística S.A.) a verificar.", "fuente": {"archivo": "Constancia de RA 2026 (2).pdf", "pagina": 1}},
+    {"entidad_o_persona": "Berke (berke.com.py) - estudio jurídico", "tipo": "mismo_correo_dominio", "detalle": "Declarante SIARA Jorge David Peralta Sosa usa jorge.peralta@berke.com.py; accionistas son abogados domiciliados en WTC Torre 3 Piso 19 (estudio jurídico). Posibles accionistas nominales (fiduciarios/de conveniencia); los BF declarados son los mismos abogados.", "fuente": {"archivo": "Constancia de BF 2026.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [
+    {"nombre": "JORGE DAVID PERALTA SOSA", "documento": "CI 4049157", "correo": "jorge.peralta@berke.com.py", "telefono": "0983326619", "fecha": "2026-02-21", "fuente": {"archivo": "drfs-002---comunicacion-en-el-registro-administrativo-de-personas-y-estructuras-juridicas-7666667.pdf", "pagina": 1}},
+    {"nombre": "JORGE DAVID PERALTA SOSA", "documento": "CI 4049157", "correo": "jorge.peralta@berke.com.py", "telefono": "0983326619", "fecha": "2026-02-23", "fuente": {"archivo": "Constancia de RA 2026 (2).pdf", "pagina": 1}},
+    {"nombre": "JORGE DAVID PERALTA SOSA", "documento": "CI 4049157", "correo": "jorge.peralta@berke.com.py", "telefono": "0983326619", "fecha": "2026-02-18", "fuente": {"archivo": "Constancia como Inscripción.pdf", "pagina": 1}}
+  ],
+  "correos_dominios": ["berke.com.py", "logistik.com.py", "gmail.com"],
+  "documentos": [
+    {"archivo": "Constancia como Inscripción.pdf", "tipo": "otro", "fecha": "2026-02-18", "paginas": 2, "legibilidad": "texto", "resumen": "Constancia de inscripción DRFS (constitución), datos registrales y publicación."},
+    {"archivo": "drfs-002---comunicacion-en-el-registro-administrativo-de-personas-y-estructuras-juridicas-7666667.pdf", "tipo": "constancia_RA", "fecha": "2026-02-21", "paginas": 2, "legibilidad": "texto", "resumen": "Comunicación RA (constancia 403162) con socios 90/10 y director."},
+    {"archivo": "drfs-002---comunicacion-en-el-registro-administrativo-de-personas-y-estructuras-juridicas-7666668.pdf", "tipo": "constancia_RA", "fecha": "2026-02-21", "paginas": 1, "legibilidad": "texto", "resumen": "Versión resumida de la constancia 403162 (sin nómina de socios)."},
+    {"archivo": "drfs-003---comunicacion-en-el-registro-administrativo-de-beneficiarios-finales-7666669.pdf", "tipo": "constancia_BF", "fecha": "2026-02-21", "paginas": 1, "legibilidad": "texto", "resumen": "BF (constancia 406326): Villa Berkemeyer 90%, Peralta Sosa 10%."},
+    {"archivo": "drfs-003---comunicacion-en-el-registro-administrativo-de-beneficiarios-finales-7666669-1.pdf", "tipo": "constancia_BF", "fecha": "2026-02-21", "paginas": 1, "legibilidad": "texto", "resumen": "Duplicado del certificado 7666669."},
+    {"archivo": "drfs-003---comunicacion-en-el-registro-administrativo-de-beneficiarios-finales-7666670.pdf", "tipo": "constancia_BF", "fecha": "2026-02-21", "paginas": 1, "legibilidad": "texto", "resumen": "Versión resumida de la constancia BF 406326 (sin detalle de BF)."},
+    {"archivo": "Constancia de BF 2026.pdf", "tipo": "constancia_BF", "fecha": "2026-02-21", "paginas": 1, "legibilidad": "texto", "resumen": "Igual al certificado 7666670 (resumida, sin BF)."},
+    {"archivo": "Constancia de RA 2026 (2).pdf", "tipo": "constancia_RA", "fecha": "2026-02-23", "paginas": 2, "legibilidad": "texto", "resumen": "Actualización RA (constancia 403323): socios 90/10, director, nuevo correo @logistik.com.py."},
+    {"archivo": "Constancia de RA 2026.pdf", "tipo": "constancia_RA", "fecha": "2026-02-23", "paginas": 1, "legibilidad": "texto", "resumen": "Versión resumida de la constancia 403323."},
+    {"archivo": "Escritura N° 111.pdf", "tipo": "escritura_constitucion", "fecha": "2025-11-05", "paginas": 26, "legibilidad": "ocr_bueno", "resumen": "Constitución de Galadriel S.A., estatutos, suscripción 9/1, primer directorio y síndicos; matrícula de comerciante."},
+    {"archivo": "Escritura Pública N° 110.pdf", "tipo": "escritura_constitucion", "fecha": "2025-11-05", "paginas": 26, "legibilidad": "ocr_bueno", "resumen": "Constitución de ARWENT S.A. (otra sociedad) por los mismos otorgantes; no corresponde a Galadriel."}
+  ],
+  "observaciones": [
+    "La carpeta incluye la Escritura N° 110 que constituye ARWENT S.A., no Galadriel S.A. (documento ajeno o sociedad gemela de los mismos abogados).",
+    "Sociedad de muy reciente constitución (05-11-2025, inscripta 20-01-2026), capital integrado mínimo (Gs. 10.000.000) y accionistas/BF que son abogados de un estudio jurídico (berke.com.py): alta probabilidad de accionistas nominales; los BF reales podrían no estar declarados.",
+    "Inconsistencia en valor nominal: constancia 7666667 indica 'G. 10.000.000' por acción y la 7668659 'G. 1.000.000'; el estatuto fija Gs. 1.000.000.",
+    "La constancia BF fija la 'fecha desde que se constituyó en BF' en 05-11-2025; domicilio de Peralta Sosa figura Piso 20 en BF y Piso 19 en RA.",
+    "Cambio de correo de la PEJ de contabilidad.lgk@gmail.com a contabilidad16@logistik.com.py dos días después de la comunicación inicial: indicio de administración contable por un tercero ('Logistik').",
+    "Varios certificados duplicados o en versión resumida (7666668, 7666670, 7668660 no muestran socios/BF)."
+  ]
+}
