@@ -1,0 +1,86 @@
+{
+  "id": "kasas_propiedades",
+  "razon_social": "KASAS PROPIEDADES S.A.E",
+  "ruc": "80060674-4",
+  "tipo": "S.A.E. (Sociedad Anónima Emisora)",
+  "carpeta_mef": "Kasas Propiedades S.A.E",
+  "denominaciones_anteriores": [
+    {"nombre": "KASAS PROPIEDADES SOCIEDAD DE RESPONSABILIDAD LIMITADA", "hasta": "2025-05-20", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 1}}
+  ],
+  "constitucion": {
+    "fecha": "2010-03-04",
+    "escritura": "N° 18 (como S.R.L.); transformación en S.A.E. por Escritura N° 80 del 20-05-2025",
+    "escribano": "Verónica Azucena Báez Arenas (constitución); Stella Maris Galeano Roca, Reg. 1000 (transformación)",
+    "inscripcion_registro_publico": "S.R.L.: Registro de Personas Jurídicas N° 298, folio 3463, Serie A, 22-04-2010; Registro Público de Comercio N° 132, Sección B, folio 1.333, 24-04-2010. Modificación por Esc. 26 del 23-12-2020: Matrícula Jurídica N° 34.333 y Comercial N° 34.523 (03-05-2021). Inscripción de la Esc. 80 no consta.",
+    "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 2}
+  },
+  "domicilio": [
+    {"direccion": "AVENIDA IRRAZABAL", "fecha_dato": "2026-09-01", "fuente": {"archivo": "Constancia de RA.pdf", "pagina": 1}},
+    {"direccion": "Domicilio legal: General Artigas casi 14 de Mayo, Encarnación, Itapúa", "fecha_dato": "2025-05-20", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 11}}
+  ],
+  "objeto_social": "Explotación integral del negocio inmobiliario, construcción, loteamientos y urbanizaciones; comercialización, importación/exportación; mandatos; emisión de valores (bonos, obligaciones negociables) en el mercado de valores.",
+  "actividad_principal": "inmobiliaria / construcción",
+  "plazo_duracion": "90 años desde la inscripción",
+  "capital": [
+    {"tipo": "social", "monto": 2100000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 2100, "fecha_dato": "2025-05-20", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 7}, "notas": "Capital de la S.R.L. (2.100 cuotas) antes del aumento"},
+    {"tipo": "social", "monto": 50000000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 50000, "fecha_dato": "2025-05-20", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 13}, "notas": "38.000 acciones ordinarias clase A (2 votos c/u) y 12.000 preferidas sin voto"},
+    {"tipo": "suscripto", "monto": 50000000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 50000, "fecha_dato": "2025-05-20", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 28}},
+    {"tipo": "integrado", "monto": 2100000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": null, "fecha_dato": "2025-05-20", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 28}, "notas": "Solo integrado el 4,2% del capital suscripto"}
+  ],
+  "accionistas": [
+    {"nombre": "HUGO RODRIGO VON KNOBLOCH BARBOZA", "tipo_persona": "fisica", "documento": "CI 2474282", "nacionalidad": "paraguaya", "acciones": 700, "clase_acciones": "cuotas S.R.L.", "votos": null, "porcentaje": 33.33, "porcentaje_calculado": true, "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 7}, "confianza": "alta", "notas": "Vende sus 700 cuotas a Gustavo Mathias Angulo Turitich"},
+    {"nombre": "TITO LORENZO BENITEZ CAMARAZA", "tipo_persona": "fisica", "documento": "CI 741200", "nacionalidad": "paraguaya", "acciones": 490, "clase_acciones": "cuotas S.R.L.", "votos": null, "porcentaje": 23.33, "porcentaje_calculado": true, "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 7}, "confianza": "alta", "notas": "Vende 490 cuotas a Sky Link S.A."},
+    {"nombre": "PATRICIA ANDREA BARBOZA FARIÑA", "tipo_persona": "fisica", "documento": "CI 4289654", "nacionalidad": "paraguaya", "acciones": 350, "clase_acciones": "cuotas S.R.L.", "votos": null, "porcentaje": 16.67, "porcentaje_calculado": true, "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 7}, "confianza": "alta", "notas": "Vende 350 cuotas a Angulo Turitich"},
+    {"nombre": "PEDRO MAZUREK YUK", "tipo_persona": "fisica", "documento": "CI 2065755", "nacionalidad": "paraguaya", "acciones": 350, "clase_acciones": "cuotas S.R.L.", "votos": null, "porcentaje": 16.67, "porcentaje_calculado": true, "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 7}, "confianza": "alta", "notas": "Vende 350 cuotas a Sky Link S.A."},
+    {"nombre": "HORACIO MANUEL BENITEZ NUÑEZ", "tipo_persona": "fisica", "documento": "CI 5070278", "nacionalidad": "paraguaya", "acciones": 140, "clase_acciones": "cuotas S.R.L.", "votos": null, "porcentaje": 6.67, "porcentaje_calculado": true, "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 7}, "confianza": "alta", "notas": "Vende 140 cuotas a Sky Link S.A. (vía apoderado Tito L. Benítez Camaraza)"},
+    {"nombre": "NICOLAS JOAQUIN BENITEZ PAREDES", "tipo_persona": "fisica", "documento": "CI 4784375", "nacionalidad": "paraguaya", "acciones": 70, "clase_acciones": "cuotas S.R.L.", "votos": null, "porcentaje": 3.33, "porcentaje_calculado": true, "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 7}, "confianza": "alta", "notas": "Vende 70 cuotas a Sky Link S.A."},
+    {"nombre": "GUSTAVO MATHIAS ANGULO TURITICH", "tipo_persona": "fisica", "documento": "CI 3518421", "nacionalidad": "paraguaya", "acciones": 19000, "clase_acciones": "ordinarias clase A", "votos": 38000, "porcentaje": 38.0, "porcentaje_calculado": false, "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 28}, "confianza": "alta", "notas": "Tras transformación: 19.000 acc. clase A (integrado Gs. 798.000.000). En el registro de accionistas (08/07/2025) estas 19.000 acciones figuran a nombre de Joaquín Pagan."},
+    {"nombre": "SKY LINK S.A.", "tipo_persona": "juridica", "documento": "RUC 80137110-4", "nacionalidad": "paraguaya", "acciones": 19000, "clase_acciones": "ordinarias clase A", "votos": 38000, "porcentaje": 38.0, "porcentaje_calculado": false, "fecha_dato": "2026-03-10", "vigente": true, "fuente": {"archivo": "Libro de Registro de Accionistas.pdf", "pagina": 1}, "confianza": "alta", "notas": "Representada por Arsenio María Ortiz Jara (Presidente de Sky Link, CI 824472). Sky Link constituida por Esc. 53 del 06-06-2023 (Matrícula Jurídica 41953). 50% de los votos."},
+    {"nombre": "JOAQUIN PAGAN", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 19000, "clase_acciones": "ordinarias clase A", "votos": 38000, "porcentaje": 38.0, "porcentaje_calculado": true, "fecha_dato": "2026-03-10", "vigente": true, "fuente": {"archivo": "Libro de Registro de Accionistas.pdf", "pagina": 1}, "confianza": "alta", "notas": "Suscripción anotada 08/07/2025; 50% de los votos. Sin CI en los documentos."},
+    {"nombre": "TITO LORENZO BENITEZ CAMARAZA", "tipo_persona": "fisica", "documento": "CI 741200", "nacionalidad": "paraguaya", "acciones": 6000, "clase_acciones": "preferidas (sin voto)", "votos": 0, "porcentaje": 12.0, "porcentaje_calculado": false, "fecha_dato": "2026-03-10", "vigente": true, "fuente": {"archivo": "Libro de Registro de Accionistas.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "PATRICIA ANDREA BARBOZA FARIÑA", "tipo_persona": "fisica", "documento": "CI 4289654", "nacionalidad": "paraguaya", "acciones": 3000, "clase_acciones": "preferidas (sin voto)", "votos": 0, "porcentaje": 6.0, "porcentaje_calculado": false, "fecha_dato": "2026-03-10", "vigente": true, "fuente": {"archivo": "Libro de Registro de Accionistas.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "PEDRO MAZUREK YUK", "tipo_persona": "fisica", "documento": "CI 2065755", "nacionalidad": "paraguaya", "acciones": 3000, "clase_acciones": "preferidas (sin voto)", "votos": 0, "porcentaje": 6.0, "porcentaje_calculado": false, "fecha_dato": "2026-03-10", "vigente": true, "fuente": {"archivo": "Libro de Registro de Accionistas.pdf", "pagina": 1}, "confianza": "alta"}
+  ],
+  "autoridades": [
+    {"nombre": "TITO LORENZO BENITEZ CAMARAZA", "documento": "CI 741200", "cargo": "Socio gerente (S.R.L.)", "fecha_asuncion": null, "vigencia": "hasta 20-05-2025", "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 8}, "confianza": "alta"},
+    {"nombre": "PATRICIA ANDREA BARBOZA FARIÑA", "documento": "CI 4289654", "cargo": "Socio gerente (S.R.L.)", "fecha_asuncion": null, "vigencia": "hasta 20-05-2025", "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 8}, "confianza": "alta"},
+    {"nombre": "HUGO RODRIGO VON KNOBLOCH BARBOZA", "documento": "CI 2474282", "cargo": "Socio gerente (S.R.L.)", "fecha_asuncion": null, "vigencia": "hasta 20-05-2025", "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 8}, "confianza": "alta"},
+    {"nombre": "ARSENIO MARIA ORTIZ JARA", "documento": "CI 824472", "cargo": "Presidente (en representación de Sky Link S.A.)", "fecha_asuncion": "2025-05-20", "vigencia": "reelecto 10-03-2026 por período 2026/2027", "fecha_dato": "2026-03-10", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "GUSTAVO MATHIAS ANGULO TURITICH", "documento": "CI 3518421", "cargo": "Vicepresidente", "fecha_asuncion": "2025-05-20", "vigencia": "reemplazado 10-03-2026", "fecha_dato": "2025-05-20", "vigente": false, "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 27}, "confianza": "alta"},
+    {"nombre": "JOAQUIN PAGAN", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2026-03-10", "vigencia": "2026/2027", "fecha_dato": "2026-03-10", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "RODRIGO MIGUEL SAMANIEGO DIAZ", "documento": "CI 3953595", "cargo": "Síndico titular", "fecha_asuncion": "2025-05-20", "vigencia": "reelecto 2026/2027", "fecha_dato": "2026-03-10", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "CESAR CABRAL", "documento": null, "cargo": "Síndico suplente", "fecha_asuncion": "2026-03-10", "vigencia": "2026/2027", "fecha_dato": "2026-03-10", "vigente": true, "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2010-03-04", "evento": "constitucion", "detalle": "Constituida como KASAS PROPIEDADES S.R.L. (Esc. N° 18, Esc. Verónica Azucena Báez Arenas).", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 2}},
+    {"fecha": "2020-12-23", "evento": "aumento_capital", "detalle": "Esc. N° 26 (Esc. Alcides Donald Wood F.): aumento de capital, inclusión de nuevos socios, cambio de administración.", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 3}},
+    {"fecha": "2025-05-20", "evento": "transferencia_acciones", "detalle": "Esc. N° 80: los 6 socios ceden sus 2.100 cuotas: 1.050 a Gustavo Mathias Angulo Turitich y 1.050 a Sky Link S.A., por Gs. 2.100.000.000.", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 5}},
+    {"fecha": "2025-05-20", "evento": "cambio_denominacion", "detalle": "Transformación de S.R.L. a S.A.E. (KASAS PROPIEDADES SOCIEDAD ANONIMA EMISORA) para emitir valores en el mercado; domicilio en Encarnación.", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 9}},
+    {"fecha": "2025-05-20", "evento": "aumento_capital", "detalle": "Aumento a Gs. 50.000.000.000 (38.000 acc. clase A + 12.000 preferidas). Suscripción: Angulo Turitich 19.000 A, Sky Link 19.000 A, Barboza Fariña 3.000 pref., Benítez Camaraza 6.000 pref., Mazurek Yuk 3.000 pref.; integrado total Gs. 2.100.000.000. Directorio: Pres. Arsenio María Ortiz Jara (por Sky Link), VP Gustavo Mathias Angulo Turitich, Síndico Rodrigo Miguel Samaniego Díaz.", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 28}},
+    {"fecha": "2025-07-08", "evento": "transferencia_acciones", "detalle": "Registro de accionistas: las 19.000 acciones clase A antes de Angulo Turitich figuran a nombre de Joaquín Pagan (fecha de suscripción 08/07/2025); sin anotación de transferencia.", "fuente": {"archivo": "Libro de Registro de Accionistas.pdf", "pagina": 1}},
+    {"fecha": "2026-03-10", "evento": "cambio_directorio", "detalle": "AGO: Pres. Arsenio Ortiz Jara; VP Joaquín Pagan; Síndico tit. Rodrigo Samaniego; Síndico supl. César Cabral.", "fuente": {"archivo": "Acta de Asamblea.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "SKY LINK S.A. (RUC 80137110-4)", "tipo": "accionista_de", "detalle": "Accionista con 38% del capital y 50% de los votos; presidida por Arsenio María Ortiz Jara.", "fuente": {"archivo": "Escritura Pública N° 80.pdf", "pagina": 3}},
+    {"entidad_o_persona": "ARSENIO MARIA ORTIZ JARA (CI 824472)", "tipo": "otro", "detalle": "Presidente de Kasas y de Sky Link; correo de la PEJ arseniomaria@gmail.com; firma digitalmente los documentos.", "fuente": {"archivo": "Constancia de RA.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [
+    {"nombre": null, "documento": null, "correo": "ARSENIOMARIA@GMAIL.COM", "telefono": null, "fecha": "2026-09-01", "fuente": {"archivo": "Constancia de RA.pdf", "pagina": 1}, "notas": "Constancia RA N° 30330, cumplimiento anual presentado 01/09/2026, expedida 28/10/2026 (analista María Liz García Cuevas)"}
+  ],
+  "correos_dominios": ["gmail.com"],
+  "documentos": [
+    {"archivo": "Constancia de RA.pdf", "tipo": "constancia_RA", "fecha": "2026-10-28", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia SIARA N° 30330, cumplimiento anual; sin nómina."},
+    {"archivo": "Libro de Registro de Accionistas.pdf", "tipo": "registro_accionistas", "fecha": "2025-07-08", "paginas": 1, "legibilidad": "ocr_bueno", "resumen": "Registro (impreso) de 50.000 acciones: Joaquín Pagan 19.000 A, Sky Link 19.000 A, preferidas Barboza 3.000, Benítez Camaraza 6.000, Mazurek 3.000."},
+    {"archivo": "Acta de Asamblea.pdf", "tipo": "acta_asamblea", "fecha": "2026-03-10", "paginas": 2, "legibilidad": "ocr_bueno", "resumen": "AGO: elección de directorio y síndicos 2026/2027."},
+    {"archivo": "Escritura Pública N° 80.pdf", "tipo": "escritura_modificacion", "fecha": "2025-05-20", "paginas": 32, "legibilidad": "ocr_bueno", "resumen": "Cesión de cuotas, transformación S.R.L. a S.A.E., aumento de capital a Gs. 50.000 M, estatutos y primer directorio."}
+  ],
+  "observaciones": [
+    "No hay constancia de BF; los BF de Sky Link S.A. (50% de votos) se desconocen.",
+    "Gustavo Mathias Angulo Turitich (19.000 acc. A en mayo-2025) no aparece en el registro; en su lugar figura Joaquín Pagan sin asiento de transferencia.",
+    "Capital suscripto Gs. 50.000 M con solo Gs. 2.100 M integrados.",
+    "Registro de accionistas sin domicilios, números de título ni números de acciones.",
+    "No se observan vínculos documentales con Ueno, ITTI ni Grupo Vázquez en esta carpeta; correo personal gmail del presidente.",
+    "Domicilio SIARA 'Avenida Irrazábal' (Encarnación) vs. domicilio legal Gral. Artigas c/ 14 de Mayo (Encarnación)."
+  ]
+}

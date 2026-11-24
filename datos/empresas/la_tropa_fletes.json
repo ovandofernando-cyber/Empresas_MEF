@@ -1,0 +1,58 @@
+{
+  "id": "la_tropa_fletes",
+  "razon_social": "LA TROPA FLETES E.A.S.",
+  "ruc": "80120855-6",
+  "tipo": "E.A.S.",
+  "carpeta_mef": "La Tropa Fletes EAS",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2021-11-11",
+    "escritura": "Proforma de Estatuto de Constitución para las E.A.S. (DGPEJyBF), fechada 11/11/2021",
+    "escribano": null,
+    "inscripcion_registro_publico": null,
+    "fuente": {"archivo": "Proforma EAS.pdf", "pagina": 1}
+  },
+  "domicilio": [
+    {"direccion": "CORONEL VILLASBOA (Asunción)", "fecha_dato": "2026-11-16", "fuente": {"archivo": "Constancia 2026 SIARA.pdf", "pagina": 1}},
+    {"direccion": "Domicilio legal: Adrián Aguiar Matheu 345, Asunción", "fecha_dato": "2021-11-11", "fuente": {"archivo": "Proforma EAS.pdf", "pagina": 1}}
+  ],
+  "objeto_social": "Objeto principal 49239 - Otros tipos de transporte terrestre por carreteras n.c.p.; objeto secundario sin definir; puede realizar toda actividad civil y comercial lícita.",
+  "actividad_principal": "transporte / fletes",
+  "plazo_duracion": "Indefinido",
+  "capital": [
+    {"tipo": "social", "monto": 250000000, "moneda": "PYG", "valor_nominal_accion": 2500000, "cantidad_acciones": 100, "fecha_dato": "2021-11-11", "fuente": {"archivo": "Proforma EAS.pdf", "pagina": 1}, "notas": "100 acciones ordinarias nominativas endosables, 1 voto c/u"},
+    {"tipo": "integrado", "monto": 250000000, "moneda": "PYG", "valor_nominal_accion": 2500000, "cantidad_acciones": 100, "fecha_dato": "2021-11-11", "fuente": {"archivo": "Proforma EAS.pdf", "pagina": 5}, "notas": "Integrado en efectivo"}
+  ],
+  "accionistas": [
+    {"nombre": "CARLOS DAMIAN GAUTO PAREDES", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 65, "clase_acciones": "ordinarias nominativas", "votos": 65, "porcentaje": 65.0, "porcentaje_calculado": true, "fecha_dato": "2021-11-11", "vigente": null, "fuente": {"archivo": "Proforma EAS.pdf", "pagina": 5}, "confianza": "alta", "notas": "Suscribe e integra 65 acciones (Gs. 162.500.000). Único dato disponible; vigencia actual no verificada."},
+    {"nombre": "GUILLERMO DAMIAN GAUTO SKAF", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 35, "clase_acciones": "ordinarias nominativas", "votos": 35, "porcentaje": 35.0, "porcentaje_calculado": true, "fecha_dato": "2021-11-11", "vigente": null, "fuente": {"archivo": "Proforma EAS.pdf", "pagina": 6}, "confianza": "alta", "notas": "Suscribe e integra 35 acciones (Gs. 87.500.000)."}
+  ],
+  "autoridades": [
+    {"nombre": "CARLOS DAMIAN GAUTO PAREDES", "documento": null, "cargo": "Representante legal / Presidente", "fecha_asuncion": "2021-11-11", "vigencia": null, "fecha_dato": "2021-11-11", "vigente": null, "fuente": {"archivo": "Proforma EAS.pdf", "pagina": 5}, "confianza": "alta"},
+    {"nombre": "GUILLERMO DAMIAN GAUTO SKAF", "documento": null, "cargo": "Director / Representante suplente", "fecha_asuncion": "2021-11-11", "vigencia": null, "fecha_dato": "2021-11-11", "vigente": null, "fuente": {"archivo": "Proforma EAS.pdf", "pagina": 5}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2021-11-11", "evento": "constitucion", "detalle": "Constitución como E.A.S. mediante proforma DGPEJyBF: capital Gs. 250.000.000 (100 acciones de Gs. 2.500.000); Carlos Damián Gauto Paredes 65, Guillermo Damián Gauto Skaf 35.", "fuente": {"archivo": "Proforma EAS.pdf", "pagina": 5}},
+    {"fecha": "2026-11-16", "evento": "otro", "detalle": "Comunicación SIARA tipo 'REGULARIZACIÓN DE EAS' (Constancia RA N° 32824), expedida el mismo día 16/11/2026 20:41.", "fuente": {"archivo": "Constancia 2026 SIARA.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "CARLOS DAMIAN GAUTO PAREDES (analista SIARA)", "tipo": "otro", "detalle": "El analista que expidió la Constancia RA N° 32824 se llama CARLOS DAMIAN GAUTO PAREDES, igual que el accionista mayoritario y representante legal de la EAS. Posible conflicto de interés (funcionario del MEF aprobando la regularización de su propia empresa) u homonimia; verificar CI.", "fuente": {"archivo": "Constancia 2026 SIARA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "latropa.com.py", "tipo": "mismo_correo_dominio", "detalle": "Correo de la PEJ: JORGEROJAS@LATROPA.COM.PY (Jorge Rojas, persona no mencionada en el estatuto).", "fuente": {"archivo": "Constancia 2026 SIARA.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [
+    {"nombre": null, "documento": null, "correo": "JORGEROJAS@LATROPA.COM.PY", "telefono": null, "fecha": "2026-11-16", "fuente": {"archivo": "Constancia 2026 SIARA.pdf", "pagina": 1}, "notas": "Constancia RA N° 32824; analista Carlos Damián Gauto Paredes"}
+  ],
+  "correos_dominios": ["latropa.com.py"],
+  "documentos": [
+    {"archivo": "Constancia 2026 SIARA.pdf", "tipo": "constancia_RA", "fecha": "2026-11-16", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia SIARA N° 32824, regularización de EAS presentada y expedida el 16/11/2026; sin nómina."},
+    {"archivo": "Proforma EAS.pdf", "tipo": "escritura_constitucion", "fecha": "2021-11-11", "paginas": 6, "legibilidad": "ocr_bueno", "resumen": "Estatuto proforma de constitución de la EAS: objeto transporte, capital Gs. 250 M, socios Gauto Paredes 65% y Gauto Skaf 35%."}
+  ],
+  "observaciones": [
+    "No hay registro de accionistas, actas ni constancia de BF; la composición accionaria solo consta en el estatuto de 2021.",
+    "No figuran números de CI de los socios.",
+    "La regularización SIARA se presentó el 16/11/2026, días antes del envío al MTESS, y fue expedida por un analista homónimo del accionista mayoritario.",
+    "No se encontró en los documentos mención a Ueno, ITTI ni Grupo Vázquez; el vínculo con el grupo económico no surge de esta documentación.",
+    "Domicilio cambió de Adrián Aguiar Matheu 345 (2021) a Coronel Villasboa (2026)."
+  ]
+}

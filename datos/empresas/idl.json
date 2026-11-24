@@ -1,0 +1,569 @@
+{
+ "id": "idl",
+ "razon_social": "IMPRESIÓN DISTRIBUCIÓN Y LOGÍSTICA SOCIEDAD ANÓNIMA",
+ "ruc": "80054859-0",
+ "tipo": "Sociedad Anónima",
+ "carpeta_mef": "IMPRESION DISTRIBUCION Y LOGISTICA SA",
+ "denominaciones_anteriores": [],
+ "constitucion": {
+  "fecha": "2008-08-03",
+  "escritura": "N° 644",
+  "escribano": "Luis Enrique Peroni Giralt (Registro N° 528)",
+  "inscripcion_registro_publico": "DGRP Personas Jurídicas N° 566, folio 5555, Serie G; Registro Público de Comercio N° 331, folio 2692, Serie B; ambas 10/09/2008",
+  "fuente": {
+   "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+   "pagina": 1
+  },
+  "confianza": "media",
+  "notas": "La escritura dice 'tres días del mes de Agosto' de 2008; la escritura N° 141 cita la fecha como 13 de agosto de 2008."
+ },
+ "domicilio": [
+  {
+   "direccion": "Calle Santa Rosa 591 c/ Avenida España, Asunción",
+   "fecha_dato": "2026-04-06",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "SANTA ROSA",
+   "fecha_dato": "2026-06-19",
+   "fuente": {
+    "archivo": "COSNTANCIA RA NRO 7534.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": "Objeto amplio: representaciones, leasing, factoring, franchising, comercio, industria, construcción, inmobiliaria, editoriales y publicitarias, agro/extractivas, transporte, capitalización y maquila.",
+ "actividad_principal": "impresión, distribución y logística (según denominación y aportes de equipos de impresión)",
+ "plazo_duracion": "90 años desde la inscripción",
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 1230000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 10000000,
+   "cantidad_acciones": 123,
+   "fecha_dato": "2008-08-03",
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 15
+   }
+  },
+  {
+   "tipo": "social",
+   "monto": 20000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 10000000,
+   "cantidad_acciones": 2000,
+   "fecha_dato": "2022-10-12",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 6500000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 10000000,
+   "cantidad_acciones": 650,
+   "fecha_dato": "2026-04-06",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "J. FLEISCHMAN & CIA. S.R.L. (ex Compañía Internacional de Comercio S.R.L.)",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80001490-1",
+   "nacionalidad": "paraguaya",
+   "acciones": 122,
+   "clase_acciones": "OVS",
+   "votos": 122,
+   "porcentaje": 99.19,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2008-08-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 15
+   },
+   "confianza": "media",
+   "notas": "Socio fundador; suscribe 122 acciones (Gs. 1.220.000.000) integradas en bienes (equipos de impresión) y dinero; representada por sus gerentes Jack Samy Fleischman Benathan y Estrella Levy de Fleischman."
+  },
+  {
+   "nombre": "JACK SAMY FLEISCHMAN BENATHAN",
+   "tipo_persona": "fisica",
+   "documento": "CI 2.389.204 (peruano)",
+   "nacionalidad": null,
+   "acciones": 1,
+   "clase_acciones": "OVS",
+   "votos": 1,
+   "porcentaje": 0.81,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2008-08-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 15
+   },
+   "confianza": "media",
+   "notas": "Socio fundador; 1 acción de Gs. 10.000.000 en efectivo."
+  },
+  {
+   "nombre": "J FLEISCHMAN y CIA (en proceso de fusión con ITTI S.A.E.C.A.)",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80001490-1",
+   "nacionalidad": "paraguaya",
+   "acciones": 122,
+   "clase_acciones": "OVS",
+   "votos": 122,
+   "porcentaje": 99.19,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2022-08-22",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Acta Extraordinaria N° 12: títulos 1-122, representada por César Manuel Astigarraga."
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 1,
+   "clase_acciones": "OVS",
+   "votos": 1,
+   "porcentaje": 0.81,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2022-08-22",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Título 123, representado por Federico Miguel Vázquez Villasanti."
+  },
+  {
+   "nombre": "ITTI S.A.E.C.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80028355-4",
+   "nacionalidad": "paraguaya",
+   "acciones": 645,
+   "clase_acciones": "OVS",
+   "votos": 645,
+   "porcentaje": 99.23,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-04-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Registro: títulos 1-122 (suscr. 15-11-2021) y 164-686 (523 acciones, 29-09-2022); Acta N° 17: 122 (18,77%) + 523 (80,46%), representada por Guillermo Vázquez. Domicilio Avda. Santa Teresa 1827, Torres del Paseo, Torre 3, Piso 11."
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 5,
+   "clase_acciones": "OVS",
+   "votos": 5,
+   "porcentaje": 0.77,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-04-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Títulos 123 (1, 15-11-2021) y 124-127 (4, 29-09-2022); Acta N° 17: 0,15% + 0,62%, representada por Bernardo Algorta."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "JORGE JAVIER OSTERTAG CHAVES",
+   "documento": "CI 859.361",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2008-08-03",
+   "vigencia": null,
+   "fecha_dato": "2008-08-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 16
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "JACK SAMY FLEISCHMAN BENATHAN",
+   "documento": "CI 2.389.204",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2008-08-03",
+   "vigencia": null,
+   "fecha_dato": "2008-08-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 16
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "OLGA BEATRIZ DINIZ FERREIRA",
+   "documento": "CI 864.409",
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2008-08-03",
+   "vigencia": null,
+   "fecha_dato": "2008-08-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 16
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "ESTRELLA LEVY DE FLEISCHMAN",
+   "documento": "CI 2.389.205",
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2008-08-03",
+   "vigencia": null,
+   "fecha_dato": "2008-08-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 16
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "FABIAN KOCHMANN GUILLGUINET",
+   "documento": "CI 691.021",
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2008-08-03",
+   "vigencia": null,
+   "fecha_dato": "2008-08-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 16
+   },
+   "confianza": "baja"
+  },
+  {
+   "nombre": "CARLOS ARRELLAGA",
+   "documento": "CI 1.246.576",
+   "cargo": "Síndico suplente",
+   "fecha_asuncion": "2008-08-03",
+   "vigencia": null,
+   "fecha_dato": "2008-08-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 16
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "GUILLERMO VAZQUEZ MUNIAGURRIA",
+   "documento": "CI 3.799.529",
+   "cargo": "Director Presidente",
+   "fecha_asuncion": "2022-04-30",
+   "vigencia": null,
+   "fecha_dato": "2022-10-12",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Designado por Acta de Asamblea Ordinaria N° 11 del 30/04/2022."
+  },
+  {
+   "nombre": "CESAR MANUEL ASTIGARRAGA LAMBARE",
+   "documento": "CI 3.807.117",
+   "cargo": "Director Vicepresidente",
+   "fecha_asuncion": "2022-04-30",
+   "vigencia": null,
+   "fecha_dato": "2022-10-12",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "César Manuel Astigarraga Lambaré",
+   "documento": "CI 3.807.117",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2026-04-06",
+   "vigencia": null,
+   "fecha_dato": "2026-04-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Ruth Stael Ramírez Lezcano",
+   "documento": null,
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2026-04-06",
+   "vigencia": null,
+   "fecha_dato": "2026-04-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Paola Analía Meza",
+   "documento": "CI 2.525.200",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-04-06",
+   "vigencia": null,
+   "fecha_dato": "2026-04-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "José María Montero Zuccolillo",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2026-04-06",
+   "vigencia": null,
+   "fecha_dato": "2026-04-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Héctor Palazón Ruíz",
+   "documento": null,
+   "cargo": "Síndico suplente",
+   "fecha_asuncion": "2026-04-06",
+   "vigencia": null,
+   "fecha_dato": "2026-04-06",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "2008-08-03",
+   "evento": "constitucion",
+   "detalle": "Escritura N° 644: J. Fleischman & Cía. S.R.L. (122 acciones) y Jack Samy Fleischman Benathan (1); capital Gs. 1.230.000.000.",
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2021-11-15",
+   "evento": "transferencia_acciones",
+   "detalle": "Registro: ITTI S.A.E.C.A. figura con títulos 1-122 y Grupo Vázquez S.A.E. con título 123 (fecha de suscripción/registro 15-11-2021).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2022-08-22",
+   "evento": "aumento_capital",
+   "detalle": "Asamblea Extraordinaria N° 12 (J Fleischman y Cía 'en proceso de fusión con ITTI S.A.E.C.A.' 99,19% y Grupo Vázquez 0,81%; presidida por Miguel Vázquez, secretario Miguel Almada): capital a Gs. 20.000.000.000 (2.000 acciones de Gs. 10.000.000).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2022-09-29",
+   "evento": "aumento_capital",
+   "detalle": "Emisión: Grupo Vázquez 4 acciones (124-127) e ITTI 523 acciones (164-686).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2022-10-12",
+   "evento": "modificacion_estatutos",
+   "detalle": "Escritura N° 141 (Esc. María Teresa López de Aponte): modificación de estatutos por aumento de capital y emisión; comparecen Guillermo Vázquez Muniagurria (Pte.) y César M. Astigarraga Lambaré (Vice).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-04-06",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea Ordinaria N° 17: resultado 2025 Gs. 515.916.216; directorio Astigarraga (Pte), Ramírez Lezcano (Vice), Meza; síndicos Montero Zuccolillo / Palazón Ruíz.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 2
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "ITTI S.A.E.C.A.",
+   "tipo": "accionista_de",
+   "detalle": "Controlante 99,23%; absorbió por fusión a J. Fleischman & Cía S.R.L., socio fundador.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "GRUPO VAZQUEZ S.A.E.",
+   "tipo": "accionista_de",
+   "detalle": "0,77%.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Guillermo Vázquez Muniagurria (CI 3.799.529)",
+   "tipo": "director_comun",
+   "detalle": "Ex presidente de IDL (2022); representa a ITTI en asambleas de IDL, Hanoi y Place Analyzer; director suplente de Ueno Bank.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "César Manuel Astigarraga Lambaré (CI 3.807.117)",
+   "tipo": "director_comun",
+   "detalle": "Presidente de IDL y Hanoi; director de Place Analyzer; síndico suplente de Ueno Bank.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 17.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Federico Miguel Vázquez Villasanti / Miguel Almada",
+   "tipo": "otro",
+   "detalle": "Representante de Grupo Vázquez y secretario en la asamblea extraordinaria de 2022.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "itti.digital",
+   "tipo": "mismo_correo_dominio",
+   "detalle": "Correo SIARA LEGALES@ITTI.DIGITAL (igual que Hanoi).",
+   "fuente": {
+    "archivo": "COSNTANCIA RA NRO 7534.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Luis Enrique Peroni Giralt (escribano)",
+   "tipo": "otro",
+   "detalle": "También escribano de constitución de Forward Invest S.A. (hoy Ueno Casa de Bolsa).",
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "LEGALES@ITTI.DIGITAL",
+   "telefono": null,
+   "fecha": "2026-06-19",
+   "fuente": {
+    "archivo": "COSNTANCIA RA NRO 7534.pdf",
+    "pagina": 1
+   },
+   "notas": "Constancia RA N° 7534 formato nuevo sin datos del solicitante; analista María Lourdes Vera Batella; expedida 20/07/2026."
+  }
+ ],
+ "correos_dominios": [
+  "itti.digital"
+ ],
+ "documentos": [
+  {
+   "archivo": "COSNTANCIA RA NRO 7534.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-06-19",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 7534 por cumplimiento anual; sin detalle de socios/autoridades. Nombre de archivo con error 'COSNTANCIA'."
+  },
+  {
+   "archivo": "ACTA ORDINARIA NRO 17.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-04-06",
+   "paginas": 3,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Asamblea Ordinaria N° 17: ITTI 99,23%, Grupo Vázquez 0,77%; directorio y síndicos."
+  },
+  {
+   "archivo": "REGISTRO ACCIONISTAS.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-06-03",
+   "paginas": 2,
+   "legibilidad": "manuscrito",
+   "resumen": "Registro manuscrito: ITTI 1-122 y 164-686; Grupo Vázquez 123 y 124-127."
+  },
+  {
+   "archivo": "ESCRITURA CONSTITUCION NRO 644.pdf",
+   "tipo": "escritura_constitucion",
+   "fecha": "2008-08-03",
+   "paginas": 20,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Constitución por J. Fleischman & Cía S.R.L. y Jack S. Fleischman Benathan; capital Gs. 1.230 millones; primer directorio."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2022-10-12",
+   "paginas": 13,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Aumento del capital a Gs. 20.000 millones."
+  }
+ ],
+ "observaciones": [
+  "No se aportó constancia de Beneficiarios Finales (BF último sería vía ITTI -> Grupo Vázquez).",
+  "Constancia RA sin detalle de socios/autoridades.",
+  "Hueco en la numeración del registro: no figuran los títulos 128-163 (36 acciones); el total registrado (650) coincide igualmente con el acta.",
+  "El registro atribuye a ITTI los títulos 1-122 desde 15-11-2021, pero en agosto de 2022 el acta los asigna a 'J Fleischman y Cía en proceso de fusión con ITTI'.",
+  "Fecha de constitución inconsistente (3 vs 13 de agosto de 2008).",
+  "Presidente del primer directorio no extraído (página no legible en OCR)."
+ ]
+}

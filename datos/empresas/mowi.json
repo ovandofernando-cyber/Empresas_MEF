@@ -1,0 +1,86 @@
+{
+  "id": "mowi",
+  "razon_social": "MOWI S.A.",
+  "ruc": "80115208-9",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "MOWI S.A",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2021-01-12",
+    "escritura": "N° 13",
+    "escribano": "María Isabel Fernández Dietze (Registro N° 76, Asunción)",
+    "inscripcion_registro_publico": "No consta en las páginas revisadas (testimonio fiscalizado 20-01-2021; libros rubricados con código 11406826).",
+    "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 1}
+  },
+  "domicilio": [
+    {"direccion": "AV. SANTA TERESA (Asunción)", "fecha_dato": "2026-07-23", "fuente": {"archivo": "CONSTANCIA RA 24528.pdf", "pagina": 1}},
+    {"direccion": "Sede social: Avda. Santa Teresa entre Avda. Aviadores del Chaco y Herminio Maldonado, Edificio Torres del Paseo, Torre 3, Nivel 11, Asunción", "fecha_dato": "2026-04-28", "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 1}}
+  ],
+  "objeto_social": "Sociedad prevista para operar como Entidad de Medio de Pago Electrónico (EMPE) con autorización del Banco Central del Paraguay (según facultades otorgadas en la constitución); objeto detallado no revisado.",
+  "actividad_principal": "medios de pago electrónico / fintech",
+  "plazo_duracion": null,
+  "capital": [
+    {"tipo": "suscripto", "monto": 8000000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 8000, "fecha_dato": "2021-01-12", "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 18}, "notas": "8.000 acciones ordinarias emitidas y totalmente suscriptas"},
+    {"tipo": "integrado", "monto": 2000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 2, "fecha_dato": "2021-01-12", "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "notas": "En la constitución solo se integraron 2 acciones (1 por GV y 1 por Federico M. Vázquez)"},
+    {"tipo": "integrado", "monto": 8000000000, "moneda": "PYG", "valor_nominal_accion": 1000000, "cantidad_acciones": 8000, "fecha_dato": "2026-04-28", "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 1}, "notas": "Monto total del cómputo de asamblea"}
+  ],
+  "accionistas": [
+    {"nombre": "GRUPO VAZQUEZ S.A.E.", "tipo_persona": "juridica", "documento": "RUC 80086759-9", "nacionalidad": "paraguaya", "acciones": 7999, "clase_acciones": "ordinarias", "votos": 7999, "porcentaje": 99.99, "porcentaje_calculado": true, "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 18}, "confianza": "alta", "notas": "Fundador; representado por su presidente Federico Miguel Vázquez Villasanti. GV fue antes F.M.V.V. S.A.I.C.A.G. (Esc. 55 del 21-10-2014), denominación cambiada a Grupo Vázquez S.A.E. por Esc. 43 del 22-05-2020."},
+    {"nombre": "FEDERICO MIGUEL VAZQUEZ VILLASANTI", "tipo_persona": "fisica", "documento": "CI 2941546", "nacionalidad": "paraguaya", "acciones": 1, "clase_acciones": "ordinarias", "votos": 1, "porcentaje": 0.01, "porcentaje_calculado": true, "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta", "notas": "Fundador; vendió su acción (título 2) a José Sala el 19-05-2025."},
+    {"nombre": "UENO HOLDING S.A.E.C.A.", "tipo_persona": "juridica", "documento": null, "nacionalidad": "paraguaya", "acciones": 2198, "clase_acciones": "ordinarias de voto simple", "votos": 2198, "porcentaje": 27.48, "porcentaje_calculado": true, "fecha_dato": "2023-06-30", "vigente": false, "fuente": {"archivo": "REGISTRO ACCIONISTAS FOLIO NRO 7.pdf", "pagina": 1}, "confianza": "media", "notas": "Según observaciones del registro, el 30/06/2023 Ueno Holding cede a ITTI S.A.E.C.A. 1.985 acciones (acc. 5003-6987) y '1.013' acciones (el renglón corresponde a acc. 6988-7200 = 213). Cantidad total incierta (2.198 según numeración o 2.998 según texto)."},
+    {"nombre": "ITTI S.A.E.C.A.", "tipo_persona": "juridica", "documento": null, "nacionalidad": "paraguaya", "acciones": 8000, "clase_acciones": "ordinarias de voto simple", "votos": 8000, "porcentaje": 100.0, "porcentaje_calculado": true, "fecha_dato": "2025-05-19", "vigente": false, "fuente": {"archivo": "REGISTRO ACCIONISTAS FOLIO NRO 7.pdf", "pagina": 1}, "confianza": "media", "notas": "Adquirió acciones de Grupo Vázquez (29/12/2022) y de Ueno Holding (30/06/2023); el 19/05/2025 vende a José Augusto Sala Cardozo y a Sergio Pizurno Szaran. Tenencia exacta antes de la venta inferida (excepto 1 acción de F. M. Vázquez)."},
+    {"nombre": "JOSE AUGUSTO SALA CARDOZO", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 7200, "clase_acciones": "nominativas ordinarias de voto simple", "votos": 7200, "porcentaje": 90.0, "porcentaje_calculado": true, "fecha_dato": "2025-09-30", "vigente": false, "fuente": {"archivo": "REGISTRO ACCIONISTAS FOLIO NRO 7.pdf", "pagina": 1}, "confianza": "media", "notas": "Según registro folio 7 (fecha 30/09/25): acciones 1, 2, 3-5002, 5003-6987, 6988-7200 = 7.200. Domicilio Teniente Acosta N° 255, Asunción. CONTRADICE el acta N° 6, donde figura con 800 acciones."},
+    {"nombre": "SERGIO AMADO PIZURNO SZARAN", "tipo_persona": "fisica", "documento": "CI 740326", "nacionalidad": "paraguaya", "acciones": 800, "clase_acciones": "nominativas ordinarias de voto simple", "votos": 800, "porcentaje": 10.0, "porcentaje_calculado": true, "fecha_dato": "2025-09-30", "vigente": false, "fuente": {"archivo": "REGISTRO ACCIONISTAS FOLIO NRO 7.pdf", "pagina": 1}, "confianza": "media", "notas": "Según registro: acciones 7201-8000 compradas a ITTI el 19-05-2025; domicilio Av. Sta. Teresa 1827. CI tomada de su firma digital (serialNumber CI740326). CONTRADICE el acta N° 6."},
+    {"nombre": "SERGIO AMADO PIZURNO SZARAN", "tipo_persona": "fisica", "documento": "CI 740326", "nacionalidad": "paraguaya", "acciones": 7200, "clase_acciones": "ordinarias", "votos": 7200, "porcentaje": 90.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-28", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 1}, "confianza": "media", "notas": "Según cómputo de la Asamblea N° 6 (Gs. 7.200.000.000). Inconsistente con el registro."},
+    {"nombre": "JOSE AUGUSTO SALA CARDOZO", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 800, "clase_acciones": "ordinarias", "votos": 800, "porcentaje": 10.0, "porcentaje_calculado": false, "fecha_dato": "2026-04-28", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 1}, "confianza": "media", "notas": "Según cómputo de la Asamblea N° 6. Inconsistente con el registro."}
+  ],
+  "autoridades": [
+    {"nombre": "VICTOR HUGO VAZQUEZ", "documento": "CI 551387", "cargo": "Presidente", "fecha_asuncion": "2021-01-12", "vigencia": "primer directorio", "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta"},
+    {"nombre": "FEDERICO MIGUEL VAZQUEZ VILLASANTI", "documento": "CI 2941546", "cargo": "Vicepresidente", "fecha_asuncion": "2021-01-12", "vigencia": "primer directorio", "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta"},
+    {"nombre": "EDUARDO JAVIER GROSS BROWN", "documento": "CI 439189", "cargo": "Director titular", "fecha_asuncion": "2021-01-12", "vigencia": "primer directorio", "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta"},
+    {"nombre": "MARCO DARIO GALANTI BARRIENTOS", "documento": "CI 938862", "cargo": "Director titular", "fecha_asuncion": "2021-01-12", "vigencia": "primer directorio", "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta"},
+    {"nombre": "OSMAR ALBERTO CORONEL CABRERA", "documento": "CI 840494", "cargo": "Director titular", "fecha_asuncion": "2021-01-12", "vigencia": "primer directorio", "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta"},
+    {"nombre": "CAROLINA MARIA GALEANO DE BESTARD", "documento": "CI 601616", "cargo": "Director suplente", "fecha_asuncion": "2021-01-12", "vigencia": "primer directorio", "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta"},
+    {"nombre": "VENICIO ADOLFO SANCHEZ GUERREROS", "documento": "CI 511818", "cargo": "Director suplente", "fecha_asuncion": "2021-01-12", "vigencia": "primer directorio", "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta"},
+    {"nombre": "PABLO ANTONIO DEBUCHY BOSELLI", "documento": "CI 2036251", "cargo": "Síndico titular", "fecha_asuncion": "2021-01-12", "vigencia": "primer directorio", "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta"},
+    {"nombre": "RICARDO FERNANDEZ", "documento": "CI 539492", "cargo": "Síndico suplente", "fecha_asuncion": "2021-01-12", "vigencia": "primer directorio", "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta"},
+    {"nombre": "SERGIO AMADO PIZURNO SZARAN", "documento": "CI 740326", "cargo": "Presidente", "fecha_asuncion": "2026-04-28", "vigencia": null, "fecha_dato": "2026-04-28", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "JOSE AUGUSTO SALA CARDOZO", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2026-04-28", "vigencia": null, "fecha_dato": "2026-04-28", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "WALTER HERMOSA", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2026-04-28", "vigencia": null, "fecha_dato": "2026-04-28", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 2}, "confianza": "alta", "notas": "El acta la firma como síndico 'Vanessa Godoy'"},
+    {"nombre": "CARLOS LORENZO CODAS ZAVALA; NESTOR GABRIEL LOIZAGA FRANCO; VERONICA FRANCO LOPEZ MOREIRA; SEBASTIAN PEREZ CABALLERO (CI 7296807); OMAR SANCHEZ (CI 3642488)", "documento": null, "cargo": "Apoderados para trámites de constitución/inscripción (abogados) y ante SET/BCP", "fecha_asuncion": "2021-01-12", "vigencia": "trámites constitutivos", "fecha_dato": "2021-01-12", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2021-01-12", "evento": "constitucion", "detalle": "Esc. N° 13: Grupo Vázquez S.A.E. (7.999 acc.) y Federico Miguel Vázquez Villasanti (1 acc.); capital Gs. 8.000 M. Directorio presidido por Víctor Hugo Vázquez. Facultad para gestionar autorización del BCP como EMPE.", "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 18}},
+    {"fecha": "2022-12-29", "evento": "transferencia_acciones", "detalle": "Grupo Vázquez S.A.E. vende acciones (título 3, acc. 3-5002) a ITTI S.A.E.C.A.", "fuente": {"archivo": "REGISTRO ACCIONISTAS FOLIO NRO 7.pdf", "pagina": 1}},
+    {"fecha": "2023-06-30", "evento": "transferencia_acciones", "detalle": "UENO HOLDING S.A.E.C.A. cede a ITTI S.A.E.C.A. 1.985 acciones (5003-6987) y otro lote (6988-7200; texto dice 1.013). Implica que Ueno Holding fue accionista de MOWI.", "fuente": {"archivo": "REGISTRO ACCIONISTAS FOLIO NRO 7.pdf", "pagina": 1}},
+    {"fecha": "2025-05-19", "evento": "transferencia_acciones", "detalle": "ITTI y Federico Miguel Vázquez venden a José Augusto Sala Cardozo (7.200 acc.) y ITTI vende 800 acc. a Sergio Pizurno Szaran (según registro).", "fuente": {"archivo": "REGISTRO ACCIONISTAS FOLIO NRO 7.pdf", "pagina": 1}},
+    {"fecha": "2026-04-28", "evento": "cambio_directorio", "detalle": "AGO N° 6: cómputo Pizurno 7.200 (90%) y Sala 800 (10%); EEFF 2025 (resultado Gs. 4.201.859.719 destinado a aporte para futura capitalización); Directorio: Pres. Sergio Amado Pizurno, VP José Augusto Sala, Síndico Walter Hermosa.", "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 2}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "GRUPO VAZQUEZ S.A.E. (RUC 80086759-9)", "tipo": "accionista_de", "detalle": "Fundador con 99,99% (2021); vendió a ITTI en dic-2022.", "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 18}},
+    {"entidad_o_persona": "UENO HOLDING S.A.E.C.A.", "tipo": "accionista_de", "detalle": "Fue accionista hasta 30/06/2023 (cedió a ITTI).", "fuente": {"archivo": "REGISTRO ACCIONISTAS FOLIO NRO 7.pdf", "pagina": 1}},
+    {"entidad_o_persona": "ITTI S.A.E.C.A.", "tipo": "accionista_de", "detalle": "Accionista (presumiblemente 100% salvo 1 acción) entre 2023 y 19/05/2025.", "fuente": {"archivo": "REGISTRO ACCIONISTAS FOLIO NRO 7.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Familia Vázquez (Víctor Hugo Vázquez CI 551387, Federico Miguel Vázquez Villasanti CI 2941546)", "tipo": "director_comun", "detalle": "Primer directorio y fundadores.", "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "pagina": 19}},
+    {"entidad_o_persona": "SERGIO AMADO PIZURNO SZARAN", "tipo": "director_comun", "detalle": "Presidente de MOWI; también director en Grupo M S.A. (2025). Domicilio Av. Sta. Teresa 1827 (sede ITTI/GV).", "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 2}},
+    {"entidad_o_persona": "Torres del Paseo, Torre 3, Nivel 11 (Santa Teresa / Aviadores del Chaco)", "tipo": "mismo_domicilio", "detalle": "Misma sede que Grupo M S.A. (Acta N° 20) y domicilio de Grupo Vázquez.", "fuente": {"archivo": "ACTA ORDINARIA NRO 6.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [
+    {"nombre": null, "documento": null, "correo": "SPIZURNO@GMAIL.COM", "telefono": null, "fecha": "2026-07-23", "fuente": {"archivo": "CONSTANCIA RA 24528.pdf", "pagina": 1}, "notas": "Constancia RA N° 24528, cumplimiento anual presentado 23/07/2026, expedida 24/09/2026 (analista Rocío Patricia Bernal Cabrera)"}
+  ],
+  "correos_dominios": ["gmail.com"],
+  "documentos": [
+    {"archivo": "CONSTANCIA RA 24528.pdf", "tipo": "constancia_RA", "fecha": "2026-09-24", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia SIARA de cumplimiento anual; sin nómina."},
+    {"archivo": "REGISTRO ACCIONISTAS FOLIO NRO 7.pdf", "tipo": "registro_accionistas", "fecha": "2025-09-30", "paginas": 1, "legibilidad": "texto", "resumen": "Folio 7: José Sala 7.200 y Sergio Pizurno 800 acciones, con cadena GV→ITTI (2022), Ueno Holding→ITTI (2023), ITTI→Sala/Pizurno (2025). Firmado digitalmente por Pizurno."},
+    {"archivo": "ACTA ORDINARIA NRO 6.pdf", "tipo": "acta_asamblea", "fecha": "2026-04-28", "paginas": 2, "legibilidad": "ocr_bueno", "resumen": "AGO N° 6: cómputo Pizurno 90% / Sala 10%, EEFF 2025, directorio."},
+    {"archivo": "ESCRITURA CONSTITUCIÒN NRO 13.pdf", "tipo": "escritura_constitucion", "fecha": "2021-01-12", "paginas": 24, "legibilidad": "ocr_bueno", "resumen": "Constitución por Grupo Vázquez S.A.E. y F. M. Vázquez Villasanti; capital Gs. 8.000 M; primer directorio."}
+  ],
+  "observaciones": [
+    "Contradicción grave: el registro de accionistas (30/09/2025) asigna 7.200 acciones (90%) a José Augusto Sala Cardozo y 800 (10%) a Sergio Pizurno; el Acta N° 6 (28/04/2026) consigna lo inverso (Pizurno 90%, Sala 10%), sin transferencia registrada entre ambos.",
+    "Registro: la observación sobre cesión de Ueno Holding dice '1.013 acciones' para un renglón de 213 acciones (6988-7200).",
+    "Acta N° 6 designa síndico a Walter Hermosa pero firma como síndico Vanessa Godoy.",
+    "No hay constancia de BF ni nómina SIARA; correo de la PEJ es personal (gmail) del presidente.",
+    "Sociedad creada por Grupo Vázquez, pasó por Ueno Holding e ITTI y fue vendida en mayo-2025 a dos personas físicas, una de ellas (Pizurno) director en otra sociedad del grupo (Grupo M) y domiciliada en la sede ITTI/GV: posible traspaso formal dentro del grupo económico.",
+    "Faltan CI de José Augusto Sala Cardozo."
+  ]
+}

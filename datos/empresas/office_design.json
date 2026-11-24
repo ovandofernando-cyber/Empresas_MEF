@@ -1,0 +1,441 @@
+{
+  "id": "office_design",
+  "razon_social": "OFFICE DESIGN S.R.L.",
+  "ruc": "80027059-2",
+  "tipo": "S.R.L.",
+  "carpeta_mef": "Office Design S.R.L",
+  "denominaciones_anteriores": [
+    {
+      "nombre": "EQUIPMENT & DECORACION GROUP S.R.L. (E. & D. - G. S.R.L.)",
+      "hasta": "2008-01-08",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 9
+      }
+    },
+    {
+      "nombre": "QUALITY DESIGN S.R.L.",
+      "hasta": null,
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 9
+      }
+    }
+  ],
+  "constitucion": {
+    "fecha": "2003-08-29",
+    "escritura": "N° 77",
+    "escribano": "José Ramón Franco Tubino (Reg. 227)",
+    "inscripcion_registro_publico": "Personas Jurídicas N° 175, folio 1782, Serie D, 24/02/2004; Registro Público de Comercio N° 109, Serie A, folio 1203, 08/03/2004",
+    "fuente": {
+      "archivo": "Escritura Públcia N° 190.pdf",
+      "pagina": 9
+    }
+  },
+  "domicilio": [
+    {
+      "direccion": "Av. San Martín (SIARA)",
+      "fecha_dato": "2026-07-31",
+      "fuente": {
+        "archivo": "Constancia de RA.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Torres del Paseo, Torre 3, Piso 11, Avda. Santa Teresa e/ Aviadores del Chaco y Herminio Maldonado (domicilio de los nuevos socios)",
+      "fecha_dato": "2025-10-30",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "objeto_social": "Actividades comerciales: importaciones, servicios de asesoría, dirección de obras, terminaciones, amoblamientos, etc.",
+  "actividad_principal": "diseño / amoblamiento de oficinas",
+  "plazo_duracion": "99 años",
+  "capital": [
+    {
+      "tipo": "social",
+      "monto": 1700000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 1700,
+      "fecha_dato": "2025-10-30",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 10
+      }
+    },
+    {
+      "tipo": "social",
+      "monto": 50000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 2500000,
+      "cantidad_acciones": 20,
+      "fecha_dato": "2003-08-29",
+      "fuente": {
+        "archivo": "Escritura Pública N° 77.pdf",
+        "pagina": 4
+      }
+    }
+  ],
+  "accionistas": [
+    {
+      "nombre": "MONICA LETICIA GADEA GOMEZ DE LA FUENTE",
+      "tipo_persona": "fisica",
+      "documento": "CI 1.539.203",
+      "nacionalidad": null,
+      "acciones": 1615,
+      "clase_acciones": "cuotas",
+      "votos": null,
+      "porcentaje": 95.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2025-10-30",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 10
+      },
+      "confianza": "alta",
+      "notas": "Cesionaria de cuotas de Grupo Vázquez S.A.E. e ITTI S.A.E.C.A. Domicilio Torres del Paseo, Torre 3, Piso 11."
+    },
+    {
+      "nombre": "ENRIQUE JAVIER VERA MOREIRA",
+      "tipo_persona": "fisica",
+      "documento": "CI 2.543.551",
+      "nacionalidad": null,
+      "acciones": 85,
+      "clase_acciones": "cuotas",
+      "votos": null,
+      "porcentaje": 5.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2025-10-30",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 10
+      },
+      "confianza": "alta",
+      "notas": "Cesionario."
+    },
+    {
+      "nombre": "GRUPO VAZQUEZ S.A.E.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80086759-9",
+      "nacionalidad": null,
+      "acciones": null,
+      "clase_acciones": "cuotas",
+      "votos": null,
+      "porcentaje": null,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2025-10-30",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "media",
+      "notas": "Cedente de cuotas (cantidad no legible: falta la hoja N° 000752616 en el PDF)."
+    },
+    {
+      "nombre": "ITTI S.A.E.C.A.",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": null,
+      "clase_acciones": "cuotas",
+      "votos": null,
+      "porcentaje": null,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2025-10-30",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": "1,7-8"
+      },
+      "confianza": "media",
+      "notas": "Cedente de cuotas (cantidad no legible)."
+    },
+    {
+      "nombre": "JUAN RICARDO GUSTALE PORTILLO",
+      "tipo_persona": "fisica",
+      "documento": "CI 390.617",
+      "nacionalidad": null,
+      "acciones": 10,
+      "clase_acciones": "cuotas",
+      "votos": null,
+      "porcentaje": 50.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2003-08-29",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 77.pdf",
+        "pagina": "3-4"
+      },
+      "confianza": "alta",
+      "notas": "Socio fundador y socio-gerente."
+    },
+    {
+      "nombre": "CARMEN AMANDA GUSTALE DE TALAVERA",
+      "tipo_persona": "fisica",
+      "documento": "CI 214.761",
+      "nacionalidad": null,
+      "acciones": 10,
+      "clase_acciones": "cuotas",
+      "votos": null,
+      "porcentaje": 50.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2003-08-29",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 77.pdf",
+        "pagina": "3-4"
+      },
+      "confianza": "alta",
+      "notas": "Socia fundadora y socia-gerente."
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "MONICA LETICIA GADEA GOMEZ DE LA FUENTE",
+      "documento": "CI 1.539.203",
+      "cargo": "Gerente",
+      "fecha_asuncion": "2025-10-30",
+      "vigencia": "uso de la firma social",
+      "fecha_dato": "2025-10-30",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 11
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "ENRIQUE JAVIER VERA MOREIRA",
+      "documento": "CI 2.543.551",
+      "cargo": "Gerente suplente",
+      "fecha_asuncion": "2025-10-30",
+      "vigencia": null,
+      "fecha_dato": "2025-10-30",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 11
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JUAN RICARDO GUSTALE PORTILLO",
+      "documento": "CI 390.617",
+      "cargo": "Socio-gerente",
+      "fecha_asuncion": "2003-08-29",
+      "vigencia": null,
+      "fecha_dato": "2003-08-29",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 77.pdf",
+        "pagina": 5
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CARMEN AMANDA GUSTALE DE TALAVERA",
+      "documento": "CI 214.761",
+      "cargo": "Socio-gerente",
+      "fecha_asuncion": "2003-08-29",
+      "vigencia": null,
+      "fecha_dato": "2003-08-29",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 77.pdf",
+        "pagina": 5
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "GUILLERMO VAZQUEZ MUNIAGURRIA",
+      "documento": "CI 3.799.529",
+      "cargo": "Director titular de Grupo Vázquez S.A.E. (cedente); también actúa por ITTI",
+      "fecha_asuncion": "2025-04-28",
+      "vigencia": null,
+      "fecha_dato": "2025-10-30",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "BERNARDO JOSE ALGORTA REY",
+      "documento": "CI 7.375.741 (uruguayo)",
+      "cargo": "Director titular de Grupo Vázquez S.A.E. (cedente)",
+      "fecha_asuncion": "2025-04-28",
+      "vigencia": null,
+      "fecha_dato": "2025-10-30",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LUIS ERNESTO ANGULO RIVERA",
+      "documento": "CI 8.307.881 (salvadoreño)",
+      "cargo": "Representante de ITTI S.A.E.C.A. (cedente)",
+      "fecha_asuncion": null,
+      "vigencia": null,
+      "fecha_dato": "2025-10-30",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    }
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {
+      "fecha": "2003-08-29",
+      "evento": "constitucion",
+      "detalle": "Constitución de Equipment & Decoración Group S.R.L. por Juan Ricardo Gustale Portillo y Carmen Amanda Gustale de Talavera (10 cuotas c/u).",
+      "fuente": {
+        "archivo": "Escritura Pública N° 77.pdf",
+        "pagina": "3-4"
+      }
+    },
+    {
+      "fecha": "2008-01-08",
+      "evento": "cambio_denominacion",
+      "detalle": "Esc. 1 (Gladys Carrillo Benítez): pasa a QUALITY DESIGN S.R.L.; Esc. 30 (29/04/2008) modifica art. 5°. Cambio posterior a OFFICE DESIGN S.R.L. (documento no visible).",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 9
+      }
+    },
+    {
+      "fecha": "2025-10-30",
+      "evento": "transferencia_acciones",
+      "detalle": "Escritura 190 (López de Aponte): Grupo Vázquez S.A.E. e ITTI S.A.E.C.A. ceden la totalidad de las cuotas a Enrique Javier Vera Moreira (85) y Mónica Leticia Gadea Gómez de la Fuente (1.615) por Gs. 1.700 millones; capital Gs. 1.700 millones. Inscripta 15/12/2025 (Matrícula Jurídica N° 42247).",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": "1,10-11,13,16"
+      }
+    }
+  ],
+  "vinculos": [
+    {
+      "entidad_o_persona": "GRUPO VAZQUEZ S.A.E.",
+      "tipo": "otro",
+      "detalle": "Ex socio (hasta 30/10/2025); vendió sus cuotas.",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "ITTI S.A.E.C.A.",
+      "tipo": "otro",
+      "detalle": "Ex socio (hasta 30/10/2025). ITTI absorbió a J. Fleischman & Cía S.A.E.C.A. (Esc. 103/2022); ex Consultores Tecnología y Organización S.A.",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": "7-8"
+      }
+    },
+    {
+      "entidad_o_persona": "GUILLERMO VAZQUEZ MUNIAGURRIA",
+      "tipo": "otro",
+      "detalle": "Firmó por Grupo Vázquez e ITTI.",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "BERNARDO JOSE ALGORTA REY",
+      "tipo": "otro",
+      "detalle": "Director de Grupo Vázquez.",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "LUIS ERNESTO ANGULO RIVERA",
+      "tipo": "director_comun",
+      "detalle": "Representante de ITTI; ex vicepresidente de Red UTS.",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "GUSTALE (familia)",
+      "tipo": "otro",
+      "detalle": "Fundadores Gustale Portillo / Gustale de Talavera; escribano Eduardo A. Gustale Portillo certificó copia. Juan Manuel Gustale Cardoni es presidente de U Paraguay (posible parentesco, no verificado).",
+      "fuente": {
+        "archivo": "Escritura Pública N° 77.pdf",
+        "pagina": "1,3"
+      }
+    },
+    {
+      "entidad_o_persona": "Torres del Paseo, Torre 3, Piso 11",
+      "tipo": "mismo_domicilio",
+      "detalle": "Domicilio de los nuevos socios = sede de ITTI/Red UTS.",
+      "fuente": {
+        "archivo": "Escritura Públcia N° 190.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "declarantes_siara": [
+    {
+      "nombre": null,
+      "documento": null,
+      "correo": "ADMINISTRACION@OFFICE.COM.PY",
+      "telefono": null,
+      "fecha": "2026-07-31",
+      "fuente": {
+        "archivo": "Constancia de RA.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "correos_dominios": [
+    "office.com.py"
+  ],
+  "documentos": [
+    {
+      "archivo": "Constancia de RA.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2026-09-04",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Constancia RA N° 19293, actualización anual 31/07/2026."
+    },
+    {
+      "archivo": "Escritura Pública N° 77.pdf",
+      "tipo": "escritura_constitucion",
+      "fecha": "2003-08-29",
+      "paginas": 10,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Constitución de Equipment & Decoración Group S.R.L.; incluye depósito BCP."
+    },
+    {
+      "archivo": "Escritura Públcia N° 190.pdf",
+      "tipo": "escritura_modificacion",
+      "fecha": "2025-10-30",
+      "paginas": 16,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Cesión de cuotas de Grupo Vázquez e ITTI a Vera Moreira y Gadea Gómez de la Fuente."
+    }
+  ],
+  "observaciones": [
+    "Hasta octubre 2025 la sociedad pertenecía a Grupo Vázquez S.A.E. e ITTI S.A.E.C.A.; los nuevos socios fijan domicilio en la sede del grupo (Torres del Paseo, Torre 3, Piso 11): posible persistencia de control del grupo.",
+    "Falta en el PDF la hoja notarial N° 000752616 (entre pp. 9 y 10), donde constarían la distribución de cuotas previa y la cesión; no se conoce cuántas cuotas tenía cada cedente.",
+    "Sin constancia BF; la constancia RA no lista socios.",
+    "Domicilio SIARA (Av. San Martín) distinto al de los socios."
+  ]
+}

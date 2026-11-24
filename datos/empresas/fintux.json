@@ -1,0 +1,308 @@
+{
+  "id": "fintux",
+  "razon_social": "FINTUX E.A.S.",
+  "ruc": "80130722-8",
+  "tipo": "E.A.S.",
+  "carpeta_mef": "FINTUX EAS",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": null,
+    "escritura": null,
+    "escribano": null,
+    "inscripcion_registro_publico": null,
+    "fuente": null
+  },
+  "domicilio": [
+    {
+      "direccion": "Gral. Elizardo Aquino (471)",
+      "fecha_dato": "2026-11-05",
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "objeto_social": null,
+  "actividad_principal": "tecnología financiera (fintech; inferido del nombre)",
+  "plazo_duracion": null,
+  "capital": [
+    {
+      "tipo": "suscripto",
+      "monto": 1308500000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 500000,
+      "cantidad_acciones": 2617,
+      "fecha_dato": "2026-11-05",
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "integrado",
+      "monto": 1308500000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 500000,
+      "cantidad_acciones": 2617,
+      "fecha_dato": "2026-11-05",
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "accionistas": [
+    {
+      "nombre": "ITTI S.A.E.C.A.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80028355-4",
+      "nacionalidad": null,
+      "acciones": 808,
+      "clase_acciones": "ordinarias",
+      "votos": 808,
+      "porcentaje": 30.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2026-11-05",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Domicilio Avda. Santa Teresa, Torres del Paseo La Galería, Torre 2, Piso 25. Calculado sobre 2.617 acciones = 30,88%."
+    },
+    {
+      "nombre": "FRANCISCO ABEL LEDEZMA MATTO",
+      "tipo_persona": "fisica",
+      "documento": "CI 3988489",
+      "nacionalidad": null,
+      "acciones": 500,
+      "clase_acciones": "ordinarias",
+      "votos": 500,
+      "porcentaje": 20.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2026-11-05",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Calculado sobre 2.617 acciones = 19,11%."
+    },
+    {
+      "nombre": "GISELLE CORINA RAMIREZ ROJAS",
+      "tipo_persona": "fisica",
+      "documento": "CI 5158476 (RUC 5158476-0)",
+      "nacionalidad": null,
+      "acciones": 500,
+      "clase_acciones": "ordinarias",
+      "votos": 500,
+      "porcentaje": 20.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2026-11-05",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Calculado sobre 2.617 acciones = 19,11%."
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "GISELLE CORINA RAMIREZ ROJAS",
+      "documento": "CI 5158476",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2022-12-29",
+      "vigencia": "hasta 29-12-2024",
+      "fecha_dato": "2026-11-05",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "GISELLE CORINA RAMIREZ ROJAS",
+      "documento": "CI 5158476",
+      "cargo": "Representante legal",
+      "fecha_asuncion": "2022-12-29",
+      "vigencia": "hasta 29-12-2024",
+      "fecha_dato": "2026-11-05",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "FRANCISCO ABEL LEDEZMA MATTO",
+      "documento": "CI 3988489",
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2022-12-29",
+      "vigencia": "hasta 29-12-2024",
+      "fecha_dato": "2026-11-05",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "FRANCISCO ABEL LEDEZMA MATTO",
+      "documento": "CI 3988489",
+      "cargo": "Representante legal",
+      "fecha_asuncion": "2022-12-29",
+      "vigencia": "hasta 29-12-2024",
+      "fecha_dato": "2026-11-05",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    }
+  ],
+  "beneficiarios_finales": [
+    {
+      "nombre": "GRUPO VAZQUEZ S.A.E.",
+      "documento": "RUC 80086759-9",
+      "nacionalidad": "Paraguay",
+      "domicilio": "Avda. Santa Teresa e/ Avd. Aviadores del Chaco, Torres del Paseo La Galería, Torre 2, Piso 25",
+      "porcentaje": null,
+      "tipo_control": "condición de control",
+      "cadena_control": "ITTI S.A.E.C.A.: Grupo Vázquez tiene 88,0% de participación y 95,0% de votos de ITTI S.A.E.C.A. (desde 31-12-2024)",
+      "fecha_dato": "2026-11-05",
+      "fuente": {
+        "archivo": "CONSTANCIA BF EAS.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "FRANCISCO ABEL LEDEZMA MATTO",
+      "documento": "CI 3988489",
+      "nacionalidad": "Paraguaya",
+      "domicilio": "Gral. Elizardo Aquino 471",
+      "porcentaje": 20.0,
+      "tipo_control": "participación sustantiva",
+      "cadena_control": null,
+      "fecha_dato": "2026-11-05",
+      "fuente": {
+        "archivo": "CONSTANCIA BF EAS.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "GISELLE CORINA RAMIREZ ROJAS",
+      "documento": "CI 5158476 (RUC 5158476-0)",
+      "nacionalidad": "Paraguaya",
+      "domicilio": "Gral. Elizardo Aquino 471",
+      "porcentaje": 20.0,
+      "tipo_control": "participación sustantiva",
+      "cadena_control": null,
+      "fecha_dato": "2026-11-05",
+      "fuente": {
+        "archivo": "CONSTANCIA BF EAS.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    }
+  ],
+  "historial": [
+    {
+      "fecha": "2022-12-26",
+      "evento": "constitucion",
+      "detalle": "Fecha desde la que Ramírez y Ledezma son BF (probable constitución de la EAS); directorio asumido 29/12/2022.",
+      "fuente": {
+        "archivo": "CONSTANCIA BF EAS.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2024-12-31",
+      "evento": "transferencia_acciones",
+      "detalle": "Grupo Vázquez S.A.E. (vía ITTI S.A.E.C.A.) pasa a ser BF por condición de control.",
+      "fuente": {
+        "archivo": "CONSTANCIA BF EAS.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "vinculos": [
+    {
+      "entidad_o_persona": "ITTI S.A.E.C.A.",
+      "tipo": "accionista_de",
+      "detalle": "Accionista 808 acciones (30%).",
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "GRUPO VAZQUEZ S.A.E.",
+      "tipo": "otro",
+      "detalle": "Declarado como BF (persona jurídica) por control de ITTI (88% capital, 95% votos).",
+      "fuente": {
+        "archivo": "CONSTANCIA BF EAS.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "colab.com.py",
+      "tipo": "mismo_correo_dominio",
+      "detalle": "Correo de la entidad ssw@colab.com.py.",
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "declarantes_siara": [
+    {
+      "nombre": "GISELLE CORINA RAMIREZ",
+      "documento": "CI 5158476",
+      "correo": "giselleramirezr@gmail.com",
+      "telefono": "(0986)462535",
+      "fecha": "2026-11-05",
+      "fuente": {
+        "archivo": "Constancia EAS 2026 2.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "correos_dominios": [
+    "colab.com.py",
+    "gmail.com"
+  ],
+  "documentos": [
+    {
+      "archivo": "CONSTANCIA BF EAS.pdf",
+      "tipo": "constancia_BF",
+      "fecha": "2026-11-05",
+      "paginas": 2,
+      "legibilidad": "texto",
+      "resumen": "Constancia BF EAS N° 77116: filas duplicadas de BF y Grupo Vázquez como BF vía ITTI."
+    },
+    {
+      "archivo": "Constancia EAS 2026 2.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2026-11-05",
+      "paginas": 2,
+      "legibilidad": "texto",
+      "resumen": "Constancia EAS N° 152557: capital Gs. 1.308.500.000, 3 socios, autoridades con mandato vencido."
+    }
+  ],
+  "observaciones": [
+    "Los socios declarados suman 1.808 acciones (70%) pero el capital integrado (Gs. 1.308.500.000 / Gs. 500.000) equivale a 2.617 acciones: faltan 809 acciones (~30%) sin titular declarado.",
+    "La constancia BF declara como beneficiario final a una persona jurídica (Grupo Vázquez S.A.E.), no a personas físicas; contiene filas duplicadas con 0%.",
+    "Mandato de autoridades vencido el 29/12/2024 según la propia constancia.",
+    "Domicilio de ITTI declarado: Torres del Paseo La Galería, Torre 2, Piso 25 (mismo que Grupo Vázquez)."
+  ]
+}

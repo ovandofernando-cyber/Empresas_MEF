@@ -1,0 +1,1342 @@
+{
+ "id": "ueno_bank",
+ "razon_social": "UENO BANK S.A.",
+ "ruc": "80026157-7",
+ "tipo": "Sociedad Anónima (banco; antes S.A.E.C.A.)",
+ "carpeta_mef": "UENO BANK S.A",
+ "denominaciones_anteriores": [
+  {
+   "nombre": "FINANCIERA EL COMERCIO S.A.",
+   "hasta": "1995-12-19",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "nombre": "FINANCIERA EL COMERCIO SOCIEDAD ANONIMA EMISORA DE CAPITAL ABIERTO",
+   "hasta": "1999-12-21",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "nombre": "EL COMERCIO FINANCIERA S.A.E.C.A.",
+   "hasta": "2003-04-11",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "nombre": "FINANCIERA EL COMERCIO S.A.E.C.A.",
+   "hasta": "2021-11-16",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "nombre": "FINANCIERA UENO SOCIEDAD ANONIMA EMISORA DE CAPITAL ABIERTO (FINANCIERA UENO S.A.E.C.A.)",
+   "hasta": "2023-10-25",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 8
+   }
+  }
+ ],
+ "constitucion": {
+  "fecha": "1976-04-26",
+  "escritura": "Escritura pública del 26/04/1976 (como Financiera El Comercio S.A.)",
+  "escribano": "Raúl A. Casabianca",
+  "inscripcion_registro_publico": "Estatutos aprobados por Decreto del P.E. N° 23.758 del 06/07/1976; Registro Público de Comercio N° 477, pág. 76, 09/07/1976. Matrícula Jurídica/Comercial N° 2504 (Serie Comercial).",
+  "fuente": {
+   "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+   "pagina": 1
+  },
+  "confianza": "alta"
+ },
+ "domicilio": [
+  {
+   "direccion": "Avda. Santa Teresa entre Avda. Aviadores del Chaco y Herminio Maldonado, Paseo La Galería, Torre 1, Piso 5, Asunción",
+   "fecha_dato": "2024-03-25",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 9
+   }
+  },
+  {
+   "direccion": "Avda. Santa Teresa N° 1827 (domicilio de comparecientes en escritura 44/2024)",
+   "fecha_dato": "2024-05-09",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Avda. Santa Teresa N° 3.088 c/ Concejal Vargas, Asunción (domicilio social)",
+   "fecha_dato": "2026-07-13",
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "AVDA. SANTA TERESA",
+   "fecha_dato": "2026-05-19",
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": "Entidad bancaria (intermediación financiera) regulada por la Ley 861/96; antes financiera.",
+ "actividad_principal": "banca",
+ "plazo_duracion": null,
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 2000000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 2000000,
+   "fecha_dato": "2024-05-09",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 12
+   },
+   "notas": "Art. 5° reformado (fusión con Visión Banco). Clases: Ordinarias Fundadoras (5 votos), Ordinarias Voto Múltiple (5 votos), Ordinarias Simples (1 voto) y Preferidas Clase A."
+  },
+  {
+   "tipo": "autorizado",
+   "monto": 2000000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 2000000,
+   "fecha_dato": "2026-07-27",
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS (2).pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 1636409000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 1636409,
+   "fecha_dato": "2026-05-13",
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+    "pagina": 1
+   },
+   "notas": "Integrado igual; aportes irrevocables Gs. 168.826.769(?); total votos 4.000.632."
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 1656142000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 1656142,
+   "fecha_dato": "2026-07-27",
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS (2).pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 1656142000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 1656142,
+   "fecha_dato": "2026-07-27",
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS (2).pdf",
+    "pagina": 1
+   },
+   "notas": "Aportes irrevocables Gs. 102.370.847.285; total votos 4.051.429."
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "Fundadoras/Ordinarias/OVM",
+   "votos": 309121,
+   "porcentaje": 94.91,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2024-03-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 9
+   },
+   "confianza": "media",
+   "notas": "Acta N° 90 (Asamblea Extraordinaria 25/03/2024 - 24/04/2024): votos fundadoras 14.305, ordinarias 98.101, voto múltiple 196.715; total 309.121 votos (94,91% de votos). En ese momento era el controlante directo."
+  },
+  {
+   "nombre": "Saldívar Heisecke, Rodrigo",
+   "tipo_persona": "fisica",
+   "documento": "CI 3.495.978",
+   "nacionalidad": null,
+   "acciones": 556,
+   "clase_acciones": "Ordinarias",
+   "votos": 556,
+   "porcentaje": 0.17,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2024-03-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 9
+   },
+   "confianza": "media",
+   "notas": "% de votos"
+  },
+  {
+   "nombre": "Gustale Cardoni, Juan Manuel",
+   "tipo_persona": "fisica",
+   "documento": "CI 2.479.821",
+   "nacionalidad": null,
+   "acciones": 1,
+   "clase_acciones": "Fundadoras",
+   "votos": 5,
+   "porcentaje": 0.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2024-03-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 9
+   },
+   "confianza": "media",
+   "notas": "5 votos (1 acción fundadora). En el registro 2026 figura con acción fundadora N° 2.969."
+  },
+  {
+   "nombre": "Gross Brown Costa, Eduardo Javier",
+   "tipo_persona": "fisica",
+   "documento": "CI 439.189",
+   "nacionalidad": null,
+   "acciones": 1,
+   "clase_acciones": "Fundadoras",
+   "votos": 5,
+   "porcentaje": 0.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2024-03-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 9
+   },
+   "confianza": "media",
+   "notas": "5 votos."
+  },
+  {
+   "nombre": "Murto de Méndez, Silvia (Silvia Rosa Susana)",
+   "tipo_persona": "fisica",
+   "documento": "CI 589.898",
+   "nacionalidad": null,
+   "acciones": 374,
+   "clase_acciones": "Ordinarias",
+   "votos": 374,
+   "porcentaje": 0.11,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2024-03-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 9
+   },
+   "confianza": "media",
+   "notas": "% de votos"
+  },
+  {
+   "nombre": "Rodríguez de Coronel, Nury Francisca",
+   "tipo_persona": "fisica",
+   "documento": "CI 3.977.895",
+   "nacionalidad": null,
+   "acciones": 2310,
+   "clase_acciones": "Ordinarias",
+   "votos": 2310,
+   "porcentaje": 0.71,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2024-03-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 9
+   },
+   "confianza": "media",
+   "notas": "% de votos"
+  },
+  {
+   "nombre": "U PARAGUAY S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 2871,
+   "clase_acciones": "Fundadoras",
+   "votos": null,
+   "porcentaje": 0.24,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Acta N° 98; votos 0,59%"
+  },
+  {
+   "nombre": "U PARAGUAY S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 727230,
+   "clase_acciones": "Ordinarias",
+   "votos": null,
+   "porcentaje": 61.26,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "votos 29,83%"
+  },
+  {
+   "nombre": "U PARAGUAY S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 330799,
+   "clase_acciones": "Ordinaria Voto Múltiple",
+   "votos": null,
+   "porcentaje": 27.87,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "votos 67,84%"
+  },
+  {
+   "nombre": "U PARAGUAY S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 21782,
+   "clase_acciones": "Preferidas",
+   "votos": null,
+   "porcentaje": 1.83,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "sin voto"
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 1410,
+   "clase_acciones": "Ordinarias",
+   "votos": null,
+   "porcentaje": 0.12,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "votos 0,06%"
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 2589,
+   "clase_acciones": "Preferidas",
+   "votos": null,
+   "porcentaje": 0.22,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "Romildo Andrés Laconich Romero",
+   "tipo_persona": "fisica",
+   "documento": "CI 568.518",
+   "nacionalidad": null,
+   "acciones": 1579,
+   "clase_acciones": "1.552 Ordinarias + 27 Preferidas",
+   "votos": null,
+   "porcentaje": 0.13,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "CI tomada del registro de accionistas."
+  },
+  {
+   "nombre": "La Agrícola S.A. de Seguros",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80020935-4",
+   "nacionalidad": "paraguaya",
+   "acciones": 740,
+   "clase_acciones": "704 Ordinarias + 36 Preferidas",
+   "votos": null,
+   "porcentaje": 0.06,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "RUC según registro (OCR, confianza media)."
+  },
+  {
+   "nombre": "U PARAGUAY S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 2871,
+   "clase_acciones": "Fundadoras (5 votos/acción)",
+   "votos": 14355,
+   "porcentaje": 0.18,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Acta N° 99; % votos 0,36%; representada por Kristel Duarte"
+  },
+  {
+   "nombre": "U PARAGUAY S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 889016,
+   "clase_acciones": "Ordinarias",
+   "votos": 889016,
+   "porcentaje": 54.33,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "% votos 22,22%"
+  },
+  {
+   "nombre": "U PARAGUAY S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 609081,
+   "clase_acciones": "Ordinaria Voto Múltiple (5 votos/acción)",
+   "votos": 3045405,
+   "porcentaje": 37.22,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "% votos 76,12%. Total U Paraguay: 1.523.053 acciones (93,08% del capital) y 98,70% de los votos."
+  },
+  {
+   "nombre": "U PARAGUAY S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80135001-8",
+   "nacionalidad": "paraguaya",
+   "acciones": 22085,
+   "clase_acciones": "Preferidas Clase A",
+   "votos": 0,
+   "porcentaje": 1.35,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "sin voto"
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 3170,
+   "clase_acciones": "Ordinarias",
+   "votos": 3170,
+   "porcentaje": 0.19,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "% votos 0,08%; representada por Kristel Duarte"
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 29045,
+   "clase_acciones": "Preferidas Clase A",
+   "votos": 0,
+   "porcentaje": 1.77,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Total Grupo Vázquez: 32.215 acciones (1,96% del capital)."
+  },
+  {
+   "nombre": "La Agrícola S.A. de Seguros",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80020935-4",
+   "nacionalidad": "paraguaya",
+   "acciones": 895,
+   "clase_acciones": "859 Ordinarias + 36 Preferidas",
+   "votos": 859,
+   "porcentaje": 0.05,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "representada por Valentín Vega"
+  },
+  {
+   "nombre": "Romildo Andrés Laconich Romero",
+   "tipo_persona": "fisica",
+   "documento": "CI 568.518",
+   "nacionalidad": null,
+   "acciones": 1922,
+   "clase_acciones": "1.895 Ordinarias + 27 Preferidas",
+   "votos": 1895,
+   "porcentaje": 0.12,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "TRIODOS SICAV II",
+   "tipo_persona": "juridica",
+   "documento": "LUB115771",
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": null,
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-27",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS (2).pdf",
+    "pagina": null
+   },
+   "confianza": "baja",
+   "notas": "Inversor extranjero; numerosos asientos principalmente Ordinarias y PREF A (aprox. 7.400 acciones según OCR). El registro (32 páginas, miles de asientos por título) no trae totales por accionista; cifras no verificadas."
+  },
+  {
+   "nombre": "OIKOCREDIT ECUMENICAL DEVELOPMENT COOPERATIVE",
+   "tipo_persona": "juridica",
+   "documento": "identificación NL (ilegible)",
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": null,
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-27",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS (2).pdf",
+    "pagina": null
+   },
+   "confianza": "baja",
+   "notas": "Inversor extranjero; numerosos asientos PREF A (aprox. 19.000 acciones según OCR, confianza baja). El registro (32 páginas, miles de asientos por título) no trae totales por accionista; cifras no verificadas."
+  },
+  {
+   "nombre": "CORONEL CABRERA, OSMAR ALBERTO",
+   "tipo_persona": "fisica",
+   "documento": "CI 840.494 (OCR, dudoso: también leído 240.494)",
+   "nacionalidad": null,
+   "acciones": null,
+   "clase_acciones": null,
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-27",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS (2).pdf",
+    "pagina": null
+   },
+   "confianza": "baja",
+   "notas": "Persona física con numerosos asientos de ordinarias y algunas fundadoras (aprox. 6.500 acciones según OCR). El registro (32 páginas, miles de asientos por título) no trae totales por accionista; cifras no verificadas."
+  },
+  {
+   "nombre": "CAJA MUTUAL DE COOPERATIVISTAS DEL PARAGUAY",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": null,
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-27",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS (2).pdf",
+    "pagina": null
+   },
+   "confianza": "baja",
+   "notas": "PREF A (aprox. 2.600 según OCR). El registro (32 páginas, miles de asientos por título) no trae totales por accionista; cifras no verificadas."
+  },
+  {
+   "nombre": "BLANCA DIANA VAZQUEZ SANTACRUZ",
+   "tipo_persona": "fisica",
+   "documento": "CI 434.302 (OCR)",
+   "nacionalidad": null,
+   "acciones": null,
+   "clase_acciones": null,
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-27",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS (2).pdf",
+    "pagina": null
+   },
+   "confianza": "baja",
+   "notas": "Accionista minoritaria (pocas acciones ordinarias); apellido Vázquez, vínculo familiar no documentado. El registro (32 páginas, miles de asientos por título) no trae totales por accionista; cifras no verificadas."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "ALEJANDRO GOMEZ ABENTE",
+   "documento": "CI 1.432.121",
+   "cargo": "Vicepresidente 2°",
+   "fecha_asuncion": "2024-03-04",
+   "vigencia": null,
+   "fecha_dato": "2024-05-09",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "SILVIA ROSA SUSANA MURTO DE MÉNDEZ",
+   "documento": "CI 589.898",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2024-03-04",
+   "vigencia": null,
+   "fecha_dato": "2024-05-09",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Juan Manuel Gustale Cardoni",
+   "documento": "CI 2.479.821",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2024-03-25",
+   "vigencia": null,
+   "fecha_dato": "2024-03-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 9
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Pablo Debuchy",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2024-03-25",
+   "vigencia": null,
+   "fecha_dato": "2024-03-25",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 10
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Juan Manuel Gustale Cardoni",
+   "documento": "CI 2.479.821",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Federico Miguel Vázquez Villasanti",
+   "documento": "CI 2.941.546",
+   "cargo": "Vicepresidente 1°",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Julio Daniel Rey Fernández",
+   "documento": null,
+   "cargo": "Vicepresidente 2°",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Alejandro Gómez Abente",
+   "documento": "CI 1.432.121",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Diego Fernando Duarte Schussmuller",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Diana Leticia Mongelos González",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Mariana Torres Rubiani",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Joshua Daniel Abreu Boss",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Guillermo Vázquez Muniagurria",
+   "documento": "CI 3.799.529",
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Silvia Murto de Méndez",
+   "documento": "CI 589.898",
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Miguel Ángel Almada Frutos",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "César Manuel Astigarraga Lambaré",
+   "documento": "CI 3.807.117",
+   "cargo": "Síndico suplente",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Ratificación/designación en Acta N° 98."
+  },
+  {
+   "nombre": "Juan Manuel Gustale Cardoni",
+   "documento": "CI 2.479.821",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Elección Acta N° 99."
+  },
+  {
+   "nombre": "Federico Miguel Vázquez Villasanti",
+   "documento": "CI 2.941.546",
+   "cargo": "Vicepresidente 1°",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Elección Acta N° 99."
+  },
+  {
+   "nombre": "Diana Leticia Mongelos González",
+   "documento": null,
+   "cargo": "Vicepresidente 2°",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Elección Acta N° 99."
+  },
+  {
+   "nombre": "Alejandro Gómez Abente",
+   "documento": "CI 1.432.121",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Elección Acta N° 99."
+  },
+  {
+   "nombre": "Waldo Emilio Roberto",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Elección Acta N° 99."
+  },
+  {
+   "nombre": "Carlos Francisco Impagliatelli Bareiro",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Elección Acta N° 99."
+  },
+  {
+   "nombre": "Diego Fernando Duarte Schussmuller",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Elección Acta N° 99."
+  },
+  {
+   "nombre": "Guillermo Vázquez Muniagurria",
+   "documento": "CI 3.799.529",
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Elección Acta N° 99."
+  },
+  {
+   "nombre": "Silvia Murto de Méndez",
+   "documento": "CI 589.898",
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Elección Acta N° 99."
+  },
+  {
+   "nombre": "Kristel Duarte",
+   "documento": null,
+   "cargo": "Representante de los accionistas U Paraguay S.A. y Grupo Vázquez S.A.E. (apoderada)",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Carlos Codas",
+   "documento": null,
+   "cargo": "Representante de los accionistas U Paraguay S.A. y Grupo Vázquez S.A.E.; secretario Asamblea N° 98",
+   "fecha_asuncion": "2026-02-20",
+   "vigencia": null,
+   "fecha_dato": "2026-02-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "1976-04-26",
+   "evento": "constitucion",
+   "detalle": "Constituida como Financiera El Comercio S.A. (Esc. Raúl A. Casabianca).",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "1995-12-19",
+   "evento": "cambio_denominacion",
+   "detalle": "Esc. N° 342: reforma total (Ley 548/95) y denominación Financiera El Comercio S.A. Emisora de Capital Abierto.",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "1999-12-21",
+   "evento": "fusion",
+   "detalle": "Esc. N° 264: fusión con Emprendimientos Financieros S.A.E.C.A. (EFISA); Esc. N° 267: denominación El Comercio Financiera S.A.E.C.A.",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "fecha": "2003-04-11",
+   "evento": "cambio_denominacion",
+   "detalle": "Esc. N° 233 (2002) y complementaria N° 66: vuelve a denominarse Financiera El Comercio S.A.E.C.A.",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "fecha": "2009-07-30",
+   "evento": "aumento_capital",
+   "detalle": "Capital social a Gs. 100.000.000.000 (Esc. N° 34); varias emisiones 2009-2015.",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "fecha": "2021-11-16",
+   "evento": "cambio_denominacion",
+   "detalle": "Esc. N° 85 (Esc. M.T. López de Aponte): pasa a denominarse Financiera Ueno S.A.E.C.A.",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 8
+   }
+  },
+  {
+   "fecha": "2023-10-25",
+   "evento": "cambio_denominacion",
+   "detalle": "Esc. N° 122: pasa a denominarse UENO BANK S.A.",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 8
+   }
+  },
+  {
+   "fecha": "2024-05-09",
+   "evento": "modificacion_estatutos",
+   "detalle": "Esc. N° 44: reforma parcial de estatutos (Acta Extraordinaria N° 90, 25/03-24/04/2024) en el marco de la fusión por absorción de Visión Banco S.A.E.C.A.; capital Gs. 2 billones. Accionista controlante entonces Grupo Vázquez S.A.E. (94,91% votos).",
+   "fuente": {
+    "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-02-20",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea Ordinaria N° 98: U Paraguay S.A. principal accionista; utilidad 2025 Gs. 313.857.395.935 capitalizada (compromiso con BCP por fusión con Visión Banco), emisión de 615.000 acciones (307.500 OVS + 307.500 OVM); ratificación de directorio; síndicos Almada Frutos / Astigarraga Lambaré.",
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-07-13",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea Ordinaria N° 99: desafectación de reservas facultativas (Gs. 19.795.020.516) para capitalización; elección de directorio.",
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "U PARAGUAY S.A. (RUC 80135001-8)",
+   "tipo": "accionista_de",
+   "detalle": "Controlante: 93,08% del capital y 98,70% de los votos (julio 2026). También controla Ueno Casa de Bolsa.",
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "GRUPO VAZQUEZ S.A.E. (RUC 80086759-9)",
+   "tipo": "accionista_de",
+   "detalle": "1,96% del capital (2026); controlante en 2024 (94,91% de votos).",
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Visión Banco S.A.E.C.A.",
+   "tipo": "otro",
+   "detalle": "Fusión por absorción por Ueno Bank (2024); origen de los accionistas PREF A minoritarios.",
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "BIC S.A.",
+   "tipo": "participada",
+   "detalle": "Ueno Bank tiene 864 acciones (7,46%) de BIC.",
+   "fuente": null
+  },
+  {
+   "entidad_o_persona": "Ueno Casa de Bolsa S.A.",
+   "tipo": "participada",
+   "detalle": "Ueno Bank (como Financiera Ueno) fue accionista fundadora y suscriptora de 11.337 acciones en 2023, transferidas a Grupo Vázquez en 2024.",
+   "fuente": null
+  },
+  {
+   "entidad_o_persona": "Federico Miguel Vázquez Villasanti (CI 2.941.546)",
+   "tipo": "director_comun",
+   "detalle": "Vicepresidente 1°; BF de Place Analyzer vía Grupo Vázquez -> ITTI.",
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Guillermo Vázquez Muniagurria (CI 3.799.529)",
+   "tipo": "director_comun",
+   "detalle": "Director suplente; ex presidente de IDL; representante de ITTI en Hanoi/Place/IDL.",
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "César Manuel Astigarraga Lambaré",
+   "tipo": "director_comun",
+   "detalle": "Síndico suplente; presidente de IDL y Hanoi; director de Place Analyzer.",
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "entidad_o_persona": "Diana Leticia Mongelos González",
+   "tipo": "director_comun",
+   "detalle": "Vicepresidente 2°; vicepresidenta de Hanoi.",
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Carlos F. Impagliatelli Bareiro / Alejandro Gómez Abente / Eduardo J. Gross Brown Costa",
+   "tipo": "director_comun",
+   "detalle": "Directores/accionistas de Ueno Bank que también dirigen o representan accionistas en Ueno Casa de Bolsa.",
+   "fuente": {
+    "archivo": "ACTA DE ASAMBLEA.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Miguel Ángel Almada Frutos",
+   "tipo": "director_comun",
+   "detalle": "Síndico titular; representó a Grupo Vázquez en Forward Invest/Ueno Casa de Bolsa y a Financiera Ueno en BIC.",
+   "fuente": {
+    "archivo": "ACTA ASAMBLEA.pdf",
+    "pagina": 4
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "IMPUESTOS@UENO.COM.PY",
+   "telefono": null,
+   "fecha": "2026-05-19",
+   "fuente": {
+    "archivo": "Constancia RA.pdf",
+    "pagina": 1
+   },
+   "notas": "Constancia RA N° 4347 formato nuevo sin datos del solicitante; analista Liza Ana Belén Duarte Benítez; expedida 17/06/2026."
+  }
+ ],
+ "correos_dominios": [
+  "ueno.com.py"
+ ],
+ "documentos": [
+  {
+   "archivo": "Constancia RA.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-05-19",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 4347 por cumplimiento anual; sin socios/autoridades."
+  },
+  {
+   "archivo": "ACTA ASAMBLEA.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-02-20",
+   "paginas": 4,
+   "legibilidad": "texto",
+   "resumen": "Asamblea Ordinaria N° 98: nómina de accionistas (U Paraguay, Grupo Vázquez, Laconich, La Agrícola), utilidades, emisión, directorio y síndicos."
+  },
+  {
+   "archivo": "ACTA DE ASAMBLEA.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-07-13",
+   "paginas": 3,
+   "legibilidad": "texto",
+   "resumen": "Asamblea Ordinaria N° 99: nómina (95,21% del capital), capitalización de reservas, elección de directorio."
+  },
+  {
+   "archivo": "ESCRITURA NRO 44--09-05-2024.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2024-05-09",
+   "paginas": 48,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Escritura N° 44: historia societaria completa y reforma de estatutos por fusión con Visión Banco; Acta N° 90 con accionistas 2024."
+  },
+  {
+   "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-05-13",
+   "paginas": 31,
+   "legibilidad": "ocr_malo",
+   "resumen": "Composición accionaria al 13/05/2026 (1.636.409 acciones), listado por título en letra muy pequeña y rotada."
+  },
+  {
+   "archivo": "REGISTRO DE ACCIONISTAS (2).pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-07-27",
+   "paginas": 32,
+   "legibilidad": "ocr_malo",
+   "resumen": "Composición accionaria al 27/07/2026 (1.656.142 acciones; 4.051.429 votos), listado por título; miles de minoritarios PREF A."
+  }
+ ],
+ "observaciones": [
+  "No se aportó constancia de Beneficiarios Finales de Ueno Bank (los BF últimos estarían detrás de U Paraguay S.A. / Grupo Vázquez).",
+  "La constancia RA (formato nuevo) no detalla socios ni autoridades.",
+  "Los registros de accionistas listan cada título (miles de filas, muchos minoritarios PREF A provenientes de Visión Banco) sin totales por accionista; las tenencias principales se tomaron de las actas 98 y 99. Las cifras de minoritarios (Triodos, Oikocredit, Coronel Cabrera, etc.) son aproximaciones OCR de baja confianza.",
+  "El control pasó de Grupo Vázquez S.A.E. (94,91% votos en marzo 2024) a U Paraguay S.A. (98,70% votos en julio 2026); no se aportó documento de esa transferencia.",
+  "Discrepancia de domicilio social: Paseo La Galería Torre 1 Piso 5 (2024) vs Avda. Santa Teresa 3.088 (2026).",
+  "Distintas ediciones del directorio: entre feb. y jul. 2026 salen Julio Daniel Rey Fernández, Mariana Torres Rubiani y Joshua Abreu Boss; entran Waldo Emilio Roberto y Carlos F. Impagliatelli Bareiro.",
+  "En el registro el accionista RUC de La Agrícola S.A. de Seguros se lee 80020935-4 por OCR (verificar)."
+ ]
+}

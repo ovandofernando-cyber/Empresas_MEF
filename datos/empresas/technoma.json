@@ -1,0 +1,437 @@
+{
+ "id": "technoma",
+ "razon_social": "Technoma S.A.E.C.A.",
+ "ruc": "80060858-5",
+ "tipo": "S.A.E.C.A.",
+ "carpeta_mef": "Technoma SAECA",
+ "denominaciones_anteriores": [
+  {
+   "nombre": "TECHNOMA S.A.C.I. (Sociedad Anónima Comercial e Industrial)",
+   "hasta": "2023-06-27",
+   "fuente": {
+    "archivo": "Escritura 35 27-06-2023 modificación de estatutos sociales.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "constitucion": {
+  "fecha": "2010-04-23",
+  "escritura": "N° 1",
+  "escribano": "César Hilario Fernández",
+  "inscripcion_registro_publico": "Personas Jurídicas N° 443 folio 4764 Serie D y Registro Público de Comercio N° 417 Serie D folio 4349, ambas 20/05/2010",
+  "fuente": {
+   "archivo": "Escritura pública 87 16-05-2025 modificación de estatutos.pdf",
+   "pagina": 1
+  }
+ },
+ "domicilio": [
+  {
+   "direccion": "Avda. Santa Teresa N° 1827 e/ Aviadores del Chaco y Herminio Maldonado, Torres del Paseo La Galería, Torre 3, Piso 10",
+   "fecha_dato": "2026-04-16",
+   "fuente": {
+    "archivo": "Acta de Asamblea.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Avda. General Santos N° 1030 casi Defensa Nacional, Complejo Textilia, Edificio/Local 12",
+   "fecha_dato": "2022-12-28",
+   "fuente": {
+    "archivo": "Escritura 35 27-06-2023 modificación de estatutos sociales.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": "Comercialización e intermediación de sistemas informáticos (hardware/software), servicios tecnológicos, prestador cualificado de servicios de confianza (firma electrónica, sellos, certificados), además de comercio, industria, inmobiliaria, leasing, factoring y operaciones bursátiles.",
+ "actividad_principal": "tecnología (firma digital / servicios de confianza)",
+ "plazo_duracion": null,
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 20000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 20000,
+   "fecha_dato": "2023-06-27",
+   "fuente": {
+    "archivo": "Escritura 35 27-06-2023 modificación de estatutos sociales.pdf",
+    "pagina": 6
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 20000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 20000,
+   "fecha_dato": "2026-05-20",
+   "fuente": {
+    "archivo": "Registro de Accionistas.pdf",
+    "pagina": 1
+   },
+   "nota": "10.000 ordinarias + 10.000 preferidas Clase A según registro."
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "Luis Fernando Ríos Espínola",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 9669,
+   "clase_acciones": "900 OVM + 8.769 OVS",
+   "votos": 13269,
+   "porcentaje": 96.69,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-01-28",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Escritura pública 87 16-05-2025 modificación de estatutos.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Sobre 10.000 acciones ordinarias presentes en Asamblea Extraordinaria N° 12; representado por Miguel Almada. Además titular de 9.350 preferidas (transferidas a Technoma el 03/06/2025)."
+  },
+  {
+   "nombre": "Enrique Vera (Enrique Javier Vera Moreira)",
+   "tipo_persona": "fisica",
+   "documento": "CI 2.543.551 (OCR '12.543.551', lectura media)",
+   "nacionalidad": "paraguaya",
+   "acciones": 331,
+   "clase_acciones": "OVS",
+   "votos": 331,
+   "porcentaje": 3.31,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-01-28",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Escritura pública 87 16-05-2025 modificación de estatutos.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Sobre ordinarias."
+  },
+  {
+   "nombre": "Enrique Vera",
+   "tipo_persona": "fisica",
+   "documento": "CI 2.543.551 (OCR)",
+   "nacionalidad": "paraguaya",
+   "acciones": 4665,
+   "clase_acciones": "ordinarias voto simple",
+   "votos": 4665,
+   "porcentaje": 23.325,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-05-20",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de Accionistas.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "46,65% de las ordinarias; 23,33% del total de 20.000 acciones. Domicilio Diagonal Tte. Roque Cabrera 338, Fernando de la Mora."
+  },
+  {
+   "nombre": "Sergio Pizurno (Sergio Amado Pizurno Szarán)",
+   "tipo_persona": "fisica",
+   "documento": "CI 740.326",
+   "nacionalidad": "paraguaya",
+   "acciones": 4335,
+   "clase_acciones": "ordinarias voto simple",
+   "votos": 4335,
+   "porcentaje": 21.675,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-05-20",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de Accionistas.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "43,35% de ordinarias; compradas a L. F. Ríos el 03/06/2025. Representado por Rubén Marcelo Pizurno Szarán (carta poder 08/04/2026)."
+  },
+  {
+   "nombre": "Technoma S.A.E.C.A. (acciones propias en cartera)",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80060858-5",
+   "nacionalidad": null,
+   "acciones": 10350,
+   "clase_acciones": "1.000 ordinarias voto múltiple + 9.350 preferidas Clase A",
+   "votos": 0,
+   "porcentaje": 51.75,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-05-20",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de Accionistas.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Recompradas a L. F. Ríos el 03/06/2025 (Acta de Directorio N° 56); no computan para quórum."
+  },
+  {
+   "nombre": "Pedro Servín (Pedro Pablo Servín Barreto)",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.841.284",
+   "nacionalidad": "paraguaya",
+   "acciones": 650,
+   "clase_acciones": "preferidas Clase A (sin voto)",
+   "votos": 0,
+   "porcentaje": 3.25,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-05-20",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Registro de Accionistas.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Integradas según Acta N° 40; dividendo preferido 2025 Gs. 71,5 M."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Pedro Pablo Servín Barreto",
+   "documento": "CI 1.841.284",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2022-04-19",
+   "vigencia": null,
+   "fecha_dato": "2023-06-27",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Escritura 35 27-06-2023 modificación de estatutos sociales.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Mónica Leticia Gadea Gómez de la Fuente",
+   "documento": "CI 1.539.203",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2022-04-19",
+   "vigencia": null,
+   "fecha_dato": "2023-06-27",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Escritura 35 27-06-2023 modificación de estatutos sociales.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Marcelo Adrián Romei",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2022-12-28",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Escritura 35 27-06-2023 modificación de estatutos sociales.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Enrique Javier Vera Moreira",
+   "documento": "CI 2.543.551 (OCR)",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2025-04-08",
+   "vigencia": "ratificado 16/04/2026",
+   "fecha_dato": "2026-04-16",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Sergio Amado Pizurno Szarán",
+   "documento": "CI 740.326",
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2025-04-08",
+   "vigencia": "ratificado 16/04/2026",
+   "fecha_dato": "2026-04-16",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Alberto Caballero",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2026-04-16",
+   "vigencia": null,
+   "fecha_dato": "2026-04-16",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Acta de Asamblea.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "2010-04-23",
+   "evento": "constitucion",
+   "detalle": "Esc. N° 1 como Technoma S.A.C.I.",
+   "fuente": {
+    "archivo": "Escritura pública 87 16-05-2025 modificación de estatutos.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2021-11-05",
+   "evento": "transferencia_acciones",
+   "detalle": "Bruno Padovan Servín transfiere acciones (títulos 1-3) a Luis Fernando Ríos.",
+   "fuente": {
+    "archivo": "Registro de Accionistas.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2022-12-28",
+   "evento": "modificacion_estatutos",
+   "detalle": "Asamblea Extraordinaria (L. F. Ríos y Miguel Almada por Bruno Padovan Servín): conversión a SAECA y capital Gs. 20.000 M (20.000 acciones; OVM, OVS y preferidas). Esc. N° 35 del 27/06/2023.",
+   "fuente": {
+    "archivo": "Escritura 35 27-06-2023 modificación de estatutos sociales.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2025-01-28",
+   "evento": "modificacion_estatutos",
+   "detalle": "Asamblea Extraordinaria N° 12: ampliación de objeto (servicios de confianza); Esc. N° 87 del 16/05/2025.",
+   "fuente": {
+    "archivo": "Escritura pública 87 16-05-2025 modificación de estatutos.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "fecha": "2025-06-03",
+   "evento": "transferencia_acciones",
+   "detalle": "L. F. Ríos vende ordinarias a Enrique Vera y Sergio Pizurno y 1.000 OVM + 9.350 preferidas a la propia Technoma (cartera).",
+   "fuente": {
+    "archivo": "Registro de Accionistas.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-04-16",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea Ordinaria N° 14: ratifica directorio Vera/Pizurno, síndico Alberto Caballero; utilidad 2025 Gs. 41.643 M.",
+   "fuente": {
+    "archivo": "Acta de Asamblea.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "Miguel Almada (Miguel Angel Almada Frutos)",
+   "tipo": "mencion_en_documento",
+   "detalle": "Representó a Luis Fernando Ríos (2025) y a Bruno Padovan Servín (2022) en asambleas; síndico/director en V Media, AIME, Intertours.",
+   "fuente": {
+    "archivo": "Escritura pública 87 16-05-2025 modificación de estatutos.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "entidad_o_persona": "Torres del Paseo La Galería Torre 3 (Avda. Santa Teresa 1827)",
+   "tipo": "mismo_domicilio",
+   "detalle": "Sede en Torre 3 Piso 10 (ITTI y otras en Torre 3 Piso 11).",
+   "fuente": {
+    "archivo": "Acta de Asamblea.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Oniria S.A.",
+   "tipo": "mismo_domicilio",
+   "detalle": "Domicilio anterior (2022) Avda. Gral. Santos 1030, Complejo Textilia, igual al de Oniria S.A.",
+   "fuente": {
+    "archivo": "Escritura 35 27-06-2023 modificación de estatutos sociales.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "María Teresa López de Aponte (Registro 637)",
+   "tipo": "otro",
+   "detalle": "Misma escribana que ITTI y V Media.",
+   "fuente": {
+    "archivo": "Escritura pública 87 16-05-2025 modificación de estatutos.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "CONTABILIDAD@TECHNOMA.COM.PY",
+   "telefono": null,
+   "fecha": "2026-05-20",
+   "fuente": {
+    "archivo": "Constancia RA Siara.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "correos_dominios": [
+  "technoma.com.py"
+ ],
+ "documentos": [
+  {
+   "archivo": "Acta de Asamblea.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-04-16",
+   "paginas": 3,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Asamblea Ordinaria N° 14: Vera 4.665, Pizurno 4.335 ordinarias; 10.350 en cartera; directorio y síndico; utilidades."
+  },
+  {
+   "archivo": "Constancia RA Siara.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-06-25",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 5428 (presentada 20/05/2026)."
+  },
+  {
+   "archivo": "Escritura 35 27-06-2023 modificación de estatutos sociales.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2023-06-27",
+   "paginas": 45,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Esc. N° 35: modificación total de estatutos, conversión a SAECA, capital Gs. 20.000 M."
+  },
+  {
+   "archivo": "Escritura pública 87 16-05-2025 modificación de estatutos.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2025-05-16",
+   "paginas": 14,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Esc. N° 87: amplía objeto (servicios de confianza); cómputo de accionistas 28/01/2025."
+  },
+  {
+   "archivo": "Registro de Accionistas.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-05-20",
+   "paginas": 3,
+   "legibilidad": "texto",
+   "resumen": "Registro folios 351-353: 29 títulos; Vera, Pizurno, Technoma (cartera), Servín. Firmado digitalmente por E. J. Vera Moreira."
+  }
+ ],
+ "observaciones": [
+  "No se remitió constancia BF ni la constancia RA detallada (socios/autoridades).",
+  "No se hallaron vínculos accionarios directos con Ueno/ITTI/Grupo Vázquez; los vínculos son domicilio (Torres del Paseo) y Miguel Almada como representante de accionistas.",
+  "Technoma posee el 51,75% de sus propias acciones (cartera) tras comprarlas a L. F. Ríos el 03/06/2025.",
+  "El registro escribe 'Pizurno' y 'Pizzurno'; la transferencia de 2 acciones a Enrique Vera (título 24) no tiene fecha.",
+  "CI de Enrique Vera Moreira leído por OCR como 12.543.551 (dudoso)."
+ ]
+}

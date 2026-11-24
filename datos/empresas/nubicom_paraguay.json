@@ -1,0 +1,73 @@
+{
+  "id": "nubicom_paraguay",
+  "razon_social": "NUBICOM PARAGUAY S.A.",
+  "ruc": "80155014-9",
+  "tipo": "S.A.",
+  "carpeta_mef": "Nubicom Paraguay S.A",
+  "denominaciones_anteriores": [
+    {"nombre": "BIOPULP SOCIEDAD ANÓNIMA (BIOPULP S.A.)", "hasta": "2025-09-24", "fuente": {"archivo": "Escritura Públcia N° 83.pdf", "pagina": 1}}
+  ],
+  "constitucion": {
+    "fecha": "2025-01-15",
+    "escritura": "N° 42",
+    "escribano": "Luis Enrique Peroni Giralt (Registro N° 528)",
+    "inscripcion_registro_publico": "DGRP Sección Personas Jurídicas y Comercio, Matrícula Jurídica N° 2221, Serie SUACE, N° 1, folio 1 y sgtes., 28-02-2025",
+    "fuente": {"archivo": "Escritura Pública N° 42.pdf", "pagina": 1},
+    "confianza": "alta"
+  },
+  "domicilio": [
+    {"direccion": "Avda. Aviadores del Chaco, World Trade Center 2050, Torre 2, Piso 19 B, Asunción", "fecha_dato": "2026-06-27", "fuente": {"archivo": "Libro de Registro de Accionistas.pdf", "pagina": 1}},
+    {"direccion": "Calle Papa Juan XXIII esq. Juan Max Boettner, Edificio Park Plaza, Asunción (lugar de asamblea 13-09-2025)", "fecha_dato": "2025-09-13", "fuente": {"archivo": "Escritura Públcia N° 83.pdf", "pagina": 2}},
+    {"direccion": "Asunción (domicilio estatutario); fundadores domiciliados en Torres del Paseo, Torre 1 piso 25, Avda. Santa Teresa 2106", "fecha_dato": "2025-01-15", "fuente": {"archivo": "Escritura Pública N° 42.pdf", "pagina": 1}}
+  ],
+  "objeto_social": "Desde 2025-09: servicios de telecomunicaciones (telefonía móvil, acceso a Internet y transmisión de datos con licencias de espectro de CONATEL), más actividades conexas, comerciales, bancarias, fiduciarias y de inversión. Originalmente (Biopulp) objeto genérico: representación, leasing, factoring, comercio, industria, construcción, inmobiliaria, etc.",
+  "actividad_principal": "telecomunicaciones (telefonía móvil / Internet)",
+  "plazo_duracion": "99 años desde la inscripción",
+  "capital": [
+    {"tipo": "social", "monto": 162800000000, "moneda": "PYG", "valor_nominal_accion": 100000000, "cantidad_acciones": 1628, "fecha_dato": "2025-09-24", "fuente": {"archivo": "Escritura Públcia N° 83.pdf", "pagina": 6}, "notas": "Aumento desde Gs. 3.000.000; clase A = 70% y clase B = 30% del capital."},
+    {"tipo": "integrado", "monto": 14800000000, "moneda": "PYG", "valor_nominal_accion": 100000000, "cantidad_acciones": 148, "fecha_dato": "2026-06-27", "fuente": {"archivo": "Libro de Registro de Accionistas.pdf", "pagina": 1}, "notas": "Suma de acciones registradas (104 A + 44 B), cálculo propio; integradas según Acta de Directorio 12 BIS."}
+  ],
+  "accionistas": [
+    {"nombre": "NUBICOM S.R.L.", "tipo_persona": "juridica", "documento": null, "nacionalidad": null, "acciones": 147, "clase_acciones": "104 clase A + 43 clase B", "votos": null, "porcentaje": 99.32, "porcentaje_calculado": true, "fecha_dato": "2026-06-27", "vigente": true, "fuente": {"archivo": "Libro de Registro de Accionistas.pdf", "pagina": 1}, "confianza": "media", "notas": "Acciones de Gs. 100 millones fechadas 24-09-2025. Representada por Emanuel Eduardo Salinas en 2025. Sin RUC ni país en los documentos."},
+    {"nombre": "EMANUEL EDUARDO SALINAS", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 1, "clase_acciones": "clase B (OVS)", "votos": null, "porcentaje": 0.68, "porcentaje_calculado": true, "fecha_dato": "2026-06-27", "vigente": true, "fuente": {"archivo": "Libro de Registro de Accionistas.pdf", "pagina": 1}, "confianza": "media", "notas": "El Acta 4 (19-06-2026) le asigna 0,06%, inconsistente con 1/148."},
+    {"nombre": "EMANUEL EDUARDO SALINAS", "tipo_persona": "fisica", "documento": null, "nacionalidad": null, "acciones": 1, "clase_acciones": "ordinaria (Gs. 100.000 total según acta)", "votos": null, "porcentaje": 50.0, "porcentaje_calculado": false, "fecha_dato": "2025-09-13", "vigente": false, "fuente": {"archivo": "Escritura Públcia N° 83.pdf", "pagina": 2}, "confianza": "alta", "notas": "Cómputo de la Asamblea Extraordinaria N° 2 de Biopulp S.A."},
+    {"nombre": "NUBICOM S.R.L.", "tipo_persona": "juridica", "documento": null, "nacionalidad": null, "acciones": 1, "clase_acciones": "ordinaria", "votos": null, "porcentaje": 50.0, "porcentaje_calculado": false, "fecha_dato": "2025-09-13", "vigente": false, "fuente": {"archivo": "Escritura Públcia N° 83.pdf", "pagina": 2}, "confianza": "alta", "notas": "Representada por Emanuel Eduardo Salinas (carta poder)."}
+  ],
+  "autoridades": [
+    {"nombre": "MARCO GALANTI", "documento": null, "cargo": "Presidente", "fecha_asuncion": "2026-06-19", "vigencia": null, "fecha_dato": "2026-06-19", "vigente": true, "fuente": {"archivo": "Acta de Asamblea Ordinaria.pdf", "pagina": 1}, "confianza": "media"},
+    {"nombre": "PAUL GASTÓN", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2026-06-19", "vigencia": null, "fecha_dato": "2026-06-19", "vigente": true, "fuente": {"archivo": "Acta de Asamblea Ordinaria.pdf", "pagina": 1}, "confianza": "media"},
+    {"nombre": "GILBERTO RAMOS AMARILLA", "documento": null, "cargo": "Director", "fecha_asuncion": "2026-06-19", "vigencia": null, "fecha_dato": "2026-06-19", "vigente": true, "fuente": {"archivo": "Acta de Asamblea Ordinaria.pdf", "pagina": 1}, "confianza": "media"},
+    {"nombre": "CARLOS DÍAZ", "documento": null, "cargo": "Síndico", "fecha_asuncion": "2026-06-19", "vigencia": null, "fecha_dato": "2026-06-19", "vigente": true, "fuente": {"archivo": "Acta de Asamblea Ordinaria.pdf", "pagina": 1}, "confianza": "media"},
+    {"nombre": "GUILLERMO VÁZQUEZ MUNIAGURRIA", "documento": "CI 3.799.529", "cargo": "Presidente", "fecha_asuncion": "2025-09-13", "vigencia": "Acta AGO N° 1 del 13-09-2025", "fecha_dato": "2026-06-19", "vigente": false, "fuente": {"archivo": "Escritura Públcia N° 83.pdf", "pagina": 1}, "confianza": "alta", "notas": "Presidió la Asamblea N° 4 del 19-06-2026 como presidente saliente."},
+    {"nombre": "BERNARDO ALGORTA", "documento": "CI 7.375.741 (de otros documentos)", "cargo": "Secretario de asamblea", "fecha_asuncion": "2026-06-19", "vigencia": null, "fecha_dato": "2026-06-19", "vigente": false, "fuente": {"archivo": "Acta de Asamblea Ordinaria.pdf", "pagina": 1}, "confianza": "media"},
+    {"nombre": "MIGUEL ALMADA", "documento": null, "cargo": "Secretario de asamblea (Asamblea Extraordinaria N° 2)", "fecha_asuncion": "2025-09-13", "vigencia": null, "fecha_dato": "2025-09-13", "vigente": false, "fuente": {"archivo": "Escritura Públcia N° 83.pdf", "pagina": 3}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2025-01-15", "evento": "constitucion", "detalle": "Constitución de BIOPULP S.A. (Esc. 42, Esc. Luis Enrique Peroni Giralt) por los abogados Verónica Franco López Moreira (CI 2.201.273) y Carlos Lorenzo Codas Zavala (CI 1.541.810), domiciliados en Torres del Paseo.", "fuente": {"archivo": "Escritura Pública N° 42.pdf", "pagina": 1}},
+    {"fecha": "2025-09-13", "evento": "cambio_directorio", "detalle": "AGO N° 1: Guillermo Vázquez Muniagurria presidente. Accionistas en ese momento: Emanuel Eduardo Salinas 50% y Nubicom S.R.L. 50%.", "fuente": {"archivo": "Escritura Públcia N° 83.pdf", "pagina": "1-2"}},
+    {"fecha": "2025-09-24", "evento": "cambio_denominacion", "detalle": "Esc. 83 (Esc. María Teresa López de Aponte, Reg. 637): pasa a NUBICOM PARAGUAY S.A., amplía objeto a telecomunicaciones y aumenta capital de Gs. 3 millones a Gs. 162.800 millones (1628 acciones A/B).", "fuente": {"archivo": "Escritura Públcia N° 83.pdf", "pagina": "1-6"}},
+    {"fecha": "2026-06-19", "evento": "cambio_directorio", "detalle": "Asamblea General Ordinaria N° 4 (2ª convocatoria): directorio Galanti / Gastón / Ramos; síndico Díaz.", "fuente": {"archivo": "Acta de Asamblea Ordinaria.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "GUILLERMO VÁZQUEZ MUNIAGURRIA (CI 3.799.529)", "tipo": "director_comun", "detalle": "Presidente 2025-2026; vicepresidente y accionista de Grupo Vázquez S.A.E.; gerente de Comdetur.", "fuente": {"archivo": "Escritura Públcia N° 83.pdf", "pagina": 1}},
+    {"entidad_o_persona": "BERNARDO ALGORTA / MIGUEL ALMADA", "tipo": "director_comun", "detalle": "Directivos del grupo Vázquez/ITTI que actúan como secretarios de asamblea.", "fuente": {"archivo": "Acta de Asamblea Ordinaria.pdf", "pagina": 1}},
+    {"entidad_o_persona": "a.pardo08@hotmail.com (Alan Gabriel Campos Pardo)", "tipo": "mismo_correo_dominio", "detalle": "Mismo correo SIARA que Grupo Hendy S.A.", "fuente": {"archivo": "Constancia de RA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "MARÍA TERESA LÓPEZ DE APONTE / LUIS ENRIQUE PERONI GIRALT", "tipo": "otro", "detalle": "Escribanos recurrentes del grupo (Peroni también constituyó Kaitel).", "fuente": {"archivo": "Escritura Pública N° 42.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [],
+  "correos_dominios": ["hotmail.com (A.PARDO08@HOTMAIL.COM)"],
+  "documentos": [
+    {"archivo": "Constancia de RA.pdf", "tipo": "constancia_RA", "fecha": "2026-09-10", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia RA N° 26943 (actualización anual): solo cabecera."},
+    {"archivo": "Libro de Registro de Accionistas.pdf", "tipo": "registro_accionistas", "fecha": "2026-06-27", "paginas": null, "legibilidad": "escaneado", "resumen": "Folio 05: Nubicom S.R.L. 104 A + 43 B; Emanuel Salinas 1 B."},
+    {"archivo": "Acta de Asamblea Ordinaria.pdf", "tipo": "acta_asamblea", "fecha": "2026-06-19", "paginas": null, "legibilidad": "escaneado", "resumen": "Acta N° 4: elección de directorio; firmada digitalmente por Gilberto Ramos Amarilla."},
+    {"archivo": "Escritura Pública N° 42.pdf", "tipo": "escritura", "fecha": "2025-01-15", "paginas": 22, "legibilidad": "escaneado", "resumen": "Constitución de Biopulp S.A. (leídas págs. 1-2)."},
+    {"archivo": "Escritura Públcia N° 83.pdf", "tipo": "escritura", "fecha": "2025-09-24", "paginas": 26, "legibilidad": "escaneado", "resumen": "Transcripción de actas, cambio de denominación y aumento de capital (leídas págs. 1-6)."}
+  ],
+  "observaciones": [
+    "Sin constancia de BF. El controlante es Nubicom S.R.L. (sin RUC, país ni socios identificados en la carpeta); no consta quién es su dueño.",
+    "Contradicción: el Acta 4 asigna a Salinas 0,06% mientras 1/148 acciones = 0,68%; y solo 148 de las 1628 acciones del capital estatutario figuran en el registro.",
+    "Personas sin CI en los documentos leídos: Marco Galanti, Paul Gastón, Gilberto Ramos Amarilla, Carlos Díaz, Emanuel Eduardo Salinas.",
+    "Fundadores de Biopulp (abogados domiciliados en Torres del Paseo) sugieren sociedad 'de estante' del entorno Vázquez, luego usada para Nubicom (inferencia)."
+  ]
+}

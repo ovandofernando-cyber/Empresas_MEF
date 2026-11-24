@@ -1,0 +1,321 @@
+{
+  "id": "factopar",
+  "razon_social": "FACTOPAR S.A.",
+  "ruc": "80098202-9",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "Factopar SA",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2017-05-24",
+    "escritura": "N° 208",
+    "escribano": "María Montserrat Gorostiaga de Elgue (Reg. 35)",
+    "inscripcion_registro_publico": "Personas Jurídicas Serie Comercial N° 01 folio 01, 07/06/2017; Registro Público de Comercio N° 01 folio 01-12, 07/06/2017; entrada DGRP 7946876",
+    "fuente": {
+      "archivo": "Constancia inscripción 2026/Constancia inscripción.pdf",
+      "pagina": 1
+    }
+  },
+  "domicilio": [
+    {
+      "direccion": "Quesada esq. Tte. Zotti",
+      "fecha_dato": "2025-05-01",
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Capitán Gonzalo de Mendoza N° 298 esq. Dr. Abente Haedo, Asunción (domicilio de los fundadores)",
+      "fecha_dato": "2017-05-24",
+      "fuente": {
+        "archivo": "Constancia inscripción 2026/Escritura constitución.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "objeto_social": "Asesoría financiera, consultoría económica, contable, impositiva y administrativa; además comercio, industria, agro, turismo, importación/exportación, operaciones bursátiles y financieras.",
+  "actividad_principal": "servicios financieros / consultoría (factoring según nombre)",
+  "plazo_duracion": null,
+  "capital": [
+    {
+      "tipo": "suscripto",
+      "monto": 300000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 30000000,
+      "cantidad_acciones": 10,
+      "fecha_dato": "2025-05-01",
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "integrado",
+      "monto": 300000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 30000000,
+      "cantidad_acciones": 10,
+      "fecha_dato": "2025-05-01",
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "accionistas": [
+    {
+      "nombre": "CARLOS DE COMINGES SAN MARTIN",
+      "tipo_persona": "fisica",
+      "documento": "CI 7.679.613 (RUC 7679613-2)",
+      "nacionalidad": "Española",
+      "acciones": 5,
+      "clase_acciones": "ordinarias",
+      "votos": 5,
+      "porcentaje": 50.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2025-05-01",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Español; fundador."
+    },
+    {
+      "nombre": "KEMLY AYESA YAMBAY VALLEJO",
+      "tipo_persona": "fisica",
+      "documento": "CI 3.407.698 (RUC 3407698-0)",
+      "nacionalidad": "Paraguaya",
+      "acciones": 5,
+      "clase_acciones": "ordinarias",
+      "votos": 5,
+      "porcentaje": 50.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2025-05-01",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Fundadora."
+    },
+    {
+      "nombre": "CARLOS DE COMINGES SAN MARTIN",
+      "tipo_persona": "fisica",
+      "documento": "CI 7.679.613",
+      "nacionalidad": null,
+      "acciones": 5,
+      "clase_acciones": "ordinarias",
+      "votos": 5,
+      "porcentaje": 50.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2017-05-24",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Constancia inscripción 2026/Escritura constitución.pdf",
+        "pagina": 13
+      },
+      "confianza": "media",
+      "notas": "Constitución (OCR)."
+    },
+    {
+      "nombre": "KEMLY AYESA YAMBAY VALLEJO",
+      "tipo_persona": "fisica",
+      "documento": "CI 3.407.698",
+      "nacionalidad": null,
+      "acciones": 5,
+      "clase_acciones": "ordinarias",
+      "votos": 5,
+      "porcentaje": 50.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2017-05-24",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Constancia inscripción 2026/Escritura constitución.pdf",
+        "pagina": 13
+      },
+      "confianza": "media",
+      "notas": "Constitución (OCR)."
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "CARLOS DE COMINGES SAN MARTÍN",
+      "documento": "CI 7679613",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2025-04-01",
+      "vigencia": "1 año",
+      "fecha_dato": "2025-05-01",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "KEMLY AYESA YAMBAY VALLEJO",
+      "documento": "CI 3407698",
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2025-04-01",
+      "vigencia": "1 año",
+      "fecha_dato": "2025-05-01",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CARLOS DE COMINGES SAN MARTIN",
+      "documento": "CI 7679613-2",
+      "cargo": "Representante legal",
+      "fecha_asuncion": null,
+      "vigencia": null,
+      "fecha_dato": "2025-05-01",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JOSE SEBASTIAN GONZALEZ OCAMPOS",
+      "documento": "CI 3.511.569",
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "2017-05-24",
+      "vigencia": "primer directorio",
+      "fecha_dato": "2017-05-24",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Constancia inscripción 2026/Escritura constitución.pdf",
+        "pagina": 13
+      },
+      "confianza": "media"
+    }
+  ],
+  "beneficiarios_finales": [
+    {
+      "nombre": "CARLOS DE COMINGES SAN MARTIN",
+      "documento": "CI 7679613 (RUC 7679613-2)",
+      "nacionalidad": "Española",
+      "domicilio": "Saravi 361",
+      "porcentaje": 50.0,
+      "tipo_control": "propiedad directa (A) - representante legal principal",
+      "cadena_control": null,
+      "fecha_dato": "2025-05-01",
+      "fuente": {
+        "archivo": "Constancia BF 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "KEMLY AYESA YAMBAY VALLEJO",
+      "documento": "CI 3407698 (RUC 3407698-0)",
+      "nacionalidad": "Paraguaya",
+      "domicilio": "Pacheco 5670",
+      "porcentaje": 50.0,
+      "tipo_control": "propiedad directa (A) - representante legal",
+      "cadena_control": null,
+      "fecha_dato": "2025-05-01",
+      "fuente": {
+        "archivo": "Constancia BF 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    }
+  ],
+  "historial": [
+    {
+      "fecha": "2017-05-24",
+      "evento": "constitucion",
+      "detalle": "Constitución (Esc. 208): 10 acciones de Gs. 30 millones, 5 por socio.",
+      "fuente": {
+        "archivo": "Constancia inscripción 2026/Escritura constitución.pdf",
+        "pagina": "1,13"
+      }
+    },
+    {
+      "fecha": "2026-05-27",
+      "evento": "otro",
+      "detalle": "Constancia de inscripción DGPEJBF (trámite 127241), inscripción fuera de plazo (Res. AT 6/17), solicitada por Guido Iván Flor Benítez.",
+      "fuente": {
+        "archivo": "Constancia inscripción 2026/Constancia inscripción.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "vinculos": [],
+  "declarantes_siara": [
+    {
+      "nombre": "ALICIA RAQUEL BRITEZ PEREIRA",
+      "documento": "CI 2.069.396",
+      "correo": "ALIBRITEZ@GMAIL.COM",
+      "telefono": "0981179401",
+      "fecha": "2025-05-01",
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "nombre": "GUIDO IVAN FLOR BENITEZ",
+      "documento": "CI 3.420.020",
+      "correo": "ESCRIBANIAFB@GMAIL.COM",
+      "telefono": "228.912",
+      "fecha": "2026-05-27",
+      "fuente": {
+        "archivo": "Constancia inscripción 2026/Constancia inscripción.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "correos_dominios": [
+    "factopar.com.py",
+    "gmail.com"
+  ],
+  "documentos": [
+    {
+      "archivo": "Constancia BF 2025 Simple.pdf",
+      "tipo": "constancia_BF",
+      "fecha": "2025-05-01",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Constancia BF N° 349516 (periodo 2024)."
+    },
+    {
+      "archivo": "Constancia RA 2025 Simple.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2025-05-01",
+      "paginas": 2,
+      "legibilidad": "texto",
+      "resumen": "Constancia RA N° 342196 (periodo 2024): socios y directorio."
+    },
+    {
+      "archivo": "Constancia inscripción 2026/Constancia inscripción.pdf",
+      "tipo": "otro",
+      "fecha": "2026-05-27",
+      "paginas": 2,
+      "legibilidad": "texto",
+      "resumen": "Constancia de inscripción de sociedad (constitución) ante DGPEJBF, fuera de plazo."
+    },
+    {
+      "archivo": "Constancia inscripción 2026/Escritura constitución.pdf",
+      "tipo": "escritura_constitucion",
+      "fecha": "2017-05-24",
+      "paginas": 17,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Constitución de Factopar S.A."
+    }
+  ],
+  "observaciones": [
+    "No se observan vínculos con Ueno / Grupo Vázquez en los documentos.",
+    "Constancias SIARA del periodo 2024 (emitidas 01/05/2025); no hay actualización 2025/2026.",
+    "Inscripción ante la Abogacía del Tesoro realizada en 2026, fuera de plazo."
+  ]
+}

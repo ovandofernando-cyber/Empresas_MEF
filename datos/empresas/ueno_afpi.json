@@ -1,0 +1,447 @@
+{
+  "id": "ueno_afpi",
+  "razon_social": "UENO ADMINISTRADORA DE FONDOS PATRIMONIALES DE INVERSION S.A.",
+  "ruc": "80127778-7",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "UENO ADMINISTRADORA DE FONDOS PATRIMONIALES DE INVERSION S.A",
+  "denominaciones_anteriores": [
+    {
+      "nombre": "INGANTA SOCIEDAD ANONIMA",
+      "hasta": "2023-11-21",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "constitucion": {
+    "fecha": "2022-07-07",
+    "escritura": "N° 97",
+    "escribano": "María Verónica Peroni",
+    "inscripcion_registro_publico": "DGRP Personas Jurídicas y Comercio, Matrícula Jurídica N° 38954, Serie Comercial, N° 1, folio 1, 29/07/2022",
+    "fuente": {
+      "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+      "pagina": 1
+    }
+  },
+  "domicilio": [
+    {
+      "direccion": "Avenida Santa Teresa (SIARA)",
+      "fecha_dato": "2026-05-28",
+      "fuente": {
+        "archivo": "CONSTANCIA RA 4379.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Avda. Santa Teresa entre Herminio Maldonado y Aviadores del Chaco, Torres del Paseo, Torre 1, Piso 1, Asunción (local social)",
+      "fecha_dato": "2026-02-06",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "objeto_social": "Administración exclusiva de fondos patrimoniales de inversión (mutuos y de inversión) por cuenta y riesgo de los partícipes; supervisada por la Superintendencia de Valores del BCP.",
+  "actividad_principal": "mercado de valores / administración de fondos",
+  "plazo_duracion": "99 años",
+  "capital": [
+    {
+      "tipo": "social",
+      "monto": 10000000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 10000,
+      "fecha_dato": "2023-09-11",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+        "pagina": 4
+      }
+    },
+    {
+      "tipo": "suscripto",
+      "monto": 3788000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 1000000,
+      "cantidad_acciones": 3788,
+      "fecha_dato": "2026-02-06",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "accionistas": [
+    {
+      "nombre": "UENO CASA DE BOLSA S.A.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80124419-6",
+      "nacionalidad": null,
+      "acciones": 3787,
+      "clase_acciones": "OVS",
+      "votos": 3787,
+      "porcentaje": 99.9736,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-02-06",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Suma de 7 líneas (9+799+2701+128+13+37+100). Representada por Leonardo Alfonzo. Registro: varias acciones transferidas por Ueno Bank (08/07/2024) y por Grupo Vázquez (30/06/2025)."
+    },
+    {
+      "nombre": "GRUPO VAZQUEZ S.A.E.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80086759-9 (de otras constancias)",
+      "nacionalidad": null,
+      "acciones": 1,
+      "clase_acciones": "OVS",
+      "votos": 1,
+      "porcentaje": 0.0264,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-02-06",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Acción N° 10. Domicilio: Torres del Paseo, Torre 2, Piso 25. Representada por Bernardo Algorta. Registro: transferida de Sergio Pizurno a Ueno Bank (31/05/2024) y de Ueno Bank a Grupo Vázquez (08/07/2024)."
+    },
+    {
+      "nombre": "UENO CASA DE BOLSA S.A.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80124419-6",
+      "nacionalidad": null,
+      "acciones": 9,
+      "clase_acciones": "OVS",
+      "votos": 9,
+      "porcentaje": 90.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2023-09-11",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta",
+      "notas": "Asamblea extraordinaria N° 3 (Inganta S.A.)."
+    },
+    {
+      "nombre": "SERGIO PIZURNO",
+      "tipo_persona": "fisica",
+      "documento": "CI 740.326",
+      "nacionalidad": null,
+      "acciones": 1,
+      "clase_acciones": "OVS",
+      "votos": 1,
+      "porcentaje": 10.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2023-09-11",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta",
+      "notas": "Acción N° 10; luego transferida a Ueno Bank (31/05/2024)."
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "EDUARDO JAVIER GROSS BROWN COSTA",
+      "documento": null,
+      "cargo": "Presidente",
+      "fecha_asuncion": "2026-02-06",
+      "vigencia": null,
+      "fecha_dato": "2026-02-06",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CARLOS FRANCISCO IMPAGLIATELLI BAREIRO",
+      "documento": null,
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2026-02-06",
+      "vigencia": null,
+      "fecha_dato": "2026-02-06",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "CAROLINA GALEANO DE BESTARD",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2026-02-06",
+      "vigencia": null,
+      "fecha_dato": "2026-02-06",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LEONARDO RAFAEL ALFONZO SEGOVIA",
+      "documento": null,
+      "cargo": "Director suplente",
+      "fecha_asuncion": "2026-02-06",
+      "vigencia": null,
+      "fecha_dato": "2026-02-06",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "RICARDO FERNÁNDEZ",
+      "documento": null,
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "2026-02-06",
+      "vigencia": null,
+      "fecha_dato": "2026-02-06",
+      "vigente": true,
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "LIZ RAQUEL VAZQUEZ BENITEZ",
+      "documento": "CI 1.050.627",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2023-09-11",
+      "vigencia": "Acta AGO N° 4",
+      "fecha_dato": "2023-11-21",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "OSCAR LUIS URDAPILLETA GARCIA",
+      "documento": "CI 1.495.964",
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2023-09-11",
+      "vigencia": "Acta AGO N° 4",
+      "fecha_dato": "2023-11-21",
+      "vigente": false,
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    }
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {
+      "fecha": "2022-07-07",
+      "evento": "constitucion",
+      "detalle": "Constituida como Inganta S.A. (Esc. 97, M. V. Peroni).",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2023-09-11",
+      "evento": "modificacion_estatutos",
+      "detalle": "Asamblea extraordinaria N° 3 (Ueno Casa de Bolsa 9 acc., Sergio Pizurno 1 acc.; presidida por Raquel Vázquez): reforma total y cambio de denominación a Ueno AFPISA; capital Gs. 10.000 millones. Escritura 138 del 21/11/2023 (López de Aponte).",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+        "pagina": "1-4"
+      }
+    },
+    {
+      "fecha": "2024-05-31",
+      "evento": "aumento_capital",
+      "detalle": "Suscripciones de Ueno Casa de Bolsa (799 y 2.701 acciones); 128 acciones el 27/06/2024; transferencia Sergio Pizurno → Ueno Bank.",
+      "fuente": {
+        "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "fecha": "2024-07-08",
+      "evento": "transferencia_acciones",
+      "detalle": "Ueno Bank transfiere acciones a Grupo Vázquez y a Ueno Casa de Bolsa.",
+      "fuente": {
+        "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "fecha": "2025-06-30",
+      "evento": "transferencia_acciones",
+      "detalle": "Grupo Vázquez transfiere acciones a Ueno Casa de Bolsa; suscripciones 27/06/2025 (13, 37, 100 acciones).",
+      "fuente": {
+        "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "fecha": "2026-02-06",
+      "evento": "cambio_directorio",
+      "detalle": "Asamblea Ordinaria N° 8 (continuación de la del 09/01/2026): nuevo directorio presidido por Eduardo Gross Brown Costa.",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "vinculos": [
+    {
+      "entidad_o_persona": "UENO CASA DE BOLSA S.A. (RUC 80124419-6)",
+      "tipo": "accionista_de",
+      "detalle": "Controlante (99,97%).",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "GRUPO VAZQUEZ S.A.E.",
+      "tipo": "accionista_de",
+      "detalle": "1 acción (0,03%).",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "UENO BANK S.A.",
+      "tipo": "mencion_en_documento",
+      "detalle": "Ex accionista transitorio (2024).",
+      "fuente": {
+        "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "entidad_o_persona": "BERNARDO ALGORTA",
+      "tipo": "otro",
+      "detalle": "Representante de Grupo Vázquez S.A.E.",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "EDUARDO JAVIER GROSS BROWN COSTA",
+      "tipo": "director_comun",
+      "detalle": "Presidente; vicepresidente de Ueno Seguros.",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "CAROLINA GALEANO DE BESTARD",
+      "tipo": "director_comun",
+      "detalle": "Directora; también directora de Ueno Seguros.",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "LIZ RAQUEL VAZQUEZ BENITEZ",
+      "tipo": "otro",
+      "detalle": "Presidenta en 2023 (apellido Vázquez).",
+      "fuente": {
+        "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "uenocasadebolsa.com.py",
+      "tipo": "mismo_correo_dominio",
+      "detalle": "Correo SIARA de Ueno Casa de Bolsa.",
+      "fuente": {
+        "archivo": "CONSTANCIA RA 4379.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "Torres del Paseo, Avda. Santa Teresa",
+      "tipo": "mismo_domicilio",
+      "detalle": "Sede compartida con el grupo Ueno.",
+      "fuente": {
+        "archivo": "ACTA ORDINARIA NRO 8.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "declarantes_siara": [
+    {
+      "nombre": null,
+      "documento": null,
+      "correo": "SECRETARIAGENERAL@UENOCASADEBOLSA.COM.PY",
+      "telefono": null,
+      "fecha": "2026-05-28",
+      "fuente": {
+        "archivo": "CONSTANCIA RA 4379.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "correos_dominios": [
+    "uenocasadebolsa.com.py"
+  ],
+  "documentos": [
+    {
+      "archivo": "CONSTANCIA RA 4379.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2026-07-31",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Constancia RA N° 10762, actualización anual 28/05/2026."
+    },
+    {
+      "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+      "tipo": "registro_accionistas",
+      "fecha": "2026-05-27",
+      "paginas": 2,
+      "legibilidad": "manuscrito",
+      "resumen": "Registro de accionistas folios 11-12 (manuscrito), 3.788 acciones."
+    },
+    {
+      "archivo": "ACTA ORDINARIA NRO 8.pdf",
+      "tipo": "acta_asamblea",
+      "fecha": "2026-02-06",
+      "paginas": 1,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Acta AGO N° 8: composición accionaria y directorio."
+    },
+    {
+      "archivo": "ESCRITURA MODIFICACION NRO 138.pdf",
+      "tipo": "escritura_modificacion",
+      "fecha": "2023-11-21",
+      "paginas": 32,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Reforma total de estatutos y cambio de denominación de Inganta S.A.; leídas pp. 1-4 y 25-28."
+    }
+  ],
+  "observaciones": [
+    "Sin constancia BF; la constancia RA no detalla socios ni autoridades.",
+    "Nombre de archivo 'CONSTANCIA RA 4379' no coincide con el N° de constancia (10762).",
+    "Registro manuscrito: las transferencias Ueno Bank ↔ Grupo Vázquez ↔ Ueno Casa de Bolsa son leídas de anotaciones a mano (confianza media en fechas)."
+  ]
+}

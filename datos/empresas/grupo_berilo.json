@@ -1,0 +1,564 @@
+{
+  "id": "grupo_berilo",
+  "razon_social": "GRUPO BERILO SOCIEDAD ANONIMA",
+  "ruc": "80109437-2",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "Grupo Berilo SA",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": "2019-08-17",
+    "escritura": "N° 36",
+    "escribano": "Gladis Lourdes Villalba de Coronel (Reg. 577)",
+    "inscripcion_registro_publico": "Personas Jurídicas Matrícula N° 22371 y Comercio Matrícula N° 22597, Serie Comercial, N° 001, folio 001-014, 30/09/2019 (OCR)",
+    "fuente": {
+      "archivo": "Escritura Pública N° 36.pdf",
+      "pagina": "1,17"
+    }
+  },
+  "domicilio": [
+    {
+      "direccion": "Avda. Santa Teresa (SIARA)",
+      "fecha_dato": "2026-07-23",
+      "fuente": {
+        "archivo": "Constancia de RA.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "Avda. Santa Teresa c/ Aviadores del Chaco, Paseo Galería, Torre 3, Piso 10, Asunción (local social)",
+      "fecha_dato": "2026-04-27",
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "direccion": "José Gómez Brizuela c/ Tte. 2do. Alvarenga, Barrio Santísima Trinidad, Asunción (local social 2021)",
+      "fecha_dato": "2021-11-16",
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": "17-18"
+      }
+    }
+  ],
+  "objeto_social": "Actividades inmobiliarias y comerciales en general; construcción, hotelería y gastronomía, turismo, importación/exportación, agropecuaria, ganadería, forestal, consultoría, transporte, arrendamientos, operaciones bancarias, etc.",
+  "actividad_principal": "inmobiliaria",
+  "plazo_duracion": "99 años",
+  "capital": [
+    {
+      "tipo": "social",
+      "monto": 3500000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 500000,
+      "cantidad_acciones": 7000,
+      "fecha_dato": "2026-04-27",
+      "fuente": {
+        "archivo": "Libro de Registro de Accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "integrado",
+      "monto": 3500000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 500000,
+      "cantidad_acciones": 7000,
+      "fecha_dato": "2026-04-27",
+      "fuente": {
+        "archivo": "Libro de Registro de Accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "tipo": "social",
+      "monto": 500000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 500000,
+      "cantidad_acciones": 1000,
+      "fecha_dato": "2019-08-17",
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 5
+      }
+    },
+    {
+      "tipo": "integrado",
+      "monto": 10000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 500000,
+      "cantidad_acciones": 20,
+      "fecha_dato": "2019-08-17",
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": "9-10"
+      }
+    }
+  ],
+  "accionistas": [
+    {
+      "nombre": "13 DE AGOSTO S.A.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80116493-1",
+      "nacionalidad": null,
+      "acciones": 3570,
+      "clase_acciones": "nominativas",
+      "votos": 3570,
+      "porcentaje": 51.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2026-04-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Libro de Registro de Accionistas.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Suscripciones 07/10/2025 y 14/10/2025. Representada por Mathias Manuel Rivarola Martínez (CI 4.987.687). Domicilio Avda. Santa Teresa c/ Aviadores del Chaco."
+    },
+    {
+      "nombre": "SUNLIT S.A.",
+      "tipo_persona": "juridica",
+      "documento": "RUC 80110838-1",
+      "nacionalidad": null,
+      "acciones": 3427,
+      "clase_acciones": "nominativas",
+      "votos": 3427,
+      "porcentaje": 48.96,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2026-04-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Libro de Registro de Accionistas.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Suscripciones 10/03/2020 y 04/08/2022. Representada por Diego Mario Peña (2026) y por Ricardo Javier Ripoll Ruiz, presidente de Sunlit (2021). Domicilio José Gómez Brizuela c/ Tte. 2do. Alvarenga."
+    },
+    {
+      "nombre": "VÍCTOR ANDRÉS BOGARÍN OCAMPOS",
+      "tipo_persona": "fisica",
+      "documento": "CI 1.996.698 (OCR, dudoso)",
+      "nacionalidad": null,
+      "acciones": 3,
+      "clase_acciones": "nominativas",
+      "votos": 3,
+      "porcentaje": 0.0429,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-04-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Libro de Registro de Accionistas.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta",
+      "notas": "Socio fundador."
+    },
+    {
+      "nombre": "SUNLIT S.A.",
+      "tipo_persona": "juridica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 7,
+      "clase_acciones": "nominativas",
+      "votos": 7,
+      "porcentaje": 35.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2021-06-28",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": "18-19"
+      },
+      "confianza": "media",
+      "notas": "Asambleas del 28/06/2021 (capital 20 acciones)."
+    },
+    {
+      "nombre": "CRISTIAN MARCOS TIGERO",
+      "tipo_persona": "fisica",
+      "documento": "DNI argentino 27.108.900",
+      "nacionalidad": null,
+      "acciones": 7,
+      "clase_acciones": "nominativas",
+      "votos": 7,
+      "porcentaje": 35.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2021-06-28",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 19
+      },
+      "confianza": "media",
+      "notas": "Fundador; argentino, domicilio Villa María (Argentina)."
+    },
+    {
+      "nombre": "VICTOR ANDRES BOGARIN OCAMPOS",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 3,
+      "clase_acciones": "nominativas",
+      "votos": 3,
+      "porcentaje": 15.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2021-06-28",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 19
+      },
+      "confianza": "media",
+      "notas": ""
+    },
+    {
+      "nombre": "ARIEL FERNANDO ELIZECHE ESCOBAR",
+      "tipo_persona": "fisica",
+      "documento": "CI 3.213.616",
+      "nacionalidad": null,
+      "acciones": 3,
+      "clase_acciones": "nominativas",
+      "votos": 3,
+      "porcentaje": 15.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2021-06-28",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 19
+      },
+      "confianza": "media",
+      "notas": "Fundador."
+    },
+    {
+      "nombre": "DIEGO MARIO PEÑA",
+      "tipo_persona": "fisica",
+      "documento": "DNI argentino 23.598.940",
+      "nacionalidad": null,
+      "acciones": 7,
+      "clase_acciones": "nominativas",
+      "votos": 7,
+      "porcentaje": 35.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2019-08-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 10
+      },
+      "confianza": "media",
+      "notas": "Fundador (arquitecto argentino); en 2021 ya no figura como accionista sino como presidente."
+    },
+    {
+      "nombre": "CRISTIAN MARCOS TIGERO",
+      "tipo_persona": "fisica",
+      "documento": "DNI 27.108.900",
+      "nacionalidad": null,
+      "acciones": 7,
+      "clase_acciones": "nominativas",
+      "votos": 7,
+      "porcentaje": 35.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2019-08-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 10
+      },
+      "confianza": "media",
+      "notas": ""
+    },
+    {
+      "nombre": "VICTOR ANDRES BOGARIN OCAMPOS",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 3,
+      "clase_acciones": "nominativas",
+      "votos": 3,
+      "porcentaje": 15.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2019-08-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 10
+      },
+      "confianza": "media",
+      "notas": ""
+    },
+    {
+      "nombre": "ARIEL FERNANDO ELIZECHE ESCOBAR",
+      "tipo_persona": "fisica",
+      "documento": "CI 3.213.616",
+      "nacionalidad": null,
+      "acciones": 3,
+      "clase_acciones": "nominativas",
+      "votos": 3,
+      "porcentaje": 15.0,
+      "porcentaje_calculado": false,
+      "fecha_dato": "2019-08-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 10
+      },
+      "confianza": "media",
+      "notas": ""
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "MATHIAS MANUEL RIVAROLA MARTÍNEZ",
+      "documento": "CI 4.987.687",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2026-04-27",
+      "vigencia": null,
+      "fecha_dato": "2026-04-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "DANIEL ESTEBAN BALGUREVICH",
+      "documento": null,
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2026-04-27",
+      "vigencia": null,
+      "fecha_dato": "2026-04-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "PAOLA ALEJANDRA PAATS DUARTE",
+      "documento": null,
+      "cargo": "Director suplente",
+      "fecha_asuncion": "2026-04-27",
+      "vigencia": null,
+      "fecha_dato": "2026-04-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "MARÍA DE LA PAZ DELGADILLO",
+      "documento": null,
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "2026-04-27",
+      "vigencia": null,
+      "fecha_dato": "2026-04-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 2
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "DIEGO MARIO PEÑA",
+      "documento": "CI 3.767.321 (acta 2026); OCR 2021: 8.608.278",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2020-01-30",
+      "vigencia": "Acta AGO N° 01",
+      "fecha_dato": "2021-11-16",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 17
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "RAZIEL ANDRÉS BUSTO DOMANICZKY",
+      "documento": "CI 3.384.752",
+      "cargo": "Síndico titular",
+      "fecha_asuncion": "2019-08-17",
+      "vigencia": null,
+      "fecha_dato": "2021-06-28",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": "10,18"
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "VICTOR ANDRES BOGARIN OCAMPOS",
+      "documento": null,
+      "cargo": "Director titular",
+      "fecha_asuncion": "2019-08-17",
+      "vigencia": "primer directorio",
+      "fecha_dato": "2019-08-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 10
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "ARIEL FERNANDO ELIZECHE ESCOBAR",
+      "documento": null,
+      "cargo": "Vice director titular",
+      "fecha_asuncion": "2019-08-17",
+      "vigencia": "primer directorio",
+      "fecha_dato": "2019-08-17",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 10
+      },
+      "confianza": "media"
+    }
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {
+      "fecha": "2019-08-17",
+      "evento": "constitucion",
+      "detalle": "Constitución por Bogarín, Elizeche, Peña y Tigero; capital Gs. 500 millones (1.000 acciones), emitidas 20.",
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": "1,9-10"
+      }
+    },
+    {
+      "fecha": "2021-06-28",
+      "evento": "aumento_capital",
+      "detalle": "Asambleas extraordinaria N° 06 y ordinaria N° 04: capital a Gs. 3.500 millones (7.000 acciones de Gs. 500.000) y emisión de 6.980 acciones; protocolizadas por Esc. del 16/11/2021 (Mercedes Pérez dos Santos, Reg. 360).",
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": "17-20"
+      }
+    },
+    {
+      "fecha": "2022-08-04",
+      "evento": "aumento_capital",
+      "detalle": "Sunlit S.A. suscribe 3.400 acciones.",
+      "fuente": {
+        "archivo": "Libro de Registro de Accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2025-10-07",
+      "evento": "transferencia_acciones",
+      "detalle": "13 de Agosto S.A. suscribe/adquiere 3.570 acciones (07 y 14/10/2025), incluidas las numeraciones antes de Peña/Tigero/Elizeche.",
+      "fuente": {
+        "archivo": "Libro de Registro de Accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2026-04-27",
+      "evento": "cambio_directorio",
+      "detalle": "Asamblea Ordinaria N° 11: directorio Rivarola (presidente), Balgurevich, Paats; síndico Delgadillo.",
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": "1-2"
+      }
+    }
+  ],
+  "vinculos": [
+    {
+      "entidad_o_persona": "13 DE AGOSTO S.A. (RUC 80116493-1)",
+      "tipo": "accionista_de",
+      "detalle": "Controlante 51%.",
+      "fuente": {
+        "archivo": "Libro de Registro de Accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "SUNLIT S.A. (RUC 80110838-1)",
+      "tipo": "accionista_de",
+      "detalle": "48,96%.",
+      "fuente": {
+        "archivo": "Libro de Registro de Accionistas.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "RICARDO JAVIER RIPOLL RUIZ",
+      "tipo": "otro",
+      "detalle": "Presidente y representante legal de Sunlit S.A. (2021).",
+      "fuente": {
+        "archivo": "Escritura Pública N° 36.pdf",
+        "pagina": 17
+      }
+    },
+    {
+      "entidad_o_persona": "Avda. Santa Teresa c/ Aviadores del Chaco, Paseo La Galería Torre 3",
+      "tipo": "mismo_domicilio",
+      "detalle": "Local social en el complejo Paseo La Galería / Torres del Paseo, zona de sedes del grupo Ueno/Vázquez (no se menciona a Ueno ni Vázquez en los documentos).",
+      "fuente": {
+        "archivo": "Acta de Asamblea.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "declarantes_siara": [
+    {
+      "nombre": null,
+      "documento": null,
+      "correo": "LUISMARIN64@YAHOO.COM",
+      "telefono": null,
+      "fecha": "2026-07-23",
+      "fuente": {
+        "archivo": "Constancia de RA.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "correos_dominios": [
+    "yahoo.com"
+  ],
+  "documentos": [
+    {
+      "archivo": "Constancia de RA.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2026-09-25",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Constancia RA N° 24708, actualización anual 23/07/2026."
+    },
+    {
+      "archivo": "Libro de Registro de Accionistas.pdf",
+      "tipo": "registro_accionistas",
+      "fecha": "2026-04-27",
+      "paginas": 1,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Registro de accionistas al 27/04/2026: 7.000 acciones."
+    },
+    {
+      "archivo": "Acta de Asamblea.pdf",
+      "tipo": "acta_asamblea",
+      "fecha": "2026-04-27",
+      "paginas": 2,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Acta Asamblea Ordinaria N° 11."
+    },
+    {
+      "archivo": "Escritura Pública N° 36.pdf",
+      "tipo": "escritura_constitucion",
+      "fecha": "2019-08-17",
+      "paginas": 28,
+      "legibilidad": "ocr_malo",
+      "resumen": "Constitución y protocolización 2021 de aumento de capital."
+    }
+  ],
+  "observaciones": [
+    "Sin constancia BF: no se identifican personas físicas detrás de 13 de Agosto S.A. ni Sunlit S.A.",
+    "Diego Mario Peña aparece con DNI argentino 23.598.940 (2019), CI paraguaya 8.608.278 (OCR 2021) y CI 3.767.321 (acta 2026): posible inconsistencia/OCR.",
+    "El acta 2026 califica a Diego Mario Peña como 'Accionista' aunque actúa en representación de Sunlit.",
+    "Correo SIARA en dominio personal (yahoo.com)."
+  ]
+}

@@ -1,0 +1,392 @@
+{
+ "id": "v_media",
+ "razon_social": "V Media S.A.",
+ "ruc": "80039878-5",
+ "tipo": "Sociedad Anónima",
+ "carpeta_mef": "V MEDIA SA",
+ "denominaciones_anteriores": [
+  {
+   "nombre": "INVERCENTRO S.A.",
+   "hasta": "2025-07-30",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 2
+   }
+  }
+ ],
+ "constitucion": {
+  "fecha": "1994-12-26",
+  "escritura": "N° 266 (como Invercentro S.A.)",
+  "escribano": "María de Jesús Basualdo",
+  "inscripcion_registro_publico": "Personas Jurídicas N° 95 folio 1173 Serie B (03/03/1995); Registro Público de Comercio N° 147 Serie A folio 1746 (08/03/1995)",
+  "fuente": {
+   "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+   "pagina": 1
+  }
+ },
+ "domicilio": [
+  {
+   "direccion": "Avda. Ñu Guasu entre Isla Vistosa y Campo Esperanza, Asunción",
+   "fecha_dato": "2026-05-08",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 28.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": null,
+ "actividad_principal": "medios (inferido de la denominación)",
+ "plazo_duracion": null,
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 20000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 10000000,
+   "cantidad_acciones": 2000,
+   "fecha_dato": "2025-10-07",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 3
+   },
+   "nota": "Aumento aprobado en Asamblea Extraordinaria N° 26; emisión de 1.000 nuevas acciones (Asamblea N° 27)."
+  },
+  {
+   "tipo": "integrado",
+   "monto": 20000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 10000000,
+   "cantidad_acciones": 2000,
+   "fecha_dato": "2026-03-23",
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "Grupo Vázquez S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "ordinarias",
+   "votos": null,
+   "porcentaje": 99.9,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-10-07",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "99,90% de los votos en Asambleas N° 26 y 27 (rep. Bernardo Algorta). Según el registro, vendió todas sus acciones (1.997) a Gloria Villasanti y 2 a CBS S.A. el 23/03/2026."
+  },
+  {
+   "nombre": "Laura Vargas",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 1,
+   "clase_acciones": "OVS",
+   "votos": 1,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-07-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+    "pagina": 1
+   },
+   "confianza": "media",
+   "notas": "Vende 1 acción (N° 20) a Gloria Villasanti el 03/07/2025."
+  },
+  {
+   "nombre": "Gloria Elizabeth Villasanti Farinha",
+   "tipo_persona": "fisica",
+   "documento": "CI 404147 (dato de AIME)",
+   "nacionalidad": null,
+   "acciones": 1998,
+   "clase_acciones": "ordinarias voto simple (OVS)",
+   "votos": 1998,
+   "porcentaje": 99.9,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-03-23",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Acciones 1-17, 18-19, 20, 21-1.000, 1.001-1.998. Confirmado en Asamblea N° 28 (08/05/2026)."
+  },
+  {
+   "nombre": "CBS S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80028763-0 (según base)",
+   "nacionalidad": "paraguaya",
+   "acciones": 2,
+   "clase_acciones": "OVS",
+   "votos": 2,
+   "porcentaje": 0.1,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-03-23",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Acciones 1.999-2.000 compradas a Grupo Vázquez 23/03/2026; representada por Mauro Vargas en Asamblea N° 28."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Liz Raquel Vázquez Benitez",
+   "documento": "CI 1.050.627",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2026-05-08",
+   "vigencia": null,
+   "fecha_dato": "2026-05-08",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 28.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Ya era Presidenta en 2025 (Acta N° 25 del 07/07/2025). Firma digitalmente el registro."
+  },
+  {
+   "nombre": "Gloria Elizabeth Villasanti Farinha",
+   "documento": "CI 404147",
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2026-05-08",
+   "vigencia": null,
+   "fecha_dato": "2026-05-08",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 28.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Miguel Ángel Almada Frutos",
+   "documento": "CI 1202532 (dato de Redipro)",
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2026-05-08",
+   "vigencia": null,
+   "fecha_dato": "2026-05-08",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 28.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Cesar Manuel Astigarraga Lambaré",
+   "documento": "CI 3.807.117",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-07-07",
+   "vigencia": null,
+   "fecha_dato": "2025-10-23",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "1994-12-26",
+   "evento": "constitucion",
+   "detalle": "Constitución como Invercentro S.A. (Esc. N° 266).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-07-30",
+   "evento": "cambio_denominacion",
+   "detalle": "Esc. N° 144: Invercentro S.A. pasa a V Media S.A. (inscripta 22/08/2025).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2025-10-07",
+   "evento": "aumento_capital",
+   "detalle": "Asambleas N° 26 (extraordinaria) y 27: capital Gs. 20.000 M (2.000 acciones de Gs. 10 M) y emisión de 1.000 acciones; Grupo Vázquez con 99,90% de votos. Esc. N° 141 del 23/10/2025.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "fecha": "2025-12-30",
+   "evento": "aumento_capital",
+   "detalle": "Suscripción de acciones 21-1.998 y 1.999-2.000 (fecha 30/12/2025) a nombre de Grupo Vázquez.",
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-03-23",
+   "evento": "transferencia_acciones",
+   "detalle": "Grupo Vázquez vende 1.997 acciones a Gloria Villasanti y 2 a CBS S.A.",
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-05-08",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea N° 28: Pres. Liz Raquel Vázquez Benítez, VP Gloria Villasanti, Síndico Miguel Á. Almada Frutos.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 28.pdf",
+    "pagina": 2
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "Grupo Vázquez S.A.E.",
+   "tipo": "accionista_de",
+   "detalle": "Controlante (99,9%) hasta el 23/03/2026.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "entidad_o_persona": "CBS S.A.",
+   "tipo": "accionista_de",
+   "detalle": "Accionista 0,1% desde 23/03/2026 (rep. Mauro Vargas).",
+   "fuente": {
+    "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Gloria Elizabeth Villasanti Farinha",
+   "tipo": "director_comun",
+   "detalle": "Accionista 99,9% y VP; Presidenta de AIME S.A. Corredores de Seguros.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 28.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Mauro Vargas (Wildberger)",
+   "tipo": "otro",
+   "detalle": "Representa a CBS S.A.; accionista de AIME.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 28.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Miguel Ángel Almada Frutos",
+   "tipo": "director_comun",
+   "detalle": "Síndico; también en AIME, Intertours, Technoma (representante), Redipro (BF C1).",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 28.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Cesar Manuel Astigarraga Lambaré",
+   "tipo": "director_comun",
+   "detalle": "Director titular 2025; Presidente de ITTI y Tiva.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Bernardo Algorta (CI 7.375.741)",
+   "tipo": "mencion_en_documento",
+   "detalle": "Representante de Grupo Vázquez (también en ITTI y Oniria).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "entidad_o_persona": "Sandra Caballero",
+   "tipo": "mismo_solicitante",
+   "detalle": "Correo PEJ sandra.caballero@vmedia.com.py; la misma persona declara para Tiva con correos @gvcorp.com.py y @uenoholding.com.py.",
+   "fuente": {
+    "archivo": "CONSTANCIA RA NRO 13311.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": "Sandra Caballero (correo)",
+   "documento": null,
+   "correo": "SANDRA.CABALLERO@VMEDIA.COM.PY",
+   "telefono": null,
+   "fecha": "2026-06-04",
+   "fuente": {
+    "archivo": "CONSTANCIA RA NRO 13311.pdf",
+    "pagina": 1
+   },
+   "notas": "Constancia resumida; sólo correo PEJ."
+  }
+ ],
+ "correos_dominios": [
+  "vmedia.com.py"
+ ],
+ "documentos": [
+  {
+   "archivo": "ACTA ORDINARIA NRO 28.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-05-08",
+   "paginas": 2,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Asamblea Ordinaria N° 28: Gloria Villasanti 1.998, CBS 2; directorio Liz R. Vázquez / Gloria Villasanti; síndico M. Almada."
+  },
+  {
+   "archivo": "CONSTANCIA RA NRO 13311.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-08-08",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 13311 (presentada 04/06/2026)."
+  },
+  {
+   "archivo": "REGISTRO DE ACCIONISTAS.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-03-23",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Composición accionaria al 23/03/2026: Gloria Villasanti 1.998 acc., CBS S.A. 2."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICACION NRO 141.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2025-10-23",
+   "paginas": 28,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Esc. N° 141: aumento de capital a Gs. 20.000 M; antecedentes (Invercentro S.A.)."
+  }
+ ],
+ "observaciones": [
+  "El registro de accionistas indica 'TOTAL 1.000' acciones aunque las filas suman 2.000; los % de capital y votos son inconsistentes (base 2.000 vs 1.000).",
+  "El 23/03/2026 Grupo Vázquez transfirió el 99,9% a Gloria Elizabeth Villasanti Farinha (persona física), pocos meses antes del proceso de resolución de Ueno Bank.",
+  "No hay constancia BF ni datos de beneficiarios finales; tampoco CI de Gloria Villasanti en este legajo (se toma 404147 de AIME).",
+  "En el acta N° 28 'el Sr. Mauro Vargas designa' secretaria sin ser accionista directo (representa a CBS S.A.)."
+ ]
+}

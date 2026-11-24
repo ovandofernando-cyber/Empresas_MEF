@@ -1,0 +1,89 @@
+{
+  "id": "vinanzas",
+  "razon_social": "VINANZAS S.A.",
+  "ruc": "80090944-5",
+  "tipo": "Sociedad Anónima",
+  "carpeta_mef": "VINANZAS S.A",
+  "denominaciones_anteriores": [
+    {"nombre": "SOLUCIONES TECNOLOGICAS ESPECIALIZADAS (STE) S.A.", "hasta": "2022-04-11", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 32}}
+  ],
+  "constitucion": {
+    "fecha": "2015-08-27",
+    "escritura": "N° 142 (folio 536 y sgtes., Protocolo Comercial A)",
+    "escribano": "María Teresa López de Aponte (Registro N° 637)",
+    "inscripcion_registro_publico": "Matrícula Jurídica N° 932 Serie Comercial N° 1 folio 1 y sgtes.; Matrícula Comercial N° 999 N° 1 folio 1 al 18; ambas 14-09-2015. Dictamen DRFS N° 4451 (10-09-2015).",
+    "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 29}
+  },
+  "domicilio": [
+    {"direccion": "MEXICO N° 850 (entre Luis Alberto de Herrera y Dr. Manuel Domínguez), Asunción", "fecha_dato": "2026-08-17", "fuente": {"archivo": "ACTA ORDINARIA NRO 2.pdf", "pagina": 1}},
+    {"direccion": "Avenida Santa Teresa entre Aviadores del Chaco y Herminio Maldonado, Torres del Paseo, Torre 3, Piso 11, Asunción", "fecha_dato": "2023-04-26", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 33}}
+  ],
+  "objeto_social": null,
+  "actividad_principal": "financiera / inversiones (inferido; objeto no revisado)",
+  "plazo_duracion": null,
+  "capital": [
+    {"tipo": "social", "monto": 80000000000, "moneda": "PYG", "valor_nominal_accion": 100000000, "cantidad_acciones": 800, "fecha_dato": "2023-07-26", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 35}, "notas": "Art. 5 modificado por AGE N° 15 (26-04-2023), Esc. N° 54 del 26-07-2023; acciones ordinarias de voto simple"},
+    {"tipo": "suscripto", "monto": 55100000000, "moneda": "PYG", "valor_nominal_accion": 100000000, "cantidad_acciones": 551, "fecha_dato": "2026-08-17", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}, "notas": "Calculado de la suma de acciones del registro (551); coincide con % del Acta N° 2"}
+  ],
+  "accionistas": [
+    {"nombre": "UENO HOLDING S.A.E.C.A.", "tipo_persona": "juridica", "documento": null, "nacionalidad": "paraguaya", "acciones": 271, "clase_acciones": "OVS", "votos": 271, "porcentaje": 49.18, "porcentaje_calculado": true, "fecha_dato": "2023-04-26", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 33}, "confianza": "alta", "notas": "Acc. 02-24 (23), 210-364 (155), 380-472 (93); representada por Enrique Vera. Luego figuran a nombre de ITTI."},
+    {"nombre": "IOIO S.A.E.C.A.", "tipo_persona": "juridica", "documento": null, "nacionalidad": "paraguaya", "acciones": 209, "clase_acciones": "OVS", "votos": 209, "porcentaje": 37.93, "porcentaje_calculado": true, "fecha_dato": "2023-04-26", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 33}, "confianza": "alta", "notas": "Acc. 25-209 (185) y 586-609 (24); representada por Luis Angulo"},
+    {"nombre": "ITTI S.A.E.C.A.", "tipo_persona": "juridica", "documento": null, "nacionalidad": "paraguaya", "acciones": 70, "clase_acciones": "OVS", "votos": 70, "porcentaje": 12.7, "porcentaje_calculado": false, "fecha_dato": "2023-04-26", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 34}, "confianza": "alta", "notas": "Acc. 473-542; representada por Guillermo Vázquez"},
+    {"nombre": "GRUPO VAZQUEZ S.A.E.", "tipo_persona": "juridica", "documento": "RUC 80086759-9", "nacionalidad": "paraguaya", "acciones": 1, "clase_acciones": "OVS", "votos": 1, "porcentaje": 0.18, "porcentaje_calculado": false, "fecha_dato": "2023-04-26", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 33}, "confianza": "alta", "notas": "Acc. 01; representada por Miguel Almada"},
+    {"nombre": "ITTI S.A.E.C.A.", "tipo_persona": "juridica", "documento": null, "nacionalidad": "paraguaya", "acciones": 274, "clase_acciones": "OVS", "votos": 274, "porcentaje": 49.73, "porcentaje_calculado": false, "fecha_dato": "2026-08-17", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 2.pdf", "pagina": 1}, "confianza": "alta", "notas": "Registro: acc. 2-24, 210-364, 380-402, 403-472, 473-475 (tras transferir 67 a GV el 29-12-2025). En el acta 'ITTI S.A.E.', representada por Guillermo Vázquez."},
+    {"nombre": "IOIO S.A.E.C.A.", "tipo_persona": "juridica", "documento": null, "nacionalidad": "paraguaya", "acciones": 209, "clase_acciones": "OVS", "votos": 209, "porcentaje": 37.93, "porcentaje_calculado": true, "fecha_dato": "2026-05-18", "vigente": true, "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}, "confianza": "media", "notas": "No asistió a la AGO N° 2 (ago-2026). En el registro (2a versión) el último bloque se numera 519-542 (error; antes 586-609)."},
+    {"nombre": "GRUPO VAZQUEZ S.A.E.", "tipo_persona": "juridica", "documento": "RUC 80086759-9", "nacionalidad": "paraguaya", "acciones": 68, "clase_acciones": "OVS", "votos": 68, "porcentaje": 12.34, "porcentaje_calculado": false, "fecha_dato": "2026-08-17", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 2.pdf", "pagina": 1}, "confianza": "alta", "notas": "1 acción original + 67 recibidas de ITTI el 29-12-2025 (acc. 476-542). Representado por Bernardo Algorta."}
+  ],
+  "autoridades": [
+    {"nombre": "SIGFRIDO GROSS BROWN ABREU", "documento": null, "cargo": "Presidente de EL RIACHO S.A. (accionista fundador)", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2015-07-27", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "LIZ RAQUEL VAZQUEZ BENITEZ", "documento": "CI 1050627", "cargo": "Presidente", "fecha_asuncion": "2023-04-26", "vigencia": "AGO N° 11", "fecha_dato": "2023-07-26", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 31}, "confianza": "alta"},
+    {"nombre": "LUIS ALFREDO GAONA", "documento": "CI 4923683", "cargo": "Vicepresidente", "fecha_asuncion": "2023-04-26", "vigencia": "AGO N° 11", "fecha_dato": "2023-07-26", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 31}, "confianza": "alta", "notas": "argentino"},
+    {"nombre": "CARLOS FRANCISCO IMPAGLIATELLI BAREIRO", "documento": null, "cargo": "Presidente", "fecha_asuncion": "2026-03-30", "vigencia": "hasta 17-08-2026", "fecha_dato": "2026-03-30", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "GUILLERMO VAZQUEZ MUNIAGURRIA", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2026-03-30", "vigencia": "hasta 17-08-2026", "fecha_dato": "2026-03-30", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "JUAN JOSE GAMARRA", "documento": null, "cargo": "Director titular", "fecha_asuncion": "2026-03-30", "vigencia": null, "fecha_dato": "2026-03-30", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "ROSSANA MONTIEL", "documento": null, "cargo": "Director suplente", "fecha_asuncion": "2026-03-30", "vigencia": null, "fecha_dato": "2026-03-30", "vigente": null, "fuente": {"archivo": "ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "MIGUEL ALMADA", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2026-03-30", "vigencia": null, "fecha_dato": "2026-03-30", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 1.pdf", "pagina": 2}, "confianza": "alta"},
+    {"nombre": "GUILLERMO VAZQUEZ MUNIAGURRIA", "documento": null, "cargo": "Presidente", "fecha_asuncion": "2026-08-17", "vigencia": null, "fecha_dato": "2026-08-17", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 2.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "JUAN JOSE GAMARRA", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2026-08-17", "vigencia": null, "fecha_dato": "2026-08-17", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 2.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "RUTH RAMIREZ", "documento": null, "cargo": "Representante del accionista IOIO S.A.", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2026-03-30", "vigente": null, "fuente": {"archivo": "ACTA ORDINARIA NRO 1.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "BERNARDO ALGORTA", "documento": null, "cargo": "Representante del accionista Grupo Vázquez S.A.E.", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2026-08-17", "vigente": null, "fuente": {"archivo": "ACTA ORDINARIA NRO 2.pdf", "pagina": 1}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2015-08-27", "evento": "constitucion", "detalle": "Esc. N° 142: constitución de SOLUCIONES TECNOLOGICAS ESPECIALIZADAS (STE) S.A. por EL RIACHO S.A. (RUC 80088331-4, representada por Mauro Vargas Wildberger) y CLOUD SOLUTIONS (CS) S.A. (RUC 80090292-0, representada por Daniel Horacio Sauca y Yvan Rodrigo Cubilla Barrios).", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 2}},
+    {"fecha": "2019-11-25", "evento": "modificacion_estatutos", "detalle": "Esc. N° 182 (inscripta 08-01-2020).", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 32}},
+    {"fecha": "2022-04-11", "evento": "cambio_denominacion", "detalle": "Esc. N° 806 (Esc. Luis Enrique Peroni Giralt): pasa a denominarse VINANZAS S.A. (inscripto 06-10-2022).", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 32}},
+    {"fecha": "2023-04-26", "evento": "aumento_capital", "detalle": "AGE N° 15 (Ueno Holding 271, IOIO 209, ITTI 70, GV 1): capital Gs. 80.000 M (800 acc. de Gs. 100 M); firma conjunta de dos directores. Esc. N° 54 del 26-07-2023.", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 33}},
+    {"fecha": "2025-12-29", "evento": "transferencia_acciones", "detalle": "ITTI S.A.E.C.A. transfiere 67 acciones a Grupo Vázquez S.A.E.", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
+    {"fecha": "2026-03-30", "evento": "cambio_directorio", "detalle": "AGO N° 01: presentes IOIO (185) e ITTI (298); utilidad 2025 Gs. 9.612.438.063 a futura capitalización; Pres. Carlos Impagliatelli, VP Guillermo Vázquez Muniagurria, Dir. Juan José Gamarra, Supl. Rossana Montiel, Síndico Miguel Almada.", "fuente": {"archivo": "ACTA ORDINARIA NRO 1.pdf", "pagina": 2}},
+    {"fecha": "2026-08-17", "evento": "cambio_directorio", "detalle": "AGO N° 2: presentes GV (68) e ITTI (274); Pres. Guillermo Vázquez, VP Juan José Gamarra.", "fuente": {"archivo": "ACTA ORDINARIA NRO 2.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "ITTI S.A.E.C.A.", "tipo": "accionista_de", "detalle": "Accionista mayoritario 49,73%.", "fuente": {"archivo": "ACTA ORDINARIA NRO 2.pdf", "pagina": 1}},
+    {"entidad_o_persona": "IOIO S.A.E.C.A.", "tipo": "accionista_de", "detalle": "37,93%.", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
+    {"entidad_o_persona": "GRUPO VAZQUEZ S.A.E. (RUC 80086759-9)", "tipo": "accionista_de", "detalle": "12,34%.", "fuente": {"archivo": "ACTA ORDINARIA NRO 2.pdf", "pagina": 1}},
+    {"entidad_o_persona": "UENO HOLDING S.A.E.C.A.", "tipo": "accionista_de", "detalle": "Fue accionista mayoritario (49,18%) en 2023; sus acciones pasaron a ITTI.", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 33}},
+    {"entidad_o_persona": "EL RIACHO S.A. / CLOUD SOLUTIONS (CS) S.A. / Mauro Vargas Wildberger", "tipo": "otro", "detalle": "Fundadores en 2015. Laura Vargas Wildberger (posible pariente) figura como BF en 23 Sports Marketing; Gross Brown también aparece en MOWI (Eduardo Javier Gross Brown).", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 2}},
+    {"entidad_o_persona": "ITTI (itti.digital)", "tipo": "mismo_correo_dominio", "detalle": "Correo PEJ LEGALES@ITTI.DIGITAL.", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Torres del Paseo, Torre 3, Piso 11", "tipo": "mismo_domicilio", "detalle": "Sede en 2023, igual a MOWI y Grupo M.", "fuente": {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "pagina": 33}}
+  ],
+  "declarantes_siara": [
+    {"nombre": null, "documento": null, "correo": "LEGALES@ITTI.DIGITAL", "telefono": null, "fecha": "2026-07-24", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}, "notas": "Constancia RA N° 16540, cumplimiento anual presentado 24/07/2026, expedida 20/08/2026 (analista Pedro Guillermo Acuña Jiménez)"}
+  ],
+  "correos_dominios": ["itti.digital"],
+  "documentos": [
+    {"archivo": "CONSTANCIA RA.pdf", "tipo": "constancia_RA", "fecha": "2026-08-20", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia SIARA N° 16540; sin nómina."},
+    {"archivo": "REGISTRO ACCIONISTAS.pdf", "tipo": "registro_accionistas", "fecha": "2026-05-18", "paginas": 2, "legibilidad": "texto", "resumen": "Dos versiones del registro: antes y después de la transferencia ITTI→GV (67 acc.). Firmado por Carlos F. Impagliatelli Bareiro."},
+    {"archivo": "ACTA ORDINARIA NRO 1.pdf", "tipo": "acta_asamblea", "fecha": "2026-03-30", "paginas": 2, "legibilidad": "texto", "resumen": "AGO N° 01: utilidades 2025, directorio."},
+    {"archivo": "ACTA ORDINARIA NRO 2.pdf", "tipo": "acta_asamblea", "fecha": "2026-08-17", "paginas": 2, "legibilidad": "texto", "resumen": "AGO N° 2: recomposición del directorio (Pres. Guillermo Vázquez)."},
+    {"archivo": "ESCRITURA CONSTITUCION NRO 142.pdf", "tipo": "escritura_constitucion", "fecha": "2015-08-27", "paginas": 38, "legibilidad": "ocr_bueno", "resumen": "Constitución de STE S.A. (2015) + Esc. N° 54 (2023) con AGE 15: accionistas y aumento a Gs. 80.000 M."}
+  ],
+  "observaciones": [
+    "No hay constancia de BF ni nómina SIARA.",
+    "Acta N° 01 computa ITTI 298 acciones (54,08%) e IOIO 185 (33,58%), inconsistente con el registro (ITTI 274/344, IOIO 209) y omite a GV; el % sugiere base 551.",
+    "Segunda versión del registro: porcentajes calculados sobre 484 acciones en vez de 551; renglón ITTI con 23 acciones pero 5 votos; bloque IOIO 519-542 solapa con GV 476-542.",
+    "Acta N° 2 denomina al accionista 'ITTI S.A.E.' y suma 12,34%+49,73%=62,07% (IOIO ausente).",
+    "Acta N° 1 usa 'IOIO S.A.' e 'ITTI S.A.E.' en lugar de S.A.E.C.A.",
+    "Todos los accionistas son sociedades del grupo (ITTI, IOIO, Grupo Vázquez, antes Ueno Holding): control indirecto de la familia Vázquez."
+  ]
+}

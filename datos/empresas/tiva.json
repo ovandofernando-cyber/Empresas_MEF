@@ -1,0 +1,740 @@
+{
+ "id": "tiva",
+ "razon_social": "Tiva S.A.",
+ "ruc": "80074954-5",
+ "tipo": "Sociedad Anónima",
+ "carpeta_mef": "Tiva SA",
+ "denominaciones_anteriores": [],
+ "constitucion": {
+  "fecha": "2012-07-30",
+  "escritura": "N° 89",
+  "escribano": "Karen Alice Notario Frutos (Registro N° 972)",
+  "inscripcion_registro_publico": "Personas Jurídicas N° 787 folio 8682 Serie E y Registro Público de Comercio N° 1159 folio 10511 Serie A, ambas 06/09/2012; constancia de inscripción Abogacía del Tesoro trámite 27266 (09/04/2018, fuera de plazo)",
+  "fuente": {
+   "archivo": "Constancia escritura constitución 2018/Escritura 89 30-07-2012 constitución.pdf",
+   "pagina": 1
+  }
+ },
+ "domicilio": [
+  {
+   "direccion": "Rio de la Plata 350 (esq. Tte. Rody)",
+   "fecha_dato": "2020-06-24",
+   "fuente": {
+    "archivo": "Constancia RA 2020.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Citicenter - Avda. Mcal. Francisco Solano López N° 3794, Asunción",
+   "fecha_dato": "2025-12-10",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": "Prestación de servicios informáticos: desarrollo y comercialización de software y servicios conexos (y actividades enunciativas).",
+ "actividad_principal": "tecnología (servicios informáticos)",
+ "plazo_duracion": "50 años desde la inscripción",
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 300000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 3000000,
+   "cantidad_acciones": 100,
+   "fecha_dato": "2012-07-30",
+   "fuente": {
+    "archivo": "Constancia escritura constitución 2018/Escritura 89 30-07-2012 constitución.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 300000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 3000000,
+   "cantidad_acciones": 100,
+   "fecha_dato": "2025-12-10",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 300000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 3000000,
+   "cantidad_acciones": 100,
+   "fecha_dato": "2025-12-10",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "Victor Eduardo Cartes Leon",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.857.270",
+   "nacionalidad": "paraguaya",
+   "acciones": 80,
+   "clase_acciones": "al portador, preferenciales fundadoras de voto múltiple (5 votos)",
+   "votos": 400,
+   "porcentaje": 80.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2012-07-30",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia escritura constitución 2018/Escritura 89 30-07-2012 constitución.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fundador (Esc. 89)."
+  },
+  {
+   "nombre": "María Belén Serra de Cartes",
+   "tipo_persona": "fisica",
+   "documento": "CI 2.055.009",
+   "nacionalidad": "paraguaya",
+   "acciones": 10,
+   "clase_acciones": "al portador, preferenciales fundadoras de voto múltiple (5 votos)",
+   "votos": 50,
+   "porcentaje": 10.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2012-07-30",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia escritura constitución 2018/Escritura 89 30-07-2012 constitución.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fundadora."
+  },
+  {
+   "nombre": "Carlos Rodríguez Alcalá Villagra",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.162.931",
+   "nacionalidad": "paraguaya",
+   "acciones": 10,
+   "clase_acciones": "al portador, preferenciales fundadoras de voto múltiple (5 votos)",
+   "votos": 50,
+   "porcentaje": 10.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2012-07-30",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia escritura constitución 2018/Escritura 89 30-07-2012 constitución.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fundador."
+  },
+  {
+   "nombre": "Victor Eduardo Cartes Leon",
+   "tipo_persona": "fisica",
+   "documento": "CI 1857270 (RUC 1857270-7)",
+   "nacionalidad": "paraguaya",
+   "acciones": 80,
+   "clase_acciones": "nominativas preferenciales fundadoras de voto múltiple (5 votos)",
+   "votos": 80,
+   "porcentaje": 80.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2020-06-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2020.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Igual composición en Esc. 59 (2019)."
+  },
+  {
+   "nombre": "Maria Belen Serra de Cartes",
+   "tipo_persona": "fisica",
+   "documento": "CI 2055009 (RUC 2055009-0)",
+   "nacionalidad": "paraguaya",
+   "acciones": 10,
+   "clase_acciones": "nominativas",
+   "votos": 10,
+   "porcentaje": 10.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2020-06-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2020.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "Carlos Rodriguez Alcala Villagra",
+   "tipo_persona": "fisica",
+   "documento": "CI 1162931",
+   "nacionalidad": "paraguaya",
+   "acciones": 10,
+   "clase_acciones": "nominativas",
+   "votos": 10,
+   "porcentaje": 10.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2020-06-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2020.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "ITTI S.A.E.C.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80028355-4",
+   "nacionalidad": "paraguaya",
+   "acciones": 60,
+   "clase_acciones": "Fundadoras",
+   "votos": 300,
+   "porcentaje": 60.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-01-23",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2025 3.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "RA ene-2025 omite a Carlos Rodríguez Alcalá (suma 96%)."
+  },
+  {
+   "nombre": "Victor Cartes Leon",
+   "tipo_persona": "fisica",
+   "documento": "CI 1857270",
+   "nacionalidad": "paraguaya",
+   "acciones": 26,
+   "clase_acciones": "Fundadoras",
+   "votos": 130,
+   "porcentaje": 26.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-01-23",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2025 3.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "Maria Belen Serra",
+   "tipo_persona": "fisica",
+   "documento": "CI 2055009",
+   "nacionalidad": "paraguaya",
+   "acciones": 10,
+   "clase_acciones": "Fundadoras",
+   "votos": 50,
+   "porcentaje": 10.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-01-23",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2025 3.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "ITTI S.A.E.C.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80028355-4 (declarado 80028355-0)",
+   "nacionalidad": "paraguaya",
+   "acciones": 60,
+   "clase_acciones": "OVM",
+   "votos": 300,
+   "porcentaje": 60.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-12-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Domicilio Torres del Paseo Torre 3 Piso 11. Mismo dato en RA 05/06/2025."
+  },
+  {
+   "nombre": "Víctor Cartes León",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.857.270 (RUC 1857270-7)",
+   "nacionalidad": "paraguaya",
+   "acciones": 26,
+   "clase_acciones": "OVM",
+   "votos": 130,
+   "porcentaje": 26.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-12-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "María Belén Serra Masulli (de Cartes)",
+   "tipo_persona": "fisica",
+   "documento": "CI 2.055.009 (RUC 2055009-0)",
+   "nacionalidad": "paraguaya",
+   "acciones": 10,
+   "clase_acciones": "OVM",
+   "votos": 50,
+   "porcentaje": 10.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-12-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "Carlos Rodríguez Alcalá Villagra",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.162.931 (RUC 1162931-2)",
+   "nacionalidad": "paraguaya",
+   "acciones": 4,
+   "clase_acciones": "OVM",
+   "votos": 20,
+   "porcentaje": 4.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-12-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Victor Eduardo Cartes Leon",
+   "documento": "CI 1857270",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2012-07-30",
+   "vigencia": null,
+   "fecha_dato": "2020-06-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2020.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "María Belén Serra de Cartes",
+   "documento": "CI 2.055.009",
+   "cargo": "Director titular",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2019-07-12",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia modificación de estatutos 2020/escritura 59 20-08-2019 modificación de estatutos.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Carlos Rodríguez Alcalá Villagra",
+   "documento": "CI 1.162.931",
+   "cargo": "Síndico titular",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2019-07-12",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia modificación de estatutos 2020/escritura 59 20-08-2019 modificación de estatutos.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Cesar Manuel Astigarraga",
+   "documento": "CI 3.807.117",
+   "cargo": "Presidente / Representante legal",
+   "fecha_asuncion": "2025-04-11",
+   "vigencia": "hasta la próxima asamblea",
+   "fecha_dato": "2025-12-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "En RA ene-2025 figura asunción 20-01-2025."
+  },
+  {
+   "nombre": "Luis Ernesto Angulo (Rivera)",
+   "documento": "CI 8.307.881",
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2025-04-11",
+   "vigencia": "hasta la próxima asamblea",
+   "fecha_dato": "2025-12-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Salvadoreño con CI paraguaya; también Vicepresidente de ITTI (Esc. 1/2026)."
+  },
+  {
+   "nombre": "Laura Almiron",
+   "documento": "CI 4.500.757",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-04-11",
+   "vigencia": "hasta la próxima asamblea",
+   "fecha_dato": "2025-06-05",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2025 2.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "María Belén Serra Masulli",
+   "documento": "CI 2.055.009",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-11-24",
+   "vigencia": "hasta la próxima asamblea",
+   "fecha_dato": "2025-12-10",
+   "vigente": true,
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  }
+ ],
+ "beneficiarios_finales": [
+  {
+   "nombre": "Victor Eduardo Cartes Leon",
+   "documento": "CI 1857270",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Rio de la Plata 350",
+   "porcentaje": 80.0,
+   "tipo_control": "propiedad directa (director, representante legal)",
+   "cadena_control": null,
+   "fecha_dato": "2020-06-24",
+   "fuente": {
+    "archivo": "Constancia BF 2020.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Histórico."
+  },
+  {
+   "nombre": "Victor Eduardo Cartes Leon",
+   "documento": "CI 1857270",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Rio de la Plata",
+   "porcentaje": 26.0,
+   "tipo_control": "A - propiedad directa (26% votos)",
+   "cadena_control": null,
+   "fecha_dato": "2025-01-23",
+   "fuente": {
+    "archivo": "Constancia BF 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Nac. 20-05-1983."
+  },
+  {
+   "nombre": "María Belén Serra de Cartes",
+   "documento": "CI 2055009",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Rio de la Plata",
+   "porcentaje": 10.0,
+   "tipo_control": "A - propiedad directa",
+   "cadena_control": null,
+   "fecha_dato": "2025-01-23",
+   "fuente": {
+    "archivo": "Constancia BF 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Federico Miguel Vazquez Villasanti",
+   "documento": "CI 2491546 (así en la constancia; en otras fuentes 2941546)",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Avda. Santa Teresa",
+   "porcentaje": 35.32,
+   "tipo_control": "A - propiedad indirecta (53,87% votos); accionista mayoritario en Grupo Vázquez",
+   "cadena_control": "TIVA - ITTI - Grupo Vázquez",
+   "fecha_dato": "2025-01-23",
+   "fuente": {
+    "archivo": "Constancia BF 2025 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "BF desde 20-01-2025. Nac. 28-02-1990."
+  }
+ ],
+ "historial": [
+  {
+   "fecha": "2012-07-30",
+   "evento": "constitucion",
+   "detalle": "Esc. N° 89: Cartes 80, Serra 10, Rodríguez Alcalá 10; capital Gs. 300 M.",
+   "fuente": {
+    "archivo": "Constancia escritura constitución 2018/Escritura 89 30-07-2012 constitución.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2019-08-20",
+   "evento": "modificacion_estatutos",
+   "detalle": "Esc. N° 59: conversión de acciones al portador a nominativas (Art. 6), por Ley 5895/17; inscripta 27/09/2019.",
+   "fuente": {
+    "archivo": "Constancia modificación de estatutos 2020/escritura 59 20-08-2019 modificación de estatutos.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-01-20",
+   "evento": "transferencia_acciones",
+   "detalle": "Ingreso de ITTI S.A.E.C.A. con 60 acciones (60%); Cartes baja a 26, Rodríguez Alcalá a 4. Nuevo directorio Astigarraga/Angulo.",
+   "fuente": {
+    "archivo": "Constancia RA 2025 3.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-11-24",
+   "evento": "cambio_directorio",
+   "detalle": "María Belén Serra Masulli directora titular (reemplaza a Laura Almirón).",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "ITTI S.A.E.C.A. (RUC 80028355-4)",
+   "tipo": "accionista_de",
+   "detalle": "Accionista 60% (300 votos) desde ene-2025.",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Grupo Vázquez S.A.E. / Federico Miguel Vázquez Villasanti",
+   "tipo": "mencion_en_documento",
+   "detalle": "BF indirecto vía ITTI - Grupo Vázquez.",
+   "fuente": {
+    "archivo": "Constancia BF 2025 1.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Cesar Manuel Astigarraga (CI 3.807.117)",
+   "tipo": "director_comun",
+   "detalle": "Presidente de Tiva y de ITTI; representante de ITTI en Intertours y Kostas.",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Luis Ernesto Angulo Rivera (CI 8.307.881)",
+   "tipo": "director_comun",
+   "detalle": "VP de Tiva y VP de ITTI.",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Sandra Noemi Caballero Almada (CI 3.525.422)",
+   "tipo": "mismo_solicitante",
+   "detalle": "Declarante SIARA (gvcorp.com.py / uenoholding.com.py); su correo @vmedia.com.py es el de V Media S.A.",
+   "fuente": {
+    "archivo": "Constancia RA 2025 2.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Citicenter, Avda. Mcal. López 3794",
+   "tipo": "mismo_domicilio",
+   "detalle": "Domicilio actual.",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": "Aracely Natalia Torres de Yegros",
+   "documento": "CI 2.466.640 (en constancia 2018: 2.182.518)",
+   "correo": "ara_torres81@hotmail.com",
+   "telefono": "0992442354",
+   "fecha": "2020-06-24",
+   "fuente": {
+    "archivo": "Constancia RA 2020.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "nombre": "Sandra Noemi Caballero Almada",
+   "documento": "CI 3.525.422",
+   "correo": "sandra.caballero@gvcorp.com.py",
+   "telefono": "0981110369",
+   "fecha": "2025-01-23",
+   "fuente": {
+    "archivo": "Constancia RA 2025 3.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "nombre": "Sandra Noemi Caballero Almada",
+   "documento": "CI 3.525.422",
+   "correo": "SANDRA.CABALLERO@UENOHOLDING.COM.PY",
+   "telefono": "0981110369",
+   "fecha": "2025-01-23",
+   "fuente": {
+    "archivo": "Constancia BF 2025 1.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "nombre": "Sandra Noemi Caballero Almada",
+   "documento": "CI 3.525.422",
+   "correo": "sandra.caballero@gvcorp.com.py",
+   "telefono": "0981110369",
+   "fecha": "2025-06-05",
+   "fuente": {
+    "archivo": "Constancia RA 2025 2.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "nombre": "Laura Isabel Pane Baum",
+   "documento": "CI 3.461.067",
+   "correo": "laurapane@hotmail.com",
+   "telefono": "0992221772",
+   "fecha": "2025-12-10",
+   "fuente": {
+    "archivo": "Constancia RA 2025 1.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "correos_dominios": [
+  "gvcorp.com.py",
+  "uenoholding.com.py",
+  "gmail.com",
+  "hotmail.com"
+ ],
+ "documentos": [
+  {
+   "archivo": "Constancia RA 2020.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2020-06-24",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "RA N° 50801: Cartes 80%, Serra 10%, Rodríguez Alcalá 10%; correo cartesv@gmail.com."
+  },
+  {
+   "archivo": "Constancia RA 2025 3.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2025-01-23",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "RA N° 331161: ITTI 60, Cartes 26, Serra 10 (omite 4%); directorio Astigarraga/Angulo."
+  },
+  {
+   "archivo": "Constancia RA 2025 2.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2025-06-05",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "RA N° 356199: ITTI 60, Cartes 26, Serra 10, Rodríguez 4; directora Laura Almirón."
+  },
+  {
+   "archivo": "Constancia RA 2025 1.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2025-12-10",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "RA N° 399388: idem; directora M. B. Serra Masulli; declarante Laura Pane Baum."
+  },
+  {
+   "archivo": "Constancia BF 2020.pdf",
+   "tipo": "constancia_BF",
+   "fecha": "2020-06-24",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "BF N° 51276: V. E. Cartes León 80%."
+  },
+  {
+   "archivo": "Constancia BF 2025 1.pdf",
+   "tipo": "constancia_BF",
+   "fecha": "2025-01-23",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "BF N° 339654: Cartes 26%, Serra 10%, F. M. Vázquez Villasanti 35,32% (53,87% votos) vía ITTI - Grupo Vázquez."
+  },
+  {
+   "archivo": "Constancia escritura constitución 2018/Escritura 89 30-07-2012 constitución.pdf",
+   "tipo": "escritura_constitucion",
+   "fecha": "2012-07-30",
+   "paginas": 20,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Esc. N° 89 de constitución (Karen A. Notario Frutos)."
+  },
+  {
+   "archivo": "Constancia escritura constitución 2018/Constancia inscripción 2018.pdf",
+   "tipo": "otro",
+   "fecha": "2018-04-09",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "Constancia de inscripción Abogacía del Tesoro (trámite 27266), inscripción fuera de plazo."
+  },
+  {
+   "archivo": "Constancia modificación de estatutos 2020/escritura 59 20-08-2019 modificación de estatutos.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2019-08-20",
+   "paginas": 9,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Esc. N° 59: acciones nominativas; composición 80/10/10."
+  },
+  {
+   "archivo": "Constancia modificación de estatutos 2020/Constancia inscripción 2020.pdf",
+   "tipo": "otro",
+   "fecha": "2020-01-06",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "Constancia de inscripción de la modificación (trámite 70668)."
+  }
+ ],
+ "observaciones": [
+  "La Esc. 59 (2019) dice que Tiva fue constituida por 'escritura pública N° 19 de fecha 17/05/2011', mientras el archivo remitido es la Esc. N° 89 del 30/07/2012 (con iguales datos de inscripción).",
+  "No hay documento (registro de accionistas, acta ni constancia de transferencia) del ingreso de ITTI en enero 2025.",
+  "RA ene-2025 omite a Carlos Rodríguez Alcalá (porcentajes suman 96%). RUC de ITTI declarado como 80028355-0 en dos constancias (correcto 80028355-4).",
+  "CI de F. M. Vázquez Villasanti escrito 2491546 (dígitos transpuestos respecto de 2941546). BF 2025 indica fecha 30-07-2022 para Cartes y Serra (probablemente 2012).",
+  "Declarante Aracely Torres de Yegros con dos CI distintos (2.182.518 en 2018; 2.466.640 en 2020).",
+  "No hay constancia BF posterior a ene-2025."
+ ]
+}

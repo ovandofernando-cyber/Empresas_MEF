@@ -1,0 +1,748 @@
+{
+ "id": "itti",
+ "razon_social": "ITTI S.A.E. (ex ITTI S.A.E.C.A.)",
+ "ruc": "80028355-4",
+ "tipo": "S.A.E. (Sociedad Anónima Emisora)",
+ "carpeta_mef": "ITTI S.A.E",
+ "denominaciones_anteriores": [
+  {
+   "nombre": "IT Consultores Tecnología y Organización S.R.L.",
+   "hasta": "2011-10-18",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "nombre": "IT Consultores Tecnología y Organización S.A.",
+   "hasta": "2021-01-27",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "nombre": "\"ITTI\" Sociedad Anónima Emisora de Capital Abierto (ITTI S.A.E.C.A.)",
+   "hasta": "2026-01-13",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 3
+   }
+  }
+ ],
+ "constitucion": {
+  "fecha": "2004-09-13",
+  "escritura": "N° 49",
+  "escribano": "Nelly Antoliana Coronel Samudio",
+  "inscripcion_registro_publico": "Personas Jurídicas N° 706 Serie F folio 6980 (14/10/2004); Registro Público de Comercio N° 1054 Serie B folio 11357. Matrícula Jurídica 15.425 / Comercial 15.698.",
+  "fuente": {
+   "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+   "pagina": 1
+  }
+ },
+ "domicilio": [
+  {
+   "direccion": "Avda. Santa Teresa N° 1827 e/ Aviadores del Chaco y Herminio Maldonado, Torres del Paseo La Galería, Torre 3, Piso 11, Asunción",
+   "fecha_dato": "2026-07-13",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 42.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": "Elaboración, producción y venta de software; prestación cualificada de servicios de confianza; equipos informáticos; asesoría y servicios informáticos; además comerciales, inmobiliarias, agropecuarias, participaciones en otras sociedades, representaciones, transporte.",
+ "actividad_principal": "tecnología",
+ "plazo_duracion": "99 años",
+ "capital": [
+  {
+   "tipo": "autorizado",
+   "monto": 500000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 500000,
+   "fecha_dato": "2026-01-02",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+    "pagina": 1
+   },
+   "nota": "Aumento de Gs. 250.000 M a 500.000 M aprobado en Asamblea Extraordinaria N° 39 (12/05/2025), Esc. N° 1 del 13/01/2026."
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 250000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 250000,
+   "fecha_dato": "2026-01-02",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 250000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 250000,
+   "fecha_dato": "2026-01-02",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 401201000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 401201,
+   "fecha_dato": "2026-10-02",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 2
+   },
+   "nota": "Suma de títulos del registro folio 6."
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "Grupo Vázquez S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 21878,
+   "clase_acciones": "OVS",
+   "votos": 21878,
+   "porcentaje": 17.52,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-05-12",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Asamblea Extraordinaria N° 39 (presentes 88.196 acciones = 70,64% del capital)."
+  },
+  {
+   "nombre": "Grupo Vázquez S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 30000,
+   "clase_acciones": "OVM (5 votos)",
+   "votos": 150000,
+   "porcentaje": 24.03,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-05-12",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Idem."
+  },
+  {
+   "nombre": "Grupo Vázquez S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 28741,
+   "clase_acciones": "Preferidas Serie A (convertidas a OVM por la misma asamblea)",
+   "votos": 0,
+   "porcentaje": 23.02,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-05-12",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Idem."
+  },
+  {
+   "nombre": "Ueno Seguros S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80004049-0 (según base)",
+   "nacionalidad": "paraguaya",
+   "acciones": 7577,
+   "clase_acciones": "OVS",
+   "votos": 7577,
+   "porcentaje": 6.07,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-05-12",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 5
+   },
+   "confianza": "alta",
+   "notas": "Idem."
+  },
+  {
+   "nombre": "Grupo Vázquez S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 236018,
+   "clase_acciones": "OVS/OVM y preferidas (28.741)",
+   "votos": null,
+   "porcentaje": 94.4072,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-01-02",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Registro folio 8 (capital suscripto 250.000 acciones)."
+  },
+  {
+   "nombre": "Business & Financial Group S.A.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 6405,
+   "clase_acciones": "OVS",
+   "votos": null,
+   "porcentaje": 2.562,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-01-02",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Domicilio Avda. Mcal. López 3811 c/ Dr. Morra."
+  },
+  {
+   "nombre": "Ueno Seguros S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80004049-0 (según base)",
+   "nacionalidad": "paraguaya",
+   "acciones": 7577,
+   "clase_acciones": "OVS",
+   "votos": null,
+   "porcentaje": 3.0308,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-01-02",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Títulos comprados a GV (23/03/2023) e integrados."
+  },
+  {
+   "nombre": "Grupo Vázquez S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 236018,
+   "clase_acciones": "OVM 150.000 + OVS 86.018",
+   "votos": 836018,
+   "porcentaje": 94.41,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-13",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 42.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Acta Asamblea Ordinaria N° 42: GV OVM 150.000 (60%, 88,24% votos) + OVS 86.018 (34,41%); no lista a Business & Financial Group."
+  },
+  {
+   "nombre": "Ueno Seguros S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80004049-0 (según base)",
+   "nacionalidad": "paraguaya",
+   "acciones": 7577,
+   "clase_acciones": "OVS",
+   "votos": 7577,
+   "porcentaje": 3.03,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-07-13",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 42.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Acta N° 42 (0,89% votos)."
+  },
+  {
+   "nombre": "Grupo Vázquez S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 378764,
+   "clase_acciones": "OVS/OVM",
+   "votos": null,
+   "porcentaje": 94.4075,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-30",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Registro folio 5 al 30/09/2026 (total 401.201 acciones)."
+  },
+  {
+   "nombre": "Business & Financial Group S.A.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 10278,
+   "clase_acciones": "OVS",
+   "votos": null,
+   "porcentaje": 2.5618,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-30",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "Ueno Seguros S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80004049-0 (según base)",
+   "nacionalidad": "paraguaya",
+   "acciones": 12159,
+   "clase_acciones": "OVS",
+   "votos": null,
+   "porcentaje": 3.0307,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-09-30",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "Grupo Vázquez S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 310764,
+   "clase_acciones": "OVS/OVM",
+   "votos": null,
+   "porcentaje": 77.4584,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Folio 06 al 02/10/2026: vende 68.000 OVS a U Paraguay."
+  },
+  {
+   "nombre": "Ueno Bank S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80026157-7",
+   "nacionalidad": "paraguaya",
+   "acciones": 68000,
+   "clase_acciones": "OVS (acc. 328.620-396.619)",
+   "votos": null,
+   "porcentaje": 16.9491,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "GV vende a U Paraguay el 02/10/2026 y U Paraguay cede a Ueno Bank el mismo día. Domicilio Avda Santa Teresa esq. Concejal Vargas."
+  },
+  {
+   "nombre": "Ueno Seguros S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80004049-0 (según base)",
+   "nacionalidad": "paraguaya",
+   "acciones": 12159,
+   "clase_acciones": "OVS",
+   "votos": null,
+   "porcentaje": 3.0307,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "Business & Financial Group S.A.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 10278,
+   "clase_acciones": "OVS",
+   "votos": null,
+   "porcentaje": 2.5618,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-10-02",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": ""
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Cesar Manuel Astigarraga Lambaré",
+   "documento": "CI 3.807.117",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 42.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Ya era Director Presidente en mayo 2025."
+  },
+  {
+   "nombre": "Guillermo Vázquez Muniagurria",
+   "documento": "CI 3.799.529",
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 42.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Director titular según Acta N° 38 (23/04/2025); firma digitalmente los registros."
+  },
+  {
+   "nombre": "Bernardo José Algorta Rey",
+   "documento": "CI 7.375.741 (dato del acta de Oniria)",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 42.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Adriana Vázquez Muniagurria",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 42.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Marta Marin de Daumas",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2026-07-13",
+   "vigencia": null,
+   "fecha_dato": "2026-07-13",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 42.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Luis Ernesto Angulo Rivera",
+   "documento": "CI 8.307.881",
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2025-04-23",
+   "vigencia": "reemplazado 13/07/2026",
+   "fecha_dato": "2026-01-13",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Salvadoreño."
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "2004-09-13",
+   "evento": "constitucion",
+   "detalle": "IT Consultores Tecnología y Organización S.R.L. (Esc. N° 49).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2011-10-18",
+   "evento": "cambio_denominacion",
+   "detalle": "Pasa a S.A. (Esc. N° 42).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2021-01-27",
+   "evento": "cambio_denominacion",
+   "detalle": "Pasa a ITTI S.A.E.C.A. (Esc. N° 9).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "fecha": "2021-12-31",
+   "evento": "transferencia_acciones",
+   "detalle": "Fernando Bazán vende acciones 1-1.400 a Grupo Vázquez; GV vende 11.902 preferidas a Jack Samy Fleischman Benathan (17/12/2021), que las revende a GV el 16/05/2025.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2022-09-27",
+   "evento": "fusion",
+   "detalle": "Fusión por absorción de J. Fleischman & Cía S.A.E.C.A. (Esc. N° 103).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 4
+   }
+  },
+  {
+   "fecha": "2023-03-23",
+   "evento": "transferencia_acciones",
+   "detalle": "GV vende acciones a Ueno Seguros (ex Alfa Seguros).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-05-12",
+   "evento": "modificacion_estatutos",
+   "detalle": "Asamblea Extraordinaria N° 39: conversión de preferidas Clase A a OVM; cambio a S.A.E.; capital a Gs. 500.000 M. Esc. N° 1 del 13/01/2026 (inscripta 06/02/2026).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+    "pagina": 5
+   }
+  },
+  {
+   "fecha": "2025-12-01",
+   "evento": "aumento_capital",
+   "detalle": "Integración de aportes de GV (acta de directorio 341): acciones 124.840-250.000.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-07-13",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea Ordinaria N° 42: Pres. Astigarraga, VP Guillermo Vázquez, Dir. Algorta, Sups. Adriana Vázquez y Marta Marin de Daumas.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 42.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-10-02",
+   "evento": "transferencia_acciones",
+   "detalle": "GV vende 68.000 OVS a U Paraguay, que las cede a Ueno Bank el mismo día.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 2
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "Grupo Vázquez S.A.E.",
+   "tipo": "accionista_de",
+   "detalle": "Controlante (77-94%).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Ueno Seguros S.A.",
+   "tipo": "accionista_de",
+   "detalle": "Accionista ~3%.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Ueno Bank S.A.",
+   "tipo": "accionista_de",
+   "detalle": "Recibe 68.000 acciones (16,95%) el 02/10/2026 vía U Paraguay; el mismo día Ueno Bank cede 68.000 preferidas de Redipro a U Paraguay (posible permuta).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "U Paraguay S.A.",
+   "tipo": "mencion_en_documento",
+   "detalle": "Intermediario de la transferencia GV -> Ueno Bank.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Business & Financial Group S.A.",
+   "tipo": "accionista_de",
+   "detalle": "Accionista ~2,56%.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Tiva S.A. / Intertours S.A. / Kostas Viajes S.R.L. / Redipro",
+   "tipo": "participada",
+   "detalle": "ITTI es accionista de Tiva (60%), Intertours (70%), Kostas (98,94%) y fue accionista de Redipro.",
+   "fuente": null
+  },
+  {
+   "entidad_o_persona": "Jack Samy Fleischman Benathan / J. Fleischman & Cía S.A.E.C.A.",
+   "tipo": "otro",
+   "detalle": "Ex accionista; sociedad absorbida 2022.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Franklin Boccia",
+   "tipo": "mencion_en_documento",
+   "detalle": "Apoderado de Ueno Seguros en asambleas.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 42.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "LEGALES@ITTI.DIGITAL",
+   "telefono": null,
+   "fecha": "2026-08-18",
+   "fuente": {
+    "archivo": "CONSTANCIA RA.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "correos_dominios": [
+  "itti.digital"
+ ],
+ "documentos": [
+  {
+   "archivo": "ACTA ORDINARIA NRO 42.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-07-13",
+   "paginas": 2,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Asamblea Ordinaria N° 42: GV 236.018, Ueno Seguros 7.577; nuevo directorio. Firmada digitalmente por G. Vázquez Muniagurria."
+  },
+  {
+   "archivo": "ACTA ORDINARIA NRO 42 (2).pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-07-13",
+   "paginas": 2,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Duplicado escaneado sin firma digital."
+  },
+  {
+   "archivo": "CONSTANCIA RA.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-10-08",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 27028 (presentada 18/08/2026)."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICACION NRO 1.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2026-01-13",
+   "paginas": 48,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Esc. N° 1 (M. T. López de Aponte): transcribe Asamblea Extraordinaria N° 39; cambio a S.A.E.; capital Gs. 500.000 M; historial societario."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICACION NRO 1 (2).pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2026-01-13",
+   "paginas": 48,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Duplicado de la Esc. N° 1."
+  },
+  {
+   "archivo": "REGISTRO ACCIONISTAS FOLIO 5.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-10-02",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "Folios 05 (30/09/2026) y 06 (02/10/2026)."
+  },
+  {
+   "archivo": "REGISTRO ACCIONISTAS FOLIO 8.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-01-02",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "Folio 08 (02/01/2026): 250.000 acciones."
+  }
+ ],
+ "observaciones": [
+  "No se remitió constancia BF de ITTI; la constancia RA es un resumen.",
+  "Acta N° 42 (jul-2026) no incluye a Business & Financial Group S.A. (6.405 acc. según registro) y reparte las clases de GV distinto al registro.",
+  "El folio 5 lleva fecha 30/09/2026 y totaliza 401.201 acciones, excediendo el capital suscripto de 250.000 del folio 8 sin documento de emisión; fila '25001 al 253373' (debería ser 250001).",
+  "Transferencia de 68.000 acciones GV -> U Paraguay -> Ueno Bank el 02/10/2026 coincide en fecha y cantidad con la cesión de 68.000 preferidas de Redipro de Ueno Bank a U Paraguay.",
+  "Ueno Seguros figura también como 'Alfa Seguros' y 'ueno de Seguros'."
+ ]
+}

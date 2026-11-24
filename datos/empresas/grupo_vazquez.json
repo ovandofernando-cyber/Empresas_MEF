@@ -1,0 +1,428 @@
+{
+  "id": "grupo_vazquez",
+  "razon_social": "GRUPO VAZQUEZ S.A.E.",
+  "ruc": "80086759-9",
+  "tipo": "S.A.E.",
+  "carpeta_mef": "Grupo Vazquez SAE",
+  "denominaciones_anteriores": [
+    {
+      "nombre": "F.M.V.V. S.A.I.C.A.G.",
+      "hasta": "2020-05-22",
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": "2-3"
+      }
+    }
+  ],
+  "constitucion": {
+    "fecha": "2014-10-21",
+    "escritura": "N° 55",
+    "escribano": "Blanca Cilda Núñez Noguera",
+    "inscripcion_registro_publico": "DGRP Personas Jurídicas y Asociaciones N° 915, folio 1777, Serie C; Registro Público de Comercio N° 1541, folio 18598, Serie I; 29-10-2014. Matrícula Jurídica N° 8848 / Matrícula Comercial N° 9224",
+    "fuente": {
+      "archivo": "Escritura Pública 131.pdf",
+      "pagina": 2
+    },
+    "confianza": "alta"
+  },
+  "domicilio": [
+    {
+      "direccion": "AVDA. SANTA TERESA (Torres del Paseo, Torre 2, Piso 25 según otros documentos del grupo)",
+      "fecha_dato": "2026-08-13",
+      "fuente": {
+        "archivo": "Constancia de Registro Administrativo.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "objeto_social": null,
+  "actividad_principal": "sociedad holding del grupo Vázquez (controlante de ITTI, U Paraguay, Ueno Bank, etc.)",
+  "plazo_duracion": null,
+  "capital": [
+    {
+      "tipo": "integrado",
+      "monto": 500000000000,
+      "moneda": "PYG",
+      "valor_nominal_accion": 100000000,
+      "cantidad_acciones": 5000,
+      "fecha_dato": "2026-03-27",
+      "fuente": {
+        "archivo": "Libro de registro de accionistas.pdf",
+        "pagina": 25
+      },
+      "notas": "Suma del registro: 3777 OVM (5 votos) + 1223 OVS = 5000 acciones (calculado)."
+    }
+  ],
+  "accionistas": [
+    {
+      "nombre": "FEDERICO MIGUEL VÁZQUEZ VILLASANTI",
+      "tipo_persona": "fisica",
+      "documento": "CI 2.941.546 (de otras constancias)",
+      "nacionalidad": "paraguaya",
+      "acciones": 3797,
+      "clase_acciones": "3777 OVM (5 votos) + 20 OVS",
+      "votos": 18905,
+      "porcentaje": 75.94,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-03-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Libro de registro de accionistas.pdf",
+        "pagina": 25
+      },
+      "confianza": "media",
+      "notas": "≈94% de los votos (18.905 de 20.108, calculado). Registro manuscrito rotado; lectura de imagen."
+    },
+    {
+      "nombre": "GUILLERMO VÁZQUEZ MUNIAGURRIA",
+      "tipo_persona": "fisica",
+      "documento": "CI 3.799.529",
+      "nacionalidad": "paraguaya",
+      "acciones": 401,
+      "clase_acciones": "OVS",
+      "votos": 401,
+      "porcentaje": 8.02,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-03-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Libro de registro de accionistas.pdf",
+        "pagina": 25
+      },
+      "confianza": "media",
+      "notas": "Integración 26-03-2026 (Acta de Directorio 465)."
+    },
+    {
+      "nombre": "ADRIANA VÁZQUEZ MUNIAGURRIA",
+      "tipo_persona": "fisica",
+      "documento": "CI 3.224.279 (de listado BF de Red Digital)",
+      "nacionalidad": "paraguaya",
+      "acciones": 401,
+      "clase_acciones": "OVS",
+      "votos": 401,
+      "porcentaje": 8.02,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-03-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Libro de registro de accionistas.pdf",
+        "pagina": 25
+      },
+      "confianza": "media",
+      "notas": "Integración 26-03-2026 (Acta de Directorio 465)."
+    },
+    {
+      "nombre": "REBECA ELIZABETH VILLASANTI FARIÑA",
+      "tipo_persona": "fisica",
+      "documento": null,
+      "nacionalidad": null,
+      "acciones": 401,
+      "clase_acciones": "OVS",
+      "votos": 401,
+      "porcentaje": 8.02,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2026-03-27",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Libro de registro de accionistas.pdf",
+        "pagina": 25
+      },
+      "confianza": "media",
+      "notas": "Ausente en la Asamblea N° 31."
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "FEDERICO MIGUEL VÁZQUEZ VILLASANTI",
+      "documento": "CI 2.941.546 (de otras constancias)",
+      "cargo": "Presidente",
+      "fecha_asuncion": "2026-07-13",
+      "vigencia": null,
+      "fecha_dato": "2026-07-13",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de asamblea ordinaria N° 31.pdf",
+        "pagina": 2
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "GUILLERMO VÁZQUEZ MUNIAGURRIA",
+      "documento": "CI 3.799.529",
+      "cargo": "Vicepresidente",
+      "fecha_asuncion": "2026-07-13",
+      "vigencia": null,
+      "fecha_dato": "2026-07-13",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de asamblea ordinaria N° 31.pdf",
+        "pagina": 2
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "JULIO REY (JULIO DANIEL REY FERNÁNDEZ)",
+      "documento": "CI 1.417.970 (de listado BF de Red Digital)",
+      "cargo": "Director titular",
+      "fecha_asuncion": "2026-07-13",
+      "vigencia": null,
+      "fecha_dato": "2026-07-13",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de asamblea ordinaria N° 31.pdf",
+        "pagina": 2
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "BERNARDO JOSÉ ALGORTA REY",
+      "documento": "CI 7.375.741",
+      "cargo": "Director titular",
+      "fecha_asuncion": "2026-07-13",
+      "vigencia": null,
+      "fecha_dato": "2026-07-13",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de asamblea ordinaria N° 31.pdf",
+        "pagina": 2
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "MARIANA TORRES (MARIANA ISABEL TORRES RUBIANI)",
+      "documento": "CI 2.035.857 (de listado BF de Red Digital)",
+      "cargo": "Director titular",
+      "fecha_asuncion": "2026-07-13",
+      "vigencia": null,
+      "fecha_dato": "2026-07-13",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de asamblea ordinaria N° 31.pdf",
+        "pagina": 2
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "ADRIANA VÁZQUEZ MUNIAGURRIA",
+      "documento": "CI 3.224.279",
+      "cargo": "Director suplente",
+      "fecha_asuncion": "2026-07-13",
+      "vigencia": null,
+      "fecha_dato": "2026-07-13",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de asamblea ordinaria N° 31.pdf",
+        "pagina": 2
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "LAURA VARGAS DE VÁZQUEZ",
+      "documento": "CI 3.504.715 (Laura Vargas Wildberger, listado BF Red Digital)",
+      "cargo": "Director suplente",
+      "fecha_asuncion": "2026-07-13",
+      "vigencia": null,
+      "fecha_dato": "2026-07-13",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Acta de asamblea ordinaria N° 31.pdf",
+        "pagina": 2
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "GUILLERMO VÁZQUEZ MUNIAGURRIA",
+      "documento": "CI 3.799.529",
+      "cargo": "Director",
+      "fecha_asuncion": "2025-04-28",
+      "vigencia": "Asamblea N° 23",
+      "fecha_dato": "2025-07-16",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "BERNARDO JOSÉ ALGORTA REY",
+      "documento": "CI 7.375.741 (uruguayo)",
+      "cargo": "Director",
+      "fecha_asuncion": "2025-04-28",
+      "vigencia": "Asamblea N° 23",
+      "fecha_dato": "2025-07-16",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": "1-2"
+      },
+      "confianza": "media"
+    }
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {
+      "fecha": "2014-10-21",
+      "evento": "constitucion",
+      "detalle": "Constituida como F.M.V.V. S.A.I.C.A.G. (Esc. 55, Esc. Blanca Cilda Núñez Noguera); modificación por Esc. 30 del 27-03-2017.",
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": 2
+      }
+    },
+    {
+      "fecha": "2020-05-22",
+      "evento": "cambio_denominacion",
+      "detalle": "Esc. 43: pasa a GRUPO VAZQUEZ S.A.E. (inscripta 04-06-2020).",
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": 3
+      }
+    },
+    {
+      "fecha": "2020-12-28",
+      "evento": "fusion",
+      "detalle": "Esc. 117: absorbe a ELECTROLAR S.A.",
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": 3
+      }
+    },
+    {
+      "fecha": "2023-10-05",
+      "evento": "modificacion_estatutos",
+      "detalle": "Esc. 325 (Esc. José María Livieres Guggiari): modificación arts. 5, 7 y 12 (inscripta 22-11-2023).",
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": 3
+      }
+    },
+    {
+      "fecha": "2025-06-19",
+      "evento": "modificacion_estatutos",
+      "detalle": "Esc. 98: modificación de estatutos (inscripta 16-07-2025).",
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": "1-2"
+      }
+    },
+    {
+      "fecha": "2025-07-16",
+      "evento": "fusion",
+      "detalle": "Esc. 131 (Esc. María Teresa López de Aponte, Reg. 637): absorbe a UENO HOLDING S.A.E.C.A. (RUC 80011000-5) según compromiso de fusión del 30-06-2025. Términos de canje no relevados.",
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2026-03-27",
+      "evento": "aumento_capital",
+      "detalle": "Capitalización de dividendos (Asamblea 18-03-2026, Acta de Directorio 466) e integraciones de Adriana y Guillermo Vázquez Muniagurria (26-03-2026, Acta 465).",
+      "fuente": {
+        "archivo": "Libro de registro de accionistas.pdf",
+        "pagina": 25
+      }
+    },
+    {
+      "fecha": "2026-07-13",
+      "evento": "cambio_directorio",
+      "detalle": "Asamblea Ordinaria N° 31: nuevo directorio presidido por Federico Miguel Vázquez Villasanti.",
+      "fuente": {
+        "archivo": "Acta de asamblea ordinaria N° 31.pdf",
+        "pagina": 2
+      }
+    }
+  ],
+  "vinculos": [
+    {
+      "entidad_o_persona": "UENO HOLDING S.A.E.C.A. (RUC 80011000-5)",
+      "tipo": "participada",
+      "detalle": "Absorbida por fusión (Esc. 131, 16-07-2025).",
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "U PARAGUAY S.A. (RUC 80135001-8)",
+      "tipo": "participada",
+      "detalle": "32.109 acciones (2,01%) capitalizadas el 25-09-2026 + 1 acción en copropiedad con Miguel Vázquez; en las asambleas del 21-07-2025 figura con 70,36% de votos.",
+      "fuente": {
+        "archivo": "(carpeta U PARAGUAY S.A) REGISTRO ACCIONISTAS 25-09-2026.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "ITTI S.A.E.C.A. (RUC 80028355-4)",
+      "tipo": "participada",
+      "detalle": "Cadena de control declarada en BF de Kaitel: WOM 77 → ITTI → Grupo Vázquez.",
+      "fuente": {
+        "archivo": "(carpeta KAITEL SRL) CONSTANCIA BF NRO 389461.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "GRUPO HENDY S.A. / RED DIGITAL S.A.",
+      "tipo": "participada",
+      "detalle": "Fue accionista de Grupo Hendy (19 acciones, 2013-2025) y figura en el listado BF de Red Digital.",
+      "fuente": {
+        "archivo": "(carpeta GRUPO HENDY  S.A) REGISTRO ACCIONISTAS.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "entidad_o_persona": "MARÍA TERESA LÓPEZ DE APONTE (Esc., Reg. 637)",
+      "tipo": "otro",
+      "detalle": "Misma escribana en U Paraguay (Esc. 84), Nubicom Paraguay (Esc. 83) y otras sociedades del grupo.",
+      "fuente": {
+        "archivo": "Escritura Pública 131.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "declarantes_siara": [],
+  "correos_dominios": [
+    "grupovazquez.com"
+  ],
+  "documentos": [
+    {
+      "archivo": "Constancia de Registro Administrativo.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2026-08-13",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Constancia RA N° 24129 (actualización anual, expedida 23-09-2026): solo datos de cabecera."
+    },
+    {
+      "archivo": "Libro de registro de accionistas.pdf",
+      "tipo": "registro_accionistas",
+      "fecha": "2026-03-27",
+      "paginas": 25,
+      "legibilidad": "escaneado",
+      "resumen": "Registro manuscrito; folio final con 5000 acciones (F. M. Vázquez Villasanti 3777 OVM + 20 OVS; tres familiares 401 OVS c/u)."
+    },
+    {
+      "archivo": "Acta de asamblea ordinaria N° 31.pdf",
+      "tipo": "acta_asamblea",
+      "fecha": "2026-07-13",
+      "paginas": null,
+      "legibilidad": "escaneado",
+      "resumen": "Elección de directorio."
+    },
+    {
+      "archivo": "Escritura Pública 131.pdf",
+      "tipo": "escritura",
+      "fecha": "2025-07-16",
+      "paginas": 88,
+      "legibilidad": "escaneado",
+      "resumen": "Fusión por absorción de Ueno Holding S.A.E.C.A.; leídas solo páginas 1-10 y 25."
+    }
+  ],
+  "observaciones": [
+    "Sin constancia de BF en la carpeta; por el registro, Federico Miguel Vázquez Villasanti controla ≈76% del capital y ≈94% de los votos (cálculo propio).",
+    "Registro de accionistas manuscrito y escaneado en orientación rotada: cantidades leídas de imagen (confianza media).",
+    "La constancia RA 2026 no trae socios ni autoridades (formato nuevo de solo cabecera).",
+    "Escritura 131 (88 págs.) no leída íntegramente: faltan relación de canje y balances de fusión."
+  ]
+}

@@ -1,0 +1,850 @@
+{
+ "id": "franede",
+ "razon_social": "FRANEDE S.A.",
+ "ruc": "80003700-6",
+ "tipo": "Sociedad Anónima",
+ "carpeta_mef": "FRANEDE S.A",
+ "denominaciones_anteriores": [],
+ "constitucion": {
+  "fecha": "1954-08-24",
+  "escritura": "N° 53 (Contrato social 'Franede Sociedad Anónima')",
+  "escribano": "Calixto F. González",
+  "inscripcion_registro_publico": "Estatutos aprobados por el Poder Ejecutivo el 13/11/1954; inscripta en DGRP Sección Comercio N° 486, pág. 146 (27/11/1954). Reinscripción por escritura N° 53 del 27/11/2004 (Not. César D. Ferreira Armoa, Reg. 1005)",
+  "fuente": {
+   "archivo": "ESCRITURA CONSTITUCION.pdf",
+   "pagina": 3
+  },
+  "confianza": "media"
+ },
+ "domicilio": [
+  {
+   "direccion": "AVDA ESPAÑA 1725 (Asunción)",
+   "fecha_dato": "2025-07-07",
+   "fuente": {
+    "archivo": "Constancia RA 2025.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Avda. España 1925 esq. Pitiantuta, Asunción",
+   "fecha_dato": "2026-04-23",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 78.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Avenida Santa Teresa N° 1.827 (domicilio de los accionistas en el registro)",
+   "fecha_dato": "2025-06-30",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 2.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "ENCARNACION (dirección declarada en la constancia BF)",
+   "fecha_dato": "2025-08-28",
+   "fuente": {
+    "archivo": "Constancia BF 2025.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": "Operaciones comerciales, importación, exportación, comisiones, representaciones, consignaciones, industrias, participación en sociedades, compraventa de inmuebles, préstamos y todo acto de comercio lícito (estatuto 1954).",
+ "actividad_principal": "comercial / inversiones (genérico)",
+ "plazo_duracion": "50 años desde la aprobación (1954), prorrogable",
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 4000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 10000,
+   "cantidad_acciones": 400,
+   "fecha_dato": "1954-08-24",
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 5
+   },
+   "notas": "Capital autorizado Gs. 8.000.000."
+  },
+  {
+   "tipo": "social",
+   "monto": 600000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 600,
+   "fecha_dato": "2015-03-13",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 9.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "tipo": "social",
+   "monto": 2628000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 2628,
+   "fecha_dato": "2015-03-13",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 9.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 2628000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 2628,
+   "fecha_dato": "2025-07-07",
+   "fuente": {
+    "archivo": "Constancia RA 2025.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 2628000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 1000000,
+   "cantidad_acciones": 2628,
+   "fecha_dato": "2025-07-07",
+   "fuente": {
+    "archivo": "Constancia RA 2025.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "Ramón Zacur",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "al portador",
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "1954-08-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 3
+   },
+   "confianza": "media",
+   "notas": "Socio fundador compareciente (escritura N° 53 de 1954); la distribución de las 400 acciones iniciales no fue extraída."
+  },
+  {
+   "nombre": "Elías Bazás",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "al portador",
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "1954-08-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 3
+   },
+   "confianza": "media",
+   "notas": "Socio fundador compareciente (escritura N° 53 de 1954); la distribución de las 400 acciones iniciales no fue extraída."
+  },
+  {
+   "nombre": "Abrahan Bittar",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "al portador",
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "1954-08-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Socio fundador compareciente (escritura N° 53 de 1954); la distribución de las 400 acciones iniciales no fue extraída."
+  },
+  {
+   "nombre": "Alberto Bittar",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "al portador",
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "1954-08-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Socio fundador compareciente (escritura N° 53 de 1954); la distribución de las 400 acciones iniciales no fue extraída."
+  },
+  {
+   "nombre": "Elías David",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "al portador",
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "1954-08-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Socio fundador compareciente (escritura N° 53 de 1954); la distribución de las 400 acciones iniciales no fue extraída."
+  },
+  {
+   "nombre": "Ernesto David",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "al portador",
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "1954-08-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Socio fundador compareciente (escritura N° 53 de 1954); la distribución de las 400 acciones iniciales no fue extraída."
+  },
+  {
+   "nombre": "Nicolás Gamarra",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "al portador",
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "1954-08-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Socio fundador compareciente (escritura N° 53 de 1954); la distribución de las 400 acciones iniciales no fue extraída."
+  },
+  {
+   "nombre": "Carmelo Nazer",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "al portador",
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "1954-08-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Socio fundador compareciente (escritura N° 53 de 1954); la distribución de las 400 acciones iniciales no fue extraída."
+  },
+  {
+   "nombre": "Juan Arturo Lavigne",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "al portador",
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "1954-08-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Socio fundador compareciente (escritura N° 53 de 1954); la distribución de las 400 acciones iniciales no fue extraída."
+  },
+  {
+   "nombre": "Elías Abraham Saba",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": "al portador",
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "1954-08-24",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 4
+   },
+   "confianza": "media",
+   "notas": "Socio fundador compareciente (escritura N° 53 de 1954); la distribución de las 400 acciones iniciales no fue extraída."
+  },
+  {
+   "nombre": "Lilian Graciela Bittar David",
+   "tipo_persona": "fisica",
+   "documento": "CI 619.061",
+   "nacionalidad": "paraguaya",
+   "acciones": 2430,
+   "clase_acciones": "nominativas",
+   "votos": 2430,
+   "porcentaje": 92.47,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2019-09-16",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACIÒN NRO 41.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Según Acta de Directorio N° 205 transcripta en escritura N° 41."
+  },
+  {
+   "nombre": "Oscar Amado Bittar David",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 66,
+   "clase_acciones": "nominativas",
+   "votos": 66,
+   "porcentaje": 2.51,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2019-09-16",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACIÒN NRO 41.pdf",
+    "pagina": 2
+   },
+   "confianza": "media",
+   "notas": "Según Acta de Directorio N° 205 transcripta en escritura N° 41. OCR leyó '866'; se asume 66 para que el total sea 2.628."
+  },
+  {
+   "nombre": "Carlos Alberto Bittar",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 66,
+   "clase_acciones": "nominativas",
+   "votos": 66,
+   "porcentaje": 2.51,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2019-09-16",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACIÒN NRO 41.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Según Acta de Directorio N° 205 transcripta en escritura N° 41."
+  },
+  {
+   "nombre": "María Gloria Bittar David",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 66,
+   "clase_acciones": "nominativas",
+   "votos": 66,
+   "porcentaje": 2.51,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2019-09-16",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACIÒN NRO 41.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Según Acta de Directorio N° 205 transcripta en escritura N° 41."
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 2618,
+   "clase_acciones": "OVS (ordinarias voto simple)",
+   "votos": 2618,
+   "porcentaje": 99.62,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-06-30",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 2.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Folio 2: títulos 1 (66), 2 (2.430), 3 (66), 4 (56), domicilio Avda. Santa Teresa 1.827; todos transferidos a Mauro Vargas el 30/06/2025. No consta cuándo/cómo adquirió las acciones de la familia Bittar."
+  },
+  {
+   "nombre": "FRANEDE S.A. (acciones propias)",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80003700-6",
+   "nacionalidad": "paraguaya",
+   "acciones": 10,
+   "clase_acciones": "OVS (ordinarias voto simple)",
+   "votos": 10,
+   "porcentaje": 0.38,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-04-23",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 2.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Título 5 (acciones 2.619-2.628), suscripción 13.03.2015; declarado como socio en SIARA (0,38%)."
+  },
+  {
+   "nombre": "MAURO VARGAS WILDBERGER",
+   "tipo_persona": "fisica",
+   "documento": "CI 2.178.019 (RUC 2178019-6)",
+   "nacionalidad": "paraguaya",
+   "acciones": 2618,
+   "clase_acciones": "OVS (ordinarias voto simple)",
+   "votos": 2618,
+   "porcentaje": 99.62,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-04-23",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 78.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Folio 3 del registro y Acta N° 78 (23/04/2026). En SIARA declarado como 'MAURO VARGAS', empresario, Asunción; 2.618 acciones de Gs. 1.000.000 (99,62%)."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Lilian Graciela Bittar David",
+   "documento": "CI 619.061",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2019-05-28",
+   "vigencia": null,
+   "fecha_dato": "2019-09-20",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACIÒN NRO 41.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Designada por Acta N° 71 del 28/05/2019; también presidenta en 2015 (Acta N° 65)."
+  },
+  {
+   "nombre": "MAURO VARGAS (Mauro Vargas Wildberger)",
+   "documento": "CI 2.178.019",
+   "cargo": "Presidente - Director titular; Representante legal",
+   "fecha_asuncion": "2025-06-30",
+   "vigencia": "Hasta la próxima asamblea",
+   "fecha_dato": "2025-07-07",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2025.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "CECILIA DOMINGUEZ (Cecilia María Domínguez Elizeche)",
+   "documento": "CI 2.887.717",
+   "cargo": "Directora titular",
+   "fecha_asuncion": "2025-06-30",
+   "vigencia": "Hasta la próxima asamblea",
+   "fecha_dato": "2025-07-07",
+   "vigente": false,
+   "fuente": {
+    "archivo": "Constancia RA 2025.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Domicilio Encarnación."
+  },
+  {
+   "nombre": "Mauro Vargas",
+   "documento": "CI 2.178.019",
+   "cargo": "Presidente (Director Presidente)",
+   "fecha_asuncion": "2026-04-23",
+   "vigencia": null,
+   "fecha_dato": "2026-04-23",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 78.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Cecilia Dominguez",
+   "documento": "CI 2.887.717",
+   "cargo": "Vicepresidente (Director Vicepresidente)",
+   "fecha_asuncion": "2026-04-23",
+   "vigencia": null,
+   "fecha_dato": "2026-04-23",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 78.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Raquel Monzón Villasanti",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2026-04-23",
+   "vigencia": null,
+   "fecha_dato": "2026-04-23",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 78.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Designada en el acta, pero firma como Síndico Titular 'Mónica Gadea'."
+  },
+  {
+   "nombre": "Mónica Gadea",
+   "documento": null,
+   "cargo": "Síndico titular (firmante del acta N° 78)",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2026-04-23",
+   "vigente": null,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 78.pdf",
+    "pagina": 2
+   },
+   "confianza": "media"
+  },
+  {
+   "nombre": "Guillermo Vázquez",
+   "documento": null,
+   "cargo": "Presidente de Asamblea designado (Acta N° 78)",
+   "fecha_asuncion": "2026-04-23",
+   "vigencia": null,
+   "fecha_dato": "2026-04-23",
+   "vigente": null,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 78.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "El texto lo designa presidente de la asamblea, pero el acta la firma Mauro Vargas como 'Presidente de Asamblea y Accionista'."
+  }
+ ],
+ "beneficiarios_finales": [
+  {
+   "nombre": "MAURO VARGAS (Mauro Vargas Wildberger)",
+   "documento": "CI 2.178.019 (RUC 2178019-6)",
+   "nacionalidad": "paraguaya",
+   "domicilio": "Asunción",
+   "porcentaje": 99.62,
+   "tipo_control": "beneficiario final directo (propiedad, A); 99,62% votos",
+   "cadena_control": null,
+   "fecha_dato": "2025-08-28",
+   "fuente": {
+    "archivo": "Constancia BF 2025.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Nacido 08-07-1987, empresario; BF desde 30-6-2025."
+  },
+  {
+   "nombre": "CECILIA MARIA DOMINGUEZ ELIZECHE",
+   "documento": "CI 2.887.717",
+   "nacionalidad": "paraguaya",
+   "domicilio": null,
+   "porcentaje": null,
+   "tipo_control": null,
+   "cadena_control": null,
+   "fecha_dato": null,
+   "fuente": {
+    "archivo": "Registro de Beneficiarios Finales declarado en el SIARA en proceso de aprobación.pdf",
+    "pagina": 1
+   },
+   "confianza": "media",
+   "notas": "Declarada en SIARA 'en proceso de aprobación' (captura de pantalla, sin porcentaje), correo LEGALES@ITTI.DIGITAL."
+  },
+  {
+   "nombre": "MAURO VARGAS WILDBERGER",
+   "documento": "CI 2.178.019",
+   "nacionalidad": "paraguaya",
+   "domicilio": null,
+   "porcentaje": null,
+   "tipo_control": null,
+   "cadena_control": null,
+   "fecha_dato": null,
+   "fuente": {
+    "archivo": "Registro de Beneficiarios Finales declarado en el SIARA en proceso de aprobación.pdf",
+    "pagina": 1
+   },
+   "confianza": "media",
+   "notas": "Declaración en proceso de aprobación; correo SERVICIOSSOCIETARIOS@GMAIL.COM."
+  }
+ ],
+ "historial": [
+  {
+   "fecha": "1954-08-24",
+   "evento": "constitucion",
+   "detalle": "Escritura N° 53 ante Calixto F. González; 10 comparecientes (familias Bittar, David, Zacur, Nazer, etc.); capital Gs. 4.000.000.",
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "fecha": "2004-09-09",
+   "evento": "aumento_capital",
+   "detalle": "Escritura N° 49 (Esc. César David Ferreira Armoa): modificación de estatutos, aumento de capital y emisión de acciones.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACIÒN NRO 41.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2004-11-27",
+   "evento": "otro",
+   "detalle": "Escritura N° 53: reinscripción de la sociedad (Not. César D. Ferreira Armoa).",
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2015-03-13",
+   "evento": "aumento_capital",
+   "detalle": "Escritura N° 09 (Esc. Graciela Carolina Espínola Fernández): aumento de Gs. 600.000.000 a Gs. 2.628.000.000 (2.628 acciones al portador de Gs. 1.000.000); comparece la presidenta Lilian Graciela Bittar David.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 9.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2015-07-22",
+   "evento": "modificacion_estatutos",
+   "detalle": "Escritura N° 37: rectificatoria de distribución de acciones.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACIÒN NRO 41.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2019-09-20",
+   "evento": "modificacion_estatutos",
+   "detalle": "Escritura N° 41: conversión de acciones al portador a nominativas (Ley 5895/2017); accionistas Lilian G. Bittar David 2.430, Oscar A. Bittar David, Carlos A. Bittar y María Gloria Bittar David 66 c/u.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACIÒN NRO 41.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2025-06-30",
+   "evento": "transferencia_acciones",
+   "detalle": "Grupo Vázquez S.A.E. transfiere 2.618 acciones (99,62%) a Mauro Vargas; nuevo directorio Mauro Vargas / Cecilia Domínguez.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 2.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-04-23",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea Ordinaria N° 78: resultado 2025 Gs. 6.865.920.004 destinado a aportes para futuras capitalizaciones; directorio Mauro Vargas (Pte), Cecilia Domínguez (Vice), síndica Raquel Monzón Villasanti.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 78.pdf",
+    "pagina": 2
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "GRUPO VAZQUEZ S.A.E.",
+   "tipo": "accionista_de",
+   "detalle": "Fue titular del 99,62% hasta el 30/06/2025 (transferido a Mauro Vargas).",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 2.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Sandra Noemí Caballero Almada (CI 3.525.422)",
+   "tipo": "mismo_solicitante",
+   "detalle": "Declarante SIARA (RA 2025) con correo @gvcorp.com.py; correo de la empresa SANDRA.CABALLERO@UENOHOLDING.COM.PY; misma declarante en Place Analyzer.",
+   "fuente": {
+    "archivo": "Constancia RA 2025.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Dominios gvcorp.com.py / uenoholding.com.py / itti.digital",
+   "tipo": "mismo_correo_dominio",
+   "detalle": "Correos de declarantes y BF en proceso vinculados al grupo Vázquez/Ueno/ITTI.",
+   "fuente": {
+    "archivo": "Registro de Beneficiarios Finales declarado en el SIARA en proceso de aprobación.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Guillermo Vázquez",
+   "tipo": "otro",
+   "detalle": "Designado presidente de la Asamblea N° 78 (2026).",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 78.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Avenida Santa Teresa 1.827",
+   "tipo": "mismo_domicilio",
+   "detalle": "Domicilio registrado de los accionistas (GV y Mauro Vargas) en el registro, igual al de ITTI/Hanoi/Place Analyzer.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS FOLIO 2.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Raquel Monzón Villasanti",
+   "tipo": "otro",
+   "detalle": "Síndica; apellido Villasanti coincide con el de Federico Miguel Vázquez Villasanti (sin vínculo documentado).",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 78.pdf",
+    "pagina": 2
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": "Sandra Noemi Caballero Almada",
+   "documento": "CI 3.525.422",
+   "correo": "sandra.caballero@gvcorp.com.py",
+   "telefono": "0994391858",
+   "fecha": "2025-07-07",
+   "fuente": {
+    "archivo": "Constancia RA 2025.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "nombre": "Alan Gabriel Campos Pardo",
+   "documento": "CI 3.172.236",
+   "correo": "a.pardo08@hotmail.com",
+   "telefono": "0994391858",
+   "fecha": "2025-08-28",
+   "fuente": {
+    "archivo": "Constancia BF 2025.pdf",
+    "pagina": 1
+   },
+   "notas": "Mismo teléfono que Sandra Caballero en la constancia RA."
+  }
+ ],
+ "correos_dominios": [
+  "uenoholding.com.py",
+  "gvcorp.com.py",
+  "itti.digital",
+  "hotmail.com",
+  "gmail.com"
+ ],
+ "documentos": [
+  {
+   "archivo": "Constancia RA 2025.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2025-07-07",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 385186 (2025): socios Mauro Vargas 99,62% y Franede S.A. 0,38%; directorio Mauro Vargas / Cecilia Domínguez desde 30-06-2025."
+  },
+  {
+   "archivo": "Constancia BF 2025.pdf",
+   "tipo": "constancia_BF",
+   "fecha": "2025-08-28",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia BF N° 396962: Mauro Vargas BF directo 99,62% desde 30-6-2025; correo A.PARDO08@HOTMAIL.COM, dirección Encarnación."
+  },
+  {
+   "archivo": "Registro de Beneficiarios Finales declarado en el SIARA en proceso de aprobación.pdf",
+   "tipo": "constancia_BF",
+   "fecha": null,
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Captura SIARA: BF 'en proceso de aprobación' Cecilia María Domínguez Elizeche y Mauro Vargas Wildberger (PENDIENTE)."
+  },
+  {
+   "archivo": "REGISTRO ACCIONISTAS FOLIO 2.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2026-10-20",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "Folios 2 y 3: Grupo Vázquez S.A.E. -> Mauro Vargas (30/06/2025); Franede S.A. 10 acciones."
+  },
+  {
+   "archivo": "ACTA ORDINARIA NRO 78.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-04-23",
+   "paginas": 2,
+   "legibilidad": "texto",
+   "resumen": "Asamblea Ordinaria N° 78: Mauro Vargas 99,62%; utilidades a futuras capitalizaciones; directorio."
+  },
+  {
+   "archivo": "ESCRITURA CONSTITUCION.pdf",
+   "tipo": "escritura_constitucion",
+   "fecha": "1954-08-24",
+   "paginas": 26,
+   "legibilidad": "ocr_malo",
+   "resumen": "Copia de la escritura de constitución de 1954 y reinscripción 2004."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICACION NRO 9.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2015-03-13",
+   "paginas": 18,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Aumento de capital a Gs. 2.628 millones."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICACIÒN NRO 41.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2019-09-20",
+   "paginas": 14,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Conversión de acciones al portador a nominativas; detalle de accionistas Bittar."
+  }
+ ],
+ "observaciones": [
+  "Constancia BF definitiva solo de 2025 (Mauro Vargas); hay declaración BF 2026 'en proceso de aprobación' que agrega a Cecilia María Domínguez Elizeche (PENDIENTE).",
+  "Mauro Vargas recibió el 99,62% de Grupo Vázquez S.A.E. el 30/06/2025; posible testaferro/fiduciario del grupo: los correos (gvcorp, uenoholding, itti.digital), el domicilio Santa Teresa 1827 y la participación de Guillermo Vázquez en la asamblea indican administración común con el grupo Vázquez.",
+  "No consta documento de la adquisición por Grupo Vázquez de las acciones de la familia Bittar (2019-2025).",
+  "Domicilio inconsistente: Avda. España 1725 (RA) vs Avda. España 1925 (acta) vs 'Encarnación' (BF).",
+  "Acta N° 78: designa a Guillermo Vázquez presidente de asamblea pero firma Mauro Vargas; designa síndica a Raquel Monzón Villasanti pero firma como síndico Mónica Gadea.",
+  "Teléfono 0994391858 compartido por dos declarantes distintos (Sandra Caballero y Alan Campos Pardo).",
+  "Franede S.A. figura como accionista de sí misma (10 acciones, 0,38%).",
+  "Cantidad de Oscar Amado Bittar David (2019) con OCR dudoso."
+ ]
+}

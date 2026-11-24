@@ -1,0 +1,335 @@
+{
+  "id": "condominio_estancia_don_miguel",
+  "razon_social": "CONDOMINIO ESTANCIA DON MIGUEL",
+  "ruc": "80127229-7",
+  "tipo": "Condominio (SIARA: Sociedades Colectivas)",
+  "carpeta_mef": "Condominio Estancia Don Miguel",
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": null,
+    "escritura": null,
+    "escribano": null,
+    "inscripcion_registro_publico": null,
+    "fuente": {
+      "archivo": "Certificado de Adjudicación.pdf",
+      "pagina": "1-9"
+    }
+  },
+  "domicilio": [
+    {
+      "direccion": "Independencia, Guairá",
+      "fecha_dato": "2025-09-12",
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "objeto_social": null,
+  "actividad_principal": "agro / explotación de inmueble rural (estancia; inferido)",
+  "plazo_duracion": null,
+  "capital": [],
+  "accionistas": [
+    {
+      "nombre": "MARIA (MARINA) GRACIELA HUBER SCHAEFER",
+      "tipo_persona": "fisica",
+      "documento": "CI 822645",
+      "nacionalidad": "Paraguaya",
+      "acciones": null,
+      "clase_acciones": "condominio",
+      "votos": null,
+      "porcentaje": 25.0,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-09-12",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "media",
+      "notas": "Condómino. La constancia RA no indica participación; 25% según cuadro de adjudicación (OCR) y cálculo por partes iguales entre 4 condóminos."
+    },
+    {
+      "nombre": "BRIGITTE WALTRAUT HUBER SCHAEFER",
+      "tipo_persona": "fisica",
+      "documento": "CI 822611",
+      "nacionalidad": "Paraguaya",
+      "acciones": null,
+      "clase_acciones": "condominio",
+      "votos": null,
+      "porcentaje": 25.0,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-09-12",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "media",
+      "notas": "Condómino. La constancia RA no indica participación; 25% según cuadro de adjudicación (OCR) y cálculo por partes iguales entre 4 condóminos."
+    },
+    {
+      "nombre": "VOLKER EUGENIO HUBER SCHAEFER",
+      "tipo_persona": "fisica",
+      "documento": "CI 1351428 (RUC 1351428-8)",
+      "nacionalidad": "Paraguaya",
+      "acciones": null,
+      "clase_acciones": "condominio",
+      "votos": null,
+      "porcentaje": 25.0,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-09-12",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "media",
+      "notas": "Condómino. La constancia RA no indica participación; 25% según cuadro de adjudicación (OCR) y cálculo por partes iguales entre 4 condóminos."
+    },
+    {
+      "nombre": "JURGEN MIGUEL HUBER SCHAEFER",
+      "tipo_persona": "fisica",
+      "documento": "CI 2132681 (RUC 2132681-5)",
+      "nacionalidad": "Paraguaya",
+      "acciones": null,
+      "clase_acciones": "condominio",
+      "votos": null,
+      "porcentaje": 25.0,
+      "porcentaje_calculado": true,
+      "fecha_dato": "2025-09-12",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "media",
+      "notas": "Condómino. La constancia RA no indica participación; 25% según cuadro de adjudicación (OCR) y cálculo por partes iguales entre 4 condóminos."
+    }
+  ],
+  "autoridades": [
+    {
+      "nombre": "BRIGITTE WALTRAUT HUBER SCHAEFER",
+      "documento": "CI 822611",
+      "cargo": "Representante legal",
+      "fecha_asuncion": "2015-07-15",
+      "vigencia": "Indefinido (principal)",
+      "fecha_dato": "2025-09-12",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "VOLKER EUGENIO HUBER SCHAEFER",
+      "documento": "CI 1351428",
+      "cargo": "Representante legal",
+      "fecha_asuncion": "2015-07-15",
+      "vigencia": "Indefinido (secundario)",
+      "fecha_dato": "2025-09-12",
+      "vigente": true,
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "VOLKER EUGENIO HUBER SCHAEFER",
+      "documento": "CI 1.351.428",
+      "cargo": "Representante legal",
+      "fecha_asuncion": "2021-07-15",
+      "vigencia": "designado por acta de condóminos",
+      "fecha_dato": "2021-07-15",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Acta de Directorio.pdf",
+        "pagina": 1
+      },
+      "confianza": "media"
+    },
+    {
+      "nombre": "BRIGITTE WALTRAUT HUBER SCHAEFER",
+      "documento": "CI 822.611",
+      "cargo": "Representante legal",
+      "fecha_asuncion": "2021-07-15",
+      "vigencia": "designada por acta de condóminos",
+      "fecha_dato": "2021-07-15",
+      "vigente": false,
+      "fuente": {
+        "archivo": "Acta de Directorio.pdf",
+        "pagina": 1
+      },
+      "confianza": "media"
+    }
+  ],
+  "beneficiarios_finales": [
+    {
+      "nombre": "MARIA (MARINA) GRACIELA HUBER SCHAEFER",
+      "documento": "CI 822645",
+      "nacionalidad": "Paraguaya",
+      "domicilio": "Independencia",
+      "porcentaje": null,
+      "tipo_control": "condómino (BF)",
+      "cadena_control": null,
+      "fecha_dato": "2025-09-12",
+      "fuente": {
+        "archivo": "Constancia BF 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "BRIGITTE WALTRAUT HUBER SCHAEFER",
+      "documento": "CI 822611",
+      "nacionalidad": "Paraguaya",
+      "domicilio": "Independencia",
+      "porcentaje": null,
+      "tipo_control": "condómino (BF)",
+      "cadena_control": null,
+      "fecha_dato": "2025-09-12",
+      "fuente": {
+        "archivo": "Constancia BF 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "VOLKER EUGENIO HUBER SCHAEFER",
+      "documento": "CI 1351428 (RUC 1351428-8)",
+      "nacionalidad": "Paraguaya",
+      "domicilio": "Independencia",
+      "porcentaje": null,
+      "tipo_control": "condómino (BF)",
+      "cadena_control": null,
+      "fecha_dato": "2025-09-12",
+      "fuente": {
+        "archivo": "Constancia BF 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    },
+    {
+      "nombre": "JURGEN MIGUEL HUBER SCHAEFER",
+      "documento": "CI 2132681 (RUC 2132681-5)",
+      "nacionalidad": "Paraguaya",
+      "domicilio": "Independencia",
+      "porcentaje": null,
+      "tipo_control": "condómino (BF)",
+      "cadena_control": null,
+      "fecha_dato": "2025-09-12",
+      "fuente": {
+        "archivo": "Constancia BF 2025 Simple.pdf",
+        "pagina": 1
+      },
+      "confianza": "alta"
+    }
+  ],
+  "historial": [
+    {
+      "fecha": "2007-08-31",
+      "evento": "otro",
+      "detalle": "S.D. N° 391 (Juzgado Civil Villarrica): herederos de Waltraud Schaefer de Huber: cónyuge Andrés Miguel Huber e hijos Volker Eugenio, Brigitte Waltraut, Jurgen Miguel y Marina Graciela Huber Schaefer.",
+      "fuente": {
+        "archivo": "Certificado de Adjudicación.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2009-12-23",
+      "evento": "otro",
+      "detalle": "A.I. N° 1084: homologación del acuerdo y adjudicación de bienes; condominio sobre Lote 80, Finca N° 325, Padrón 456 (Independencia, Guairá).",
+      "fuente": {
+        "archivo": "Certificado de Adjudicación.pdf",
+        "pagina": "1-5"
+      }
+    },
+    {
+      "fecha": "2015-07-15",
+      "evento": "constitucion",
+      "detalle": "Fecha desde la que constan representantes legales y beneficiarios finales en SIARA.",
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      }
+    },
+    {
+      "fecha": "2021-07-15",
+      "evento": "cambio_directorio",
+      "detalle": "Acta de condóminos designa representantes legales a Volker E. y Brigitte W. Huber Schaefer.",
+      "fuente": {
+        "archivo": "Acta de Directorio.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "vinculos": [
+    {
+      "entidad_o_persona": "ANDRES MIGUEL HUBER",
+      "tipo": "otro",
+      "detalle": "Padre de los condóminos y adjudicatario en la sucesión; propietario original de las Fincas 868 y 325 (loteamiento).",
+      "fuente": {
+        "archivo": "Certificado de Adjudicación.pdf",
+        "pagina": "1,6"
+      }
+    }
+  ],
+  "declarantes_siara": [
+    {
+      "nombre": "LIZA MAVEL SOLALINDE DUARTE",
+      "documento": "CI 4.374.621",
+      "correo": "LIZASOLALINDE@GMAIL.COM",
+      "telefono": "0982640331",
+      "fecha": "2025-09-12",
+      "fuente": {
+        "archivo": "Constancia RA 2025 Simple.pdf",
+        "pagina": 1
+      }
+    }
+  ],
+  "correos_dominios": [
+    "gmail.com"
+  ],
+  "documentos": [
+    {
+      "archivo": "Constancia BF 2025 Simple.pdf",
+      "tipo": "constancia_BF",
+      "fecha": "2025-09-12",
+      "paginas": 1,
+      "legibilidad": "texto",
+      "resumen": "Constancia BF N° 398144 (periodo 2024): 4 condóminos BF, sin porcentaje."
+    },
+    {
+      "archivo": "Constancia RA 2025 Simple.pdf",
+      "tipo": "constancia_RA",
+      "fecha": "2025-09-12",
+      "paginas": 2,
+      "legibilidad": "texto",
+      "resumen": "Constancia RA N° 393893 (periodo 2024): 4 condóminos y 2 representantes legales."
+    },
+    {
+      "archivo": "Acta de Directorio.pdf",
+      "tipo": "acta_directorio",
+      "fecha": "2021-07-15",
+      "paginas": 1,
+      "legibilidad": "ocr_bueno",
+      "resumen": "Acta de condóminos que designa representantes legales."
+    },
+    {
+      "archivo": "Certificado de Adjudicación.pdf",
+      "tipo": "otro",
+      "fecha": "2009-12-23",
+      "paginas": 9,
+      "legibilidad": "ocr_malo",
+      "resumen": "Certificado de adjudicación sucesoria y resolución municipal de loteamiento (Fincas 868 y 325)."
+    }
+  ],
+  "observaciones": [
+    "Estructura familiar (hermanos Huber Schaefer); no se observan vínculos con Ueno / Grupo Vázquez.",
+    "Porcentajes no declarados en SIARA; 25% por condómino es estimación (cuadro OCR muestra '25%').",
+    "Nombre 'Maria Graciela' (SIARA) vs 'Marina Graciela' (acta y sentencia); 'Brugitte' en BF. BF de María Graciela indica país de residencia Alemania.",
+    "Correo de la entidad EST.CONT.INDEPENDENCIA@GMAIL.COM (posible estudio contable)."
+  ]
+}

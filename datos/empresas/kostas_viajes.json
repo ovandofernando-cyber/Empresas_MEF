@@ -1,0 +1,437 @@
+{
+ "id": "kostas_viajes",
+ "razon_social": "Kostas Viajes y Turismo S.R.L.",
+ "ruc": "80004240-9",
+ "tipo": "S.R.L.",
+ "carpeta_mef": "KOSTAS VIAJES Y TURISMO SRL",
+ "denominaciones_anteriores": [],
+ "constitucion": {
+  "fecha": "1985-06-29",
+  "escritura": "N° 79",
+  "escribano": "Marta B. Narvaja R. (adscripta al Registro N° 140)",
+  "inscripcion_registro_publico": "Registro Público de Comercio N° 635, folio 45, 16/07/1985",
+  "fuente": {
+   "archivo": "ESCRITURA CONSTITUCION NRO 79.pdf",
+   "pagina": 1
+  },
+  "confianza": "media"
+ },
+ "domicilio": [
+  {
+   "direccion": "Herib Campos Cervera (Asunción)",
+   "fecha_dato": "2026-07-28",
+   "fuente": {
+    "archivo": "CONSTANCIA RA NRO 24533.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Avenida Santa Teresa N° 1827 (domicilio de los gerentes en la escritura)",
+   "fecha_dato": "2026-05-07",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": "Turismo nacional e internacional, transporte de pasajeros, organización de viajes y excursiones, venta de pasajes y alojamiento, representación de compañías de transporte/hotelería/agencias, eventos; participaciones en otras empresas.",
+ "actividad_principal": "turismo (agencia de viajes)",
+ "plazo_duracion": "99 años desde la inscripción (texto 2026); originalmente 20 años",
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 5000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 5000,
+   "cantidad_acciones": 1000,
+   "fecha_dato": "1985-06-29",
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 79.pdf",
+    "pagina": 3
+   },
+   "nota": "1.000 cuotas de Gs. 5.000"
+  },
+  {
+   "tipo": "social",
+   "monto": 10380000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 10000000,
+   "cantidad_acciones": 1038,
+   "fecha_dato": "2026-05-07",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 14
+   },
+   "nota": "1.038 cuotas de Gs. 10.000.000, totalmente suscripto e integrado"
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "Curt Ernesto Tippach Manzoni",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 454,
+   "clase_acciones": "cuotas",
+   "votos": null,
+   "porcentaje": 45.4,
+   "porcentaje_calculado": true,
+   "fecha_dato": "1985-06-29",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 79.pdf",
+    "pagina": 3
+   },
+   "confianza": "baja",
+   "notas": "Socio fundador; OCR de escritura antigua."
+  },
+  {
+   "nombre": "Andrés Kaleniuszka Kiszko",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 227,
+   "clase_acciones": "cuotas",
+   "votos": null,
+   "porcentaje": 22.7,
+   "porcentaje_calculado": true,
+   "fecha_dato": "1985-06-29",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 79.pdf",
+    "pagina": 3
+   },
+   "confianza": "baja",
+   "notas": "Socio fundador."
+  },
+  {
+   "nombre": "Arnaldo Ramón Costa",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 227,
+   "clase_acciones": "cuotas",
+   "votos": null,
+   "porcentaje": 22.7,
+   "porcentaje_calculado": true,
+   "fecha_dato": "1985-06-29",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 79.pdf",
+    "pagina": 4
+   },
+   "confianza": "baja",
+   "notas": "Socio fundador (esposa María Magdalena Barriocanal de Costa)."
+  },
+  {
+   "nombre": "Roberto Yorki Bogado",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": "paraguaya",
+   "acciones": 92,
+   "clase_acciones": "cuotas",
+   "votos": null,
+   "porcentaje": 9.2,
+   "porcentaje_calculado": true,
+   "fecha_dato": "1985-06-29",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 79.pdf",
+    "pagina": 4
+   },
+   "confianza": "baja",
+   "notas": "Socio fundador."
+  },
+  {
+   "nombre": "Carlos Eliseo Velázquez Valiente (fallecido) / sucesión",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 526,
+   "clase_acciones": "cuotas de Gs. 10.000.000",
+   "votos": null,
+   "porcentaje": 50.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2024-12-23",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 11
+   },
+   "confianza": "media",
+   "notas": "Por A.I. N° 894 del 23/12/2024 las 526 cuotas (50%) se adjudican a la viuda Mónica Raquel Costa Barriocanal (inscripto 19/06/2025)."
+  },
+  {
+   "nombre": "Mónica Raquel Costa Barriocanal",
+   "tipo_persona": "fisica",
+   "documento": "CI 656.417",
+   "nacionalidad": "paraguaya",
+   "acciones": 526,
+   "clase_acciones": "cuotas",
+   "votos": null,
+   "porcentaje": 50.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2025-06-19",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 12
+   },
+   "confianza": "media",
+   "notas": "Adjudicataria por herencia; antes de la Esc. N° 200 del 25/07/2025 (no remitida), tras la cual las únicas socias son ITTI y Discover Paraguay."
+  },
+  {
+   "nombre": "ITTI S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80028355-4",
+   "nacionalidad": "paraguaya",
+   "acciones": 1027,
+   "clase_acciones": "cuotas de Gs. 10.000.000",
+   "votos": 1027,
+   "porcentaje": 98.94,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-05-07",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 15
+   },
+   "confianza": "alta",
+   "notas": "Representada por Cesar Manuel Astigarraga Lambaré y Guillermo Vázquez Muniagurria."
+  },
+  {
+   "nombre": "Discover Paraguay S.A.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80087415-3",
+   "nacionalidad": "paraguaya",
+   "acciones": 11,
+   "clase_acciones": "cuotas de Gs. 10.000.000",
+   "votos": 11,
+   "porcentaje": 1.06,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2026-05-07",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 15
+   },
+   "confianza": "alta",
+   "notas": "Representada por Luis Marcelo Cardozo Ledesma (Presidente) y Mónica Raquel Costa Barriocanal (Directora titular)."
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Luis Marcelo Cardozo Ledesma",
+   "documento": "CI 2.484.390",
+   "cargo": "Gerente titular / Representante legal",
+   "fecha_asuncion": "2026-05-07",
+   "vigencia": null,
+   "fecha_dato": "2026-05-07",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 13
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Mónica Raquel Costa Barriocanal",
+   "documento": "CI 656.417",
+   "cargo": "Gerente suplente / Representante legal",
+   "fecha_asuncion": "2026-05-07",
+   "vigencia": null,
+   "fecha_dato": "2026-05-07",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 13
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Curt Ernesto Tippach Manzoni y dos socios cualesquiera",
+   "documento": null,
+   "cargo": "Gerentes (1985)",
+   "fecha_asuncion": "1985-06-29",
+   "vigencia": null,
+   "fecha_dato": "1985-06-29",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 79.pdf",
+    "pagina": 4
+   },
+   "confianza": "baja"
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "1985-06-29",
+   "evento": "constitucion",
+   "detalle": "Esc. N° 79; capital Gs. 5.000.000 (1.000 cuotas).",
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCION NRO 79.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "1994-12-27",
+   "evento": "transferencia_acciones",
+   "detalle": "Esc. N° 89 cesión de cuotas; luego cesiones por Esc. 497 (19/12/1995), 213 (30/09/2002) y otras (2015).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 7
+   }
+  },
+  {
+   "fecha": "2013-07-25",
+   "evento": "aumento_capital",
+   "detalle": "Esc. N° 92; nuevos aumentos por Esc. 60 (21/10/2020), 97 (25/08/2021) y 86 (05/07/2022, rectificada por Esc. 116 del 10/06/2025).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 8
+   }
+  },
+  {
+   "fecha": "2024-12-23",
+   "evento": "otro",
+   "detalle": "Sucesión de Carlos Eliseo Velázquez Valiente: 526 cuotas (50%) adjudicadas a Mónica Raquel Costa Barriocanal (A.I. N° 894).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 11
+   }
+  },
+  {
+   "fecha": "2025-07-25",
+   "evento": "modificacion_estatutos",
+   "detalle": "Esc. N° 200 (José María Livieres Guggiari), inscripta 15/09/2025; no remitida (probable ingreso de ITTI y Discover Paraguay como socias).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 12
+   }
+  },
+  {
+   "fecha": "2026-05-07",
+   "evento": "cambio_directorio",
+   "detalle": "Esc. N° 301 (Horacio Szklarkiervicz Kaller): modificación Art. 6°, gerentes L. M. Cardozo Ledesma y M. R. Costa Barriocanal; texto ordenado con socios ITTI 1.027 cuotas y Discover Paraguay 11.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 12
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "ITTI S.A.E.",
+   "tipo": "accionista_de",
+   "detalle": "Socia con 98,94% de las cuotas.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 15
+   }
+  },
+  {
+   "entidad_o_persona": "Discover Paraguay S.A. (RUC 80087415-3)",
+   "tipo": "accionista_de",
+   "detalle": "Socia 1,06%; sus autoridades (Cardozo, Costa) son los gerentes de Kostas.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 15
+   }
+  },
+  {
+   "entidad_o_persona": "Luis Marcelo Cardozo Ledesma (CI 2.484.390)",
+   "tipo": "director_comun",
+   "detalle": "Gerente de Kostas; Presidente de Discover Paraguay e Intertours; ex director de Oniria.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 13
+   }
+  },
+  {
+   "entidad_o_persona": "Mónica Raquel Costa Barriocanal (CI 656.417)",
+   "tipo": "director_comun",
+   "detalle": "Gerente suplente de Kostas; Directora titular de Discover Paraguay e Intertours ('Mónica Costa').",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Guillermo Vázquez Muniagurria (CI 3.799.529) y Cesar M. Astigarraga Lambaré (CI 3.807.117)",
+   "tipo": "mencion_en_documento",
+   "detalle": "Representantes de ITTI en la escritura.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "legales@itti.digital",
+   "tipo": "mismo_correo_dominio",
+   "detalle": "Correo PEJ en SIARA 'LEGALES@ITTI.DIGOTAL' (error tipográfico de legales@itti.digital).",
+   "fuente": {
+    "archivo": "CONSTANCIA RA NRO 24533.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Intertours S.A.",
+   "tipo": "mismo_domicilio",
+   "detalle": "Ambas declaran 'Herib Campos Cervera' en SIARA.",
+   "fuente": {
+    "archivo": "CONSTANCIA RA NRO 24533.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "LEGALES@ITTI.DIGOTAL",
+   "telefono": null,
+   "fecha": "2026-07-28",
+   "fuente": {
+    "archivo": "CONSTANCIA RA NRO 24533.pdf",
+    "pagina": 1
+   },
+   "notas": "Constancia resumida sin datos del solicitante."
+  }
+ ],
+ "correos_dominios": [
+  "itti.digital"
+ ],
+ "documentos": [
+  {
+   "archivo": "CONSTANCIA RA NRO 24533.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-09-24",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 24533 (cumplimiento anual, presentada 28/07/2026)."
+  },
+  {
+   "archivo": "ESCRITURA CONSTITUCION NRO 79.pdf",
+   "tipo": "escritura_constitucion",
+   "fecha": "1985-06-29",
+   "paginas": 10,
+   "legibilidad": "ocr_malo",
+   "resumen": "Esc. N° 79: constitución con 4 socios fundadores, capital Gs. 5 M; inscripción RPC N° 635."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICION NRO 301.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2026-05-07",
+   "paginas": 24,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Esc. N° 301: socias ITTI SAE (1.027 cuotas) y Discover Paraguay (11); gerentes Cardozo Ledesma / Costa Barriocanal; historial de modificaciones y sucesión Velázquez Valiente."
+  }
+ ],
+ "observaciones": [
+  "No se remitió constancia BF ni la Esc. N° 200 (25/07/2025) que documentaría la entrada de ITTI y Discover Paraguay; no consta cómo salieron la sucesión Velázquez/Costa (526 cuotas) ni los demás socios.",
+  "Correo SIARA con error tipográfico ('ITTI.DIGOTAL').",
+  "Datos de la constitución de 1985 provienen de OCR de mala calidad (nombres y cifras con confianza baja).",
+  "La escritura 301 fecha la inscripción de la Esc. 9/1986 en 28/05/1985 (anterior a la escritura): error del documento."
+ ]
+}

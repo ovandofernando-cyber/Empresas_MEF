@@ -1,0 +1,68 @@
+{
+  "id": "ueno_holding_saeca",
+  "razon_social": "UENO HOLDING S.A.E.C.A.",
+  "ruc": "80011000-5",
+  "tipo": "S.A.E.C.A.",
+  "carpeta_mef": "UENO HOLDING SAECA",
+  "denominaciones_anteriores": [
+    {"nombre": "CREDICENTRO S.A.", "hasta": "2011-10-31", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 4}},
+    {"nombre": "CREDICENTRO S.A.E.C.A.", "hasta": "2022-09-15", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 5}}
+  ],
+  "constitucion": {
+    "fecha": "1994-12-13",
+    "escritura": "N° 241",
+    "escribano": "María de Jesús Basualdo V.",
+    "inscripcion_registro_publico": "Registro Público de Comercio N° 146, Serie A, folio 1726 (08-03-1995); Personas Jurídicas N° 93, folio 1144, Serie B (03-03-1995)",
+    "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 4},
+    "confianza": "media"
+  },
+  "domicilio": [
+    {"direccion": "AVDA. SANTA TERESA N° 1827 ENTRE AVDA. AVIADORES DEL CHACO Y HERMINIO MALDONADO, EDIFICIO TORRES DEL PASEO, TORRE 3, NIVEL 11, ASUNCIÓN", "fecha_dato": "2025-04-22", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}}
+  ],
+  "objeto_social": null,
+  "actividad_principal": "sociedad holding (antes financiera/crédito: Credicentro, fusionada con Crediplus, Pasfin y LCR)",
+  "plazo_duracion": null,
+  "capital": [
+    {"tipo": "suscripto", "monto": null, "moneda": "PYG", "valor_nominal_accion": null, "cantidad_acciones": null, "fecha_dato": "2025-04-22", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}, "notas": "Campos 'Capital Suscripto' e 'Integrado' vacíos en la constancia."}
+  ],
+  "accionistas": [],
+  "autoridades": [
+    {"nombre": "OSCAR LUIS URDAPILLETA GARCÍA", "documento": "CI 1.495.964", "cargo": "Presidente y Representante Legal", "fecha_asuncion": "2025-04-01", "vigencia": "Hasta la próxima asamblea", "fecha_dato": "2025-04-22", "vigente": false, "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "LUIS ERNESTO ANGULO RIVERA", "documento": "CI 8.307.881", "cargo": "Vicepresidente", "fecha_asuncion": "2025-04-01", "vigencia": "Hasta la próxima asamblea", "fecha_dato": "2025-04-22", "vigente": false, "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}, "confianza": "alta"},
+    {"nombre": "RUTH STAEL RAMÍREZ LEZCANO", "documento": "CI 3.977.833", "cargo": "Directora Titular", "fecha_asuncion": "2025-04-01", "vigencia": "Hasta la próxima asamblea", "fecha_dato": "2025-04-22", "vigente": false, "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}, "confianza": "alta"}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "1994-12-13", "evento": "constitucion", "detalle": "Constituida como CREDICENTRO S.A. (Esc. 241, Esc. María de Jesús Basualdo V.).", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 4}},
+    {"fecha": "2011-10-31", "evento": "cambio_denominacion", "detalle": "Esc. 61: pasa a CREDICENTRO S.A.E.C.A.", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 5}},
+    {"fecha": "2014-01-15", "evento": "aumento_capital", "detalle": "Esc. 5 (también aumentos por Esc. 74 del 07-06-2017 y Esc. 196 del 10-12-2019).", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 5}},
+    {"fecha": "2019-04-11", "evento": "fusion", "detalle": "Esc. 49: fusión con CREDIPLUS S.A.", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 6}},
+    {"fecha": "2020-11-17", "evento": "fusion", "detalle": "Esc. 115: fusión con PASFIN S.A.E.C.A. y LCR S.A.E.C.A. (rectificada por Esc. 107 del 11-08-2021).", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 6}},
+    {"fecha": "2022-09-15", "evento": "cambio_denominacion", "detalle": "Esc. 101: pasa a 'UENO HOLDING' S.A.E.C.A. (Matrícula 10.630).", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 7}},
+    {"fecha": "2023-02-28", "evento": "transferencia_acciones", "detalle": "Según el registro de Red Digital, acciones de Financiera Ueno pasan a Ueno Holding y luego a ITTI.", "fuente": {"archivo": "(carpeta RED DIGITAL S.A) REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
+    {"fecha": "2025-03-25", "evento": "reduccion_capital", "detalle": "Esc. 46 (25-03-2025) y Esc. 95 (23-05-2025): reducciones de capital.", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 8}},
+    {"fecha": "2025-04-01", "evento": "cambio_directorio", "detalle": "Acta de Asamblea N° 60: Directorio Urdapilleta / Angulo / Ramírez.", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"fecha": "2025-07-16", "evento": "fusion", "detalle": "Absorbida por GRUPO VAZQUEZ S.A.E. (RUC 80086759-9): compromiso privado de fusión del 30-06-2025 formalizado por Esc. 131 del 16-07-2025 (Esc. María Teresa López de Aponte, Reg. 637). Ueno Holding se disuelve sin liquidarse.", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "GRUPO VAZQUEZ S.A.E. (RUC 80086759-9)", "tipo": "otro", "detalle": "Sociedad absorbente en la fusión de 2025.", "fuente": {"archivo": "(carpeta Grupo Vazquez SAE) Escritura Pública 131.pdf", "pagina": 1}},
+    {"entidad_o_persona": "OSCAR LUIS URDAPILLETA GARCÍA (CI 1.495.964)", "tipo": "director_comun", "detalle": "También presidente de Grupo Hendy y director/gerente general de Red Digital (REDISA).", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "LUIS ERNESTO ANGULO RIVERA (CI 8.307.881)", "tipo": "director_comun", "detalle": "También vicepresidente de WOM 77 S.A. (socia de Kaitel).", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "gvcorp.com.py (Sandra Noemí Caballero Almada)", "tipo": "mismo_correo_dominio", "detalle": "Misma declarante que Kaitel S.R.L.", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"entidad_o_persona": "Torres del Paseo, Avda. Santa Teresa 1827, Torre 3 nivel 11", "tipo": "mismo_domicilio", "detalle": "Mismo edificio que Grupo Vázquez, ITTI, WOM 77, Kaitel.", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [
+    {"nombre": "Sandra Noemi Caballero Almada", "documento": "CI 3.525.422", "correo": "sandra.caballero@gvcorp.com.py", "telefono": "0982798974", "fecha": "2025-04-22", "fuente": {"archivo": "CONSTANCIA RA.pdf", "pagina": 1}},
+    {"nombre": "Sandra Noemi Caballero Almada", "documento": "CI 3.525.422", "correo": "sandra.caballero@gvcorp.com.py", "telefono": "0981110369", "fecha": "2025-04-22", "fuente": {"archivo": "CONSTANCIA BF NRO 347282.pdf", "pagina": 1}}
+  ],
+  "correos_dominios": ["uenoholding.com.py", "gvcorp.com.py"],
+  "documentos": [
+    {"archivo": "CONSTANCIA RA.pdf", "tipo": "constancia_RA", "fecha": "2025-04-22", "paginas": 2, "legibilidad": "texto", "resumen": "Constancia RA N° 339811 (período 2025): directorio; socios no declarados por remisión al convenio CNV–Abogacía del Tesoro del 20-02-2020."},
+    {"archivo": "CONSTANCIA BF NRO 347282.pdf", "tipo": "constancia_BF", "fecha": "2025-04-22", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia BF N° 347282: sin BF declarados, remisión al mismo convenio CNV."}
+  ],
+  "observaciones": [
+    "No se declaran accionistas ni beneficiarios finales: ambas constancias se remiten al convenio CNV–Abogacía del Tesoro (20-02-2020) por ser emisora de capital abierto.",
+    "La sociedad fue absorbida por Grupo Vázquez S.A.E. (Esc. 131 del 16-07-2025); las constancias (abril 2025) son previas a la fusión, por lo que el directorio se marca como no vigente.",
+    "El historial proviene de la Escritura 131 de la carpeta de Grupo Vázquez (páginas 4-9, lectura de imagen; confianza media en fechas)."
+  ]
+}

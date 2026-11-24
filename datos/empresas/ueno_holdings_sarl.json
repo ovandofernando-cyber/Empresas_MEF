@@ -1,0 +1,57 @@
+{
+  "id": "ueno_holdings_sarl",
+  "razon_social": "U HOLDINGS S.à r.l. (listada por el MEF como UENO HOLDINGS S.A.R.L.)",
+  "ruc": null,
+  "tipo": "S.à r.l. (sociedad de responsabilidad limitada luxemburguesa)",
+  "carpeta_mef": null,
+  "denominaciones_anteriores": [],
+  "constitucion": {
+    "fecha": null,
+    "escritura": null,
+    "escribano": null,
+    "inscripcion_registro_publico": "Cédula Tributaria Extranjera B280698 declarada en SIARA (formato compatible con número del Registre de Commerce et des Sociétés de Luxemburgo; no verificado)",
+    "fuente": {"archivo": "(carpeta RED DIGITAL S.A) Listado de Beneficiarios Finales declarado en el SIARA pendiente de aprobación.pdf", "pagina": 1},
+    "confianza": "media"
+  },
+  "domicilio": [
+    {"direccion": "País: LUXEMBURGO (sin dirección)", "fecha_dato": null, "fuente": {"archivo": "(carpeta RED DIGITAL S.A) Listado de Beneficiarios Finales declarado en el SIARA pendiente de aprobación.pdf", "pagina": 1}}
+  ],
+  "objeto_social": null,
+  "actividad_principal": "sociedad tenedora (holding) extranjera, controlante de U PARAGUAY S.A.",
+  "plazo_duracion": null,
+  "capital": [],
+  "accionistas": [],
+  "autoridades": [
+    {"nombre": "MIGUEL ÁNGEL ALMADA FRUTOS", "documento": "CI 1.202.532", "cargo": "Representante del accionista U Holdings S.a.R.L. en asambleas de U Paraguay S.A. N° 5 y 6", "fecha_asuncion": "2025-07-21", "vigencia": null, "fecha_dato": "2025-07-21", "vigente": null, "fuente": {"archivo": "(carpeta U PARAGUAY S.A) ESCRITURA MODIFICACION NRO 84.pdf", "pagina": 4}, "confianza": "alta", "notas": "Su correo MIGUEL.ALMADA@ITTI.DIGITAL figura como contacto de U Holdings en el listado BF de Red Digital."},
+    {"nombre": "FEDERICO MIGUEL VÁZQUEZ VILLASANTI", "documento": "CI 2.941.546", "cargo": "Representante de U Holdings en la Asamblea Ordinaria N° 7 de U Paraguay", "fecha_asuncion": "2026-04-16", "vigencia": null, "fecha_dato": "2026-04-16", "vigente": null, "fuente": {"archivo": "(carpeta U PARAGUAY S.A) ACTA ORDINARIA.pdf", "pagina": 2}, "confianza": "media", "notas": "Dato tomado de la ficha u_paraguay.json (página de firmas); en la pág. 1 U Holdings figura como único accionista presente."},
+    {"nombre": "FREDERIK PETRUS VAN DYK", "documento": "Documento de identidad extranjero CP1274", "cargo": "No consta (persona de Luxemburgo listada como BF de Red Digital, frederik.vandyk@arendtservices.com)", "fecha_asuncion": null, "vigencia": null, "fecha_dato": null, "vigente": null, "fuente": {"archivo": "(carpeta RED DIGITAL S.A) Listado de Beneficiarios Finales declarado en el SIARA pendiente de aprobación.pdf", "pagina": 2}, "confianza": "baja", "notas": "Arendt Services es un proveedor de servicios corporativos/domiciliación en Luxemburgo; es plausible que sea gerente de U Holdings, pero el documento no lo dice."},
+    {"nombre": "ELENA TITKOVA", "documento": "Documento de identidad extranjero CP1273", "cargo": "No consta (persona de Luxemburgo listada como BF de Red Digital, elena.titkova@arendtservices.com)", "fecha_asuncion": null, "vigencia": null, "fecha_dato": null, "vigente": null, "fuente": {"archivo": "(carpeta RED DIGITAL S.A) Listado de Beneficiarios Finales declarado en el SIARA pendiente de aprobación.pdf", "pagina": 2}, "confianza": "baja", "notas": "Ídem anterior."}
+  ],
+  "beneficiarios_finales": [],
+  "historial": [
+    {"fecha": "2023-03-10", "evento": "transferencia_acciones", "detalle": "Primeras integraciones de acciones de U Paraguay (ex 'El Cabo' S.A.) a nombre de U Holdings S.à r.l.", "fuente": {"archivo": "(carpeta U PARAGUAY S.A) REGISTRO ACCIONISTAS 25-09-2026.pdf", "pagina": 1}},
+    {"fecha": "2025-07-21", "evento": "otro", "detalle": "En las Asambleas N° 5 y 6 de U Paraguay figura con 29,63% de los votos frente a 70,36% de Grupo Vázquez S.A.E. (contradice los registros de acciones).", "fuente": {"archivo": "(carpeta U PARAGUAY S.A) ESCRITURA MODIFICACION NRO 84.pdf", "pagina": "2-4"}},
+    {"fecha": "2026-04-16", "evento": "otro", "detalle": "Única accionista presente en la Asamblea Ordinaria N° 7 de U Paraguay: 1.465.548 acciones y votos (Gs. 1.465.548.000.000).", "fuente": {"archivo": "(carpeta U PARAGUAY S.A) ACTA ORDINARIA.pdf", "pagina": 1}},
+    {"fecha": "2026-05-29", "evento": "aumento_capital", "detalle": "Capitaliza 102.340 acciones en U Paraguay; queda con 1.567.888 de 1.567.891.", "fuente": {"archivo": "(carpeta U PARAGUAY S.A) REGISTRO ACCIONISTAS 29-05-2026.pdf", "pagina": 1}},
+    {"fecha": "2026-09-25", "evento": "otro", "detalle": "Tras capitalización de Grupo Vázquez (32.109 acc.), U Holdings mantiene 1.567.888 de 1.600.000 acciones (97,99%).", "fuente": {"archivo": "(carpeta U PARAGUAY S.A) REGISTRO ACCIONISTAS 25-09-2026.pdf", "pagina": 1}}
+  ],
+  "vinculos": [
+    {"entidad_o_persona": "U PARAGUAY S.A. (RUC 80135001-8)", "tipo": "participada", "detalle": "Accionista mayoritaria: 1.567.888 acciones OVS de Gs. 1.000.000 (Gs. 1.567.888 millones) = 97,99% al 25-09-2026; ≈99,99% en registros previos (30-02-2025 [fecha imposible] y 29-05-2026).", "fuente": {"archivo": "(carpeta U PARAGUAY S.A) REGISTRO ACCIONISTAS 25-09-2026.pdf", "pagina": 1}},
+    {"entidad_o_persona": "RED DIGITAL S.A. (REDISA, RUC 80114674-7)", "tipo": "otro", "detalle": "Declarada como BF (cadena de control vía U Paraguay, que tiene 99,99% de votos) en listado SIARA pendiente de aprobación; contacto MIGUEL.ALMADA@ITTI.DIGITAL, país LUXEMBURGO.", "fuente": {"archivo": "(carpeta RED DIGITAL S.A) Listado de Beneficiarios Finales declarado en el SIARA pendiente de aprobación.pdf", "pagina": 1}},
+    {"entidad_o_persona": "RED DIGITAL DE PROCESAMIENTO S.A. (REDIPRO)", "tipo": "otro", "detalle": "Figura dos veces (Cédula Tributaria Extranjera B280698) en su listado de BF, junto a U Paraguay y Ueno Bank, presumiblemente como eslabón de la cadena de control (alineación de columnas incierta).", "fuente": {"archivo": "(carpeta RED DIGITAL DE PROCESAMIENTO S.A) BENEFICIARIOS FINALES.pdf", "pagina": 1}, "confianza": "media"},
+    {"entidad_o_persona": "UENO BANK S.A. (RUC 80026157-7)", "tipo": "otro", "detalle": "Control indirecto vía U Paraguay (U Paraguay es accionista de Ueno Bank según otras fichas); no hay documento propio que lo cuantifique.", "fuente": {"archivo": "(carpeta RED DIGITAL DE PROCESAMIENTO S.A) BENEFICIARIOS FINALES.pdf", "pagina": 1}, "confianza": "baja"},
+    {"entidad_o_persona": "GRUPO VAZQUEZ S.A.E. / FEDERICO MIGUEL VÁZQUEZ VILLASANTI", "tipo": "otro", "detalle": "Socios de U Holdings en U Paraguay; Federico Vázquez es su representante en 2026 y BF final declarado en sociedades del grupo. Los socios/BF de la propia U Holdings no constan en ningún documento.", "fuente": {"archivo": "(carpeta U PARAGUAY S.A) REGISTRO ACCIONISTAS 25-09-2026.pdf", "pagina": 1}}
+  ],
+  "declarantes_siara": [],
+  "correos_dominios": ["itti.digital (MIGUEL.ALMADA@ITTI.DIGITAL)", "arendtservices.com"],
+  "documentos": [
+    {"archivo": "INFORME CRA N° 385 SIME N° 78318-2026.pdf", "tipo": "otro", "fecha": null, "paginas": null, "legibilidad": "texto", "resumen": "Ítem 42 'UENO HOLDINGS S.A.R.L.': 'sin individualización del RUC, la mencionada firma no se encuentra registrada en el SIARA, sin embargo, se remite información recolectada a partir de las declaraciones de otros sujetos obligados' (pág. 2)."}
+  ],
+  "observaciones": [
+    "Sin RUC ni registro SIARA (Informe CRA 385, pág. 2). Toda la información surge de documentos de U Paraguay, Red Digital y Red Digital de Procesamiento.",
+    "No consta capital, socios, beneficiarios finales, domicilio exacto ni administradores formales de U Holdings: es el eslabón opaco de la cadena Ueno Bank/Red Digital → U Paraguay → U Holdings (Luxemburgo).",
+    "Grafía variable: 'U Holdings S.à r.l.', 'U HOLDINGS S.a.R.L.', 'U HOLDINGS S.A.R.L.'; el MEF la denomina 'UENO HOLDINGS S.A.R.L.'.",
+    "Contradicción de participación en U Paraguay: actas 21-07-2025 (29,63% de votos) vs registros (≈99,99%).",
+    "El número B280698 se declaró como 'Cédula Tributaria Extranjera'; no se verificó en el RCS de Luxemburgo."
+  ]
+}

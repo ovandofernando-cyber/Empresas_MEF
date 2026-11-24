@@ -1,0 +1,482 @@
+{
+ "id": "oniria",
+ "razon_social": "Oniria S.A.",
+ "ruc": "80023654-8",
+ "tipo": "Sociedad Anónima",
+ "carpeta_mef": "ONIRIA SA",
+ "denominaciones_anteriores": [],
+ "constitucion": {
+  "fecha": "2001-09-04",
+  "escritura": "N° 64",
+  "escribano": "Karen Alice Notario Frutos",
+  "inscripcion_registro_publico": "Personas Jurídicas N° 529 folio 4535 Serie F y Registro Público de Comercio N° 771 Serie B folio 7552, ambas 09/10/2001",
+  "fuente": {
+   "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+   "pagina": 1
+  }
+ },
+ "domicilio": [
+  {
+   "direccion": "General Máximo Santos c/ Concordia, Complejo Textilia, Asunción",
+   "fecha_dato": "2026-10-28",
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 65.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Avda. Máximo Santos (SIARA)",
+   "fecha_dato": "2026-07-30",
+   "fuente": {
+    "archivo": "CONSTANCIA RA 21409.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Gral. Máximo Santos N° 1030, Asunción",
+   "fecha_dato": "2026-05-27",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": null,
+ "actividad_principal": null,
+ "plazo_duracion": null,
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 1500000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 5000000,
+   "cantidad_acciones": 300,
+   "fecha_dato": "2020-12-07",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+    "pagina": 6
+   },
+   "nota": "Tras fusión por absorción de Oniria Lab S.A.; integrado Gs. 1.300 M en 2020."
+  },
+  {
+   "tipo": "integrado",
+   "monto": 1500000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 5000000,
+   "cantidad_acciones": 300,
+   "fecha_dato": "2026-04-28",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 31.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "Camilo José Guanes Mersan",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.539.271",
+   "nacionalidad": null,
+   "acciones": 500,
+   "clase_acciones": "ordinarias nominativas",
+   "votos": 500,
+   "porcentaje": 50.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2020-11-05",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "Antes de la fusión (1.000 acciones totales)."
+  },
+  {
+   "nombre": "Rodrigo Alberto Weiberlen Duarte",
+   "tipo_persona": "fisica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 500,
+   "clase_acciones": "ordinarias nominativas",
+   "votos": 500,
+   "porcentaje": 50.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2020-11-05",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Socio hasta al menos dic-2020; no figura en el registro 2024."
+  },
+  {
+   "nombre": "Camilo José Guanes Mersan",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.539.271",
+   "nacionalidad": null,
+   "acciones": 225,
+   "clase_acciones": "ordinarias nominativas",
+   "votos": 225,
+   "porcentaje": 75.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2024-01-03",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Títulos 01,03,04,07,09 (122+13+75+2+13); valor Gs. 5.000.000 c/u."
+  },
+  {
+   "nombre": "Daniel Achaval Barousse",
+   "tipo_persona": "fisica",
+   "documento": "CI 4.247.931",
+   "nacionalidad": null,
+   "acciones": 75,
+   "clase_acciones": "ordinarias nominativas",
+   "votos": 75,
+   "porcentaje": 25.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2024-01-04",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Títulos 02,05,06,08 (15+30+15+15)."
+  },
+  {
+   "nombre": "Grupo Vázquez S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": null,
+   "nacionalidad": null,
+   "acciones": 180,
+   "clase_acciones": "ordinarias nominativas",
+   "votos": 180,
+   "porcentaje": 60.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-01-03",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 4
+   },
+   "confianza": "alta",
+   "notas": "Compra a Guanes 135 acc. (títulos 01 y 03) y a Achaval 45 (títulos 02 y 05) el 03/01/2025. Confirmado en Asamblea N° 31 (28/04/2026), rep. Bernardo Algorta (CI 7.375.741)."
+  },
+  {
+   "nombre": "Camilo José Guanes Mersan",
+   "tipo_persona": "fisica",
+   "documento": "CI 1.539.271",
+   "nacionalidad": null,
+   "acciones": 90,
+   "clase_acciones": "ordinarias nominativas",
+   "votos": 90,
+   "porcentaje": 30.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-04-28",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 31.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  },
+  {
+   "nombre": "Daniel Achaval Barousse",
+   "tipo_persona": "fisica",
+   "documento": "CI 4.247.931",
+   "nacionalidad": null,
+   "acciones": 30,
+   "clase_acciones": "ordinarias nominativas",
+   "votos": 30,
+   "porcentaje": 10.0,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-04-28",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 31.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": ""
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "Camilo José Guanes Mersan",
+   "documento": "CI 1.539.271",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2026-04-28",
+   "vigencia": null,
+   "fecha_dato": "2026-10-28",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 65.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Daniel Achaval Barousse",
+   "documento": "CI 4.247.931",
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2026-04-28",
+   "vigencia": null,
+   "fecha_dato": "2026-10-28",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 65.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Luis Marcelo Cardozo Ledesma",
+   "documento": "CI 2.484.390 (dato de Kostas)",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-04-28",
+   "vigencia": "renunció 28/10/2026",
+   "fecha_dato": "2026-10-28",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 65.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Paola Analía Meza",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-04-28",
+   "vigencia": null,
+   "fecha_dato": "2026-04-28",
+   "vigente": null,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 31.pdf",
+    "pagina": 3
+   },
+   "confianza": "alta",
+   "notas": "No aparece en la reunión de directorio del 28/10/2026."
+  },
+  {
+   "nombre": "Luis Fernando Morales",
+   "documento": null,
+   "cargo": "Director titular",
+   "fecha_asuncion": "2026-04-28",
+   "vigencia": "renunció 28/10/2026",
+   "fecha_dato": "2026-10-28",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 65.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "Rodolfo Andrés Barrios Duba",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2026-04-28",
+   "vigencia": null,
+   "fecha_dato": "2026-10-28",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 65.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "2001-09-04",
+   "evento": "constitucion",
+   "detalle": "Esc. N° 64 (Karen A. Notario Frutos).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2006-09-13",
+   "evento": "modificacion_estatutos",
+   "detalle": "Esc. N° 41.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2014-02-28",
+   "evento": "aumento_capital",
+   "detalle": "Esc. N° 13 emisión de acciones (rectificada por Esc. N° 15 del 27/02/2026).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2020-11-05",
+   "evento": "fusion",
+   "detalle": "Asambleas: fusión por absorción de Oniria Lab S.A. (RUC 80080600-0; socios Guanes y Weiberlen 50/50); capital a Gs. 1.500 M en 300 acciones de Gs. 5 M. Protocolizado por Esc. N° 113 del 27/05/2026 (María Jackeline Bolla de Báez).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "fecha": "2025-01-03",
+   "evento": "transferencia_acciones",
+   "detalle": "Guanes Mersan y Achaval Barousse venden 180 acciones (60%) a Grupo Vázquez S.A.E.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-04-28",
+   "evento": "cambio_directorio",
+   "detalle": "Asamblea N° 31: directorio Guanes/Achaval/Cardozo/Meza/Morales; síndico Barrios Duba; dividendos 2025 Gs. 3.548 M (GV Gs. 2.129 M).",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 31.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "fecha": "2026-10-28",
+   "evento": "cambio_directorio",
+   "detalle": "Acta Directorio N° 65: renuncian L. M. Cardozo y L. F. Morales; convocatoria a asamblea para 17/11/2026.",
+   "fuente": {
+    "archivo": "ACTA DIRECTORIO NRO 65.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "Grupo Vázquez S.A.E.",
+   "tipo": "accionista_de",
+   "detalle": "Accionista 60% desde 03/01/2025 (rep. Bernardo Algorta).",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 31.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Luis Marcelo Cardozo Ledesma",
+   "tipo": "director_comun",
+   "detalle": "Director (hasta oct-2026); Presidente de Intertours y Discover Paraguay, gerente de Kostas.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 31.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "entidad_o_persona": "Rodolfo Andrés Barrios Duba",
+   "tipo": "director_comun",
+   "detalle": "Síndico de Oniria; síndico suplente de Intertours.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 31.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "entidad_o_persona": "Bernardo Algorta (CI 7.375.741)",
+   "tipo": "mencion_en_documento",
+   "detalle": "Representante de Grupo Vázquez también en ITTI y V Media.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 31.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Oniria Lab S.A. (RUC 80080600-0)",
+   "tipo": "otro",
+   "detalle": "Absorbida por fusión (2020).",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "Karen Alice Notario Frutos",
+   "tipo": "otro",
+   "detalle": "Misma escribana de constitución que Tiva S.A.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "SEBAURAN@ONIRIA.COM.PY",
+   "telefono": null,
+   "fecha": "2026-07-30",
+   "fuente": {
+    "archivo": "CONSTANCIA RA 21409.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "correos_dominios": [
+  "oniria.com.py"
+ ],
+ "documentos": [
+  {
+   "archivo": "ACTA DIRECTORIO NRO 65.pdf",
+   "tipo": "acta_directorio",
+   "fecha": "2026-10-28",
+   "paginas": 2,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Acta Directorio N° 65/2026: renuncias de Cardozo y Morales; convocatoria a asamblea."
+  },
+  {
+   "archivo": "ACTA ORDINARIA NRO 31.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-04-28",
+   "paginas": 4,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Asamblea Ordinaria N° 31: GV 180 (60%), Guanes 90 (30%), Achaval 30 (10%); directorio y síndico; distribución de utilidades."
+  },
+  {
+   "archivo": "CONSTANCIA RA 21409.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-09-10",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia RA N° 21409 (presentada 30/07/2026)."
+  },
+  {
+   "archivo": "REGISTRO ACCIONISTAS.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2025-01-03",
+   "paginas": 6,
+   "legibilidad": "texto",
+   "resumen": "Registro de accionistas (2024 y 2025): 300 acciones; transferencias a Grupo Vázquez 03/01/2025. Firmado por C. J. Guanes Mersan 31/07/2026."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICACION NRO 113.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2026-05-27",
+   "paginas": 38,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Esc. N° 113: protocoliza actas 2020 de fusión por absorción de Oniria Lab S.A. y aumento de capital a Gs. 1.500 M."
+  }
+ ],
+ "observaciones": [
+  "No se remitió constancia BF; GV controla 60% por lo que su BF (F. M. Vázquez Villasanti en otras empresas) sería BF indirecto, no declarado aquí.",
+  "La fusión de 2020 se protocolizó recién el 27/05/2026 (y se rectificó la emisión de 2014 en feb-2026).",
+  "Registro 2024 sin fecha de entrada de Achaval/salida de Weiberlen Duarte (socio 50% en 2020): falta documentación de esa transferencia.",
+  "Registro: la fila del título 04 en la sección 2025 tiene fecha 04/01/2024 mientras en la 2024 dice 03/01/2024."
+ ]
+}
