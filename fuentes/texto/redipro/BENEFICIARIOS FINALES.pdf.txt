@@ -1,0 +1,163 @@
+# Fuente: RED DIGITAL DE PROCESAMIENTO S.A/BENEFICIARIOS FINALES.pdf
+# Texto digital o OCR (tesseract spa 200dpi). Las páginas marcadas [OCR] pueden tener errores.
+
+
+===== Página 1 =====
+TIPO DE DOCUMENTO            NÚMERO NOMBRE                             APELLIDO             TELÉFONO
+                             DE
+                             DOCUMEN
+                             TO
+CÉDULA DE IDENTIDAD          1418920      SILVIA SUSANA                BRACHO MEZA
+REGISTRO ÚNICO DEL CONTRIBUYENTE
+                             80135001-8   U PARAGUAY S.A.
+CÉDULA DE IDENTIDAD          2368373      CESAR                        BEREA VARGAS         +595981502151
+CÉDULA DE IDENTIDAD          3490272      DIANA LETICIA                MONGELOS GONZALEZ
+REGISTRO ÚNICO DEL CONTRIBUYENTE
+                             80135001-8   U PARAGUAY S.A.
+CÉDULA DE IDENTIDAD          2479821      JUAN MANUEL                  GUSTALE CARDONI      +595981792394
+CÉDULA DE IDENTIDAD          2941546      FEDERICO MIGUEL              VAZQUEZ VILLASANTI
+CÉDULA DE IDENTIDAD          2479821      JUAN MANUEL                  GUSTALE CARDONI      +595981792394
+CÉDULA DE IDENTIDAD          2941546      FEDERICO MIGUEL              VAZQUEZ VILLASANTI
+CÉDULA DE IDENTIDAD          439189       EDUARDO JAVIER               GROSS BROWN COSTA    +595981402259
+REGISTRO ÚNICO DEL CONTRIBUYENTE
+                             80026157-7   UENO BANK SOCIEDAD ANÓNIMA
+CÉDULA TRIBUTARIA EXTRANJERA B280698      U HOLDINGS S.A.R.L.
+CÉDULA DE IDENTIDAD          1786163      JOSE MARIA                   MONTERO ZUCCOLILLO
+CÉDULA DE IDENTIDAD          2479821      JUAN MANUEL                  GUSTALE CARDONI     +595981792394
+CÉDULA DE IDENTIDAD          2941546      FEDERICO MIGUEL              VAZQUEZ VILLASANTI
+CÉDULA DE IDENTIDAD          1202532      MIGUEL ANGEL                 ALMADA FRUTOS       +595982284479
+CÉDULA DE IDENTIDAD          1432121      ALEJANDRO                    GOMEZ ABENTE
+CÉDULA DE IDENTIDAD          2941546      FEDERICO MIGUEL              VAZQUEZ VILLASANTI
+CÉDULA DE IDENTIDAD          2035857      MARIANA ISABEL               TORRES RUBIANI
+CÉDULA DE IDENTIDAD          1055727      DIEGO FERNANDO               DUARTE SCHUSSMULLER
+CÉDULA DE IDENTIDAD          1432121      ALEJANDRO                    GOMEZ ABENTE
+
+
+===== Página 2 =====
+CÉDULA DE IDENTIDAD          1417970     JULIO DANIEL                   REY FERNANDEZ
+REGISTRO ÚNICO DEL CONTRIBUYENTE
+                             2941546-2   FEDERICO MIGUEL VAZQUEZ VILLASANTI
+CÉDULA DE IDENTIDAD          1432121     ALEJANDRO                      GOMEZ ABENTE
+CÉDULA TRIBUTARIA EXTRANJERA B280698     U HOLDINGS S.A.R.L.
+CÉDULA DE IDENTIDAD          1202532     MIGUEL ANGEL                   ALMADA FRUTOS      +595982284479
+CÉDULA DE IDENTIDAD          2941546     FEDERICO MIGUEL                VAZQUEZ VILLASANTI
+CÉDULA DE IDENTIDAD          1786163     JOSE MARIA                     MONTERO ZUCCOLILLO
+
+
+===== Página 3 =====
+CORREO ELECTRÓNICO               DEPARTAMENTO CIUDAD PROFESIÓN                             OCUPACIÓN CANTIDAD DE
+                                                                                                     ACCIONES
+
+
+
+SILVIA.BRACHO@UPAY.COM.PY         ASUNCIÓN    ASUNCIÓN                                     EMPRESARIA   0
+LEGALES@ITTI.DIGITAL              ASUNCIÓN    ASUNCIÓN                                                  390552
+CESAR.BEREA@ITTI.DIGITAL          ASUNCIÓN    ASUNCIÓN                                     EMPRESARIO   0
+DIANA.MONGELOS@UENO.COM.PY                               ABOGADA
+LEGALES@ITTI.DIGITAL
+JUAN.GUSTALE@UENO.COM.PY                                 ABOGADO
+ADMINISTRACION@GRUPOVAZQUEZ.COM ASUNCIÓN      ASUNCIÓN
+JUAN.GUSTALE@UENO.COM.PY          ASUNCIÓN    ASUNCIÓN
+ADMINISTRACION@GRUPOVAZQUEZ.COM ASUNCIÓN      ASUNCIÓN
+EDUARDO@GROSSBROWN.COM.PY         ASUNCIÓN    ASUNCIÓN ABOGADO                                          0
+IMPUESTOS@UENO.COM.PY             ASUNCIÓN    ASUNCIÓN                                                  376129
+MIGUEL.ALMADA@ITTI.DIGITAL
+JOSEMARIA@MONTEROPALAZON.COM      ASUNCIÓN    ASUNCIÓN
+JUAN.GUSTALE@UENO.COM.PY          ASUNCIÓN    ASUNCIÓN
+ADMINISTRACION@GRUPOVAZQUEZ.COM ASUNCIÓN      ASUNCIÓN
+MIGUEL.ALMADA@ITTI.DIGITAL        ASUNCIÓN    ASUNCIÓN
+ALEJANDRO.GOMEZ.ABENTE@UENO.COM.PYASUNCIÓN    ASUNCIÓN
+MIGUEL@UENO.COM.PY                                       ESPECIALISTA EN FINANZAS
+MARIANA.TORRES@UENO.COM.PY                               MÁSTER EN FINANZAS CORPORATIVAS
+DIEGO.DUARTE@UENO.COM.PY                                 DOCTOR EN ECONOMÍA
+ALEJANDRO.GOMEZ@UENO.COM.PY                              MBA
+
+
+===== Página 4 =====
+JULIO.REY@UENO.COM.PY                                   MÁSTER EN FINANZAS
+ADMINISTRACION@GRUPOVAZQUEZ.COM ASUNCIÓN     ASUNCIÓN                        EMPRESARIO
+ALEJANDRO.GOMEZ.ABENTE@UENO.COM.PYASUNCIÓN   ASUNCIÓN
+MIGUEL.ALMADA@ITTI.DIGITAL
+MIGUEL.ALMADA@ITTI.DIGITAL        ASUNCIÓN   ASUNCIÓN
+ADMINISTRACION@GRUPOVAZQUEZ.COM ASUNCIÓN     ASUNCIÓN                        EMPRESARIO
+JOSEMARIA@MONTEROPALAZON.COM      ASUNCIÓN   ASUNCIÓN
+
+
+===== Página 5 =====
+VALOR DE CATEGORÍA CANTIDAD    % DE            % DE DERECHO CONDICIÓN DEL BF                     FECHA DE
+LA ACCIÓN DE ACCIÓN DE VOTOS   PARTICIPACIÓN   A VOTO                                            CONSTITUCIÓN
+                               SUSTANTIVA                                                        COMO BF
+
+0.0                 0          0.0             0.0          C1 - AUTORIDAD O REPRESENTANTE LEGAL 17/04/2026
+                    50000      50.94           100.0        A - PARTICIPACIÓN ≥10% DEL CAPITAL   30/09/2023
+0.0                 0          0.0             0.0          C1 - AUTORIDAD O REPRESENTANTE LEGAL 17/04/2026
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 20/02/2026
+                                                            A - PARTICIPACIÓN ≥10% DEL CAPITAL   21/05/2026
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 20/02/2026
+                                                            E - CONTROL O CADENA DE TITULARIDAD 05/10/2023
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 16/04/2026
+                                                            E - CONTROL O CADENA DE TITULARIDAD 05/10/2023
+0.0                 0          0.0             0.0          C1 - AUTORIDAD O REPRESENTANTE LEGAL 17/04/2026
+                    0          49.06           0.0          A - PARTICIPACIÓN ≥10% DEL CAPITAL   28/04/2025
+                                                            A - PARTICIPACIÓN ≥10% DEL CAPITAL   19/12/2025
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 16/04/2026
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 16/04/2026
+                                                            E - CONTROL O CADENA DE TITULARIDAD 05/10/2023
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 16/04/2026
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 16/04/2026
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 20/02/2026
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 20/02/2026
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 20/02/2026
+                                                            C1 - AUTORIDAD O REPRESENTANTE LEGAL 20/02/2026
+
+
+===== Página 6 =====
+C1 - AUTORIDAD O REPRESENTANTE LEGAL 20/02/2026
+E - CONTROL O CADENA DE TITULARIDAD 29/09/2023
+C1 - AUTORIDAD O REPRESENTANTE LEGAL 16/04/2026
+A - PARTICIPACIÓN ≥10% DEL CAPITAL   19/12/2025
+C1 - AUTORIDAD O REPRESENTANTE LEGAL 16/04/2026
+C1 - AUTORIDAD O REPRESENTANTE LEGAL 16/04/2026
+C1 - AUTORIDAD O REPRESENTANTE LEGAL 16/04/2026
+
+
+===== Página 7 =====
+CADENA DE CONTROL                                 FALLEC ES       OEE
+                                                  IDO    FUNCIONA
+                                                         RIO
+                                                         PÚBLICO
+                                                 NO        NO
+                                                 NO        NO
+                                                 NO        NO
+RUC: 80026157-7 - UENO BANK SOCIEDAD ANÓNIMA     NO        NO
+RUC: 80026157-7 - UENO BANK SOCIEDAD ANÓNIMA     NO        NO
+RUC: 80026157-7 - UENO BANK SOCIEDAD ANÓNIMA     NO        NO
+CEDULA_TRIBUTARIA_EXTRAJERA: B280698 - U HOLDINGSNO
+                                                  S.A.R.L. NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+CEDULA_TRIBUTARIA_EXTRAJERA: B280698 - U HOLDINGSNO
+                                                  S.A.R.L. NO
+                                                 NO        NO
+                                                 NO        NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+RUC: 80026157-7 - UENO BANK SOCIEDAD ANÓNIMA     NO        NO
+RUC: 80026157-7 - UENO BANK SOCIEDAD ANÓNIMA     NO        NO
+RUC: 80026157-7 - UENO BANK SOCIEDAD ANÓNIMA     NO        NO
+RUC: 80026157-7 - UENO BANK SOCIEDAD ANÓNIMA     NO        NO
+
+
+===== Página 8 =====
+RUC: 80026157-7 - UENO BANK SOCIEDAD ANÓNIMA     NO        NO
+CEDULA_TRIBUTARIA_EXTRAJERA: B280698 - U HOLDINGSNO
+                                                  S.A.R.L. NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+RUC: 80135001-8 - U PARAGUAY S.A.                NO        NO
+

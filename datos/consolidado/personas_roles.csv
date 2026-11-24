@@ -1,0 +1,825 @@
+persona_id,nombre_canonico,empresa_id,empresa,rol,cargo,fecha,vigente,pct,nombre_en_fuente,documento_en_fuente,fuente,confianza
+P0001,MIGUEL ANGEL ALMADA FRUTOS,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,MIGUEL ANGEL ALMADA FRUTOS,CI 1202532,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0001,MIGUEL ANGEL ALMADA FRUTOS,aime_corredores,AIME S.A. Corredores de Seguros,autoridad,Director suplente,2024-12-02,True,,Miguel Angel Almada Frutos,,Acta de Dirertorio 22-2025.pdf p.1,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,inter_express,Inter-Express S.A.,autoridad,Síndico titular,2026-04-22,True,,MIGUEL ANGEL ALMADA FRUTOS,CI 1202532 (según listado BF de 23 Sports Marketing),ACTA ORDINARIA NRO 152.pdf p.2,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,kaitel,Kaitel S.R.L.,autoridad,Gerente,2025-05-20,True,,MIGUEL ANGEL ALMADA FRUTOS,CI 1.202.532,CONSTANCIA RA.pdf p.1,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal,2026-10,True,,Miguel Angel Almada Frutos,CI 1202532,BENEFICIARIOS FINALES.pdf p.1,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,redisa,Red Digital S.A. (REDISA),autoridad,Síndico titular,2026-04-15,True,,MIGUEL ALMADA (MIGUEL ANGEL ALMADA FRUTOS),CI 1.202.532,ACTA ORDINARIA NRO 16.pdf p.2,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,terravaz,Terravaz S.A. Emisora,autoridad,Síndico titular,2025-06-17,True,,MIGUEL ANGEL ALMADA FRUTOS,,ACTA ORDINARIA NRO 21.pdf p.2,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,tuiu,TUIU S.A.,autoridad,Síndico titular,2024-11-28,False,,MIGUEL ANGEL ALMADA FRUTOS,CI 1.202.532,ESCRITURA CONSTITUCION NRO 216.pdf p.20,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,autoridad,Representante del accionista U Holdings S.a.R.L. en asambleas de U Paraguay S.A. N° 5 y 6,2025-07-21,,,MIGUEL ÁNGEL ALMADA FRUTOS,CI 1.202.532,(carpeta U PARAGUAY S.A) ESCRITURA MODIFICACION NRO 84.pdf p.4,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,ueno_bank,Ueno Bank S.A.,autoridad,Síndico titular,2026-02-20,True,,Miguel Ángel Almada Frutos,,ACTA ASAMBLEA.pdf p.4,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,v_media,V Media S.A.,autoridad,Síndico titular,2026-05-08,True,,Miguel Ángel Almada Frutos,CI 1202532 (dato de Redipro),ACTA ORDINARIA NRO 28.pdf p.2,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,discover_paraguay,Discover Paraguay S.A.,autoridad,Síndico titular,2025-10-27,True,,MIGUEL ALMADA,,ACTA ORDINARIA NRO 11.pdf p.1,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,discover_paraguay,Discover Paraguay S.A.,autoridad,Síndico titular,2025-05-23,False,,MIGUEL ALMADA,,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf p.11,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,intertours,Intertours S.A.,autoridad,Síndico titular,2025-09-24,True,,Miguel Almada,,ACTA DIRECTORIO NRO 109.pdf p.1,media
+P0001,MIGUEL ANGEL ALMADA FRUTOS,nubicom_paraguay,Nubicom Paraguay S.A.,autoridad,Secretario de asamblea (Asamblea Extraordinaria N° 2),2025-09-13,False,,MIGUEL ALMADA,,Escritura Públcia N° 83.pdf p.3,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,u_paraguay,U Paraguay S.A.,autoridad,Síndico titular,2026-04-16,True,,MIGUEL ALMADA,,ACTA ORDINARIA.pdf p.2,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,ueno_seguros,Ueno Seguros S.A.,autoridad,Síndico suplente,2022-08-09,False,,MIGUEL ALMADA,,Escritura Pública N° 186.pdf p.8,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,vinanzas,Vinanzas S.A.,autoridad,Síndico titular,2026-03-30,True,,MIGUEL ALMADA,,ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0001,MIGUEL ANGEL ALMADA FRUTOS,ueno_seguros,Ueno Seguros S.A.,autoridad,Síndico titular,2024-10-25,True,,MIGUEL ALMADA FRUTOS,,Acta de Asamblea Ordinaria.pdf p.1,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3807117,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,idl,Impresión Distribución y Logística S.A.,autoridad,Director Vicepresidente,2022-04-30,False,,CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3.807.117,ESCRITURA MODIFICACION NRO 141.pdf p.1,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,idl,Impresión Distribución y Logística S.A.,autoridad,Presidente,2026-04-06,True,,César Manuel Astigarraga Lambaré,CI 3.807.117,ACTA ORDINARIA NRO 17.pdf p.2,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,inter_express,Inter-Express S.A.,autoridad,Presidente,2026-04-22,True,,CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3807117 (según listado BF de 23 Sports Marketing),ACTA ORDINARIA NRO 152.pdf p.2,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,itti,ITTI S.A.E.C.A.,autoridad,Presidente,2026-07-13,True,,Cesar Manuel Astigarraga Lambaré,CI 3.807.117,ACTA ORDINARIA NRO 42.pdf p.1,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,place_analyzer,Place Analyzer E.A.S.,autoridad,Director titular,2025-03-25,False,,César Manuel Astigarraga Lambaré,CI 3.807.117,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.16,media
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,place_analyzer,Place Analyzer E.A.S.,autoridad,Director titular,2025-04-15,False,,César Manuel Astigarraga Lambaré,CI 3.807.117,CONSTANCIA RA.pdf p.1,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,redisa,Red Digital S.A. (REDISA),autoridad,Presidente,2025-04-28,False,,CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3.807.117,Constancia R.A..pdf p.1,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Presidente,2026-04-20,True,,CÉSAR MANUEL ASTIGARRAGA LAMBARÉ,CI 3.807.117,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf p.2,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Presidente,2024-04-29,False,,CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3.807.117,RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf p.1,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,tuiu,TUIU S.A.,autoridad,Presidente,2024-11-28,False,,CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3.807.117,ESCRITURA CONSTITUCION NRO 216.pdf p.20,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,ueno_bank,Ueno Bank S.A.,autoridad,Síndico suplente,2026-02-20,True,,César Manuel Astigarraga Lambaré,CI 3.807.117,ACTA ASAMBLEA.pdf p.4,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,v_media,V Media S.A.,autoridad,Director titular,2025-07-07,False,,Cesar Manuel Astigarraga Lambaré,CI 3.807.117,ESCRITURA MODIFICACION NRO 141.pdf p.1,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,hanoi,Hanoi S.A.,autoridad,Presidente,2026-03-30,True,,César Astigarraga,CI 3.807.117,ACTA ORDINARIA NRO 22.pdf p.2,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,intertours,Intertours S.A.,autoridad,Representante legal de ITTI S.A.E. (comprador),2026-07-22,,,Cesar Astigarraga,,CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf p.1,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,place_analyzer,Place Analyzer E.A.S.,autoridad,Director titular,2026-04-14,True,,César Astigarraga,CI 3.807.117,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,terravaz,Terravaz S.A. Emisora,autoridad,Síndico suplente,2025-06-17,,,CESAR ASTIGARRAGA,,ACTA ORDINARIA NRO 20.pdf p.2,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,ueno_seguros,Ueno Seguros S.A.,autoridad,Síndico suplente,2024-10-25,True,,CESAR ASTIGARRAGA,,Acta de Asamblea Ordinaria.pdf p.1,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Presidente,2025-05-25,False,,CESAR ASTIGARRAGA LAMBARÉ,CI 3807117,CONSTANCIA RA.pdf p.2,alta
+P0002,CESAR MANUEL ASTIGARRAGA LAMBARE,tiva,Tiva S.A.,autoridad,Presidente / Representante legal,2025-04-11,True,,Cesar Manuel Astigarraga,CI 3.807.117,Constancia RA 2025 1.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,FEDERICO MIGUEL VAZQUEZ VILLASANTI,CI 2941546,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,grupo_vazquez,Grupo Vázquez S.A.E.,accionista,Accionista,2026-03-27,True,75.94,FEDERICO MIGUEL VÁZQUEZ VILLASANTI,CI 2.941.546 (de otras constancias),Libro de registro de accionistas.pdf p.25,media
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,grupo_vazquez,Grupo Vázquez S.A.E.,autoridad,Presidente,2026-07-13,True,,FEDERICO MIGUEL VÁZQUEZ VILLASANTI,CI 2.941.546 (de otras constancias),Acta de asamblea ordinaria N° 31.pdf p.2,media
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,mowi,MOWI S.A.,accionista,Accionista,2021-01-12,False,0.01,FEDERICO MIGUEL VAZQUEZ VILLASANTI,CI 2941546,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,mowi,MOWI S.A.,autoridad,Vicepresidente,2021-01-12,False,,FEDERICO MIGUEL VAZQUEZ VILLASANTI,CI 2941546,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,place_analyzer,Place Analyzer E.A.S.,beneficiario_final,"propiedad indirecta (A); 55,87% de derecho a voto",2025-10-07,True,43.77,Federico Miguel Vázquez Villasanti,CI 2.941.546,CONSTANCIA BF NRO 399459.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,"propiedad indirecta (A) - 77,75% derecho a voto",2025-06-26,True,62.87,Federico Miguel Vazquez Villasanti,CI 2941546 (constancia escribe 2.941.546),Constancia BF.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,E - control o cadena de titularidad; además C1 autoridad,2026-10,True,,Federico Miguel Vazquez Villasanti,CI 2941546 / RUC 2941546-2,BENEFICIARIOS FINALES.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,redisa,Red Digital S.A. (REDISA),beneficiario_final,"propiedad indirecta (condición A): 76% participación, 94% derecho a voto",2025-08-01,True,76.0,FEDERICO MIGUEL VAZQUEZ VILLASANTI,CI 2.941.546 (RUC 2.941.546-2),Constancia B.F..pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,tiva,Tiva S.A.,beneficiario_final,"A - propiedad indirecta (53,87% votos); accionista mayoritario en Grupo Vázquez",2025-01-23,True,35.32,Federico Miguel Vazquez Villasanti,CI 2491546 (así en la constancia; en otras fuentes 2941546),Constancia BF 2025 1.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,autoridad,Representante de U Holdings en la Asamblea Ordinaria N° 7 de U Paraguay,2026-04-16,,,FEDERICO MIGUEL VÁZQUEZ VILLASANTI,CI 2.941.546,(carpeta U PARAGUAY S.A) ACTA ORDINARIA.pdf p.2,media
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,u_paraguay,U Paraguay S.A.,accionista,Accionista,2026-09-25,True,0.0001,FEDERICO MIGUEL VAZQUEZ VILLASANTI,CI 2941546 (de constancia BF Red UTS),REGISTRO ACCIONISTAS 25-09-2026.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,u_paraguay,U Paraguay S.A.,accionista,Accionista,2026-05-29,False,0.0001,FEDERICO MIGUEL VAZQUEZ VILLASANTI,,REGISTRO ACCIONISTAS 29-05-2026.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,u_paraguay,U Paraguay S.A.,accionista,Accionista,2025-12-30,False,0.0001,FEDERICO MIGUEL VAZQUEZ VILLASANTI,,REGISTRO ACCIONISTAS 30-02-2025.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,ueno_bank,Ueno Bank S.A.,autoridad,Vicepresidente 1°,2026-02-20,False,,Federico Miguel Vázquez Villasanti,CI 2.941.546,ACTA ASAMBLEA.pdf p.3,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,ueno_bank,Ueno Bank S.A.,autoridad,Vicepresidente 1°,2026-07-13,True,,Federico Miguel Vázquez Villasanti,CI 2.941.546,ACTA DE ASAMBLEA.pdf p.2,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,discover_paraguay,Discover Paraguay S.A.,accionista,Accionista,2026-01-22,True,0.41,FEDERICO MIGUEL VAZQUEZ,,REGISTRO ACCIONISTAS-PAG 14.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,kaitel,Kaitel S.R.L.,beneficiario_final,"propiedad indirecta (condición A): 74,51% participación, 92,15% derecho a voto",2025-07-04,True,74.51,FEDERICO MIGUEL VAZQUEZ,CI 2.491.546-2 (tal como figura; en otras constancias CI 2.941.546),CONSTANCIA BF NRO 389461.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,red_uts_paraguay,Red UTS Paraguay S.A.,beneficiario_final,propiedad indirecta (condición B),2026-02-11,True,36.46,FEDERICO MIGUEL VAZQUEZ,CI 2941546 (RUC 2941546-2),CONSTANCIA BF NRO 405711.pdf p.1,alta
+P0003,FEDERICO MIGUEL VAZQUEZ VILLASANTI,u_paraguay,U Paraguay S.A.,autoridad,Vicepresidente,2026-04-16,True,,FEDERICO MIGUEL VÁZQUEZ,,ACTA ORDINARIA.pdf p.2,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,GUILLERMO VAZQUEZ MUNIAGURRIA,CI 3799529,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),autoridad,Gerente,2025-07-25,True,,GUILLERMO VAZQUEZ MUNIAGURRIA,CI 3.799.529,ESCRITURA MODIFICACION NRO 201.pdf p.15,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),autoridad,Representante legal,2025-07-25,True,,GUILLERMO VAZQUEZ MUNIAGURRIA,CI 3.799.529,ESCRITURA MODIFICACION NRO 201.pdf p.15,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,grupo_vazquez,Grupo Vázquez S.A.E.,accionista,Accionista,2026-03-27,True,8.02,GUILLERMO VÁZQUEZ MUNIAGURRIA,CI 3.799.529,Libro de registro de accionistas.pdf p.25,media
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,grupo_vazquez,Grupo Vázquez S.A.E.,autoridad,Vicepresidente,2026-07-13,True,,GUILLERMO VÁZQUEZ MUNIAGURRIA,CI 3.799.529,Acta de asamblea ordinaria N° 31.pdf p.2,media
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,grupo_vazquez,Grupo Vázquez S.A.E.,autoridad,Director,2025-04-28,False,,GUILLERMO VÁZQUEZ MUNIAGURRIA,CI 3.799.529,Escritura Pública 131.pdf p.1-2,media
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,idl,Impresión Distribución y Logística S.A.,autoridad,Director Presidente,2022-04-30,False,,GUILLERMO VAZQUEZ MUNIAGURRIA,CI 3.799.529,ESCRITURA MODIFICACION NRO 141.pdf p.1,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,itti,ITTI S.A.E.C.A.,autoridad,Vicepresidente,2026-07-13,True,,Guillermo Vázquez Muniagurria,CI 3.799.529,ACTA ORDINARIA NRO 42.pdf p.1,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,nubicom_paraguay,Nubicom Paraguay S.A.,autoridad,Presidente,2025-09-13,False,,GUILLERMO VÁZQUEZ MUNIAGURRIA,CI 3.799.529,Escritura Públcia N° 83.pdf p.1,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,office_design,Office Design S.R.L.,autoridad,Director titular de Grupo Vázquez S.A.E. (cedente); también actúa por ITTI,2025-04-28,False,,GUILLERMO VAZQUEZ MUNIAGURRIA,CI 3.799.529,Escritura Públcia N° 190.pdf p.1-2,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,ueno_bank,Ueno Bank S.A.,autoridad,Director suplente,2026-02-20,False,,Guillermo Vázquez Muniagurria,CI 3.799.529,ACTA ASAMBLEA.pdf p.3,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,ueno_bank,Ueno Bank S.A.,autoridad,Director suplente,2026-07-13,True,,Guillermo Vázquez Muniagurria,CI 3.799.529,ACTA DE ASAMBLEA.pdf p.2,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,vinanzas,Vinanzas S.A.,autoridad,Vicepresidente,2026-03-30,False,,GUILLERMO VAZQUEZ MUNIAGURRIA,,ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,vinanzas,Vinanzas S.A.,autoridad,Presidente,2026-08-17,True,,GUILLERMO VAZQUEZ MUNIAGURRIA,,ACTA ORDINARIA NRO 2.pdf p.1,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,franede,Franede S.A.,autoridad,Presidente de Asamblea designado (Acta N° 78),2026-04-23,,,Guillermo Vázquez,,ACTA ORDINARIA NRO 78.pdf p.1,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,inter_express,Inter-Express S.A.,autoridad,Representante legal del accionista Kostas Viajes y Turismo S.R.L.,2026-04-22,True,,GUILLERMO VAZQUEZ,,ACTA ORDINARIA NRO 152.pdf p.2,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,place_analyzer,Place Analyzer E.A.S.,autoridad,Director titular,2026-04-14,True,,Guillermo Vázquez,,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0004,GUILLERMO VAZQUEZ MUNIAGURRIA,terravaz,Terravaz S.A. Emisora,autoridad,Representante del accionista Grupo Vázquez S.A.E.,2026-04-17,True,,GUILLERMO VAZQUEZ,,ACTA ORDINARIA NRO 21.pdf p.1,alta
+P0005,BERNARDO JOSE ALGORTA REY,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Representante del accionista Grupo Vázquez S.A.E. (carta poder),2026-04-27,,,BERNARDO JOSE ALGORTA REY,CI 7375741,ACTA ORDINARIA NRO 10-APROBADO.pdf p.1,alta
+P0005,BERNARDO JOSE ALGORTA REY,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,BERNARDO JOSE ALGORTA REY,CI 7375741,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0005,BERNARDO JOSE ALGORTA REY,grupo_vazquez,Grupo Vázquez S.A.E.,autoridad,Director titular,2026-07-13,True,,BERNARDO JOSÉ ALGORTA REY,CI 7.375.741,Acta de asamblea ordinaria N° 31.pdf p.2,media
+P0005,BERNARDO JOSE ALGORTA REY,grupo_vazquez,Grupo Vázquez S.A.E.,autoridad,Director,2025-04-28,False,,BERNARDO JOSÉ ALGORTA REY,CI 7.375.741 (uruguayo),Escritura Pública 131.pdf p.1-2,media
+P0005,BERNARDO JOSE ALGORTA REY,itti,ITTI S.A.E.C.A.,autoridad,Director titular,2026-07-13,True,,Bernardo José Algorta Rey,CI 7.375.741 (dato del acta de Oniria),ACTA ORDINARIA NRO 42.pdf p.1,alta
+P0005,BERNARDO JOSE ALGORTA REY,office_design,Office Design S.R.L.,autoridad,Director titular de Grupo Vázquez S.A.E. (cedente),2025-04-28,False,,BERNARDO JOSE ALGORTA REY,CI 7.375.741 (uruguayo),Escritura Públcia N° 190.pdf p.1-2,alta
+P0005,BERNARDO JOSE ALGORTA REY,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Director suplente,2026-04-20,True,,BERNARDO JOSÉ ALGORTA REY,,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf p.2,alta
+P0005,BERNARDO JOSE ALGORTA REY,nubicom_paraguay,Nubicom Paraguay S.A.,autoridad,Secretario de asamblea,2026-06-19,False,,BERNARDO ALGORTA,CI 7.375.741 (de otros documentos),Acta de Asamblea Ordinaria.pdf p.1,media
+P0005,BERNARDO JOSE ALGORTA REY,terravaz,Terravaz S.A. Emisora,autoridad,Vicepresidente,2025-06-17,True,,BERNARDO ALGORTA,,ACTA ORDINARIA NRO 20.pdf p.2,alta
+P0005,BERNARDO JOSE ALGORTA REY,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,autoridad,Secretario de Asamblea y representante del accionista Grupo Vázquez S.A.E.,2026-02-06,True,,Bernardo Algorta,,ACTA ORDINARIA NRO 10.pdf p.1,alta
+P0005,BERNARDO JOSE ALGORTA REY,vinanzas,Vinanzas S.A.,autoridad,Representante del accionista Grupo Vázquez S.A.E.,2026-08-17,,,BERNARDO ALGORTA,,ACTA ORDINARIA NRO 2.pdf p.1,alta
+P0006,LUIS MARCELO CARDOZO LEDESMA,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Vicepresidente,2026-04-27,False,,LUIS MARCELO CARDOZO LEDESMA,,ACTA ORDINARIA NRO 10-APROBADO.pdf p.4,media
+P0006,LUIS MARCELO CARDOZO LEDESMA,discover_paraguay,Discover Paraguay S.A.,autoridad,Presidente,2025-10-27,True,,LUIS MARCELO CARDOZO LEDESMA,,ACTA ORDINARIA NRO 11.pdf p.1,alta
+P0006,LUIS MARCELO CARDOZO LEDESMA,kostas_viajes,Kostas Viajes y Turismo S.R.L.,autoridad,Gerente titular / Representante legal,2026-05-07,True,,Luis Marcelo Cardozo Ledesma,CI 2.484.390,ESCRITURA MODIFICION NRO 301.pdf p.13,alta
+P0006,LUIS MARCELO CARDOZO LEDESMA,oniria,Oniria S.A.,autoridad,Director titular,2026-04-28,False,,Luis Marcelo Cardozo Ledesma,CI 2.484.390 (dato de Kostas),ACTA DIRECTORIO NRO 65.pdf p.1,alta
+P0006,LUIS MARCELO CARDOZO LEDESMA,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Vicepresidente,2026-04-20,True,,LUIS MARCELO CARDOZO LEDESMA,,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf p.2,alta
+P0006,LUIS MARCELO CARDOZO LEDESMA,terravaz,Terravaz S.A. Emisora,autoridad,Presidente,2025-06-17,True,,LUIS MARCELO CARDOZO LEDESMA,CI 2484390,ESCRITURA MODIFICACION NRO 121.pdf p.1,alta
+P0006,LUIS MARCELO CARDOZO LEDESMA,inter_express,Inter-Express S.A.,autoridad,Vicepresidente,2026-04-22,True,,MARCELO CARDOZO,,ACTA ORDINARIA NRO 152.pdf p.2,alta
+P0006,LUIS MARCELO CARDOZO LEDESMA,intertours,Intertours S.A.,autoridad,Presidente,2025-09-24,True,,Luis Marcelo Cardozo (Ledesma),,ACTA DIRECTORIO NRO 109.pdf p.1,media
+P0007,LIZ RAQUEL VAZQUEZ BENITEZ,discover_paraguay,Discover Paraguay S.A.,autoridad,Director titular,2025-05-23,False,,RAQUEL VAZQUEZ,,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf p.11,alta
+P0007,LIZ RAQUEL VAZQUEZ BENITEZ,terravaz,Terravaz S.A. Emisora,autoridad,Representante del accionista Grupo Vázquez S.A.E.,2025-06-17,,,RAQUEL VAZQUEZ,,ACTA ORDINARIA NRO 20.pdf p.1,alta
+P0007,LIZ RAQUEL VAZQUEZ BENITEZ,place_analyzer,Place Analyzer E.A.S.,autoridad,Síndico titular,2025-03-25,False,,Liz Raquel Vázquez Benítez,CI 1.050.627,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.16,media
+P0007,LIZ RAQUEL VAZQUEZ BENITEZ,ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,autoridad,Presidente,2023-09-11,False,,LIZ RAQUEL VAZQUEZ BENITEZ,CI 1.050.627,ESCRITURA MODIFICACION NRO 138.pdf p.1,alta
+P0007,LIZ RAQUEL VAZQUEZ BENITEZ,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,autoridad,Presidente (Director Presidente),2023-02-06,False,,LIZ RAQUEL VAZQUEZ BENITEZ,CI 1.050.627,ESCRITURA MODIFICACION NRO 40.pdf p.1,alta
+P0007,LIZ RAQUEL VAZQUEZ BENITEZ,v_media,V Media S.A.,autoridad,Presidente,2026-05-08,True,,Liz Raquel Vázquez Benitez,CI 1.050.627,ACTA ORDINARIA NRO 28.pdf p.2,alta
+P0007,LIZ RAQUEL VAZQUEZ BENITEZ,vinanzas,Vinanzas S.A.,autoridad,Presidente,2023-04-26,False,,LIZ RAQUEL VAZQUEZ BENITEZ,CI 1050627,ESCRITURA CONSTITUCION NRO 142.pdf p.31,alta
+P0008,LUIS ERNESTO ANGULO RIVERA,itti,ITTI S.A.E.C.A.,autoridad,Vicepresidente,2025-04-23,False,,Luis Ernesto Angulo Rivera,CI 8.307.881,ESCRITURA MODIFICACION NRO 1.pdf p.1,alta
+P0008,LUIS ERNESTO ANGULO RIVERA,office_design,Office Design S.R.L.,autoridad,Representante de ITTI S.A.E.C.A. (cedente),2025-10-30,False,,LUIS ERNESTO ANGULO RIVERA,CI 8.307.881 (salvadoreño),Escritura Públcia N° 190.pdf p.1,alta
+P0008,LUIS ERNESTO ANGULO RIVERA,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Vicepresidente,2025-05-25,False,,LUIS ERNESTO ANGULO (RIVERA),CI 8307881,CONSTANCIA RA.pdf p.2,alta
+P0008,LUIS ERNESTO ANGULO RIVERA,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Vicepresidente,2024-04-29,False,,LUIS ERNESTO ANGULO RIVERA,CI 8.307.881,RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf p.1,alta
+P0008,LUIS ERNESTO ANGULO RIVERA,tiva,Tiva S.A.,autoridad,Vicepresidente,2025-04-11,True,,Luis Ernesto Angulo (Rivera),CI 8.307.881,Constancia RA 2025 1.pdf p.1,alta
+P0008,LUIS ERNESTO ANGULO RIVERA,tuiu,TUIU S.A.,autoridad,Vicepresidente,2024-11-28,False,,LUIS ERNESTO ANGULO RIVERA,CI 8.307.881,ESCRITURA CONSTITUCION NRO 216.pdf p.20,alta
+P0008,LUIS ERNESTO ANGULO RIVERA,ueno_holding_saeca,Ueno Holding S.A.E.C.A.,autoridad,Vicepresidente,2025-04-01,False,,LUIS ERNESTO ANGULO RIVERA,CI 8.307.881,CONSTANCIA RA.pdf p.1,alta
+P0008,LUIS ERNESTO ANGULO RIVERA,place_analyzer,Place Analyzer E.A.S.,autoridad,Representante de ITTI S.A.E.C.A. y Presidente de Asamblea (Asamblea Extraordinaria N° 03 de la E.A.S.),2024-04-29,False,,Luis Angulo,,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.1,media
+P0009,EDUARDO JAVIER GROSS BROWN COSTA,mowi,MOWI S.A.,autoridad,Director titular,2021-01-12,False,,EDUARDO JAVIER GROSS BROWN,CI 439189,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0009,EDUARDO JAVIER GROSS BROWN COSTA,redipro,Red Digital de Procesamiento S.A. (REDIPRO),autoridad,Presidente,2025-05-28,True,,Eduardo Gross Brown (Eduardo Javier Gross Brown Costa),CI 439189,Constancia RA.pdf p.1,alta
+P0009,EDUARDO JAVIER GROSS BROWN COSTA,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal (presidente),2026-10,True,0.0,Eduardo Javier Gross Brown Costa,CI 439189,BENEFICIARIOS FINALES.pdf p.1,alta
+P0009,EDUARDO JAVIER GROSS BROWN COSTA,ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,autoridad,Presidente,2026-02-06,True,,EDUARDO JAVIER GROSS BROWN COSTA,,ACTA ORDINARIA NRO 8.pdf p.1,alta
+P0009,EDUARDO JAVIER GROSS BROWN COSTA,ueno_bank,Ueno Bank S.A.,accionista,Accionista,2024-03-25,False,0.0,"Gross Brown Costa, Eduardo Javier",CI 439.189,ESCRITURA NRO 44--09-05-2024.pdf p.9,media
+P0009,EDUARDO JAVIER GROSS BROWN COSTA,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,autoridad,Presidente,2026-02-06,True,,Eduardo Javier Gross Brown Costa,CI 439.189,ACTA ORDINARIA NRO 10.pdf p.1,alta
+P0009,EDUARDO JAVIER GROSS BROWN COSTA,ueno_seguros,Ueno Seguros S.A.,autoridad,Vicepresidente,2024-10-25,True,,EDUARDO JAVIER GROSS BROWN COSTA,CI 439.189,Acta de Asamblea Ordinaria.pdf p.1,alta
+P0009,EDUARDO JAVIER GROSS BROWN COSTA,ueno_seguros,Ueno Seguros S.A.,autoridad,Vicepresidente,2022-08-09,False,,EDUARDO GROSS BROWN,,Escritura Pública N° 186.pdf p.8,alta
+P0010,PAOLA ANALIA MEZA,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Director titular,2026-04-27,True,,PAOLA ANALIA MEZA,CI 2525200,ACTA ORDINARIA NRO 10-APROBADO.pdf p.4,alta
+P0010,PAOLA ANALIA MEZA,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,PAOLA ANALIA MEZA,CI 2525200,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0010,PAOLA ANALIA MEZA,discover_paraguay,Discover Paraguay S.A.,autoridad,Vicepresidente,2025-05-23,False,,PAOLA ANALIA MEZA,CI 2.525.200 (OCR),../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf p.11,alta
+P0010,PAOLA ANALIA MEZA,idl,Impresión Distribución y Logística S.A.,autoridad,Director titular,2026-04-06,True,,Paola Analía Meza,CI 2.525.200,ACTA ORDINARIA NRO 17.pdf p.2,alta
+P0010,PAOLA ANALIA MEZA,oniria,Oniria S.A.,autoridad,Director titular,2026-04-28,,,Paola Analía Meza,,ACTA ORDINARIA NRO 31.pdf p.3,alta
+P0010,PAOLA ANALIA MEZA,place_analyzer,Place Analyzer E.A.S.,autoridad,Director titular,2025-03-25,False,,Paola Analía Meza,CI 2.525.200,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.16,media
+P0010,PAOLA ANALIA MEZA,place_analyzer,Place Analyzer E.A.S.,autoridad,Director titular,2025-04-15,False,,Paola Analia Meza,CI 2.525.200,CONSTANCIA RA.pdf p.1,alta
+P0010,PAOLA ANALIA MEZA,place_analyzer,Place Analyzer E.A.S.,autoridad,Director titular,2026-04-14,True,,Paola Meza,CI 2.525.200,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0010,PAOLA ANALIA MEZA,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Director titular,2025-05-25,False,,PAOLA MEZA,CI 2525200,CONSTANCIA RA.pdf p.2,alta
+P0011,RODOLFO ANDRES BARRIOS DUBA,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Síndico titular,2026-04-27,True,,RODOLFO ANDRES BARRIOS DUBA,,ACTA ORDINARIA NRO 10-APROBADO.pdf p.4,alta
+P0011,RODOLFO ANDRES BARRIOS DUBA,oniria,Oniria S.A.,autoridad,Síndico titular,2026-04-28,True,,Rodolfo Andrés Barrios Duba,,ACTA DIRECTORIO NRO 65.pdf p.1,alta
+P0011,RODOLFO ANDRES BARRIOS DUBA,discover_paraguay,Discover Paraguay S.A.,autoridad,Síndico suplente,2025-10-27,True,,RODOLFO BARRIOS,,ACTA ORDINARIA NRO 11.pdf p.1,alta
+P0011,RODOLFO ANDRES BARRIOS DUBA,discover_paraguay,Discover Paraguay S.A.,autoridad,Síndico suplente,2025-05-23,False,,RODOLFO BARRIOS,,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf p.11,alta
+P0011,RODOLFO ANDRES BARRIOS DUBA,inter_express,Inter-Express S.A.,autoridad,Síndico suplente,2026-04-22,True,,RODOLFO BARRIOS,,ACTA ORDINARIA NRO 152.pdf p.2,alta
+P0011,RODOLFO ANDRES BARRIOS DUBA,intertours,Intertours S.A.,autoridad,Síndico suplente,2025-09-24,True,,Rodolfo Barrios,,ACTA DIRECTORIO NRO 109.pdf p.5,media
+P0011,RODOLFO ANDRES BARRIOS DUBA,place_analyzer,Place Analyzer E.A.S.,autoridad,Síndico titular,2026-04-14,True,,Rodolfo Barrios,,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0012,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,kaitel,Kaitel S.R.L.,accionista,Accionista,2025-03-25,False,,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,CI 2.491.308,KAITEL SRL-SIARA-REV/ESCRITURA MODIFICACION NRO 44.pdf p.1,alta
+P0012,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,kaitel,Kaitel S.R.L.,autoridad,Gerente,2025-05-20,True,,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,CI 2.491.308,CONSTANCIA RA.pdf p.1,alta
+P0012,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,kaitel,Kaitel S.R.L.,autoridad,Representante legal,2025-05-20,True,,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,CI 2.491.308,CONSTANCIA RA.pdf p.1,alta
+P0012,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,autoridad,Vicepresidente,2026-02-06,True,,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,,ACTA ORDINARIA NRO 8.pdf p.1,alta
+P0012,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,ueno_bank,Ueno Bank S.A.,autoridad,Director titular,2026-07-13,True,,Carlos Francisco Impagliatelli Bareiro,,ACTA DE ASAMBLEA.pdf p.2,alta
+P0012,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,autoridad,Vicepresidente,2026-02-06,True,,Carlos Francisco Impagliatelli Bareiro,,ACTA ORDINARIA NRO 10.pdf p.1,alta
+P0012,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,vinanzas,Vinanzas S.A.,autoridad,Presidente,2026-03-30,False,,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,,ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0013,JOSE MARIA MONTERO ZUCCOLILLO,grupo_m,Grupo M S.A.,autoridad,Síndico titular,2025-11-28,False,,JOSE MARIA MONTERO,,ACTA ORDINARIA NRO 20.pdf p.2,media
+P0013,JOSE MARIA MONTERO ZUCCOLILLO,u_paraguay,U Paraguay S.A.,autoridad,Síndico suplente,2026-04-16,True,,JOSÉ MARIA MONTERO,,ACTA ORDINARIA.pdf p.2,alta
+P0013,JOSE MARIA MONTERO ZUCCOLILLO,idl,Impresión Distribución y Logística S.A.,autoridad,Síndico titular,2026-04-06,True,,José María Montero Zuccolillo,,ACTA ORDINARIA NRO 17.pdf p.2,alta
+P0013,JOSE MARIA MONTERO ZUCCOLILLO,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal,2026-10,True,,Jose Maria Montero Zuccolillo,CI 1786163,BENEFICIARIOS FINALES.pdf p.1,alta
+P0013,JOSE MARIA MONTERO ZUCCOLILLO,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Síndico titular,2026-04-20,True,,JOSE MARIA MONTERO ZUCCOLILLO,,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf p.2,alta
+P0014,JULIO DANIEL REY FERNANDEZ,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,JULIO DANIEL REY FERNANDEZ,CI 1417970,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0014,JULIO DANIEL REY FERNANDEZ,grupo_vazquez,Grupo Vázquez S.A.E.,autoridad,Director titular,2026-07-13,True,,JULIO REY (JULIO DANIEL REY FERNÁNDEZ),CI 1.417.970 (de listado BF de Red Digital),Acta de asamblea ordinaria N° 31.pdf p.2,media
+P0014,JULIO DANIEL REY FERNANDEZ,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal,2026-10,True,,Julio Daniel Rey Fernandez,CI 1417970,BENEFICIARIOS FINALES.pdf p.2,alta
+P0014,JULIO DANIEL REY FERNANDEZ,ueno_bank,Ueno Bank S.A.,autoridad,Vicepresidente 2°,2026-02-20,False,,Julio Daniel Rey Fernández,,ACTA ASAMBLEA.pdf p.3,alta
+P0014,JULIO DANIEL REY FERNANDEZ,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,2024-10-25,True,,JULIO DANIEL REY FERNANDEZ,,Acta de Asamblea Ordinaria.pdf p.1,alta
+P0015,OSCAR LUIS URDAPILLETA GARCIA,grupo_hendy,Grupo Hendy S.A.,accionista,Accionista,2026-04-13,True,10.0,OSCAR URDAPILLETA (OSCAR LUIS URDAPILLETA GARCIA),CI 1.495.964 (según constancias de Ueno Holding; no consta en esta carpeta),ACTA ORDINARIA NRO 21.pdf p.1,media
+P0015,OSCAR LUIS URDAPILLETA GARCIA,grupo_m,Grupo M S.A.,accionista,Accionista,2026-04-13,True,90.0,OSCAR LUIS URDAPILLETA GARCIA,,ACTA ORDINARIA NRO 21.pdf p.1,alta
+P0015,OSCAR LUIS URDAPILLETA GARCIA,grupo_m,Grupo M S.A.,autoridad,Vicepresidente,2025-11-28,False,,OSCAR LUIS URDAPILLETA GARCIA,,ACTA ORDINARIA NRO 20.pdf p.1,alta
+P0015,OSCAR LUIS URDAPILLETA GARCIA,grupo_m,Grupo M S.A.,autoridad,Presidente,2026-04-13,True,,OSCAR LUIS URDAPILLETA GARCIA,,ACTA ORDINARIA NRO 21.pdf p.2,alta
+P0015,OSCAR LUIS URDAPILLETA GARCIA,redisa,Red Digital S.A. (REDISA),autoridad,Director titular,2026-04-15,True,,OSCAR URDAPILLETA (OSCAR LUIS URDAPILLETA GARCIA),CI 1.495.964,ACTA ORDINARIA NRO 16.pdf p.2,alta
+P0015,OSCAR LUIS URDAPILLETA GARCIA,ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,autoridad,Vicepresidente,2023-09-11,False,,OSCAR LUIS URDAPILLETA GARCIA,CI 1.495.964,ESCRITURA MODIFICACION NRO 138.pdf p.1,alta
+P0015,OSCAR LUIS URDAPILLETA GARCIA,ueno_holding_saeca,Ueno Holding S.A.E.C.A.,autoridad,Presidente y Representante Legal,2025-04-01,False,,OSCAR LUIS URDAPILLETA GARCÍA,CI 1.495.964,CONSTANCIA RA.pdf p.1,alta
+P0015,OSCAR LUIS URDAPILLETA GARCIA,grupo_hendy,Grupo Hendy S.A.,autoridad,Presidente,2026-10-02,True,,OSCAR URDAPILLETA,CI 1.495.964 (cruce),CONSTANCIA ASAMBLEARIA NRO 259596.pdf p.1,alta
+P0015,OSCAR LUIS URDAPILLETA GARCIA,redisa,Red Digital S.A. (REDISA),autoridad,Gerente,2026-04-06,True,,OSCAR URDAPILLETA,CI 1.495.964,ESCRITURA MODIFICACION NRO 57.pdf p.5,alta
+P0016,RICARDO MIGUEL FERNANDEZ OLMEDO,aime_corredores,AIME S.A. Corredores de Seguros,autoridad,Síndico titular,2025-12-29,True,,Ricardo Fernandez,,Acta de Dirertorio 22-2025.pdf p.1,alta
+P0016,RICARDO MIGUEL FERNANDEZ OLMEDO,mowi,MOWI S.A.,autoridad,Síndico suplente,2021-01-12,False,,RICARDO FERNANDEZ,CI 539492,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0016,RICARDO MIGUEL FERNANDEZ OLMEDO,ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,autoridad,Síndico titular,2026-02-06,True,,RICARDO FERNÁNDEZ,,ACTA ORDINARIA NRO 8.pdf p.1,alta
+P0016,RICARDO MIGUEL FERNANDEZ OLMEDO,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,autoridad,Síndico titular,2026-02-06,True,,Ricardo Fernandez,,ACTA ORDINARIA NRO 10.pdf p.1,alta
+P0016,RICARDO MIGUEL FERNANDEZ OLMEDO,redisa,Red Digital S.A. (REDISA),autoridad,Síndico suplente,2020-11-27,False,,RICARDO MIGUEL FERNANDEZ OLMEDO,CI 539.492,ESCRITURA CONSTITUCIÒN NRO 122.pdf p.25,alta
+P0017,SANDRA NOEMI CABALLERO ALMADA,franede,Franede S.A.,declarante,Responsable de la solicitud SIARA,2025-07-07,,,Sandra Noemi Caballero Almada,CI 3.525.422,Constancia RA 2025.pdf p.1,
+P0017,SANDRA NOEMI CABALLERO ALMADA,kaitel,Kaitel S.R.L.,declarante,Responsable de la solicitud SIARA,2025-05-20,,,Sandra Noemi Caballero Almada,CI 3.525.422,CONSTANCIA RA.pdf p.1,
+P0017,SANDRA NOEMI CABALLERO ALMADA,kaitel,Kaitel S.R.L.,declarante,Responsable de la solicitud SIARA,2025-07-04,,,Sandra Noemi Caballero Almada,CI 3.525.422,CONSTANCIA BF NRO 389461.pdf p.1,
+P0017,SANDRA NOEMI CABALLERO ALMADA,place_analyzer,Place Analyzer E.A.S.,declarante,Responsable de la solicitud SIARA,2025-10-07,,,Sandra Noemi Caballero Almada,CI 3.525.422,CONSTANCIA RA.pdf p.1,
+P0017,SANDRA NOEMI CABALLERO ALMADA,place_analyzer,Place Analyzer E.A.S.,declarante,Responsable de la solicitud SIARA,2025-10-07,,,Sandra Noemi Caballero Almada,CI 3.525.422,CONSTANCIA BF NRO 399459.pdf p.1,
+P0017,SANDRA NOEMI CABALLERO ALMADA,tiva,Tiva S.A.,declarante,Responsable de la solicitud SIARA,2025-01-23,,,Sandra Noemi Caballero Almada,CI 3.525.422,Constancia RA 2025 3.pdf p.1,
+P0017,SANDRA NOEMI CABALLERO ALMADA,tiva,Tiva S.A.,declarante,Responsable de la solicitud SIARA,2025-01-23,,,Sandra Noemi Caballero Almada,CI 3.525.422,Constancia BF 2025 1.pdf p.1,
+P0017,SANDRA NOEMI CABALLERO ALMADA,tiva,Tiva S.A.,declarante,Responsable de la solicitud SIARA,2025-06-05,,,Sandra Noemi Caballero Almada,CI 3.525.422,Constancia RA 2025 2.pdf p.1,
+P0017,SANDRA NOEMI CABALLERO ALMADA,ueno_holding_saeca,Ueno Holding S.A.E.C.A.,declarante,Responsable de la solicitud SIARA,2025-04-22,,,Sandra Noemi Caballero Almada,CI 3.525.422,CONSTANCIA RA.pdf p.1,
+P0017,SANDRA NOEMI CABALLERO ALMADA,ueno_holding_saeca,Ueno Holding S.A.E.C.A.,declarante,Responsable de la solicitud SIARA,2025-04-22,,,Sandra Noemi Caballero Almada,CI 3.525.422,CONSTANCIA BF NRO 347282.pdf p.1,
+P0018,SERGIO AMADO PIZURNO SZARAN,grupo_m,Grupo M S.A.,autoridad,Director titular,2025-11-28,False,,SERGIO AMADO PIZURNO SZARAN,CI 740326 (según firma digital en documentos de MOWI S.A.),ACTA ORDINARIA NRO 20.pdf p.1,media
+P0018,SERGIO AMADO PIZURNO SZARAN,mowi,MOWI S.A.,accionista,Accionista,2025-09-30,False,10.0,SERGIO AMADO PIZURNO SZARAN,CI 740326,REGISTRO ACCIONISTAS FOLIO NRO 7.pdf p.1,media
+P0018,SERGIO AMADO PIZURNO SZARAN,mowi,MOWI S.A.,accionista,Accionista,2026-04-28,True,90.0,SERGIO AMADO PIZURNO SZARAN,CI 740326,ACTA ORDINARIA NRO 6.pdf p.1,media
+P0018,SERGIO AMADO PIZURNO SZARAN,mowi,MOWI S.A.,autoridad,Presidente,2026-04-28,True,,SERGIO AMADO PIZURNO SZARAN,CI 740326,ACTA ORDINARIA NRO 6.pdf p.2,alta
+P0018,SERGIO AMADO PIZURNO SZARAN,redisa,Red Digital S.A. (REDISA),autoridad,Vicepresidente,2020-11-27,False,,SERGIO AMADO PIZURNO SZARAN,CI 740.326,ESCRITURA CONSTITUCIÒN NRO 122.pdf p.25,alta
+P0018,SERGIO AMADO PIZURNO SZARAN,technoma,Technoma S.A.E.C.A.,accionista,Accionista,2026-05-20,True,21.675,Sergio Pizurno (Sergio Amado Pizurno Szarán),CI 740.326,Registro de Accionistas.pdf p.1,alta
+P0018,SERGIO AMADO PIZURNO SZARAN,technoma,Technoma S.A.E.C.A.,autoridad,Vicepresidente,2025-04-08,True,,Sergio Amado Pizurno Szarán,CI 740.326,Acta de Asamblea.pdf p.2,alta
+P0018,SERGIO AMADO PIZURNO SZARAN,ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,accionista,Accionista,2023-09-11,False,10.0,SERGIO PIZURNO,CI 740.326,ESCRITURA MODIFICACION NRO 138.pdf p.2,alta
+P0019,ADRIANA VAZQUEZ MUNIAGURRIA,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,ADRIANA VAZQUEZ MUNIAGURRIA,CI 3224279,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0019,ADRIANA VAZQUEZ MUNIAGURRIA,grupo_vazquez,Grupo Vázquez S.A.E.,accionista,Accionista,2026-03-27,True,8.02,ADRIANA VÁZQUEZ MUNIAGURRIA,CI 3.224.279 (de listado BF de Red Digital),Libro de registro de accionistas.pdf p.25,media
+P0019,ADRIANA VAZQUEZ MUNIAGURRIA,grupo_vazquez,Grupo Vázquez S.A.E.,autoridad,Director suplente,2026-07-13,True,,ADRIANA VÁZQUEZ MUNIAGURRIA,CI 3.224.279,Acta de asamblea ordinaria N° 31.pdf p.2,media
+P0019,ADRIANA VAZQUEZ MUNIAGURRIA,itti,ITTI S.A.E.C.A.,autoridad,Director suplente,2026-07-13,True,,Adriana Vázquez Muniagurria,,ACTA ORDINARIA NRO 42.pdf p.1,alta
+P0019,ADRIANA VAZQUEZ MUNIAGURRIA,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,2024-10-25,True,,ADRIANA VÁZQUEZ MUNIAGURRIA,,Acta de Asamblea Ordinaria.pdf p.1,alta
+P0020,ALAN GABRIEL CAMPOS PARDO,aime_corredores,AIME S.A. Corredores de Seguros,declarante,Responsable de la solicitud SIARA,2025-01-13,,,Alan Gabriel Campos Pardo,CI 3.172.236,Constancia RA 2025 1.pdf p.1,
+P0020,ALAN GABRIEL CAMPOS PARDO,aime_corredores,AIME S.A. Corredores de Seguros,declarante,Responsable de la solicitud SIARA,2025-06-18,,,Alan Gabriel Campos Pardo,CI 3.172.236,Constancia BF 2026 2.pdf p.1,
+P0020,ALAN GABRIEL CAMPOS PARDO,aime_corredores,AIME S.A. Corredores de Seguros,declarante,Responsable de la solicitud SIARA,2026-01-29,,,Alan Gabriel Campos Pardo,CI 3.172.236,Constancia RA 2026.pdf p.1,
+P0020,ALAN GABRIEL CAMPOS PARDO,franede,Franede S.A.,declarante,Responsable de la solicitud SIARA,2025-08-28,,,Alan Gabriel Campos Pardo,CI 3.172.236,Constancia BF 2025.pdf p.1,
+P0020,ALAN GABRIEL CAMPOS PARDO,grupo_hendy,Grupo Hendy S.A.,declarante,Responsable de la solicitud SIARA,2026-10-16,,,Alan Gabriel Campos Pardo (solicitante comunicación asamblearia),CI 3.172.236,CONSTANCIA ASAMBLEARIA NRO 259596.pdf p.1,
+P0020,ALAN GABRIEL CAMPOS PARDO,redipro,Red Digital de Procesamiento S.A. (REDIPRO),declarante,Responsable de la solicitud SIARA,2025-06-26,,,Alan Gabriel Campos Pardo,CI 3.172.236,Constancia BF.pdf p.1,
+P0020,ALAN GABRIEL CAMPOS PARDO,redipro,Red Digital de Procesamiento S.A. (REDIPRO),declarante,Responsable de la solicitud SIARA,2026-01-13,,,Alan Gabriel Campos Pardo,CI 3.172.236,Constancia RA.pdf p.1,
+P0021,ALEJANDRO GOMEZ ABENTE,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal,2026-10,True,,Alejandro Gomez Abente,CI 1432121,BENEFICIARIOS FINALES.pdf p.1,alta
+P0021,ALEJANDRO GOMEZ ABENTE,u_paraguay,U Paraguay S.A.,autoridad,Director titular,2026-04-16,True,,ALEJANDRO GÓMEZ ABENTE,CI 1.432.121,ACTA ORDINARIA.pdf p.2,alta
+P0021,ALEJANDRO GOMEZ ABENTE,u_paraguay,U Paraguay S.A.,autoridad,Director titular,2025-05-20,False,,ALEJANDRO GOMEZ ABENTE,CI 1.432.121,ESCRITURA MODIFICACION NRO 84.pdf p.1,alta
+P0021,ALEJANDRO GOMEZ ABENTE,ueno_bank,Ueno Bank S.A.,autoridad,Vicepresidente 2°,2024-03-04,False,,ALEJANDRO GOMEZ ABENTE,CI 1.432.121,ESCRITURA NRO 44--09-05-2024.pdf p.1,alta
+P0021,ALEJANDRO GOMEZ ABENTE,ueno_bank,Ueno Bank S.A.,autoridad,Director titular,2026-02-20,False,,Alejandro Gómez Abente,CI 1.432.121,ACTA ASAMBLEA.pdf p.3,alta
+P0021,ALEJANDRO GOMEZ ABENTE,ueno_bank,Ueno Bank S.A.,autoridad,Director titular,2026-07-13,True,,Alejandro Gómez Abente,CI 1.432.121,ACTA DE ASAMBLEA.pdf p.2,alta
+P0021,ALEJANDRO GOMEZ ABENTE,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,autoridad,Presidente de Asamblea y representante del accionista U Paraguay S.A.,2026-02-06,True,,Alejandro Gómez Abente,CI 1.432.121,ACTA ORDINARIA NRO 10.pdf p.1,alta
+P0022,CAROLINA MARIA GALEANO DE BESTARD,mowi,MOWI S.A.,autoridad,Director suplente,2021-01-12,False,,CAROLINA MARIA GALEANO DE BESTARD,CI 601616,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0022,CAROLINA MARIA GALEANO DE BESTARD,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,2024-10-25,True,,CAROLINA MARÍA GALEANO DE BESTARD,,Acta de Asamblea Ordinaria.pdf p.1,alta
+P0022,CAROLINA MARIA GALEANO DE BESTARD,ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,autoridad,Director titular,2026-02-06,True,,CAROLINA GALEANO DE BESTARD,,ACTA ORDINARIA NRO 8.pdf p.1,alta
+P0022,CAROLINA MARIA GALEANO DE BESTARD,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,autoridad,Director titular,2026-02-06,True,,Carolina Galeano de Bestard,,ACTA ORDINARIA NRO 10.pdf p.1,alta
+P0022,CAROLINA MARIA GALEANO DE BESTARD,ueno_seguros,Ueno Seguros S.A.,autoridad,Director suplente,2022-08-09,False,,CAROLINA GALEANO DE BESTARD,,Escritura Pública N° 186.pdf p.8,alta
+P0023,DIANA LETICIA MONGELOS GONZALEZ,discover_paraguay,Discover Paraguay S.A.,autoridad,Director suplente,2025-10-27,True,,DIANA MONGELOS,,ACTA ORDINARIA NRO 11.pdf p.1,alta
+P0023,DIANA LETICIA MONGELOS GONZALEZ,discover_paraguay,Discover Paraguay S.A.,autoridad,Director suplente,2025-05-23,False,,DIANA MONGELOS,,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf p.11,alta
+P0023,DIANA LETICIA MONGELOS GONZALEZ,hanoi,Hanoi S.A.,autoridad,Vicepresidente,2026-03-30,True,,Diana Mongelos,,ACTA ORDINARIA NRO 22.pdf p.2,alta
+P0023,DIANA LETICIA MONGELOS GONZALEZ,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal,2026-10,True,,Diana Leticia Mongelos Gonzalez,CI 3490272,BENEFICIARIOS FINALES.pdf p.1,alta
+P0023,DIANA LETICIA MONGELOS GONZALEZ,ueno_bank,Ueno Bank S.A.,autoridad,Director titular,2026-02-20,False,,Diana Leticia Mongelos González,,ACTA ASAMBLEA.pdf p.3,alta
+P0023,DIANA LETICIA MONGELOS GONZALEZ,ueno_bank,Ueno Bank S.A.,autoridad,Vicepresidente 2°,2026-07-13,True,,Diana Leticia Mongelos González,,ACTA DE ASAMBLEA.pdf p.2,alta
+P0024,JUAN MANUEL GUSTALE CARDONI,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,JUAN MANUEL GUSTALE CARDONI,CI 2479821,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0024,JUAN MANUEL GUSTALE CARDONI,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal,2026-10,True,,Juan Manuel Gustale Cardoni,CI 2479821,BENEFICIARIOS FINALES.pdf p.1,alta
+P0024,JUAN MANUEL GUSTALE CARDONI,u_paraguay,U Paraguay S.A.,autoridad,Presidente,2026-04-16,True,,JUAN MANUEL GUSTALE CARDONI,CI 2.479.821,ACTA ORDINARIA.pdf p.2,alta
+P0024,JUAN MANUEL GUSTALE CARDONI,u_paraguay,U Paraguay S.A.,autoridad,Presidente,2025-05-20,False,,JUAN MANUEL GUSTALE CARDONI,CI 2.479.821,ESCRITURA MODIFICACION NRO 84.pdf p.1,alta
+P0024,JUAN MANUEL GUSTALE CARDONI,ueno_bank,Ueno Bank S.A.,accionista,Accionista,2024-03-25,False,0.0,"Gustale Cardoni, Juan Manuel",CI 2.479.821,ESCRITURA NRO 44--09-05-2024.pdf p.9,media
+P0024,JUAN MANUEL GUSTALE CARDONI,ueno_bank,Ueno Bank S.A.,autoridad,Presidente,2024-03-25,False,,Juan Manuel Gustale Cardoni,CI 2.479.821,ESCRITURA NRO 44--09-05-2024.pdf p.9,alta
+P0024,JUAN MANUEL GUSTALE CARDONI,ueno_bank,Ueno Bank S.A.,autoridad,Presidente,2026-02-20,False,,Juan Manuel Gustale Cardoni,CI 2.479.821,ACTA ASAMBLEA.pdf p.3,alta
+P0024,JUAN MANUEL GUSTALE CARDONI,ueno_bank,Ueno Bank S.A.,autoridad,Presidente,2026-07-13,True,,Juan Manuel Gustale Cardoni,CI 2.479.821,ACTA DE ASAMBLEA.pdf p.2,alta
+P0025,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,franede,Franede S.A.,autoridad,Síndico titular (firmante del acta N° 78),2026-04-23,,,Mónica Gadea,,ACTA ORDINARIA NRO 78.pdf p.2,media
+P0025,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,office_design,Office Design S.R.L.,accionista,Accionista,2025-10-30,True,95.0,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,CI 1.539.203,Escritura Públcia N° 190.pdf p.10,alta
+P0025,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,office_design,Office Design S.R.L.,autoridad,Gerente,2025-10-30,True,,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,CI 1.539.203,Escritura Públcia N° 190.pdf p.11,alta
+P0025,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,technoma,Technoma S.A.E.C.A.,autoridad,Director titular,2022-04-19,False,,Mónica Leticia Gadea Gómez de la Fuente,CI 1.539.203,Escritura 35 27-06-2023 modificación de estatutos sociales.pdf p.1,alta
+P0025,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,tuiu,TUIU S.A.,autoridad,Síndico titular,2026-08-26,True,,MONICA GADEA (MONICA LETICIA GADEA GOMEZ DE LA FUENTE),CI 1.539.203,ACTA ORDINARIA NRO 7.pdf p.2,media
+P0025,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,tuiu,TUIU S.A.,autoridad,Síndico suplente,2024-11-28,False,,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,CI 1.539.203,ESCRITURA CONSTITUCION NRO 216.pdf p.20,alta
+P0026,MONICA RAQUEL COSTA BARRIOCANAL,discover_paraguay,Discover Paraguay S.A.,autoridad,Director titular,2025-10-27,True,,MONICA RAQUEL COSTA BARRIOCANAL,,ACTA ORDINARIA NRO 11.pdf p.1,alta
+P0026,MONICA RAQUEL COSTA BARRIOCANAL,kostas_viajes,Kostas Viajes y Turismo S.R.L.,accionista,Accionista,2025-06-19,False,50.0,Mónica Raquel Costa Barriocanal,CI 656.417,ESCRITURA MODIFICION NRO 301.pdf p.12,media
+P0026,MONICA RAQUEL COSTA BARRIOCANAL,kostas_viajes,Kostas Viajes y Turismo S.R.L.,autoridad,Gerente suplente / Representante legal,2026-05-07,True,,Mónica Raquel Costa Barriocanal,CI 656.417,ESCRITURA MODIFICION NRO 301.pdf p.13,alta
+P0026,MONICA RAQUEL COSTA BARRIOCANAL,inter_express,Inter-Express S.A.,accionista,Accionista,2025-07-30,False,0.02,MONICA COSTA BARRIOCANAL,,REGISTRO ACCIONISTAS PAG 6.pdf p.1,alta
+P0026,MONICA RAQUEL COSTA BARRIOCANAL,inter_express,Inter-Express S.A.,autoridad,Director titular,2026-04-22,True,,MONICA COSTA,,ACTA ORDINARIA NRO 152.pdf p.2,alta
+P0026,MONICA RAQUEL COSTA BARRIOCANAL,intertours,Intertours S.A.,autoridad,Director titular,2025-09-24,True,,Mónica Costa,,ACTA DIRECTORIO NRO 109.pdf p.1,media
+P0027,PABLO ANTONIO DEBUCKY BOCELLI,mowi,MOWI S.A.,autoridad,Síndico titular,2021-01-12,False,,PABLO ANTONIO DEBUCHY BOSELLI,CI 2036251,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0027,PABLO ANTONIO DEBUCKY BOCELLI,redisa,Red Digital S.A. (REDISA),autoridad,Síndico titular,2020-11-27,False,,PABLO ANTONIO DEBUCKY BOCELLI,CI 2.036.251,ESCRITURA CONSTITUCIÒN NRO 122.pdf p.25,alta
+P0027,PABLO ANTONIO DEBUCKY BOCELLI,ueno_bank,Ueno Bank S.A.,autoridad,Síndico titular,2024-03-25,False,,Pablo Debuchy,,ESCRITURA NRO 44--09-05-2024.pdf p.10,alta
+P0027,PABLO ANTONIO DEBUCKY BOCELLI,ueno_seguros,Ueno Seguros S.A.,autoridad,Síndico titular,2022-08-09,False,,PABLO DEBUCHY,,Escritura Pública N° 186.pdf p.8,alta
+P0028,RUTH STAEL RAMIREZ LEZCANO,idl,Impresión Distribución y Logística S.A.,autoridad,Vicepresidente,2026-04-06,True,,Ruth Stael Ramírez Lezcano,,ACTA ORDINARIA NRO 17.pdf p.2,alta
+P0028,RUTH STAEL RAMIREZ LEZCANO,terravaz,Terravaz S.A. Emisora,autoridad,Director titular,2025-06-17,True,,RUTH STAEL RAMIREZ LEZCANO,CI 3977833,ESCRITURA MODIFICACION NRO 121.pdf p.1,alta
+P0028,RUTH STAEL RAMIREZ LEZCANO,ueno_holding_saeca,Ueno Holding S.A.E.C.A.,autoridad,Directora Titular,2025-04-01,False,,RUTH STAEL RAMÍREZ LEZCANO,CI 3.977.833,CONSTANCIA RA.pdf p.1,alta
+P0028,RUTH STAEL RAMIREZ LEZCANO,vinanzas,Vinanzas S.A.,autoridad,Representante del accionista IOIO S.A.,2026-03-30,,,RUTH RAMIREZ,,ACTA ORDINARIA NRO 1.pdf p.1,alta
+P0029,ANDRE GAYOL PIRES,discover_paraguay,Discover Paraguay S.A.,accionista,Accionista,2026-01-22,True,14.88,ANDRÉ GAYOL (ANDRE GAYOL PIRES),CI 2.377.708,REGISTRO ACCIONISTAS-PAG 14.pdf p.1,media
+P0029,ANDRE GAYOL PIRES,discover_paraguay,Discover Paraguay S.A.,accionista,Accionista,2019-06-27,False,28.93,ANDRÉ GAYOL PIRES,CI 2.377.708,ESCRITURA MODIFICACION NRO 10.pdf p.6,media
+P0029,ANDRE GAYOL PIRES,discover_paraguay,Discover Paraguay S.A.,autoridad,Presidente,2025-05-23,False,,ANDRE GAYOL PIRES,CI 2.377.708,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf p.11,alta
+P0029,ANDRE GAYOL PIRES,discover_paraguay,Discover Paraguay S.A.,autoridad,Presidente,2019-06-27,False,,ANDRE GAYOL PIRES,CI 2.377.708,ESCRITURA MODIFICACION NRO 10.pdf p.1,alta
+P0029,ANDRE GAYOL PIRES,red_uts_paraguay,Red UTS Paraguay S.A.,accionista,Accionista,2026-01-21,True,19.8251,ANDRÉ GAYOL (PIRES),CI 2.377.708 (constancia BF),RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf p.1,alta
+P0029,ANDRE GAYOL PIRES,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Director titular,2026-04-20,True,,ANDRE GAYOL PIRES,CI 2.377.708,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf p.2,alta
+P0029,ANDRE GAYOL PIRES,tuiu,TUIU S.A.,accionista,Accionista,2026-08-26,True,50.0,ANDRE GAYOL PIRES,CI 2.377.708,ACTA ORDINARIA NRO 7.pdf p.1,alta
+P0029,ANDRE GAYOL PIRES,tuiu,TUIU S.A.,accionista,Accionista,2024-11-28,False,40.0,ANDRE GAYOL PIRES,CI 2.377.708,ESCRITURA CONSTITUCION NRO 216.pdf p.20,alta
+P0029,ANDRE GAYOL PIRES,tuiu,TUIU S.A.,autoridad,Presidente,2026-08-26,True,,ANDRE GAYOL (ANDRE GAYOL PIRES),CI 2.377.708,ACTA ORDINARIA NRO 7.pdf p.1,alta
+P0029,ANDRE GAYOL PIRES,tuiu,TUIU S.A.,autoridad,Director titular,2024-11-28,False,,ANDRE GAYOL PIRES,CI 2.377.708,ESCRITURA CONSTITUCION NRO 216.pdf p.20,alta
+P0029,ANDRE GAYOL PIRES,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Director titular,2025-05-25,False,,ANDRE GAYOL,,CONSTANCIA RA.pdf p.2,alta
+P0029,ANDRE GAYOL PIRES,red_uts_paraguay,Red UTS Paraguay S.A.,beneficiario_final,propiedad directa (condición A) - socio desde 21-01-2026,2026-02-11,True,19.83,ANDRÉ GAYOL,CI 2377708 (RUC 2377708-7),CONSTANCIA BF NRO 405711.pdf p.1,alta
+P0030,DIEGO SEBASTIAN GOMEZ ARCE,grupo_hendy,Grupo Hendy S.A.,autoridad,Vicepresidente,2026-04-13,False,,DIEGO GOMEZ,,ACTA ORDINARIA NRO 21.pdf p.2,media
+P0030,DIEGO SEBASTIAN GOMEZ ARCE,grupo_m,Grupo M S.A.,accionista,Accionista,2026-04-13,True,10.0,DIEGO SEBASTIAN GOMEZ ARCE,,ACTA ORDINARIA NRO 21.pdf p.1,alta
+P0030,DIEGO SEBASTIAN GOMEZ ARCE,grupo_m,Grupo M S.A.,autoridad,Presidente,2025-11-28,False,,DIEGO SEBASTIAN GOMEZ ARCE,,ACTA ORDINARIA NRO 20.pdf p.1,alta
+P0030,DIEGO SEBASTIAN GOMEZ ARCE,grupo_m,Grupo M S.A.,autoridad,Director titular,2026-04-13,False,,DIEGO SEBASTIAN GOMEZ ARCE,,ACTA ORDINARIA NRO 21.pdf p.3,alta
+P0030,DIEGO SEBASTIAN GOMEZ ARCE,hanoi,Hanoi S.A.,autoridad,Director titular,2026-03-30,True,,Diego Gómez (Diego Sebastián Gómez Arce),,ACTA ORDINARIA NRO 22.pdf p.2,alta
+P0031,HECTOR PALAZON RUIZ,grupo_m,Grupo M S.A.,autoridad,Síndico suplente,2025-11-28,False,,HECTOR PALAZON,,ACTA ORDINARIA NRO 20.pdf p.2,media
+P0031,HECTOR PALAZON RUIZ,idl,Impresión Distribución y Logística S.A.,autoridad,Síndico suplente,2026-04-06,True,,Héctor Palazón Ruíz,,ACTA ORDINARIA NRO 17.pdf p.2,alta
+P0031,HECTOR PALAZON RUIZ,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Síndico suplente,2026-04-20,True,,HECTOR PALAZÓN RUIZ,,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf p.2,alta
+P0032,LAURA VARGAS WILDBERGER,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,LAURA VARGAS WILDBERGER,CI 3504715,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0032,LAURA VARGAS WILDBERGER,grupo_vazquez,Grupo Vázquez S.A.E.,autoridad,Director suplente,2026-07-13,True,,LAURA VARGAS DE VÁZQUEZ,"CI 3.504.715 (Laura Vargas Wildberger, listado BF Red Digital)",Acta de asamblea ordinaria N° 31.pdf p.2,media
+P0032,LAURA VARGAS WILDBERGER,v_media,V Media S.A.,accionista,Accionista,2025-07-03,False,,Laura Vargas,,REGISTRO DE ACCIONISTAS.pdf p.1,media
+P0033,MARIANA ISABEL TORRES RUBIANI,grupo_vazquez,Grupo Vázquez S.A.E.,autoridad,Director titular,2026-07-13,True,,MARIANA TORRES (MARIANA ISABEL TORRES RUBIANI),CI 2.035.857 (de listado BF de Red Digital),Acta de asamblea ordinaria N° 31.pdf p.2,media
+P0033,MARIANA ISABEL TORRES RUBIANI,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal,2026-10,True,,Mariana Isabel Torres Rubiani,CI 2035857,Registro de Beneficiarios Finales declarado en el SIARA en proceso de aprobación.pdf p.3,alta
+P0033,MARIANA ISABEL TORRES RUBIANI,ueno_bank,Ueno Bank S.A.,autoridad,Director titular,2026-02-20,False,,Mariana Torres Rubiani,,ACTA ASAMBLEA.pdf p.3,alta
+P0034,RAQUEL MONZON VILLASANTI,franede,Franede S.A.,autoridad,Síndico titular,2026-04-23,True,,Raquel Monzón Villasanti,,ACTA ORDINARIA NRO 78.pdf p.2,alta
+P0034,RAQUEL MONZON VILLASANTI,grupo_m,Grupo M S.A.,autoridad,Síndico titular,2026-04-13,True,,RAQUEL MONZON VILLASANTI,,ACTA ORDINARIA NRO 21.pdf p.2,alta
+P0034,RAQUEL MONZON VILLASANTI,tuiu,TUIU S.A.,autoridad,Síndico titular,2026-04-23,False,,RAQUEL MONZON VILLASANTI,,ACTA ORDINARIA NRO 6.pdf p.2,alta
+P0035,AUGUSTO CESAR MENGUAL HERKEN,grupo_hendy,Grupo Hendy S.A.,accionista,Accionista,2015-10-05,False,10.0,AUGUSTO CESAR MENGUAL HERKEN,,ESCRITURA MODIFICACION NRO 43.pdf p.2,alta
+P0035,AUGUSTO CESAR MENGUAL HERKEN,grupo_hendy,Grupo Hendy S.A.,autoridad,Director titular,2015-10-05,False,,AUGUSTO CESAR MENGUAL HERKEN,,ESCRITURA MODIFICACION NRO 43.pdf p.6,alta
+P0035,AUGUSTO CESAR MENGUAL HERKEN,grupo_m,Grupo M S.A.,accionista,Accionista,2020-10-09,False,50.0,AUGUSTO CESAR MENGUAL HERKEN,,ESCRITURA MODIFICACION NRO 187.pdf p.2,alta
+P0035,AUGUSTO CESAR MENGUAL HERKEN,grupo_m,Grupo M S.A.,autoridad,Vicepresidente,2020-10-09,False,,AUGUSTO CESAR MENGUAL HERKEN,,ESCRITURA MODIFICACION NRO 187.pdf p.4,alta
+P0036,CAMILO JOSE GUANES MERSAN,23_sports_marketing,23 Sports Marketing S.A.,accionista,Accionista,2018-05-16,False,27.0,CAMILO JOSE GUANES MERSAN,CI 1539271,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17,alta
+P0036,CAMILO JOSE GUANES MERSAN,23_sports_marketing,23 Sports Marketing S.A.,accionista,Accionista,2026-04-27,True,10.0,CAMILO JOSE GUANES MERSAN,CI 1539271,ACTA ORDINARIA NRO 10-APROBADO.pdf p.1,alta
+P0036,CAMILO JOSE GUANES MERSAN,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Vicepresidente,2018-05-16,False,,CAMILO JOSE GUANES MERSAN,CI 1539271,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17,alta
+P0036,CAMILO JOSE GUANES MERSAN,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Director titular,2026-04-27,True,,CAMILO JOSE GUANES MERSAN,CI 1539271,ACTA ORDINARIA NRO 10-APROBADO.pdf p.4,alta
+P0036,CAMILO JOSE GUANES MERSAN,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,CAMILO JOSE GUANES MERSAN,CI 1539271,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0036,CAMILO JOSE GUANES MERSAN,oniria,Oniria S.A.,accionista,Accionista,2020-11-05,False,50.0,Camilo José Guanes Mersan,CI 1.539.271,ESCRITURA MODIFICACION NRO 113.pdf p.3,alta
+P0036,CAMILO JOSE GUANES MERSAN,oniria,Oniria S.A.,accionista,Accionista,2024-01-03,False,75.0,Camilo José Guanes Mersan,CI 1.539.271,REGISTRO ACCIONISTAS.pdf p.1,alta
+P0036,CAMILO JOSE GUANES MERSAN,oniria,Oniria S.A.,accionista,Accionista,2026-04-28,True,30.0,Camilo José Guanes Mersan,CI 1.539.271,ACTA ORDINARIA NRO 31.pdf p.1,alta
+P0036,CAMILO JOSE GUANES MERSAN,oniria,Oniria S.A.,autoridad,Presidente,2026-04-28,True,,Camilo José Guanes Mersan,CI 1.539.271,ACTA DIRECTORIO NRO 65.pdf p.1,alta
+P0037,CARLOS EMILIO SOLER,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,accionista,Accionista,2019-01,,20.0,CARLOS EMILIO SOLER,CI 5.992.466,contratodefideicomisoshoppingcostanera21012019091525.pdf p.1,alta
+P0037,CARLOS EMILIO SOLER,terravaz,Terravaz S.A. Emisora,accionista,Accionista,2025-08-04,False,1.33,CARLOS EMILIO SOLER,CI 5992466,REGISTRO ACCIONISTAS.pdf p.1,alta
+P0038,CARLOS LORENZO CODAS ZAVALA,mowi,MOWI S.A.,autoridad,Apoderados para trámites de constitución/inscripción (abogados) y ante SET/BCP,2021-01-12,False,,CARLOS LORENZO CODAS ZAVALA,,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0038,CARLOS LORENZO CODAS ZAVALA,ueno_bank,Ueno Bank S.A.,autoridad,Representante de los accionistas U Paraguay S.A. y Grupo Vázquez S.A.E.; secretario Asamblea N° 98,2026-02-20,False,,Carlos Codas,,ACTA ASAMBLEA.pdf p.2,alta
+P0039,CECILIA MARIA DOMINGUEZ ELIZECHE,franede,Franede S.A.,autoridad,Directora titular,2025-06-30,False,,CECILIA DOMINGUEZ (Cecilia María Domínguez Elizeche),CI 2.887.717,Constancia RA 2025.pdf p.1,alta
+P0039,CECILIA MARIA DOMINGUEZ ELIZECHE,franede,Franede S.A.,beneficiario_final,BF,,True,,CECILIA MARIA DOMINGUEZ ELIZECHE,CI 2.887.717,Registro de Beneficiarios Finales declarado en el SIARA en proceso de aprobación.pdf p.1,media
+P0039,CECILIA MARIA DOMINGUEZ ELIZECHE,franede,Franede S.A.,autoridad,Vicepresidente (Director Vicepresidente),2026-04-23,True,,Cecilia Dominguez,CI 2.887.717,ACTA ORDINARIA NRO 78.pdf p.2,alta
+P0039,CECILIA MARIA DOMINGUEZ ELIZECHE,terravaz,Terravaz S.A. Emisora,autoridad,Director suplente,2025-06-17,True,,CECILIA DOMINGUEZ ELIZECHE,,ACTA ORDINARIA NRO 20.pdf p.2,alta
+P0040,CESAR BEREA VARGAS,redipro,Red Digital de Procesamiento S.A. (REDIPRO),autoridad,Director titular,2025-05-28,True,,Cesar Berea (Cesar Berea Vargas),CI 2368373,Constancia RA.pdf p.1,alta
+P0040,CESAR BEREA VARGAS,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal (director),2026-10,True,0.0,Cesar Berea Vargas,CI 2368373,BENEFICIARIOS FINALES.pdf p.1,alta
+P0040,CESAR BEREA VARGAS,redisa,Red Digital S.A. (REDISA),autoridad,Presidente,2026-04-15,True,,CESAR BEREA VARGAS,CI 2.368.373,ACTA ORDINARIA NRO 16.pdf p.2,alta
+P0040,CESAR BEREA VARGAS,redisa,Red Digital S.A. (REDISA),autoridad,Vicepresidente,2025-04-28,False,,CESAR BEREA VARGAS,CI 2.368.373,Constancia R.A..pdf p.1,alta
+P0041,CESAR JAVIER MENGUAL MAZACOTTE,grupo_hendy,Grupo Hendy S.A.,accionista,Accionista,2015-10-05,False,35.0,CESAR JAVIER MENGUAL MAZACOTTE,CI 3.471.686,ESCRITURA MODIFICACION NRO 43.pdf p.2,alta
+P0041,CESAR JAVIER MENGUAL MAZACOTTE,grupo_hendy,Grupo Hendy S.A.,autoridad,Presidente,2015-10-05,False,,CESAR JAVIER MENGUAL MAZACOTTE,CI 3.471.686,ESCRITURA MODIFICACION NRO 43.pdf p.5,alta
+P0041,CESAR JAVIER MENGUAL MAZACOTTE,grupo_m,Grupo M S.A.,accionista,Accionista,2020-10-09,False,50.0,CESAR JAVIER MENGUAL MAZACOTTE,CI 3471686,ESCRITURA MODIFICACION NRO 187.pdf p.2,alta
+P0041,CESAR JAVIER MENGUAL MAZACOTTE,grupo_m,Grupo M S.A.,autoridad,Presidente,2020-05-18,False,,CESAR JAVIER MENGUAL MAZACOTTE,CI 3471686,ESCRITURA MODIFICACION NRO 187.pdf p.1,alta
+P0042,DANIEL ACHAVAL BAROUSSE,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Síndico titular,2018-05-16,False,,DANIEL ACHAVAL BOROUSE,CI 4247931,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17,media
+P0042,DANIEL ACHAVAL BAROUSSE,oniria,Oniria S.A.,accionista,Accionista,2024-01-04,False,25.0,Daniel Achaval Barousse,CI 4.247.931,REGISTRO ACCIONISTAS.pdf p.1,alta
+P0042,DANIEL ACHAVAL BAROUSSE,oniria,Oniria S.A.,accionista,Accionista,2026-04-28,True,10.0,Daniel Achaval Barousse,CI 4.247.931,ACTA ORDINARIA NRO 31.pdf p.1,alta
+P0042,DANIEL ACHAVAL BAROUSSE,oniria,Oniria S.A.,autoridad,Vicepresidente,2026-04-28,True,,Daniel Achaval Barousse,CI 4.247.931,ACTA DIRECTORIO NRO 65.pdf p.1,alta
+P0043,DIEGO FERNANDO DUARTE SCHUSSMULLER,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal,2026-10,True,,Diego Fernando Duarte Schussmuller,CI 1055727,BENEFICIARIOS FINALES.pdf p.1,alta
+P0043,DIEGO FERNANDO DUARTE SCHUSSMULLER,ueno_bank,Ueno Bank S.A.,autoridad,Director titular,2026-02-20,False,,Diego Fernando Duarte Schussmuller,,ACTA ASAMBLEA.pdf p.3,alta
+P0043,DIEGO FERNANDO DUARTE SCHUSSMULLER,ueno_bank,Ueno Bank S.A.,autoridad,Director titular,2026-07-13,True,,Diego Fernando Duarte Schussmuller,,ACTA DE ASAMBLEA.pdf p.2,alta
+P0044,ENRIQUE JAVIER VERA MOREIRA,office_design,Office Design S.R.L.,accionista,Accionista,2025-10-30,True,5.0,ENRIQUE JAVIER VERA MOREIRA,CI 2.543.551,Escritura Públcia N° 190.pdf p.10,alta
+P0044,ENRIQUE JAVIER VERA MOREIRA,office_design,Office Design S.R.L.,autoridad,Gerente suplente,2025-10-30,True,,ENRIQUE JAVIER VERA MOREIRA,CI 2.543.551,Escritura Públcia N° 190.pdf p.11,alta
+P0044,ENRIQUE JAVIER VERA MOREIRA,technoma,Technoma S.A.E.C.A.,accionista,Accionista,2025-01-28,False,3.31,Enrique Vera (Enrique Javier Vera Moreira),"CI 2.543.551 (OCR '12.543.551', lectura media)",Escritura pública 87 16-05-2025 modificación de estatutos.pdf p.3,alta
+P0044,ENRIQUE JAVIER VERA MOREIRA,technoma,Technoma S.A.E.C.A.,autoridad,Presidente,2025-04-08,True,,Enrique Javier Vera Moreira,CI 2.543.551 (OCR),Acta de Asamblea.pdf p.2,alta
+P0044,ENRIQUE JAVIER VERA MOREIRA,technoma,Technoma S.A.E.C.A.,accionista,Accionista,2026-05-20,True,23.325,Enrique Vera,CI 2.543.551 (OCR),Registro de Accionistas.pdf p.1,alta
+P0045,GERALDINE DESSIREE PERSON RESQUIN,discover_paraguay,Discover Paraguay S.A.,accionista,Accionista,2026-01-22,True,9.92,GERALDINE PERSON (GERALDINE DESSIREE PERSON RESQUIN),,REGISTRO ACCIONISTAS-PAG 14.pdf p.1,media
+P0045,GERALDINE DESSIREE PERSON RESQUIN,discover_paraguay,Discover Paraguay S.A.,autoridad,Vicepresidente,2025-10-27,True,,GERALDINE DESSIREE PERSON RESQUIN,,ACTA ORDINARIA NRO 11.pdf p.1,alta
+P0045,GERALDINE DESSIREE PERSON RESQUIN,discover_paraguay,Discover Paraguay S.A.,accionista,Accionista,2025-10-27,False,4.96,GERALDINE PERSON RESQUIN,,ACTA ORDINARIA NRO 11.pdf p.1,media
+P0045,GERALDINE DESSIREE PERSON RESQUIN,intertours,Intertours S.A.,autoridad,Vicepresidente,2026-07-31,True,,Geraldine Person,,ACTA DIRECTORIO NRO 109.pdf p.1,media
+P0046,GLORIA ELIZABETH VILLASANTI FARINHA,aime_corredores,AIME S.A. Corredores de Seguros,autoridad,Presidente,2024-12-02,True,,Gloria Elizabeth Villasanti Farinha,CI 404147,Constancia RA 2026.pdf p.1,alta
+P0046,GLORIA ELIZABETH VILLASANTI FARINHA,v_media,V Media S.A.,accionista,Accionista,2026-03-23,True,99.9,Gloria Elizabeth Villasanti Farinha,CI 404147 (dato de AIME),REGISTRO DE ACCIONISTAS.pdf p.1,alta
+P0046,GLORIA ELIZABETH VILLASANTI FARINHA,v_media,V Media S.A.,autoridad,Vicepresidente,2026-05-08,True,,Gloria Elizabeth Villasanti Farinha,CI 404147,ACTA ORDINARIA NRO 28.pdf p.2,alta
+P0047,HELEN RECALDE,intertours,Intertours S.A.,declarante,Responsable de la solicitud SIARA,2026-08-17,,,Helen Recalde,CI 4.905.465,CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf p.1,
+P0047,HELEN RECALDE,red_uts_paraguay,Red UTS Paraguay S.A.,declarante,Responsable de la solicitud SIARA,2026-02-11,,,HELEN RECALDE,CI 4.905.465,CONSTANCIA BF NRO 405711.pdf p.1,
+P0048,HORACIO JOSE BIGA,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,accionista,Accionista,2019-01,,80.0,HORACIO JOSE BIGA,CI 5.990.871,contratodefideicomisoshoppingcostanera21012019091525.pdf p.1,alta
+P0048,HORACIO JOSE BIGA,terravaz,Terravaz S.A. Emisora,accionista,Accionista,2025-08-04,False,3.0,HORACIO JOSE BIGA,CI 5990871,REGISTRO ACCIONISTAS.pdf p.1,alta
+P0049,JACK SAMY FLEISCHMAN BENATHAN,idl,Impresión Distribución y Logística S.A.,accionista,Accionista,2008-08-03,False,0.81,JACK SAMY FLEISCHMAN BENATHAN,CI 2.389.204 (peruano),ESCRITURA CONSTITUCION NRO 644.pdf p.15,media
+P0049,JACK SAMY FLEISCHMAN BENATHAN,idl,Impresión Distribución y Logística S.A.,autoridad,Director titular,2008-08-03,False,,JACK SAMY FLEISCHMAN BENATHAN,CI 2.389.204,ESCRITURA CONSTITUCION NRO 644.pdf p.16,media
+P0049,JACK SAMY FLEISCHMAN BENATHAN,red_uts_paraguay,Red UTS Paraguay S.A.,accionista,Accionista,2026-01-21,True,19.8251,JACK SAMY FLEISCHMAN BENATHAN,CI 2.389.204,RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf p.1,media
+P0049,JACK SAMY FLEISCHMAN BENATHAN,red_uts_paraguay,Red UTS Paraguay S.A.,accionista,Accionista,1998-09-17,False,45.0,JACK SAMY FLEISCHMAN BENATHAN,CI 2.389.204,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13,alta
+P0049,JACK SAMY FLEISCHMAN BENATHAN,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Presidente,1998-09-17,False,,JACK SAMY FLEISCHMAN BENATHAN,CI 2.389.204,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13,alta
+P0049,JACK SAMY FLEISCHMAN BENATHAN,red_uts_paraguay,Red UTS Paraguay S.A.,accionista,Accionista,2025-06-27,False,19.8251,JACK FLEISCHMAN,CI 2389204,CONSTANCIA RA.pdf p.1-2,alta
+P0049,JACK SAMY FLEISCHMAN BENATHAN,red_uts_paraguay,Red UTS Paraguay S.A.,beneficiario_final,propiedad directa (condición A) - socio,2026-02-11,True,19.83,JACK FLEISCHMAN,CI 2389204 (RUC 2389204-8),CONSTANCIA BF NRO 405711.pdf p.1,alta
+P0050,JOSE AUGUSTO SALA CARDOZO,gsr,GSR E.A.S.,accionista,Accionista,2026-04-06,True,50.0,JOSE AUGUSTO SALA CARDOZO,CI 3969552 (RUC 3969552-2),Constancia de RA 2026.pdf p.1,alta
+P0050,JOSE AUGUSTO SALA CARDOZO,gsr,GSR E.A.S.,autoridad,Representante legal,2026-04-06,True,,JOSE AUGUSTO SALA CARDOZO,CI 3969552,Constancia de RA 2026.pdf p.1,alta
+P0050,JOSE AUGUSTO SALA CARDOZO,gsr,GSR E.A.S.,beneficiario_final,participación sustantiva (propiedad directa),2026-04-06,True,50.0,JOSE AUGUSTO SALA CARDOZO,CI 3969552 (RUC 3969552-2),Constancia de BF 2026.pdf p.1,alta
+P0050,JOSE AUGUSTO SALA CARDOZO,mowi,MOWI S.A.,accionista,Accionista,2025-09-30,False,90.0,JOSE AUGUSTO SALA CARDOZO,,REGISTRO ACCIONISTAS FOLIO NRO 7.pdf p.1,media
+P0050,JOSE AUGUSTO SALA CARDOZO,mowi,MOWI S.A.,accionista,Accionista,2026-04-28,True,10.0,JOSE AUGUSTO SALA CARDOZO,,ACTA ORDINARIA NRO 6.pdf p.1,media
+P0050,JOSE AUGUSTO SALA CARDOZO,mowi,MOWI S.A.,autoridad,Vicepresidente,2026-04-28,True,,JOSE AUGUSTO SALA CARDOZO,,ACTA ORDINARIA NRO 6.pdf p.2,alta
+P0050,JOSE AUGUSTO SALA CARDOZO,gsr,GSR E.A.S.,declarante,Responsable de la solicitud SIARA,2026-04-06,,,JOSE AUGUSTO SALA,CI 3969552,Constancia de RA 2026.pdf p.1,
+P0050,JOSE AUGUSTO SALA CARDOZO,gsr,GSR E.A.S.,declarante,Responsable de la solicitud SIARA,2026-04-06,,,JOSE AUGUSTO SALA,CI 3969552,Constancia de BF 2026.pdf p.1,
+P0051,JOSE NICOLAS RIVAROLA ONETO,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,JOSÉ NICOLÁS RIVAROLA ONETO,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0051,JOSE NICOLAS RIVAROLA ONETO,solucion_efectiva,Solución Efectiva S.A.,accionista,Accionista,2025-05-05,True,11.07,JOSE NICOLAS RIVAROLA ONETO,CI 610635 (RUC 610635-8),Constancia RA 2025 Simple.pdf p.1,alta
+P0051,JOSE NICOLAS RIVAROLA ONETO,solucion_efectiva,Solución Efectiva S.A.,accionista,Accionista,2025-05-05,True,0.91,JOSE NICOLAS RIVAROLA ONETO,CI 610635,Constancia RA 2025 Simple.pdf p.1,alta
+P0051,JOSE NICOLAS RIVAROLA ONETO,solucion_efectiva,Solución Efectiva S.A.,autoridad,Presidente / Representante legal,2025-04-10,True,,JOSE NICOLAS RIVAROLA ONETO,CI 610635,Constancia RA 2025 Simple.pdf p.2,alta
+P0051,JOSE NICOLAS RIVAROLA ONETO,solucion_efectiva,Solución Efectiva S.A.,beneficiario_final,"Condición A - propiedad directa (11,98%; 11,68% votos); Director Presidente",2024-06-30,True,11.98,JOSE NICOLAS RIVAROLA ONETO,CI 610635,Constancia BF 2024 Simple.pdf p.1,alta
+P0051,JOSE NICOLAS RIVAROLA ONETO,solucion_efectiva,Solución Efectiva S.A.,declarante,Responsable de la solicitud SIARA,2025-05-05,,,JOSE NICOLAS RIVAROLA ONETO,CI 610635,Constancia RA 2025 Simple.pdf p.1,
+P0051,JOSE NICOLAS RIVAROLA ONETO,solucion_efectiva,Solución Efectiva S.A.,declarante,Responsable de la solicitud SIARA,2024-06-30,,,JOSE NICOLAS RIVAROLA ONETO,CI 610635,Constancia BF 2024 Simple.pdf p.1,
+P0052,JOSHUA DANIEL ABREU BOSS,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,JOSHUA DANIEL ABREU BOSS,CI 3443008,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0052,JOSHUA DANIEL ABREU BOSS,ueno_bank,Ueno Bank S.A.,autoridad,Director suplente,2026-02-20,False,,Joshua Daniel Abreu Boss,,ACTA ASAMBLEA.pdf p.3,alta
+P0053,LAURA ISABEL PANE BAUM,redisa,Red Digital S.A. (REDISA),declarante,Responsable de la solicitud SIARA,2026-01-26,,,Laura Isabel Pane Baum,CI 3.461.067,Constancia R.A..pdf p.1,
+P0053,LAURA ISABEL PANE BAUM,tiva,Tiva S.A.,declarante,Responsable de la solicitud SIARA,2025-12-10,,,Laura Isabel Pane Baum,CI 3.461.067,Constancia RA 2025 1.pdf p.1,
+P0054,LEONARDO RAFAEL ALFONZO SEGOVIA,ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,autoridad,Director suplente,2026-02-06,True,,LEONARDO RAFAEL ALFONZO SEGOVIA,,ACTA ORDINARIA NRO 8.pdf p.1,alta
+P0054,LEONARDO RAFAEL ALFONZO SEGOVIA,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,autoridad,Director suplente,2026-02-06,True,,Leonardo Rafael Alfonzo Segovia,,ACTA ORDINARIA NRO 10.pdf p.1,alta
+P0055,LUIS FERNANDO MORALES,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Director titular,2026-04-27,False,,LUIS FERNANDO MORALES,,ACTA ORDINARIA NRO 10-APROBADO.pdf p.4,media
+P0055,LUIS FERNANDO MORALES,oniria,Oniria S.A.,autoridad,Director titular,2026-04-28,False,,Luis Fernando Morales,,ACTA DIRECTORIO NRO 65.pdf p.1,alta
+P0056,LUIS FERNANDO RIOS ESPINOLA,technoma,Technoma S.A.E.C.A.,accionista,Accionista,2025-01-28,False,96.69,Luis Fernando Ríos Espínola,,Escritura pública 87 16-05-2025 modificación de estatutos.pdf p.3,alta
+P0056,LUIS FERNANDO RIOS ESPINOLA,tuiu,TUIU S.A.,accionista,Accionista,2026-08-26,True,50.0,LUIS FERNANDO RIOS ESPINOLA,,ACTA ORDINARIA NRO 7.pdf p.1,alta
+P0056,LUIS FERNANDO RIOS ESPINOLA,tuiu,TUIU S.A.,autoridad,Vicepresidente,2026-08-26,True,,LUIS FERNANDO RIOS ESPINOLA,,ACTA ORDINARIA NRO 7.pdf p.1,alta
+P0056,LUIS FERNANDO RIOS ESPINOLA,tuiu,TUIU S.A.,autoridad,Vicepresidente,2026-04-23,False,,LUIS RIOS,,ACTA ORDINARIA NRO 6.pdf p.2,alta
+P0057,MARCO DARIO GALANTI BARRIENTOS,mowi,MOWI S.A.,autoridad,Director titular,2021-01-12,False,,MARCO DARIO GALANTI BARRIENTOS,CI 938862,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0057,MARCO DARIO GALANTI BARRIENTOS,nubicom_paraguay,Nubicom Paraguay S.A.,autoridad,Presidente,2026-06-19,True,,MARCO GALANTI,,Acta de Asamblea Ordinaria.pdf p.1,media
+P0058,MARTA MARIN DE DAUMAS,itti,ITTI S.A.E.C.A.,autoridad,Director suplente,2026-07-13,True,,Marta Marin de Daumas,,ACTA ORDINARIA NRO 42.pdf p.1,alta
+P0058,MARTA MARIN DE DAUMAS,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Director suplente,2026-04-20,True,,MARTA MARIN DE DAUMAS,,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf p.2,alta
+P0059,MAURO VARGAS WILDBERGER,aime_corredores,AIME S.A. Corredores de Seguros,accionista,Accionista,,False,80.0,Mauro Vargas Wildberger,CI 2178019 (RUC 2178019-6),registroaccionistaaime.pdf p.1,alta
+P0059,MAURO VARGAS WILDBERGER,aime_corredores,AIME S.A. Corredores de Seguros,accionista,Accionista,2025-01-13,False,98.91,Mauro Vargas Wildberger,CI 2178019 (RUC 2178019-6),Constancia RA 2025 1.pdf p.1,alta
+P0059,MAURO VARGAS WILDBERGER,aime_corredores,AIME S.A. Corredores de Seguros,accionista,Accionista,2025-06-17,False,80.0,Mauro Vargas Wildberger,CI 2178019,Constancia RA 2025 2.pdf p.1,alta
+P0059,MAURO VARGAS WILDBERGER,aime_corredores,AIME S.A. Corredores de Seguros,accionista,Accionista,2026-01-29,True,4.35,Mauro Vargas Wildberger,CI 2178019 (RUC 2178019-6),Constancia RA 2026.pdf p.1,alta
+P0059,MAURO VARGAS WILDBERGER,aime_corredores,AIME S.A. Corredores de Seguros,beneficiario_final,propiedad directa (A - accionista mayoritario),2025-06-18,True,99.9,Mauro Vargas Wildberger,CI 2178019 (RUC 2178019-6),Constancia BF 2026 2.pdf p.1,media
+P0059,MAURO VARGAS WILDBERGER,franede,Franede S.A.,accionista,Accionista,2026-04-23,True,99.62,MAURO VARGAS WILDBERGER,CI 2.178.019 (RUC 2178019-6),ACTA ORDINARIA NRO 78.pdf p.1,alta
+P0059,MAURO VARGAS WILDBERGER,franede,Franede S.A.,autoridad,Presidente - Director titular; Representante legal,2025-06-30,False,,MAURO VARGAS (Mauro Vargas Wildberger),CI 2.178.019,Constancia RA 2025.pdf p.1,alta
+P0059,MAURO VARGAS WILDBERGER,franede,Franede S.A.,beneficiario_final,"beneficiario final directo (propiedad, A); 99,62% votos",2025-08-28,True,99.62,MAURO VARGAS (Mauro Vargas Wildberger),CI 2.178.019 (RUC 2178019-6),Constancia BF 2025.pdf p.1,alta
+P0059,MAURO VARGAS WILDBERGER,franede,Franede S.A.,beneficiario_final,BF,,True,,MAURO VARGAS WILDBERGER,CI 2.178.019,Registro de Beneficiarios Finales declarado en el SIARA en proceso de aprobación.pdf p.1,media
+P0059,MAURO VARGAS WILDBERGER,franede,Franede S.A.,autoridad,Presidente (Director Presidente),2026-04-23,True,,Mauro Vargas,CI 2.178.019,ACTA ORDINARIA NRO 78.pdf p.2,alta
+P0060,OSMAR ALBERTO CORONEL CABRERA,mowi,MOWI S.A.,autoridad,Director titular,2021-01-12,False,,OSMAR ALBERTO CORONEL CABRERA,CI 840494,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0060,OSMAR ALBERTO CORONEL CABRERA,ueno_bank,Ueno Bank S.A.,accionista,Accionista,2026-07-27,True,,"CORONEL CABRERA, OSMAR ALBERTO","CI 840.494 (OCR, dudoso: también leído 240.494)",REGISTRO DE ACCIONISTAS (2).pdf p.,baja
+P0061,RODRIGO ANTONIO MARTIN FERREIRA,discover_paraguay,Discover Paraguay S.A.,accionista,Accionista,2019-06-27,False,28.93,RODRIGO ANTONIO MARTIN FERREIRA,,ESCRITURA MODIFICACION NRO 10.pdf p.6,media
+P0061,RODRIGO ANTONIO MARTIN FERREIRA,discover_paraguay,Discover Paraguay S.A.,autoridad,Director titular,2019-06-27,False,,RODRIGO MARTIN (RODRIGO ANTONIO MARTIN FERREIRA),,ESCRITURA MODIFICACION NRO 10.pdf p.6,media
+P0061,RODRIGO ANTONIO MARTIN FERREIRA,intertours,Intertours S.A.,autoridad,Vicepresidente,2019-11-25,False,,Rodrigo Antonio Martín Ferreira,CI 2.239.308,ESCRITURA MODIFICACION NRO 321.pdf p.4,alta
+P0062,RODRIGO RAMON FRANCO ORTIZ,grupo_hendy,Grupo Hendy S.A.,autoridad,Presidente,2026-04-13,False,,RODRIGO FRANCO,,ACTA ORDINARIA NRO 21.pdf p.2,media
+P0062,RODRIGO RAMON FRANCO ORTIZ,tuiu,TUIU S.A.,autoridad,Presidente,2026-04-23,False,,RODRIGO FRANCO (RODRIGO RAMON FRANCO ORTIZ),,ACTA ORDINARIA NRO 6.pdf p.2,alta
+P0063,SILVIA ROSA SUSANA MURTO DE MENDEZ,ueno_bank,Ueno Bank S.A.,accionista,Accionista,2024-03-25,False,0.11,"Murto de Méndez, Silvia (Silvia Rosa Susana)",CI 589.898,ESCRITURA NRO 44--09-05-2024.pdf p.9,media
+P0063,SILVIA ROSA SUSANA MURTO DE MENDEZ,ueno_bank,Ueno Bank S.A.,autoridad,Director suplente,2026-02-20,False,,Silvia Murto de Méndez,CI 589.898,ACTA ASAMBLEA.pdf p.3,alta
+P0063,SILVIA ROSA SUSANA MURTO DE MENDEZ,ueno_bank,Ueno Bank S.A.,autoridad,Director suplente,2026-07-13,True,,Silvia Murto de Méndez,CI 589.898,ACTA DE ASAMBLEA.pdf p.2,alta
+P0063,SILVIA ROSA SUSANA MURTO DE MENDEZ,ueno_seguros,Ueno Seguros S.A.,autoridad,Director suplente,2024-10-25,True,,SILVIA MURTO DE MÉNDEZ,,Acta de Asamblea Ordinaria.pdf p.1,alta
+P0063,SILVIA ROSA SUSANA MURTO DE MENDEZ,ueno_bank,Ueno Bank S.A.,autoridad,Director titular,2024-03-04,False,,SILVIA ROSA SUSANA MURTO DE MÉNDEZ,CI 589.898,ESCRITURA NRO 44--09-05-2024.pdf p.1,alta
+P0063,SILVIA ROSA SUSANA MURTO DE MENDEZ,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,2022-08-09,False,,SILVIA MURTO,,Escritura Pública N° 186.pdf p.8,alta
+P0064,SILVIA SUSANA BRACHO MEZA,redipro,Red Digital de Procesamiento S.A. (REDIPRO),autoridad,Director titular,2025-05-28,True,,Silvia Bracho (Silvia Susana Bracho Meza),CI 1418920,Constancia RA.pdf p.1,alta
+P0064,SILVIA SUSANA BRACHO MEZA,redipro,Red Digital de Procesamiento S.A. (REDIPRO),beneficiario_final,C1 - autoridad o representante legal (directora),2026-10,True,0.0,Silvia Susana Bracho Meza,CI 1418920,BENEFICIARIOS FINALES.pdf p.1,alta
+P0064,SILVIA SUSANA BRACHO MEZA,redisa,Red Digital S.A. (REDISA),autoridad,Vicepresidente,2026-04-15,True,,SILVIA SUSANA BRACHO (MEZA),CI 1.418.920,ACTA ORDINARIA NRO 16.pdf p.2,alta
+P0064,SILVIA SUSANA BRACHO MEZA,redisa,Red Digital S.A. (REDISA),autoridad,Director titular,2025-04-28,False,,SILVIA SUSANA BRACHO,CI 1.418.920,Constancia R.A..pdf p.1,alta
+P0065,THALYA MARIA BENTO COLMAN,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,THALYA BENTO,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0065,THALYA MARIA BENTO COLMAN,solucion_efectiva,Solución Efectiva S.A.,autoridad,Director titular,2025-04-10,True,,THALYA MARIA BENTO COLMAN,CI 4225658,Constancia RA 2025 Simple.pdf p.2,alta
+P0066,VANESSA ESTHER GODOY AYALA,grupo_hendy,Grupo Hendy S.A.,accionista,Accionista,2026-04-13,True,90.0,VANESSA (VANESA) ESTHER GODOY AYALA,,ACTA ORDINARIA NRO 21.pdf p.1,media
+P0066,VANESSA ESTHER GODOY AYALA,kaitel,Kaitel S.R.L.,accionista,Accionista,2025-03-25,False,,VANESSA ESTHER GODOY AYALA,CI 2.461.839,KAITEL SRL-SIARA-REV/ESCRITURA MODIFICACION NRO 44.pdf p.1,alta
+P0066,VANESSA ESTHER GODOY AYALA,grupo_hendy,Grupo Hendy S.A.,autoridad,Vicepresidente,2026-10-02,True,,VANESSA GODOY,,CONSTANCIA ASAMBLEARIA NRO 259596.pdf p.1,alta
+P0066,VANESSA ESTHER GODOY AYALA,grupo_hendy,Grupo Hendy S.A.,autoridad,Director titular,2026-04-13,False,,VANESSA GODOY,,ACTA ORDINARIA NRO 21.pdf p.2,media
+P0067,VERONICA FRANCO LOPEZ MOREIRA,mowi,MOWI S.A.,autoridad,Apoderados para trámites de constitución/inscripción (abogados) y ante SET/BCP,2021-01-12,False,,VERONICA FRANCO LOPEZ MOREIRA,,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0067,VERONICA FRANCO LOPEZ MOREIRA,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Apoderado,2026-04-30,True,,VERONICA FRANCO,,Acta de Asamblea.pdf p.1,alta
+P0068,VERONICA VAZQUEZ MUNIAGURRIA,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,autoridad,Vicepresidente (Director Vicepresidente),2023-02-06,False,,VERONICA VAZQUEZ MUNIAGURRIA,CI 3.224.278,ESCRITURA MODIFICACION NRO 40.pdf p.1,alta
+P0068,VERONICA VAZQUEZ MUNIAGURRIA,ueno_seguros,Ueno Seguros S.A.,autoridad,Director suplente,2022-08-09,False,,VERONICA VAZQUEZ,,Escritura Pública N° 186.pdf p.8,alta
+P0069,WALTER HERMOSA,grupo_hendy,Grupo Hendy S.A.,autoridad,Síndico titular,2026-04-13,True,,WALTER HERMOSA,,ACTA ORDINARIA NRO 21.pdf p.2,media
+P0069,WALTER HERMOSA,mowi,MOWI S.A.,autoridad,Síndico titular,2026-04-28,True,,WALTER HERMOSA,,ACTA ORDINARIA NRO 6.pdf p.2,alta
+P0070,ABRAHAN BITTAR,franede,Franede S.A.,accionista,Accionista,1954-08-24,False,,Abrahan Bittar,,ESCRITURA CONSTITUCION.pdf p.4,media
+P0071,ADELIO ALBERTO IBANEZ,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,ADELIO ALBERTO IBÁÑEZ,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0072,ADRIANA CELESTE LOPEZ DE FERNANDEZ,comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),accionista,Accionista,2025-07-25,False,2.5,ADRIANA CELESTE LOPEZ DE FERNANDEZ,CI 2.038.333,ESCRITURA MODIFICACION NRO 201.pdf p.13,alta
+P0073,ALBERTO CABALLERO,technoma,Technoma S.A.E.C.A.,autoridad,Síndico titular,2026-04-16,True,,Alberto Caballero,,Acta de Asamblea.pdf p.2,alta
+P0074,ALBERTO LUIS FLEYTAS SQUEF,u_paraguay,U Paraguay S.A.,autoridad,Síndico suplente,2023-03-10,False,,ALBERTO LUIS FLEYTAS SQUEF,CI 4.344.167,ESCRITURA CONSTITUCIÒN.pdf p.15,alta
+P0075,ALEJANDRA ESPINOLA DE DIESEL,solucion_efectiva,Solución Efectiva S.A.,beneficiario_final,"propiedad indirecta (17,12% participación; 17,01% votos)",2024-06-30,True,17.12,ALEJANDRA ESPINOLA DE DIESEL,CI 615868 (RUC 615868-4),Constancia BF 2024 Simple.pdf p.2,alta
+P0076,ALICIA RAQUEL BRITEZ PEREIRA,factopar,Factopar S.A.,declarante,Responsable de la solicitud SIARA,2025-05-01,,,ALICIA RAQUEL BRITEZ PEREIRA,CI 2.069.396,Constancia RA 2025 Simple.pdf p.1,
+P0077,ALICIA SAMANIEGO,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,ALICIA SAMANIEGO,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0078,ALVARO BRASSA,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,2022-08-09,False,,ALVARO BRASSA,,Escritura Pública N° 186.pdf p.8,alta
+P0079,ANDREA OSORIO,cbs,CBS S.A.,declarante,Responsable de la solicitud SIARA,2025-06-17,,,Andrea Osorio,CI 5.336.600,Constancia RA Simple 2025.pdf p.1,
+P0079,ANDREA OSORIO,cbs,CBS S.A.,declarante,Responsable de la solicitud SIARA,2025-06-17,,,Andrea Osorio,CI 5.336.600,Constancia BF 2025.pdf p.1,
+P0080,ANDRES KALENIUSZKA KISZKO,kostas_viajes,Kostas Viajes y Turismo S.R.L.,accionista,Accionista,1985-06-29,False,22.7,Andrés Kaleniuszka Kiszko,,ESCRITURA CONSTITUCION NRO 79.pdf p.3,baja
+P0081,ANTONIO IGNACIO VILLA BERKEMEYER,galadriel,Galadriel S.A.,accionista,Accionista,2026-02-23,True,90.0,ANTONIO IGNACIO VILLA BERKEMEYER,CI 2034678 (RUC 2034678-6),Constancia de RA 2026 (2).pdf p.1,alta
+P0081,ANTONIO IGNACIO VILLA BERKEMEYER,galadriel,Galadriel S.A.,autoridad,Director suplente,2025-11-05,True,,ANTONIO IGNACIO VILLA BERKEMEYER,CI 2034678,Escritura N° 111.pdf p.20,alta
+P0081,ANTONIO IGNACIO VILLA BERKEMEYER,galadriel,Galadriel S.A.,beneficiario_final,Condición A (propiedad directa) - 90% participación y 90% votos,2025-11-05,True,90.0,ANTONIO IGNACIO VILLA BERKEMEYER,CI 2034678 (RUC 2034678-6),drfs-003---comunicacion-en-el-registro-administrativo-de-beneficiarios-finales-7666669.pdf p.1,alta
+P0082,ARACELLI CARDOZO PENAYO,redisa,Red Digital S.A. (REDISA),declarante,Responsable de la solicitud SIARA,2025-08-01,,,ARACELLI CARDOZO PENAYO,CI 4.441.312,Constancia B.F..pdf p.1,
+P0083,ARACELY NATALIA TORRES DE YEGROS,tiva,Tiva S.A.,declarante,Responsable de la solicitud SIARA,2020-06-24,,,Aracely Natalia Torres de Yegros,CI 2.466.640 (en constancia 2018: 2.182.518),Constancia RA 2020.pdf p.1,
+P0084,ARIEL FERNANDO ELIZECHE ESCOBAR,grupo_berilo,Grupo Berilo S.A.,accionista,Accionista,2021-06-28,False,15.0,ARIEL FERNANDO ELIZECHE ESCOBAR,CI 3.213.616,Escritura Pública N° 36.pdf p.19,media
+P0084,ARIEL FERNANDO ELIZECHE ESCOBAR,grupo_berilo,Grupo Berilo S.A.,accionista,Accionista,2019-08-17,False,15.0,ARIEL FERNANDO ELIZECHE ESCOBAR,CI 3.213.616,Escritura Pública N° 36.pdf p.10,media
+P0084,ARIEL FERNANDO ELIZECHE ESCOBAR,grupo_berilo,Grupo Berilo S.A.,autoridad,Vice director titular,2019-08-17,False,,ARIEL FERNANDO ELIZECHE ESCOBAR,,Escritura Pública N° 36.pdf p.10,media
+P0085,ARNALDO RAMON COSTA,kostas_viajes,Kostas Viajes y Turismo S.R.L.,accionista,Accionista,1985-06-29,False,22.7,Arnaldo Ramón Costa,,ESCRITURA CONSTITUCION NRO 79.pdf p.4,baja
+P0086,ARSENIO MARIA ORTIZ JARA,kasas_propiedades,Kasas Propiedades S.A.E.,autoridad,Presidente (en representación de Sky Link S.A.),2025-05-20,True,,ARSENIO MARIA ORTIZ JARA,CI 824472,Acta de Asamblea.pdf p.1,alta
+P0087,AURELIO ROA CHAMORRO,ueno_seguros,Ueno Seguros S.A.,autoridad,Síndico titular,1989-05-18,False,,AURELIO ROA CHAMORRO,,Escritura pública N°188.pdf p.19,alta
+P0088,BLANCA BRITEZ DE NARA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2026-10-08,True,3.0,BLANCA BRITEZ DE NARA,,Registro de accionistas.pdf p.1,alta
+P0088,BLANCA BRITEZ DE NARA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Director titular,2022-05-04,False,,Blanca Britez,,Escritura 40 16-08-2022 modificación de estatutos.pdf p.6,alta
+P0089,BLANCA DIANA VAZQUEZ SANTACRUZ,ueno_bank,Ueno Bank S.A.,accionista,Accionista,2026-07-27,True,,BLANCA DIANA VAZQUEZ SANTACRUZ,CI 434.302 (OCR),REGISTRO DE ACCIONISTAS (2).pdf p.,baja
+P0090,BRIGITTE WALTRAUT HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,accionista,Accionista,2025-09-12,True,25.0,BRIGITTE WALTRAUT HUBER SCHAEFER,CI 822611,Constancia RA 2025 Simple.pdf p.1,media
+P0090,BRIGITTE WALTRAUT HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,autoridad,Representante legal,2015-07-15,True,,BRIGITTE WALTRAUT HUBER SCHAEFER,CI 822611,Constancia RA 2025 Simple.pdf p.1,alta
+P0090,BRIGITTE WALTRAUT HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,autoridad,Representante legal,2021-07-15,False,,BRIGITTE WALTRAUT HUBER SCHAEFER,CI 822.611,Acta de Directorio.pdf p.1,media
+P0090,BRIGITTE WALTRAUT HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,beneficiario_final,condómino (BF),2025-09-12,True,,BRIGITTE WALTRAUT HUBER SCHAEFER,CI 822611,Constancia BF 2025 Simple.pdf p.1,alta
+P0091,CAMILA ALESSANDRA BASILI YORKI,u_paraguay,U Paraguay S.A.,accionista,Accionista,2023-03-10,False,50.0,CAMILA ALESSANDRA BASILI YORKI,CI 3.797.138,ESCRITURA CONSTITUCIÒN.pdf p.15,alta
+P0091,CAMILA ALESSANDRA BASILI YORKI,u_paraguay,U Paraguay S.A.,autoridad,Vicepresidente,2023-03-10,False,,CAMILA ALESSANDRA BASILI YORKI,CI 3.797.138,ESCRITURA CONSTITUCIÒN.pdf p.15,alta
+P0092,CARLOS ACUNA,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Síndico titular,2026-05-21,True,,CARLOS ACUÑA,,Acta de Asamblea.pdf p.3,alta
+P0093,CARLOS ALBERTO BITTAR,franede,Franede S.A.,accionista,Accionista,1954-08-24,False,,Alberto Bittar,,ESCRITURA CONSTITUCION.pdf p.4,media
+P0093,CARLOS ALBERTO BITTAR,franede,Franede S.A.,accionista,Accionista,2019-09-16,False,2.51,Carlos Alberto Bittar,,ESCRITURA MODIFICACIÒN NRO 41.pdf p.2,alta
+P0094,CARLOS ARRELLAGA,idl,Impresión Distribución y Logística S.A.,autoridad,Síndico suplente,2008-08-03,False,,CARLOS ARRELLAGA,CI 1.246.576,ESCRITURA CONSTITUCION NRO 644.pdf p.16,media
+P0095,CARLOS BALTEYRO,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,CARLOS BALTEYRO,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0096,CARLOS DAMIAN GAUTO PAREDES,la_tropa_fletes,La Tropa Fletes E.A.S.,accionista,Accionista,2021-11-11,,65.0,CARLOS DAMIAN GAUTO PAREDES,,Proforma EAS.pdf p.5,alta
+P0096,CARLOS DAMIAN GAUTO PAREDES,la_tropa_fletes,La Tropa Fletes E.A.S.,autoridad,Representante legal / Presidente,2021-11-11,,,CARLOS DAMIAN GAUTO PAREDES,,Proforma EAS.pdf p.5,alta
+P0096,CARLOS DAMIAN GAUTO PAREDES,la_tropa_fletes,La Tropa Fletes E.A.S.,declarante,Responsable de la solicitud SIARA,2026-11-16,,,CARLOS DAMIAN GAUTO PAREDES,,Constancia 2026 SIARA.pdf p.1,
+P0097,CARLOS DAVALOS,red_uts_paraguay,Red UTS Paraguay S.A.,declarante,Responsable de la solicitud SIARA,2025-06-27,,,CARLOS DÁVALOS,CI 4.780.245,CONSTANCIA RA.pdf p.1,
+P0098,CARLOS DE COMINGES SAN MARTIN,factopar,Factopar S.A.,accionista,Accionista,2025-05-01,True,50.0,CARLOS DE COMINGES SAN MARTIN,CI 7.679.613 (RUC 7679613-2),Constancia RA 2025 Simple.pdf p.1,alta
+P0098,CARLOS DE COMINGES SAN MARTIN,factopar,Factopar S.A.,accionista,Accionista,2017-05-24,False,50.0,CARLOS DE COMINGES SAN MARTIN,CI 7.679.613,Constancia inscripción 2026/Escritura constitución.pdf p.13,media
+P0098,CARLOS DE COMINGES SAN MARTIN,factopar,Factopar S.A.,autoridad,Presidente,2025-04-01,True,,CARLOS DE COMINGES SAN MARTÍN,CI 7679613,Constancia RA 2025 Simple.pdf p.1,alta
+P0098,CARLOS DE COMINGES SAN MARTIN,factopar,Factopar S.A.,autoridad,Representante legal,2025-05-01,True,,CARLOS DE COMINGES SAN MARTIN,CI 7679613-2,Constancia RA 2025 Simple.pdf p.1,alta
+P0098,CARLOS DE COMINGES SAN MARTIN,factopar,Factopar S.A.,beneficiario_final,propiedad directa (A) - representante legal principal,2025-05-01,True,50.0,CARLOS DE COMINGES SAN MARTIN,CI 7679613 (RUC 7679613-2),Constancia BF 2025 Simple.pdf p.1,alta
+P0099,CARLOS DIAZ,nubicom_paraguay,Nubicom Paraguay S.A.,autoridad,Síndico,2026-06-19,True,,CARLOS DÍAZ,,Acta de Asamblea Ordinaria.pdf p.1,media
+P0100,CARLOS ENRIQUE NEFFA PERSANO,hd_invest,HD Invest E.A.S. Unipersonal,autoridad,Síndico titular,2023-05-29,True,,Carlos Enrique Neffa Persano,,Proforma EAS.pdf p.5,alta
+P0101,CARLOS GUSTAVO HEISECKE GONZALEZ,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,CARLOS GUSTAVO HEISECKE GONZALEZ,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0102,CARLOS MARCELO QUEVEDO,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Director titular,1998-09-17,False,,CARLOS MARCELO QUEVEDO,,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13,alta
+P0103,CARLOS MAURICIO BENITEZ DUARTE,aime_corredores,AIME S.A. Corredores de Seguros,autoridad,Director titular,2024-12-02,False,,Carlos Mauricio Benitez Duarte,CI 2464429,Acta de Dirertorio 22-2025.pdf p.1,alta
+P0104,CARLOS RODRIGUEZ ALCALA VILLAGRA,tiva,Tiva S.A.,accionista,Accionista,2012-07-30,False,10.0,Carlos Rodríguez Alcalá Villagra,CI 1.162.931,Constancia escritura constitución 2018/Escritura 89 30-07-2012 constitución.pdf p.1,alta
+P0104,CARLOS RODRIGUEZ ALCALA VILLAGRA,tiva,Tiva S.A.,accionista,Accionista,2020-06-24,False,10.0,Carlos Rodriguez Alcala Villagra,CI 1162931,Constancia RA 2020.pdf p.1,alta
+P0104,CARLOS RODRIGUEZ ALCALA VILLAGRA,tiva,Tiva S.A.,accionista,Accionista,2025-12-10,True,4.0,Carlos Rodríguez Alcalá Villagra,CI 1.162.931 (RUC 1162931-2),Constancia RA 2025 1.pdf p.1,alta
+P0104,CARLOS RODRIGUEZ ALCALA VILLAGRA,tiva,Tiva S.A.,autoridad,Síndico titular,2019-07-12,False,,Carlos Rodríguez Alcalá Villagra,CI 1.162.931,Constancia modificación de estatutos 2020/escritura 59 20-08-2019 modificación de estatutos.pdf p.2,alta
+P0105,CARLOS RUBEN AQUINO MARTINEZ,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,1989-05-18,False,12.4667,CARLOS RUBEN AQUINO MARTINEZ,,Escritura pública N°188.pdf p.18-19,alta
+P0105,CARLOS RUBEN AQUINO MARTINEZ,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,1989-05-18,False,,CARLOS RUBEN AQUINO MARTINEZ,,Escritura pública N°188.pdf p.19,alta
+P0106,CARMELO NAZER,franede,Franede S.A.,accionista,Accionista,1954-08-24,False,,Carmelo Nazer,,ESCRITURA CONSTITUCION.pdf p.4,media
+P0107,CARMEN AMANDA GUSTALE DE TALAVERA,office_design,Office Design S.R.L.,accionista,Accionista,2003-08-29,False,50.0,CARMEN AMANDA GUSTALE DE TALAVERA,CI 214.761,Escritura Pública N° 77.pdf p.3-4,alta
+P0107,CARMEN AMANDA GUSTALE DE TALAVERA,office_design,Office Design S.R.L.,autoridad,Socio-gerente,2003-08-29,False,,CARMEN AMANDA GUSTALE DE TALAVERA,CI 214.761,Escritura Pública N° 77.pdf p.5,alta
+P0108,CARMEN SILVERO,intertours,Intertours S.A.,autoridad,Síndico titular,2019-07-11,False,,Carmen Silvero,,ESCRITURA MODIFICACION NRO 321.pdf p.6,alta
+P0109,CECILIA DEL CARMEN ESCOBAR DE MARTINEZ,terravaz,Terravaz S.A. Emisora,accionista,Accionista,2018-08-28,False,,CECILIA DEL CARMEN ESCOBAR DE MARTINEZ,CI 2807193,ESCRITURA CONSTITUCIÒN NRO 119.pdf p.2,alta
+P0110,CELSO OSCAR ALONSO BALBUENA,comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),accionista,Accionista,1986-07-03,False,50.0,CELSO OSCAR ALONSO BALBUENA,,ESCRITURA MODIFICACION NRO 49.pdf p.1,alta
+P0110,CELSO OSCAR ALONSO BALBUENA,comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),autoridad,Gerente,1986-07-03,False,,CELSO OSCAR ALONSO BALBUENA,,ESCRITURA MODIFICACION NRO 49.pdf p.3,alta
+P0111,CESAR CABRAL,kasas_propiedades,Kasas Propiedades S.A.E.,autoridad,Síndico suplente,2026-03-10,True,,CESAR CABRAL,,Acta de Asamblea.pdf p.1,alta
+P0112,CESAR CORONEL,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,CÉSAR CORONEL,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0113,CHRISTIAN ANDRES ZARATE VERA,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,declarante,Responsable de la solicitud SIARA,2026-06-04,,,CHRISTIAN ANDRES ZARATE VERA,CI 4.982.065,Constancias RA 2026 Simple.pdf p.1,
+P0113,CHRISTIAN ANDRES ZARATE VERA,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,declarante,Responsable de la solicitud SIARA,2026-06-04,,,CHRISTIAN ANDRES ZARATE VERA,CI 4.982.065,Constancia BF 2026 Simple.pdf p.1,
+P0114,CHRISTIAN L MENDOZA GOMEZ,bic,BIC S.A. (Buró de Información Comercial),autoridad,Gerente General,2025-04-10,True,,CHRISTIAN L. MENDOZA GÓMEZ,,Acta de Asamblea 25 10-04-2025.pdf p.2,alta
+P0115,CHRISTYAN ALFONSO PEREZ REYES,discover_paraguay,Discover Paraguay S.A.,accionista,Accionista,2019-06-27,False,19.01,CHRISTYAN ALFONSO PEREZ REYES,,ESCRITURA MODIFICACION NRO 10.pdf p.6,media
+P0115,CHRISTYAN ALFONSO PEREZ REYES,discover_paraguay,Discover Paraguay S.A.,autoridad,Director titular,2019-06-27,False,,CHRISTYAN PEREZ (CHRISTYAN ALFONSO PEREZ REYES),,ESCRITURA MODIFICACION NRO 10.pdf p.6,baja
+P0116,CRISTHIAN CIBILS WILSON SMITH,hanoi,Hanoi S.A.,accionista,Accionista,2017-06-20,False,16.0,CRISTHIAN CIBILS WILSON SMITH,,ESCRITURA MODIFICACION NRO 204.pdf p.2,media
+P0117,CRISTIAN MARCOS TIGERO,grupo_berilo,Grupo Berilo S.A.,accionista,Accionista,2021-06-28,False,35.0,CRISTIAN MARCOS TIGERO,DNI argentino 27.108.900,Escritura Pública N° 36.pdf p.19,media
+P0117,CRISTIAN MARCOS TIGERO,grupo_berilo,Grupo Berilo S.A.,accionista,Accionista,2019-08-17,False,35.0,CRISTIAN MARCOS TIGERO,DNI 27.108.900,Escritura Pública N° 36.pdf p.10,media
+P0118,CRISTIAN RICARDO PENAYO OCAMPOS,redisa,Red Digital S.A. (REDISA),autoridad,Director suplente,2020-11-27,False,,CRISTIAN RICARDO PENAYO OCAMPOS,CI 3.193.831,ESCRITURA CONSTITUCIÒN NRO 122.pdf p.25,alta
+P0119,CURT ERNESTO TIPPACH MANZONI Y DOS SOCIOS CUALESQUIERA,kostas_viajes,Kostas Viajes y Turismo S.R.L.,accionista,Accionista,1985-06-29,False,45.4,Curt Ernesto Tippach Manzoni,,ESCRITURA CONSTITUCION NRO 79.pdf p.3,baja
+P0119,CURT ERNESTO TIPPACH MANZONI Y DOS SOCIOS CUALESQUIERA,kostas_viajes,Kostas Viajes y Turismo S.R.L.,autoridad,Gerentes (1985),1985-06-29,False,,Curt Ernesto Tippach Manzoni y dos socios cualesquiera,,ESCRITURA CONSTITUCION NRO 79.pdf p.4,baja
+P0120,DANIEL ESTEBAN BALGUREVICH,grupo_berilo,Grupo Berilo S.A.,autoridad,Vicepresidente,2026-04-27,True,,DANIEL ESTEBAN BALGUREVICH,,Acta de Asamblea.pdf p.2,alta
+P0121,DIANA ARELLANO,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,DIANA ARELLANO,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0122,DIANA NATALIA TREVISAN TROCHE,solucion_efectiva,Solución Efectiva S.A.,autoridad,Vicepresidente,2025-04-10,True,,DIANA NATALIA TREVISAN TROCHE,CI 1269161,Constancia RA 2025 Simple.pdf p.2,alta
+P0123,DIEGO JOSE BUTELER PEREZ,discover_paraguay,Discover Paraguay S.A.,autoridad,Síndico suplente,2019-06-27,False,,DIEGO JOSE BUTELER PEREZ,,ESCRITURA MODIFICACION NRO 10.pdf p.6,media
+P0124,DIEGO LUIS VARELA URRUTIA,solucion_efectiva,Solución Efectiva S.A.,accionista,Accionista,2013-08-20,False,,DIEGO LUIS VARELA URRUTIA,CI 1433641,Constancia inscripción2018/Escritura 60 20-08-2013 Constitución de la sociedad.pdf p.1,alta
+P0124,DIEGO LUIS VARELA URRUTIA,solucion_efectiva,Solución Efectiva S.A.,declarante,Responsable de la solicitud SIARA,2020-01-14,,,DIEGO LUIS VARELA URRUTIA,CI 1433641,Constancia inscripción modificación de estatutos 2020/Constancia inscripción 2020.pdf p.1,
+P0125,DIEGO MARIO PENA,grupo_berilo,Grupo Berilo S.A.,accionista,Accionista,2019-08-17,False,35.0,DIEGO MARIO PEÑA,DNI argentino 23.598.940,Escritura Pública N° 36.pdf p.10,media
+P0125,DIEGO MARIO PENA,grupo_berilo,Grupo Berilo S.A.,autoridad,Presidente,2020-01-30,False,,DIEGO MARIO PEÑA,CI 3.767.321 (acta 2026); OCR 2021: 8.608.278,Escritura Pública N° 36.pdf p.17,media
+P0126,EDGAR ANTONIO VALDA CAREAGA,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,autoridad,Director,2026-01-22,True,,Edgar Antonio Valda Careaga,CI 8996346,Constancias RA 2026 Simple.pdf p.1,alta
+P0127,EDUARDO AMMATUNA,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Apoderado,2026-04-30,True,,EDUARDO AMMATUNA,,Acta de Asamblea.pdf p.1,alta
+P0128,EDUARDO DANIEL AGUERO,gsr,GSR E.A.S.,accionista,Accionista,2023-02-20,False,50.0,EDUARDO DANIEL AGÜERO,,Proforma de Estatuto EAS.pdf p.5,alta
+P0129,EDUARDO STINGER,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Director titular,2026-05-21,True,,EDUARDO STINGER,,Acta de Asamblea.pdf p.3-4,alta
+P0129,EDUARDO STINGER,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Director titular,2025-04-24,False,,EDUARDO STINGER,,Escritura 3272 16-12-2025.pdf p.2,alta
+P0130,ELENA TITKOVA,ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,autoridad,"No consta (persona de Luxemburgo listada como BF de Red Digital, elena.titkova@arendtservices.com)",,,,ELENA TITKOVA,Documento de identidad extranjero CP1273,(carpeta RED DIGITAL S.A) Listado de Beneficiarios Finales declarado en el SIARA pendiente de aprobación.pdf p.2,baja
+P0131,ELIANA MORGENSTERN,inter_express,Inter-Express S.A.,autoridad,Miembro del Directorio,2018-12-07,False,,ELIANA MORGENSTERN,,ESCRITURA MODIFICACIÓN NRO 2.pdf p.4,alta
+P0132,ELIANA VILLALBA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Síndico suplente,2026-04-09,True,,Eliana Villalba,,Acta de Asamblea.pdf p.1,alta
+P0133,ELIAS ABRAHAM SABA,franede,Franede S.A.,accionista,Accionista,1954-08-24,False,,Elías Abraham Saba,,ESCRITURA CONSTITUCION.pdf p.4,media
+P0134,ELIAS BAZAS,franede,Franede S.A.,accionista,Accionista,1954-08-24,False,,Elías Bazás,,ESCRITURA CONSTITUCION.pdf p.3,media
+P0135,ELIAS DAVID,franede,Franede S.A.,accionista,Accionista,1954-08-24,False,,Elías David,,ESCRITURA CONSTITUCION.pdf p.4,media
+P0136,ELIAS FABIAN VERA ALONSO,kaitel,Kaitel S.R.L.,accionista,Accionista,2021-07-28,False,2.0,ELIAS FABIAN VERA ALONSO,CI 5.492.475,KAITEL SRL-SIARA-REV/ESCRITURA CONSTITUCION NRO 1153.pdf p.4,alta
+P0136,ELIAS FABIAN VERA ALONSO,kaitel,Kaitel S.R.L.,autoridad,Gerente,2021-07-28,False,,ELIAS FABIAN VERA ALONSO,CI 5.492.475,KAITEL SRL-SIARA-REV/ESCRITURA CONSTITUCION NRO 1153.pdf p.5,alta
+P0137,ELIAS JOSE YANHO QUINTANA,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,1989-05-18,False,12.4667,ELIAS JOSE YANHO QUINTANA,,Escritura pública N°188.pdf p.18-19,alta
+P0138,ELIAS VALIENTE VILLALBA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2026-10-08,True,1.5,ELIAS VALIENTE VILLALBA,,Registro de accionistas.pdf p.1,alta
+P0138,ELIAS VALIENTE VILLALBA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Director titular,2026-04-09,True,,Elias Valiente,,Acta de Asamblea.pdf p.1,alta
+P0139,EMANUEL EDUARDO SALINAS,nubicom_paraguay,Nubicom Paraguay S.A.,accionista,Accionista,2026-06-27,True,0.68,EMANUEL EDUARDO SALINAS,,Libro de Registro de Accionistas.pdf p.1,media
+P0139,EMANUEL EDUARDO SALINAS,nubicom_paraguay,Nubicom Paraguay S.A.,accionista,Accionista,2025-09-13,False,50.0,EMANUEL EDUARDO SALINAS,,Escritura Públcia N° 83.pdf p.2,alta
+P0140,EMILIO VICTOR ANDRES PERALTA DUARTE,cbs,CBS S.A.,accionista,Accionista,2005-02-08,False,25.0,EMILIO VICTOR ANDRES PERALTA DUARTE,CI 1.215.82? (OCR ilegible),Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14,media
+P0140,EMILIO VICTOR ANDRES PERALTA DUARTE,cbs,CBS S.A.,autoridad,Vicepresidente,2005-02-08,False,,EMILIO VICTOR ANDRES PERALTA DUARTE,,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14,alta
+P0141,ERNESTO DAVID,franede,Franede S.A.,accionista,Accionista,1954-08-24,False,,Ernesto David,,ESCRITURA CONSTITUCION.pdf p.4,media
+P0142,ESTRELLA LEVY DE FLEISCHMAN,idl,Impresión Distribución y Logística S.A.,autoridad,Director suplente,2008-08-03,False,,ESTRELLA LEVY DE FLEISCHMAN,CI 2.389.205,ESCRITURA CONSTITUCION NRO 644.pdf p.16,media
+P0143,FABIAN KOCHMANN GUILLGUINET,idl,Impresión Distribución y Logística S.A.,autoridad,Síndico titular,2008-08-03,False,,FABIAN KOCHMANN GUILLGUINET,CI 691.021,ESCRITURA CONSTITUCION NRO 644.pdf p.16,baja
+P0144,FEDERICO HERNAN VARGAS PENA GILL,place_analyzer,Place Analyzer E.A.S.,accionista,Accionista,2024-04-29,False,8.0,Federico Hernán Vargas Peña Gill,CI 2.207.101,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.1,alta
+P0144,FEDERICO HERNAN VARGAS PENA GILL,place_analyzer,Place Analyzer E.A.S.,accionista,Accionista,2026-04-14,True,8.0,Federico Hernán Vargas Peña Gill,CI 2.207.101,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.1,alta
+P0144,FEDERICO HERNAN VARGAS PENA GILL,place_analyzer,Place Analyzer E.A.S.,autoridad,Vicepresidente,2025-03-25,False,,Federico Hernán Vargas Peña Gill,CI 2.207.101,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.16,media
+P0144,FEDERICO HERNAN VARGAS PENA GILL,place_analyzer,Place Analyzer E.A.S.,autoridad,Vicepresidente y Representante legal,2025-04-15,False,,Federico Hernan Vargas Peña,CI 2.207.101,CONSTANCIA RA.pdf p.1,alta
+P0144,FEDERICO HERNAN VARGAS PENA GILL,place_analyzer,Place Analyzer E.A.S.,autoridad,Vicepresidente,2026-04-14,True,,Federico Vargas Peña,CI 2.207.101,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0145,FEDERICO VALINOTTI,galadriel,Galadriel S.A.,autoridad,Síndico suplente,2025-11-05,,,FEDERICO VALINOTTI,CI 1517086 (OCR dudoso),Escritura N° 111.pdf p.20,baja
+P0146,FERNANDO BECONI,bic,BIC S.A. (Buró de Información Comercial),autoridad,Síndico titular,2025-04-10,True,,FERNANDO BECONI,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0147,FERNANDO PENAYO,cbs,CBS S.A.,autoridad,Síndico titular,2019-07-12,False,,FERNANDO PENAYO (OCR),,Constancia inscripción 2019/Escritura 90 22-07-2017 modificación de estatutos.pdf p.3,baja
+P0148,FERNANDO RAUL BAZAN,redisa,Red Digital S.A. (REDISA),autoridad,Presidente,2020-11-27,False,,FERNANDO RAUL BAZAN,CI 6.313.071,ESCRITURA CONSTITUCIÒN NRO 122.pdf p.24,alta
+P0149,FRANCISCO ABEL LEDEZMA MATTO,fintux,Fintux E.A.S.,accionista,Accionista,2026-11-05,True,20.0,FRANCISCO ABEL LEDEZMA MATTO,CI 3988489,Constancia EAS 2026 2.pdf p.1,alta
+P0149,FRANCISCO ABEL LEDEZMA MATTO,fintux,Fintux E.A.S.,autoridad,Vicepresidente,2022-12-29,True,,FRANCISCO ABEL LEDEZMA MATTO,CI 3988489,Constancia EAS 2026 2.pdf p.1,alta
+P0149,FRANCISCO ABEL LEDEZMA MATTO,fintux,Fintux E.A.S.,autoridad,Representante legal,2022-12-29,True,,FRANCISCO ABEL LEDEZMA MATTO,CI 3988489,Constancia EAS 2026 2.pdf p.1,alta
+P0149,FRANCISCO ABEL LEDEZMA MATTO,fintux,Fintux E.A.S.,beneficiario_final,participación sustantiva,2026-11-05,True,20.0,FRANCISCO ABEL LEDEZMA MATTO,CI 3988489,CONSTANCIA BF EAS.pdf p.1,alta
+P0150,FRANCISCO BENZO,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,autoridad,"Director del fiduciario (Financiera Finexpar S.A.E.C.A.), firmante",2019-01,False,,FRANCISCO BENZO,,contratodefideicomisoshoppingcostanera21012019091525.pdf p.1,alta
+P0151,FRANCISCO FREITAS,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Representante del accionista Balloon S.R.L. (carta poder),2026-04-27,,,FRANCISCO FREITAS,CI 2881332,ACTA ORDINARIA NRO 10-APROBADO.pdf p.1,media
+P0152,FRANCISCO MARTIN LETTIERI,23_sports_marketing,23 Sports Marketing S.A.,accionista,Accionista,2018-05-16,False,27.0,FRANCISCO MARTIN LETTIERI,CI 7779444,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17,alta
+P0152,FRANCISCO MARTIN LETTIERI,23_sports_marketing,23 Sports Marketing S.A.,accionista,Accionista,2026-03-30,False,10.0,FRANCISCO MARTIN LETTIERI,CI 7779444,REGISTRO ACCIONISTAS APROBADO.pdf p.1,alta
+P0152,FRANCISCO MARTIN LETTIERI,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Director suplente,2018-05-16,False,,FRANCISCO MARTIN LETTIERI,CI 7779444,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17,alta
+P0153,FRANCISCO RUBEN CAREAGA,cbs,CBS S.A.,autoridad,Vicepresidente,2025-04-28,True,,FRANCISCO RUBEN CAREAGA,CI 792.917,Constancia RA Simple 2025.pdf p.1,alta
+P0153,FRANCISCO RUBEN CAREAGA,cbs,CBS S.A.,beneficiario_final,propiedad indirecta (condición A; 45% participación y 45% votos),2025-06-17,True,45.0,FRANCISCO RUBEN CAREAGA,CI 792.917 (RUC 792917-0),Constancia BF 2025.pdf p.1,alta
+P0154,FRANKLIN GERARDO BOCCIA SILVEIRA,ueno_seguros,Ueno Seguros S.A.,autoridad,Presidente,2024-10-25,True,,FRANKLIN GERARDO BOCCIA SILVEIRA,CI 1.343.171,Acta de Asamblea Ordinaria.pdf p.1,alta
+P0154,FRANKLIN GERARDO BOCCIA SILVEIRA,ueno_seguros,Ueno Seguros S.A.,autoridad,Presidente,2022-08-09,False,,FRANKLIN BOCCIA,,Escritura Pública N° 186.pdf p.8,alta
+P0155,FREDERIK PETRUS VAN DYK,ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,autoridad,"No consta (persona de Luxemburgo listada como BF de Red Digital, frederik.vandyk@arendtservices.com)",,,,FREDERIK PETRUS VAN DYK,Documento de identidad extranjero CP1274,(carpeta RED DIGITAL S.A) Listado de Beneficiarios Finales declarado en el SIARA pendiente de aprobación.pdf p.2,baja
+P0156,FULVIA ESTHER AGUIRRE SANCHEZ DE AQUINO,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,1989-05-18,False,12.4667,FULVIA ESTHER AGUIRRE SANCHEZ DE AQUINO,,Escritura pública N°188.pdf p.18-19,alta
+P0156,FULVIA ESTHER AGUIRRE SANCHEZ DE AQUINO,ueno_seguros,Ueno Seguros S.A.,autoridad,Director suplente,1989-05-18,False,,FULVIA ESTHER AGUIRRE DE AQUINO,,Escritura pública N°188.pdf p.19,alta
+P0157,GERARDO VALIENTE VERON,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,2025-12-31,True,0.0229,GERARDO VALIENTE VERON,,Registro de accionistas.pdf p.1-2,alta
+P0157,GERARDO VALIENTE VERON,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,1989-05-18,False,12.4667,GERARDO VALIENTE VERON,,Escritura pública N°188.pdf p.18-19,alta
+P0157,GERARDO VALIENTE VERON,ueno_seguros,Ueno Seguros S.A.,autoridad,Presidente,1989-05-18,False,,GERARDO VALIENTE VERON,,Escritura pública N°188.pdf p.19,alta
+P0158,GILBERTO RAMOS AMARILLA,nubicom_paraguay,Nubicom Paraguay S.A.,autoridad,Director,2026-06-19,True,,GILBERTO RAMOS AMARILLA,,Acta de Asamblea Ordinaria.pdf p.1,media
+P0159,GISELLE CORINA RAMIREZ ROJAS,fintux,Fintux E.A.S.,accionista,Accionista,2026-11-05,True,20.0,GISELLE CORINA RAMIREZ ROJAS,CI 5158476 (RUC 5158476-0),Constancia EAS 2026 2.pdf p.1,alta
+P0159,GISELLE CORINA RAMIREZ ROJAS,fintux,Fintux E.A.S.,autoridad,Presidente,2022-12-29,True,,GISELLE CORINA RAMIREZ ROJAS,CI 5158476,Constancia EAS 2026 2.pdf p.1,alta
+P0159,GISELLE CORINA RAMIREZ ROJAS,fintux,Fintux E.A.S.,autoridad,Representante legal,2022-12-29,True,,GISELLE CORINA RAMIREZ ROJAS,CI 5158476,Constancia EAS 2026 2.pdf p.1,alta
+P0159,GISELLE CORINA RAMIREZ ROJAS,fintux,Fintux E.A.S.,beneficiario_final,participación sustantiva,2026-11-05,True,20.0,GISELLE CORINA RAMIREZ ROJAS,CI 5158476 (RUC 5158476-0),CONSTANCIA BF EAS.pdf p.1,alta
+P0159,GISELLE CORINA RAMIREZ ROJAS,fintux,Fintux E.A.S.,declarante,Responsable de la solicitud SIARA,2026-11-05,,,GISELLE CORINA RAMIREZ,CI 5158476,Constancia EAS 2026 2.pdf p.1,
+P0160,GONZALO DORIA ZUBIZARRETA,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,autoridad,Director,2026-01-22,True,,Gonzalo Doria Zubizarreta,CI 4311744,Constancias RA 2026 Simple.pdf p.1,alta
+P0161,GRACIELA SOSA DE RIVAROLA,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,2012-10-31,False,,GRACIELA SOSA DE RIVAROLA,,EScritura Pública n° 222.pdf p.3,alta
+P0162,GUIDO IVAN FLOR BENITEZ,factopar,Factopar S.A.,declarante,Responsable de la solicitud SIARA,2026-05-27,,,GUIDO IVAN FLOR BENITEZ,CI 3.420.020,Constancia inscripción 2026/Constancia inscripción.pdf p.1,
+P0163,GUIDO MARTINEZ LOPEZ,terravaz,Terravaz S.A. Emisora,accionista,Accionista,2018-08-28,False,,GUIDO MARTINEZ LOPEZ,CI 926552,ESCRITURA CONSTITUCIÒN NRO 119.pdf p.2,alta
+P0164,GUILLERMO DAMIAN GAUTO SKAF,la_tropa_fletes,La Tropa Fletes E.A.S.,accionista,Accionista,2021-11-11,,35.0,GUILLERMO DAMIAN GAUTO SKAF,,Proforma EAS.pdf p.6,alta
+P0164,GUILLERMO DAMIAN GAUTO SKAF,la_tropa_fletes,La Tropa Fletes E.A.S.,autoridad,Director / Representante suplente,2021-11-11,,,GUILLERMO DAMIAN GAUTO SKAF,,Proforma EAS.pdf p.5,alta
+P0165,GUSTAVO DIAZ,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,GUSTAVO DÍAZ,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0166,GUSTAVO ENRIQUE MAYEREGGER VARELA,place_analyzer,Place Analyzer E.A.S.,accionista,Accionista,2024-04-29,False,32.0,Gustavo Enrique Mayeregger Varela,CI 822.983,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.1,alta
+P0166,GUSTAVO ENRIQUE MAYEREGGER VARELA,place_analyzer,Place Analyzer E.A.S.,accionista,Accionista,2026-04-14,True,32.0,Gustavo Enrique Mayeregger Varela,CI 822.983,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.1,alta
+P0166,GUSTAVO ENRIQUE MAYEREGGER VARELA,place_analyzer,Place Analyzer E.A.S.,autoridad,Presidente,2025-03-25,False,,Gustavo Enrique Mayeregger Varela,CI 822.983,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.16,media
+P0166,GUSTAVO ENRIQUE MAYEREGGER VARELA,place_analyzer,Place Analyzer E.A.S.,autoridad,Presidente,2025-04-15,False,,Gustavo Enrique Mayeregger Varela,CI 822.983,CONSTANCIA RA.pdf p.1,alta
+P0166,GUSTAVO ENRIQUE MAYEREGGER VARELA,place_analyzer,Place Analyzer E.A.S.,beneficiario_final,propiedad directa (A); 32% de votos,2025-10-07,True,32.0,Gustavo Enrique Mayeregger Varela,CI 822.983,CONSTANCIA BF NRO 399459.pdf p.1,alta
+P0166,GUSTAVO ENRIQUE MAYEREGGER VARELA,place_analyzer,Place Analyzer E.A.S.,autoridad,Presidente,2026-04-14,True,,Gustavo Mayeregger,CI 822.983,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0167,GUSTAVO MATHIAS ANGULO TURITICH,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2025-05-20,False,38.0,GUSTAVO MATHIAS ANGULO TURITICH,CI 3518421,Escritura Pública N° 80.pdf p.28,alta
+P0167,GUSTAVO MATHIAS ANGULO TURITICH,kasas_propiedades,Kasas Propiedades S.A.E.,autoridad,Vicepresidente,2025-05-20,False,,GUSTAVO MATHIAS ANGULO TURITICH,CI 3518421,Escritura Pública N° 80.pdf p.27,alta
+P0168,HECTOR MANUEL SARUBBI CABALLERO,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,2025-12-31,True,0.7248,HECTOR MANUEL SARUBBI CABALLERO,,Registro de accionistas.pdf p.1-2,alta
+P0169,HORACIO MANUEL BENITEZ NUNEZ,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2025-05-20,False,6.67,HORACIO MANUEL BENITEZ NUÑEZ,CI 5070278,Escritura Pública N° 80.pdf p.7,alta
+P0170,HUGO FERNANDO MARTINEZ FERNANDEZ,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,autoridad,Director,2026-01-22,True,,Hugo Fernando Martínez Fernandez,CI 1964836,Constancias RA 2026 Simple.pdf p.1,alta
+P0171,HUGO RAUL FERNANDEZ RABADE,comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),accionista,Accionista,2025-07-25,False,97.5,HUGO RAUL FERNANDEZ RABADE,CI 753.588,ESCRITURA MODIFICACION NRO 201.pdf p.13,alta
+P0172,HUGO RODRIGO VON KNOBLOCH BARBOZA,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2025-05-20,False,33.33,HUGO RODRIGO VON KNOBLOCH BARBOZA,CI 2474282,Escritura Pública N° 80.pdf p.7,alta
+P0172,HUGO RODRIGO VON KNOBLOCH BARBOZA,kasas_propiedades,Kasas Propiedades S.A.E.,autoridad,Socio gerente (S.R.L.),2025-05-20,False,,HUGO RODRIGO VON KNOBLOCH BARBOZA,CI 2474282,Escritura Pública N° 80.pdf p.8,alta
+P0173,IGNACIO CONSTANTINO FLORENTIN MENDOZA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2026-10-08,True,3.0,IGNACIO FLORENTÍN MENDOZA (Ignacio Constantino Florentín Mendoza),CI 495.352,Registro de accionistas.pdf p.1,alta
+P0173,IGNACIO CONSTANTINO FLORENTIN MENDOZA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Presidente,2022-05-04,False,,Ignacio Constantino Florentín Mendoza,CI 495.352,Escritura 40 16-08-2022 modificación de estatutos.pdf p.6,alta
+P0173,IGNACIO CONSTANTINO FLORENTIN MENDOZA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Presidente,2026-04-09,True,,Ignacio Florentín (Mendoza),CI 495.352,Acta de Asamblea.pdf p.1,alta
+P0174,INES INSAURRALDE,ueno_seguros,Ueno Seguros S.A.,autoridad,Vicepresidente,2012-10-31,False,,INES INSAURRALDE,,EScritura Pública n° 222.pdf p.3,alta
+P0175,IVO ARRAES DE OLIVEIRA FILHO,solucion_efectiva,Solución Efectiva S.A.,beneficiario_final,"propiedad indirecta (15,50% participación; 16,08% votos)",2024-06-30,True,15.5,IVO ARRAES DE OLIVEIRA FILHO,CI 7103912 (RUC 7103912-0),Constancia BF 2024 Simple.pdf p.1,alta
+P0176,JAVIER RENE BERNARDES BANTI,cbs,CBS S.A.,autoridad,Presidente,2025-04-28,True,,JAVIER RENE BERNARDES BANTI,CI 553.963,Constancia RA Simple 2025.pdf p.1,alta
+P0176,JAVIER RENE BERNARDES BANTI,cbs,CBS S.A.,autoridad,Representante legal,2025-06-17,True,,JAVIER RENE BERNARDES BANTI,CI 553.963,Constancia RA Simple 2025.pdf p.1,alta
+P0176,JAVIER RENE BERNARDES BANTI,cbs,CBS S.A.,beneficiario_final,propiedad indirecta (condición A; 45% participación y 45% votos),2025-06-17,True,45.0,JAVIER RENE BERNARDES,CI 553.963 (RUC 553963-3),Constancia BF 2025.pdf p.1,alta
+P0177,JOAQUIN PAGAN,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2026-03-10,True,38.0,JOAQUIN PAGAN,,Libro de Registro de Accionistas.pdf p.1,alta
+P0177,JOAQUIN PAGAN,kasas_propiedades,Kasas Propiedades S.A.E.,autoridad,Vicepresidente,2026-03-10,True,,JOAQUIN PAGAN,,Acta de Asamblea.pdf p.1,alta
+P0178,JORGE DAVID PERALTA SOSA,galadriel,Galadriel S.A.,accionista,Accionista,2026-02-23,True,10.0,JORGE DAVID PERALTA SOSA,CI 4049157 (RUC 4049157-9),Constancia de RA 2026 (2).pdf p.1,alta
+P0178,JORGE DAVID PERALTA SOSA,galadriel,Galadriel S.A.,autoridad,Director titular / Representante legal,2025-11-05,True,,JORGE DAVID PERALTA SOSA,CI 4049157,Constancia de RA 2026 (2).pdf p.1,alta
+P0178,JORGE DAVID PERALTA SOSA,galadriel,Galadriel S.A.,beneficiario_final,Condición A (propiedad directa) - 10% participación y 10% votos; información adicional: Director,2025-11-05,True,10.0,JORGE DAVID PERALTA SOSA,CI 4049157 (RUC 4049157-9),drfs-003---comunicacion-en-el-registro-administrativo-de-beneficiarios-finales-7666669.pdf p.1,alta
+P0178,JORGE DAVID PERALTA SOSA,galadriel,Galadriel S.A.,declarante,Responsable de la solicitud SIARA,2026-02-21,,,JORGE DAVID PERALTA SOSA,CI 4049157,drfs-002---comunicacion-en-el-registro-administrativo-de-personas-y-estructuras-juridicas-7666667.pdf p.1,
+P0178,JORGE DAVID PERALTA SOSA,galadriel,Galadriel S.A.,declarante,Responsable de la solicitud SIARA,2026-02-23,,,JORGE DAVID PERALTA SOSA,CI 4049157,Constancia de RA 2026 (2).pdf p.1,
+P0178,JORGE DAVID PERALTA SOSA,galadriel,Galadriel S.A.,declarante,Responsable de la solicitud SIARA,2026-02-18,,,JORGE DAVID PERALTA SOSA,CI 4049157,Constancia como Inscripción.pdf p.1,
+P0179,JORGE DUILIO BENITEZ ESTIGARRIBIA,cbs,CBS S.A.,accionista,Accionista,2005-02-08,False,25.0,JORGE DUILIO BENITEZ ESTIGARRIBIA,CI ?51.929 (OCR ilegible),Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14,media
+P0179,JORGE DUILIO BENITEZ ESTIGARRIBIA,cbs,CBS S.A.,autoridad,Director suplente,2005-02-08,False,,JORGE DUILIO BENITEZ ESTIGARRIBIA,,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14,alta
+P0180,JORGE FRANCO TUBINO,hanoi,Hanoi S.A.,accionista,Accionista,2017-06-20,False,33.0,JORGE FRANCO TUBINO,,ESCRITURA MODIFICACION NRO 204.pdf p.2,media
+P0181,JORGE JAVIER ACHON FORNELLS,solucion_efectiva,Solución Efectiva S.A.,accionista,Accionista,2025-05-05,True,33.05,JORGE JAVIER ACHON FORNELLS,CI 850479 (RUC 850479-2),Constancia RA 2025 Simple.pdf p.1,alta
+P0181,JORGE JAVIER ACHON FORNELLS,solucion_efectiva,Solución Efectiva S.A.,accionista,Accionista,2025-05-05,True,2.18,JORGE JAVIER ACHON FORNELLS,CI 850479,Constancia RA 2025 Simple.pdf p.1,alta
+P0181,JORGE JAVIER ACHON FORNELLS,solucion_efectiva,Solución Efectiva S.A.,beneficiario_final,"Condición A y B - propiedad directa (35,23% participación; 34,75% votos)",2024-06-30,True,35.23,JORGE JAVIER ACHON FORNELLS,CI 850479,Constancia BF 2024 Simple.pdf p.1,alta
+P0181,JORGE JAVIER ACHON FORNELLS,solucion_efectiva,Solución Efectiva S.A.,beneficiario_final,"propiedad indirecta (12,06% participación; 12,51% votos)",2024-06-30,True,12.06,JORGE JAVIER ACHON FORNELLS,CI 850479,Constancia BF 2024 Simple.pdf p.1,alta
+P0182,JORGE JAVIER OSTERTAG CHAVES,idl,Impresión Distribución y Logística S.A.,autoridad,Director titular,2008-08-03,False,,JORGE JAVIER OSTERTAG CHAVES,CI 859.361,ESCRITURA CONSTITUCION NRO 644.pdf p.16,media
+P0183,JORGE RAUL ESCALADA RUDINGER,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,1989-05-18,False,12.5333,JORGE RAUL ESCALADA RUDINGER,,Escritura pública N°188.pdf p.18-19,alta
+P0183,JORGE RAUL ESCALADA RUDINGER,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,1989-05-18,False,,JORGE RAUL ESCALADA RUDINGER,,Escritura pública N°188.pdf p.19,alta
+P0184,JORGE RICARDO SARUBBI CABALLERO,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,2025-12-31,True,0.8085,JORGE RICARDO SARUBBI CABALLERO,CI 1.315.220,Registro de accionistas.pdf p.1-2,alta
+P0184,JORGE RICARDO SARUBBI CABALLERO,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,2012-10-31,False,,JORGE RICARDO SARUBBI CABALLERO,CI 1.315.220,EScritura Pública n° 222.pdf p.3,alta
+P0184,JORGE RICARDO SARUBBI CABALLERO,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,2022-08-09,False,,JORGE RICARDO SARUBBI,,Escritura Pública N° 186.pdf p.8,alta
+P0185,JOSE ANDRES BOGADO,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Director suplente,1998-09-17,False,,JOSE ANDRES BOGADO,,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.14,media
+P0186,JOSE ANIBAL ARGUELLO ROJAS,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,JOSÉ ANIBAL ARGUELLO ROJAS,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0187,JOSE EDUARDO CACERES ARAUJO,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,JOSÉ EDUARDO CÁCERES ARAUJO,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0188,JOSE FELIX BOGADO TABACMAN,red_uts_paraguay,Red UTS Paraguay S.A.,accionista,Accionista,1998-09-17,False,10.0,JOSE FELIX BOGADO TABACMAN,CI 353.615,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13,alta
+P0188,JOSE FELIX BOGADO TABACMAN,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Director titular,1998-09-17,False,,JOSE FELIX BOGADO TABACMAN,CI 353.615,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13,alta
+P0189,JOSE GASPAR BRITEZ MARTINEZ,grupo_hendy,Grupo Hendy S.A.,autoridad,Síndico titular,2015-10-05,False,,JOSE GASPAR BRITEZ MARTINEZ,,ESCRITURA MODIFICACION NRO 43.pdf p.6,alta
+P0190,JOSE IGNACIO CABALLERO,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2026-10-08,True,1.5,JOSÉ IGNACIO CABALLERO,,Registro de accionistas.pdf p.1,alta
+P0190,JOSE IGNACIO CABALLERO,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Director titular,2022-05-04,False,,José Caballero,,Escritura 40 16-08-2022 modificación de estatutos.pdf p.6,alta
+P0190,JOSE IGNACIO CABALLERO,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Director titular,2026-04-09,True,,José Caballero,,Acta de Asamblea.pdf p.1,alta
+P0191,JOSE JAVIER SARUBBI CABALLERO,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,2025-12-31,True,0.764,JOSE JAVIER SARUBBI CABALLERO,,Registro de accionistas.pdf p.1-2,alta
+P0192,JOSE LUIS MORINIGO AVEIRO,ueno_seguros,Ueno Seguros S.A.,autoridad,Vicepresidente,1998-09-24,False,,JOSE LUIS MORINIGO AVEIRO,,Escritura Pública N° 51.pdf p.2,alta
+P0193,JOSE ORLANDO CACERES ACOSTA,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,JOSÉ ORLANDO CÁCERES ACOSTA,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0194,JOSE ROLANDO BAEZ AGUILERA,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,JOSÉ ROLANDO BÁEZ AGUILERA,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0195,JOSE SEBASTIAN GONZALEZ OCAMPOS,factopar,Factopar S.A.,autoridad,Síndico titular,2017-05-24,False,,JOSE SEBASTIAN GONZALEZ OCAMPOS,CI 3.511.569,Constancia inscripción 2026/Escritura constitución.pdf p.13,media
+P0196,JUAN ARTURO LAVIGNE,franede,Franede S.A.,accionista,Accionista,1954-08-24,False,,Juan Arturo Lavigne,,ESCRITURA CONSTITUCION.pdf p.4,media
+P0197,JUAN CARLOS DESCALZO JARA,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Síndico titular,1998-09-17,False,,JUAN CARLOS DESCALZO JARA,,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.14,alta
+P0198,JUAN CARLOS DOMINGO PRONO TONANEZ,redisa,Red Digital S.A. (REDISA),autoridad,Director titular,2020-11-27,False,,JUAN CARLOS DOMINGO PRONO TOÑANEZ,CI 666.633,ESCRITURA CONSTITUCIÒN NRO 122.pdf p.25,alta
+P0199,JUAN JOSE GAMARRA,vinanzas,Vinanzas S.A.,autoridad,Director titular,2026-03-30,False,,JUAN JOSE GAMARRA,,ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0199,JUAN JOSE GAMARRA,vinanzas,Vinanzas S.A.,autoridad,Vicepresidente,2026-08-17,True,,JUAN JOSE GAMARRA,,ACTA ORDINARIA NRO 2.pdf p.1,alta
+P0200,JUAN JOSE PANDO RODAS,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,JUAN JOSÉ PANDO RODAS,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0201,JUAN MAX REJALAGA QUINONES,bic,BIC S.A. (Buró de Información Comercial),autoridad,Vicepresidente del Directorio (Director titular),2025-04-10,True,,JUAN MAX REJALAGA,CI 1.046.140,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0201,JUAN MAX REJALAGA QUINONES,bic,BIC S.A. (Buró de Información Comercial),autoridad,Vicepresidente,2022-04-07,False,,JUAN MAX REJALAGA QUIÑONES,CI 1.046.140,Escritura 14 11-07-2022 Modificación de Estatutos.pdf p.1,alta
+P0202,JUAN RICARDO GUSTALE PORTILLO,office_design,Office Design S.R.L.,accionista,Accionista,2003-08-29,False,50.0,JUAN RICARDO GUSTALE PORTILLO,CI 390.617,Escritura Pública N° 77.pdf p.3-4,alta
+P0202,JUAN RICARDO GUSTALE PORTILLO,office_design,Office Design S.R.L.,autoridad,Socio-gerente,2003-08-29,False,,JUAN RICARDO GUSTALE PORTILLO,CI 390.617,Escritura Pública N° 77.pdf p.5,alta
+P0203,JULIO CESAR GARCETE FUNES,cbs,CBS S.A.,accionista,Accionista,2025-06-17,True,10.0,JULIO CESAR GARCETE,CI 1.083.891 (RUC 1083891-0),Constancia RA Simple 2025.pdf p.1,alta
+P0203,JULIO CESAR GARCETE FUNES,cbs,CBS S.A.,autoridad,Director titular,2025-04-28,True,,JULIO CESAR GARCETE,CI 1.083.891,Constancia RA Simple 2025.pdf p.1,alta
+P0203,JULIO CESAR GARCETE FUNES,cbs,CBS S.A.,beneficiario_final,propiedad directa (condición A; 10% participación y 10% votos),2025-06-17,True,10.0,JULIO CESAR GARCETE,CI 1.083.891 (RUC 1083891-0),Constancia BF 2025.pdf p.1,alta
+P0203,JULIO CESAR GARCETE FUNES,cbs,CBS S.A.,accionista,Accionista,2005-02-08,False,25.0,JULIO CESAR GARCETE FUNES,CI 1.083.891,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14,media
+P0203,JULIO CESAR GARCETE FUNES,cbs,CBS S.A.,autoridad,Presidente,2019-04-12,False,,JULIO CESAR GARCETE FUNES,CI 1.083.891,Constancia inscripción 2019/Escritura 90 22-07-2017 modificación de estatutos.pdf p.1,media
+P0203,JULIO CESAR GARCETE FUNES,cbs,CBS S.A.,autoridad,Presidente,2005-02-08,False,,JULIO CESAR GARCETE FUNES,CI 1.083.891,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14,alta
+P0204,JULIO CESAR VAZQUEZ PIATTI,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,JULIO CÉSAR VÁZQUEZ PIATTI,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0205,JULIO ESTEBAN JOSE MARTINEZ APPLEYARD,gsr,GSR E.A.S.,accionista,Accionista,2023-02-20,False,50.0,JULIO ESTEBAN JOSE MARTINEZ APPLEYARD,CI 3640891,Proforma de Estatuto EAS.pdf p.5,media
+P0205,JULIO ESTEBAN JOSE MARTINEZ APPLEYARD,gsr,GSR E.A.S.,autoridad,"Representante legal (Presidente, primer Órgano de Administración)",2023-02-20,False,,JULIO ESTEBAN JOSE MARTINEZ APPLEYARD,CI 3640891,Proforma de Estatuto EAS.pdf p.5,media
+P0206,JURGEN MIGUEL HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,accionista,Accionista,2025-09-12,True,25.0,JURGEN MIGUEL HUBER SCHAEFER,CI 2132681 (RUC 2132681-5),Constancia RA 2025 Simple.pdf p.1,media
+P0206,JURGEN MIGUEL HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,beneficiario_final,condómino (BF),2025-09-12,True,,JURGEN MIGUEL HUBER SCHAEFER,CI 2132681 (RUC 2132681-5),Constancia BF 2025 Simple.pdf p.1,alta
+P0207,JUSTO SANTACRUZ,ueno_seguros,Ueno Seguros S.A.,autoridad,Director titular,2012-10-31,False,,JUSTO SANTACRUZ,,EScritura Pública n° 222.pdf p.3,alta
+P0208,KAMILA MANUELA GIMENEZ CARRIZOSA,u_paraguay,U Paraguay S.A.,accionista,Accionista,2023-03-10,False,50.0,KAMILA MANUELA GIMENEZ CARRIZOSA,CI 4.378.554,ESCRITURA CONSTITUCIÒN.pdf p.15,alta
+P0208,KAMILA MANUELA GIMENEZ CARRIZOSA,u_paraguay,U Paraguay S.A.,autoridad,Presidente,2023-03-10,False,,KAMILA MANUELA GIMENEZ CARRIZOSA,CI 4.378.554,ESCRITURA CONSTITUCIÒN.pdf p.15,alta
+P0209,KARIM HAMZA DAMANI CHAPARRO,hd_invest,HD Invest E.A.S. Unipersonal,accionista,Accionista,2023-05-29,True,100.0,Karim Hamza Damani Chaparro,CI 3.875.748 (manuscrito junto a la firma),Proforma EAS.pdf p.5,media
+P0209,KARIM HAMZA DAMANI CHAPARRO,hd_invest,HD Invest E.A.S. Unipersonal,autoridad,Representante legal y Presidente (Órgano de Administración),2023-05-29,True,,Karim Hamza Damani Chaparro,CI 3.875.748,Proforma EAS.pdf p.5,alta
+P0209,KARIM HAMZA DAMANI CHAPARRO,hd_invest,HD Invest E.A.S. Unipersonal,declarante,Responsable de la solicitud SIARA,2026-11-16,,,KARIM HAMZA DAMANI CHAPARRO,CI 3.875.748 (manuscrito en proforma),Constancia RA 2026 Siara.pdf p.1,
+P0210,KATSUHIKO VICTOR MAEHARA UEDA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2022-05-04,False,33.3,Katsuhiko Víctor Maehara,,Escritura 40 16-08-2022 modificación de estatutos.pdf p.5,alta
+P0210,KATSUHIKO VICTOR MAEHARA UEDA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Presidente (de asamblea; presidía el directorio según actas 2021-2022),2022-05-04,False,,Katsuhiko Víctor Maehara,,Escritura 40 16-08-2022 modificación de estatutos.pdf p.3,media
+P0210,KATSUHIKO VICTOR MAEHARA UEDA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2026-10-08,True,29.0,KATSUHIKO VÍCTOR MAEHARA UEDA,,Registro de accionistas.pdf p.1,alta
+P0211,KAZUKI ENDO,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2022-05-04,False,33.3,Kazuki Endo,,Escritura 40 16-08-2022 modificación de estatutos.pdf p.5,alta
+P0211,KAZUKI ENDO,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2026-10-08,True,29.0,KAZUKI ENDO,,Registro de accionistas.pdf p.1,alta
+P0212,KEMLY AYESA YAMBAY VALLEJO,factopar,Factopar S.A.,accionista,Accionista,2025-05-01,True,50.0,KEMLY AYESA YAMBAY VALLEJO,CI 3.407.698 (RUC 3407698-0),Constancia RA 2025 Simple.pdf p.1,alta
+P0212,KEMLY AYESA YAMBAY VALLEJO,factopar,Factopar S.A.,accionista,Accionista,2017-05-24,False,50.0,KEMLY AYESA YAMBAY VALLEJO,CI 3.407.698,Constancia inscripción 2026/Escritura constitución.pdf p.13,media
+P0212,KEMLY AYESA YAMBAY VALLEJO,factopar,Factopar S.A.,autoridad,Vicepresidente,2025-04-01,True,,KEMLY AYESA YAMBAY VALLEJO,CI 3407698,Constancia RA 2025 Simple.pdf p.1,alta
+P0212,KEMLY AYESA YAMBAY VALLEJO,factopar,Factopar S.A.,beneficiario_final,propiedad directa (A) - representante legal,2025-05-01,True,50.0,KEMLY AYESA YAMBAY VALLEJO,CI 3407698 (RUC 3407698-0),Constancia BF 2025 Simple.pdf p.1,alta
+P0213,KRISTEL DUARTE,ueno_bank,Ueno Bank S.A.,autoridad,Representante de los accionistas U Paraguay S.A. y Grupo Vázquez S.A.E. (apoderada),2026-07-13,True,,Kristel Duarte,,ACTA DE ASAMBLEA.pdf p.1,alta
+P0214,LAURA ALMIRON,tiva,Tiva S.A.,autoridad,Director titular,2025-04-11,False,,Laura Almiron,CI 4.500.757,Constancia RA 2025 2.pdf p.1,alta
+P0215,LEOMAR GOLDONI,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Vicepresidente,2026-05-21,True,,LEOMAR GOLDONI,,Acta de Asamblea.pdf p.3,alta
+P0215,LEOMAR GOLDONI,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Representante legal (ante autoridad tributaria),2026-05-21,True,,LEOMAR GOLDONI,,Acta de Asamblea.pdf p.4,alta
+P0215,LEOMAR GOLDONI,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Vicepresidente,2025-04-24,False,,LEOMAR GOLDONI,,Escritura 3272 16-12-2025.pdf p.2,alta
+P0216,LIDA GILL,cbs,CBS S.A.,autoridad,Síndico titular,2025-04-28,True,,LIDA GILL,,Acta asamblea 28-04-2025.pdf p.2,media
+P0217,LIDER NUNEZ,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Síndico suplente,2026-05-21,True,,LÍDER NÚÑEZ,,Acta de Asamblea.pdf p.3,alta
+P0218,LILIAN GRACIELA BITTAR DAVID,franede,Franede S.A.,accionista,Accionista,2019-09-16,False,92.47,Lilian Graciela Bittar David,CI 619.061,ESCRITURA MODIFICACIÒN NRO 41.pdf p.2,alta
+P0218,LILIAN GRACIELA BITTAR DAVID,franede,Franede S.A.,autoridad,Presidente,2019-05-28,False,,Lilian Graciela Bittar David,CI 619.061,ESCRITURA MODIFICACIÒN NRO 41.pdf p.1,alta
+P0219,LILIANA RAQUEL RODRIGUEZ CUEVAS,redisa,Red Digital S.A. (REDISA),autoridad,Director suplente,2020-11-27,False,,LILIANA RAQUEL RODRIGUEZ CUEVAS,CI 3.386.877,ESCRITURA CONSTITUCIÒN NRO 122.pdf p.25,alta
+P0220,LIZA MAVEL SOLALINDE DUARTE,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,declarante,Responsable de la solicitud SIARA,2025-09-12,,,LIZA MAVEL SOLALINDE DUARTE,CI 4.374.621,Constancia RA 2025 Simple.pdf p.1,
+P0221,LORENZO BARRETO DUARTE,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,LORENZO BARRETO DUARTE,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0222,LUCIANO MAGGI QUARTIERO,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Director titular / Presidente suplente,2026-05-21,True,,LUCIANO MAGGI QUARTIERO,,Acta de Asamblea.pdf p.3,alta
+P0223,LUIS ALFREDO GAONA,vinanzas,Vinanzas S.A.,autoridad,Vicepresidente,2023-04-26,False,,LUIS ALFREDO GAONA,CI 4923683,ESCRITURA CONSTITUCION NRO 142.pdf p.31,alta
+P0224,LUIS DIAZ,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,LUIS DÍAZ,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0225,LUIS ENRIQUE BENITEZ ELIAS,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,1989-05-18,False,12.5333,LUIS ENRIQUE BENITEZ ELIAS,,Escritura pública N°188.pdf p.18-19,alta
+P0226,LUIS FERNANDO BAEZ,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,LUIS FERNANDO BÁEZ,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0227,LUIS FERNANDO CANILLAS VALLEJO,comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),accionista,Accionista,1986-07-03,False,50.0,LUIS FERNANDO CANILLAS VALLEJO,,ESCRITURA MODIFICACION NRO 49.pdf p.1,alta
+P0227,LUIS FERNANDO CANILLAS VALLEJO,comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),autoridad,Gerente,1986-07-03,False,,LUIS FERNANDO CANILLAS VALLEJO,,ESCRITURA MODIFICACION NRO 49.pdf p.3,alta
+P0228,LUIS MARIA EUGENIO ZUBIZARRETA ZAPUTOVICH,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,autoridad,"Presidente del fiduciario (Financiera Finexpar S.A.E.C.A.), firmante",2019-01,False,,LUIS MARIA ZUBIZARRETA,,contratodefideicomisoshoppingcostanera21012019091525.pdf p.1,alta
+P0228,LUIS MARIA EUGENIO ZUBIZARRETA ZAPUTOVICH,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,autoridad,Representante legal (declarado en SIARA); Presidente,2026-01-22,True,,LUIS MARIA EUGENIO ZUBIZARRETA ZAPUTOVICH,CI 195355,Constancias RA 2026 Simple.pdf p.1,alta
+P0229,MARCELO ADRIAN ROMEI,technoma,Technoma S.A.E.C.A.,autoridad,Síndico titular,2022-12-28,False,,Marcelo Adrián Romei,,Escritura 35 27-06-2023 modificación de estatutos sociales.pdf p.2,alta
+P0230,MARCELO GIMENEZ RECALDE,grupo_hendy,Grupo Hendy S.A.,accionista,Accionista,2015-10-05,False,35.0,MARCELO GIMENEZ RECALDE,CI 514.881,ESCRITURA MODIFICACION NRO 43.pdf p.2,alta
+P0230,MARCELO GIMENEZ RECALDE,grupo_hendy,Grupo Hendy S.A.,autoridad,Vicepresidente,2015-10-05,False,,MARCELO GIMENEZ RECALDE,CI 514.881,ESCRITURA MODIFICACION NRO 43.pdf p.5,alta
+P0231,MARCOS ALEX SILVA DOS SANTOS,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Presidente,2026-05-21,True,,MARCOS ALEX SILVA DOS SANTOS,CI 7.980.682 (brasileño),Acta de Asamblea.pdf p.3,alta
+P0231,MARCOS ALEX SILVA DOS SANTOS,villa_oliva_rice,Villa Oliva Rice S.A.,autoridad,Presidente,2025-04-24,False,,MARCOS ALEX SILVA DOS SANTOS,CI 7.980.682,Escritura 3272 16-12-2025.pdf p.1-2,alta
+P0232,MARCOS EUGENIO GODINOT,place_analyzer,Place Analyzer E.A.S.,autoridad,Director suplente,2025-03-25,False,,Marcos Eugenio Godinot,,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.16,media
+P0233,MARIA AMERICA CABALLERO DE SARUBBI,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,2025-12-31,True,0.9881,MARIA AMERICA CABALLERO DE SARUBBI,,Registro de accionistas.pdf p.1-2,alta
+P0234,MARIA BELEN SERRA DE CARTES,tiva,Tiva S.A.,accionista,Accionista,2012-07-30,False,10.0,María Belén Serra de Cartes,CI 2.055.009,Constancia escritura constitución 2018/Escritura 89 30-07-2012 constitución.pdf p.1,alta
+P0234,MARIA BELEN SERRA DE CARTES,tiva,Tiva S.A.,accionista,Accionista,2020-06-24,False,10.0,Maria Belen Serra de Cartes,CI 2055009 (RUC 2055009-0),Constancia RA 2020.pdf p.1,alta
+P0234,MARIA BELEN SERRA DE CARTES,tiva,Tiva S.A.,autoridad,Director titular,2019-07-12,False,,María Belén Serra de Cartes,CI 2.055.009,Constancia modificación de estatutos 2020/escritura 59 20-08-2019 modificación de estatutos.pdf p.2,alta
+P0234,MARIA BELEN SERRA DE CARTES,tiva,Tiva S.A.,beneficiario_final,A - propiedad directa,2025-01-23,True,10.0,María Belén Serra de Cartes,CI 2055009,Constancia BF 2025 1.pdf p.1,alta
+P0234,MARIA BELEN SERRA DE CARTES,tiva,Tiva S.A.,accionista,Accionista,2025-01-23,False,10.0,Maria Belen Serra,CI 2055009,Constancia RA 2025 3.pdf p.1,alta
+P0234,MARIA BELEN SERRA DE CARTES,tiva,Tiva S.A.,accionista,Accionista,2025-12-10,True,10.0,María Belén Serra Masulli (de Cartes),CI 2.055.009 (RUC 2055009-0),Constancia RA 2025 1.pdf p.1,alta
+P0234,MARIA BELEN SERRA DE CARTES,tiva,Tiva S.A.,autoridad,Director titular,2025-11-24,True,,María Belén Serra Masulli,CI 2.055.009,Constancia RA 2025 1.pdf p.1,alta
+P0235,MARIA DE LA PAZ DELGADILLO,grupo_berilo,Grupo Berilo S.A.,autoridad,Síndico titular,2026-04-27,True,,MARÍA DE LA PAZ DELGADILLO,,Acta de Asamblea.pdf p.2,alta
+P0236,MARIA ELENA MATSUMIYA DE ENDO,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2022-05-04,False,33.4,María Elena Matsumiya (de Endo),CI 907.164,Escritura 40 16-08-2022 modificación de estatutos.pdf p.5,alta
+P0236,MARIA ELENA MATSUMIYA DE ENDO,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Director titular,2022-05-04,False,,María Elena Matsumiya de Endo,CI 907.164,Escritura 40 16-08-2022 modificación de estatutos.pdf p.6,alta
+P0236,MARIA ELENA MATSUMIYA DE ENDO,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2026-10-08,True,29.0,MARÍA ELENA MATSUMIYA TAKADA,CI 907.164,Registro de accionistas.pdf p.1,alta
+P0236,MARIA ELENA MATSUMIYA DE ENDO,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Director titular,2026-04-09,True,,María Elena Matsumiya,CI 907.164,Acta de Asamblea.pdf p.1,alta
+P0237,MARIA ESTELA RUIZ DIAZ DE BOGADO,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Director suplente,1998-09-17,False,,MARIA ESTELA RUIZ DIAZ DE BOGADO,,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13-14,alta
+P0238,MARIA GLORIA BITTAR DAVID,franede,Franede S.A.,accionista,Accionista,2019-09-16,False,2.51,María Gloria Bittar David,,ESCRITURA MODIFICACIÒN NRO 41.pdf p.2,alta
+P0239,MARIA GRACIELA HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,accionista,Accionista,2025-09-12,True,25.0,MARIA (MARINA) GRACIELA HUBER SCHAEFER,CI 822645,Constancia RA 2025 Simple.pdf p.1,media
+P0239,MARIA GRACIELA HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,beneficiario_final,condómino (BF),2025-09-12,True,,MARIA (MARINA) GRACIELA HUBER SCHAEFER,CI 822645,Constancia BF 2025 Simple.pdf p.1,alta
+P0240,MARIELA GONZALEZ,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Secretaria de Asamblea,2026-04-27,,,MARIELA GONZALEZ,,ACTA ORDINARIA NRO 10-APROBADO.pdf p.2,alta
+P0241,MARTIN MARCELO SARUBBI CABALLERO,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,2025-12-31,True,0.193,MARTIN MARCELO SARUBBI CABALLERO,,Registro de accionistas.pdf p.1-2,alta
+P0242,MARTIN VARGAS WILDBERGER,aime_corredores,AIME S.A. Corredores de Seguros,accionista,Accionista,,False,20.0,Martin Vargas Wildberger,CI 404.147 (según registro digital; es el CI de Gloria Villasanti; en SIARA el CI de Martin es 3504730),registroaccionistaaime.pdf p.1,media
+P0242,MARTIN VARGAS WILDBERGER,aime_corredores,AIME S.A. Corredores de Seguros,accionista,Accionista,2025-01-13,False,1.09,Martin Vargas Wildberger,CI 3504730 (RUC 3504730-5),Constancia RA 2025 1.pdf p.1,alta
+P0242,MARTIN VARGAS WILDBERGER,aime_corredores,AIME S.A. Corredores de Seguros,accionista,Accionista,2025-06-17,False,19.6,Martin Vargas Wildberger,CI 3504730,Constancia RA 2025 2.pdf p.1,alta
+P0242,MARTIN VARGAS WILDBERGER,aime_corredores,AIME S.A. Corredores de Seguros,accionista,Accionista,2026-01-29,True,95.65,Martin Vargas Wildberger,CI 3504730 (RUC 3504730-5),Constancia RA 2026.pdf p.1,alta
+P0242,MARTIN VARGAS WILDBERGER,aime_corredores,AIME S.A. Corredores de Seguros,beneficiario_final,propiedad directa (A - accionista mayoritario),2026-01-29,True,95.65,Martin Vargas Wildberger,CI/RUC 3504730-5,Constancia BF 2026 1.pdf p.1,alta
+P0243,MATHIAS MANUEL RIVAROLA MARTINEZ,grupo_berilo,Grupo Berilo S.A.,autoridad,Presidente,2026-04-27,True,,MATHIAS MANUEL RIVAROLA MARTÍNEZ,CI 4.987.687,Acta de Asamblea.pdf p.2,alta
+P0244,MATIAS GABRIEL BRIZUELA CARTES,hanoi,Hanoi S.A.,accionista,Accionista,2017-06-20,False,34.0,MATIAS GABRIEL BRIZUELA CARTES,CI 2.201.981,ESCRITURA MODIFICACION NRO 204.pdf p.2,media
+P0244,MATIAS GABRIEL BRIZUELA CARTES,hanoi,Hanoi S.A.,autoridad,Presidente,2017-06-20,False,,MATIAS GABRIEL BRIZUELA CARTES,CI 2.201.981,ESCRITURA MODIFICACION NRO 204.pdf p.1,alta
+P0245,MATILDE DA COSTA YODICE,solucion_efectiva,Solución Efectiva S.A.,autoridad,Director suplente,2025-04-10,True,,MATILDE DA COSTA YODICE,CI 916042,Constancia RA 2025 Simple.pdf p.2,alta
+P0246,MIGUEL ANGEL MARTIN DEL CASTILLO,intertours,Intertours S.A.,accionista,Accionista,2019-07-11,False,75.0,Miguel Ángel Martín del Castillo,CI 1.109.145,ESCRITURA MODIFICACION NRO 321.pdf p.9,alta
+P0246,MIGUEL ANGEL MARTIN DEL CASTILLO,intertours,Intertours S.A.,accionista,Accionista,2019-11-25,False,75.0,Miguel Ángel Martín del Castillo,CI 1.109.145,ESCRITURA MODIFICACION NRO 321.pdf p.11,alta
+P0246,MIGUEL ANGEL MARTIN DEL CASTILLO,intertours,Intertours S.A.,autoridad,Presidente,2019-11-25,False,,Miguel Ángel Martín del Castillo,CI 1.109.145,ESCRITURA MODIFICACION NRO 321.pdf p.4,alta
+P0246,MIGUEL ANGEL MARTIN DEL CASTILLO,intertours,Intertours S.A.,accionista,Accionista,2025-09-24,False,10.0,Miguel Martín del Castillo,CI 1.109.145,ACTA DIRECTORIO NRO 109.pdf p.4,media
+P0246,MIGUEL ANGEL MARTIN DEL CASTILLO,intertours,Intertours S.A.,autoridad,Vicepresidente,2025-09-24,False,,Miguel Martín (del Castillo),CI 1.109.145,ACTA DIRECTORIO NRO 109.pdf p.1,media
+P0247,MONICA GABRIELA MASULLI BARCAROLO,red_uts_paraguay,Red UTS Paraguay S.A.,accionista,Accionista,2026-01-21,True,20.1166,MÓNICA GABRIELA MASULLI BARCAROLO,CI 1.150.588,RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf p.1,alta
+P0247,MONICA GABRIELA MASULLI BARCAROLO,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Representante legal,2025-06-27,True,,MONICA GABRIELA MASULLI BARCAROLO,CI 1150588,CONSTANCIA RA.pdf p.1,alta
+P0247,MONICA GABRIELA MASULLI BARCAROLO,red_uts_paraguay,Red UTS Paraguay S.A.,accionista,Accionista,2025-06-27,False,20.1166,MONICA MASULLI,CI 1150588,CONSTANCIA RA.pdf p.2,alta
+P0247,MONICA GABRIELA MASULLI BARCAROLO,red_uts_paraguay,Red UTS Paraguay S.A.,beneficiario_final,propiedad directa (condición A) - socia,2026-02-11,True,20.12,MONICA MASULLI,CI 1150588 (RUC 1150588-5),CONSTANCIA BF NRO 405711.pdf p.1,alta
+P0248,MONICA MORALES SILVEIRA,solucion_efectiva,Solución Efectiva S.A.,autoridad,Síndico titular,2025-04-10,True,,MONICA MORALES SILVEIRA,,Acta asamblea 19 10-04-2025.pdf p.2,media
+P0249,NARCISO SANABRIA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Síndico titular,2022-05-04,False,,Narciso Sanabria,,Escritura 40 16-08-2022 modificación de estatutos.pdf p.6,alta
+P0249,NARCISO SANABRIA,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Síndico titular,2026-04-09,True,,Narciso Sanabria,,Acta de Asamblea.pdf p.1,alta
+P0250,NELSON AMARILLA ANDINO,cbs,CBS S.A.,autoridad,Síndico titular,2005-02-08,False,,NELSON AMARILLA ANDINO (lectura dudosa),,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14,baja
+P0251,NELSON ARNALDO FERREIRA PRIETO,intertours,Intertours S.A.,accionista,Accionista,2019-07-11,False,25.0,Nelson Arnaldo Ferreira Prieto,CI 755.630,ESCRITURA MODIFICACION NRO 321.pdf p.9,alta
+P0251,NELSON ARNALDO FERREIRA PRIETO,intertours,Intertours S.A.,accionista,Accionista,2019-11-25,False,25.0,Nelson Arnaldo Ferreira Prieto,CI 755.630,ESCRITURA MODIFICACION NRO 321.pdf p.11,alta
+P0251,NELSON ARNALDO FERREIRA PRIETO,intertours,Intertours S.A.,accionista,Accionista,2025-09-24,False,15.0,Nelson Ferreira (Prieto),CI 755.630,ACTA DIRECTORIO NRO 109.pdf p.4,media
+P0251,NELSON ARNALDO FERREIRA PRIETO,intertours,Intertours S.A.,autoridad,Director titular,2025-09-24,False,,Nelson Ferreira (Prieto),CI 755.630,ACTA DIRECTORIO NRO 109.pdf p.1,media
+P0252,NERY ACOSTA,discover_paraguay,Discover Paraguay S.A.,autoridad,Síndico titular,2019-06-27,False,,NERY ACOSTA,,ESCRITURA MODIFICACION NRO 10.pdf p.6,alta
+P0253,NESTOR DIAZ CACERES,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2026-10-08,True,3.0,NESTOR DÍAZ CÁCERES,,Registro de accionistas.pdf p.1,alta
+P0253,NESTOR DIAZ CACERES,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Director titular,2022-05-04,False,,Néstor Díaz,,Escritura 40 16-08-2022 modificación de estatutos.pdf p.6,alta
+P0254,NESTOR GABRIEL LOIZAGA FRANCO,mowi,MOWI S.A.,autoridad,Apoderados para trámites de constitución/inscripción (abogados) y ante SET/BCP,2021-01-12,False,,NESTOR GABRIEL LOIZAGA FRANCO,,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0255,NICOLAS GAMARRA,franede,Franede S.A.,accionista,Accionista,1954-08-24,False,,Nicolás Gamarra,,ESCRITURA CONSTITUCION.pdf p.4,media
+P0256,NICOLAS JOAQUIN BENITEZ PAREDES,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2025-05-20,False,3.33,NICOLAS JOAQUIN BENITEZ PAREDES,CI 4784375,Escritura Pública N° 80.pdf p.7,alta
+P0257,NICOLAS SEBASTIAN DI IORIO OLIVARES,tuiu,TUIU S.A.,accionista,Accionista,2024-11-28,False,10.0,NICOLAS SEBASTIAN DI IORIO OLIVARES,CI 3.385.185,ESCRITURA CONSTITUCION NRO 216.pdf p.20,alta
+P0258,NICOLAS T SARUBBI ZAYAS,ueno_seguros,Ueno Seguros S.A.,autoridad,Presidente,1998-09-24,False,,NICOLAS T. SARUBBI ZAYAS,,Escritura Pública N° 51.pdf p.2-3,alta
+P0259,NICOLAS TOLENTINO SARUBBI ZAYAS,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,2025-12-31,True,8.8506,NICOLAS TOLENTINO SARUBBI ZAYAS,CI 251.954,Registro de accionistas.pdf p.1-2,alta
+P0259,NICOLAS TOLENTINO SARUBBI ZAYAS,ueno_seguros,Ueno Seguros S.A.,autoridad,Presidente,2012-10-31,False,,NICOLAS TOLENTINO SARUBBI ZAYAS,CI 251.954,EScritura Pública n° 222.pdf p.2-3,alta
+P0260,NURY FRANCISCA RODRIGUEZ CORONEL,ueno_bank,Ueno Bank S.A.,accionista,Accionista,2024-03-25,False,0.71,"Rodríguez de Coronel, Nury Francisca",CI 3.977.895,ESCRITURA NRO 44--09-05-2024.pdf p.9,media
+P0261,OLGA BEATRIZ DINIZ FERREIRA,idl,Impresión Distribución y Logística S.A.,autoridad,Director suplente,2008-08-03,False,,OLGA BEATRIZ DINIZ FERREIRA,CI 864.409,ESCRITURA CONSTITUCION NRO 644.pdf p.16,media
+P0262,OLIVER STANLEY MERSAN,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Presidente,2018-05-16,False,,OLIVER STANLEY MERSAN,CI 2491734,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17,alta
+P0262,OLIVER STANLEY MERSAN,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,OLIVER STANLEY MERSAN,CI 2491734,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0263,OMAR SANCHEZ,mowi,MOWI S.A.,autoridad,Apoderados para trámites de constitución/inscripción (abogados) y ante SET/BCP,2021-01-12,False,,OMAR SANCHEZ,,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0264,OSCAR AMADO BITTAR DAVID,franede,Franede S.A.,accionista,Accionista,2019-09-16,False,2.51,Oscar Amado Bittar David,,ESCRITURA MODIFICACIÒN NRO 41.pdf p.2,media
+P0265,OSCAR ENRIQUE DIESEL JUNGHANNS,solucion_efectiva,Solución Efectiva S.A.,accionista,Accionista,2013-08-20,False,,OSCAR ENRIQUE DIESEL JUNGHANNS,CI 745365,Constancia inscripción2018/Escritura 60 20-08-2013 Constitución de la sociedad.pdf p.1,alta
+P0266,OSCAR FERNANDO RIVELA GREGOR,hd_invest,HD Invest E.A.S. Unipersonal,autoridad,Vicepresidente / Representante suplente,2023-05-29,True,,Oscar Fernando Rivela Gregor,,Proforma EAS.pdf p.5,alta
+P0267,OSCAR MAURICIO ACUNA APPLEYARD,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,1989-05-18,False,12.5333,OSCAR MAURICIO ACUÑA APPLEYARD,,Escritura pública N°188.pdf p.18-19,alta
+P0268,OSCAR MAURICIO ACUNA TORRES,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,1989-05-18,False,12.5333,OSCAR MAURICIO ACUÑA TORRES,,Escritura pública N°188.pdf p.18-19,alta
+P0268,OSCAR MAURICIO ACUNA TORRES,ueno_seguros,Ueno Seguros S.A.,autoridad,Vicepresidente,1989-05-18,False,,OSCAR MAURICIO ACUÑA TORRES,,Escritura pública N°188.pdf p.19,alta
+P0269,OVIDIO CESAR JARA FLORENTIN,cbs,CBS S.A.,accionista,Accionista,2005-02-08,False,25.0,OVIDIO CESAR JARA FLORENTIN,CI 1.044.000,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14,media
+P0269,OVIDIO CESAR JARA FLORENTIN,cbs,CBS S.A.,autoridad,Director titular,2019-04-12,False,,OVIDIO CESAR JARA FLORENTIN,CI 1.044.000,Constancia inscripción 2019/Escritura 90 22-07-2017 modificación de estatutos.pdf p.1,media
+P0269,OVIDIO CESAR JARA FLORENTIN,cbs,CBS S.A.,autoridad,Director titular,2005-02-08,False,,OVIDIO CESAR JARA FLORENTIN,CI 1.044.000,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14,alta
+P0270,PABLO MARCELO BEDOYA SAENZ,fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,autoridad,Vicepresidente,2026-01-22,True,,Pablo Marcelo Bedoya Saenz,CI 8663273,Constancias RA 2026 Simple.pdf p.1,alta
+P0271,PAOLA ALEJANDRA PAATS DUARTE,grupo_berilo,Grupo Berilo S.A.,autoridad,Director suplente,2026-04-27,True,,PAOLA ALEJANDRA PAATS DUARTE,,Acta de Asamblea.pdf p.2,alta
+P0272,PATRICIA ANDREA BARBOZA FARINA,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2025-05-20,False,16.67,PATRICIA ANDREA BARBOZA FARIÑA,CI 4289654,Escritura Pública N° 80.pdf p.7,alta
+P0272,PATRICIA ANDREA BARBOZA FARINA,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2026-03-10,True,6.0,PATRICIA ANDREA BARBOZA FARIÑA,CI 4289654,Libro de Registro de Accionistas.pdf p.1,alta
+P0272,PATRICIA ANDREA BARBOZA FARINA,kasas_propiedades,Kasas Propiedades S.A.E.,autoridad,Socio gerente (S.R.L.),2025-05-20,False,,PATRICIA ANDREA BARBOZA FARIÑA,CI 4289654,Escritura Pública N° 80.pdf p.8,alta
+P0273,PAUL GASTON,nubicom_paraguay,Nubicom Paraguay S.A.,autoridad,Vicepresidente,2026-06-19,True,,PAUL GASTÓN,,Acta de Asamblea Ordinaria.pdf p.1,media
+P0274,PAULA MARIA VELILLA,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,PAULA MARIA VELILLA,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0275,PAULINA FIGARI PENAYO,u_paraguay,U Paraguay S.A.,autoridad,Síndico titular,2023-03-10,False,,PAULINA FIGARI PENAYO,CI 4.493.620,ESCRITURA CONSTITUCIÒN.pdf p.15,alta
+P0276,PEDRO MAZUREK YUK,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2025-05-20,False,16.67,PEDRO MAZUREK YUK,CI 2065755,Escritura Pública N° 80.pdf p.7,alta
+P0276,PEDRO MAZUREK YUK,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2026-03-10,True,6.0,PEDRO MAZUREK YUK,CI 2065755,Libro de Registro de Accionistas.pdf p.1,alta
+P0277,PEDRO PABLO SERVIN BARRETO,technoma,Technoma S.A.E.C.A.,accionista,Accionista,2026-05-20,True,3.25,Pedro Servín (Pedro Pablo Servín Barreto),CI 1.841.284,Registro de Accionistas.pdf p.3,alta
+P0277,PEDRO PABLO SERVIN BARRETO,technoma,Technoma S.A.E.C.A.,autoridad,Presidente,2022-04-19,False,,Pedro Pablo Servín Barreto,CI 1.841.284,Escritura 35 27-06-2023 modificación de estatutos sociales.pdf p.1,alta
+P0278,PEDRO RAMON ESPINOLA VARGAS PENA,bic,BIC S.A. (Buró de Información Comercial),autoridad,Presidente del Directorio (Director titular),2025-04-10,True,,PEDRO ESPINOLA VARGAS PEÑA,CI 488.876,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0278,PEDRO RAMON ESPINOLA VARGAS PENA,bic,BIC S.A. (Buró de Información Comercial),autoridad,Presidente,2022-04-07,False,,PEDRO RAMON ESPINOLA VARGAS PEÑA,CI 488.876,Escritura 14 11-07-2022 Modificación de Estatutos.pdf p.1,alta
+P0279,RAMIRA ALMADA COLMAN,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,2025-12-31,True,0.058,RAMIRA ALMADA COLMAN,,Registro de accionistas.pdf p.1-2,alta
+P0280,RAMIRO FREITAS OCAMPO,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Director titular,1998-09-17,False,,RAMIRO FREITAS OCAMPO,,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13,alta
+P0281,RAMON ZACUR,franede,Franede S.A.,accionista,Accionista,1954-08-24,False,,Ramón Zacur,,ESCRITURA CONSTITUCION.pdf p.3,media
+P0282,RAQUEL VICTORIA ROJAS DE BUSCAGLIA,redisa,Red Digital S.A. (REDISA),autoridad,Director suplente,2020-11-27,False,,RAQUEL VICTORIA ROJAS DE BUSCAGLIA,CI 751.253,ESCRITURA CONSTITUCIÒN NRO 122.pdf p.25,alta
+P0283,RAUL JOSE GUALBERTO PRONO TONANEZ,red_uts_paraguay,Red UTS Paraguay S.A.,accionista,Accionista,1998-09-17,False,45.0,RAUL JOSE GUALBERTO PRONO TOÑANEZ,CI 550.400,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13,alta
+P0283,RAUL JOSE GUALBERTO PRONO TONANEZ,red_uts_paraguay,Red UTS Paraguay S.A.,autoridad,Vicepresidente,1998-09-17,False,,RAUL JOSE G. PRONO TOÑANEZ,CI 550.400,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13,alta
+P0284,RAUL SANCHEZ,aime_corredores,AIME S.A. Corredores de Seguros,autoridad,Director titular,2025-12-29,True,,Raúl Sanchez,,Acta de Dirertorio 22-2025.pdf p.1,alta
+P0285,RAZIEL ANDRES BUSTO DOMANICZKY,grupo_berilo,Grupo Berilo S.A.,autoridad,Síndico titular,2019-08-17,False,,RAZIEL ANDRÉS BUSTO DOMANICZKY,CI 3.384.752,"Escritura Pública N° 36.pdf p.10,18",media
+P0286,REBECA ELIZABETH VILLASANTI FARINA,grupo_vazquez,Grupo Vázquez S.A.E.,accionista,Accionista,2026-03-27,True,8.02,REBECA ELIZABETH VILLASANTI FARIÑA,,Libro de registro de accionistas.pdf p.25,media
+P0287,REBECCA GISELLE RECALDE RUIZ,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,REBECCA GISELLE RECALDE RUIZ,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0288,RICARDO MATIAS ARIAS ETCHEGARAY,23_sports_marketing,23 Sports Marketing S.A.,accionista,Accionista,2018-05-16,False,19.0,RICARDO MATIAS ARIAS ETCHEGARAY,CI 4206224,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17,alta
+P0288,RICARDO MATIAS ARIAS ETCHEGARAY,23_sports_marketing,23 Sports Marketing S.A.,accionista,Accionista,2026-04-27,True,20.0,RICARDO MATIAS ARIAS ETCHEGARAY,CI 4206224,ACTA ORDINARIA NRO 10-APROBADO.pdf p.1,alta
+P0288,RICARDO MATIAS ARIAS ETCHEGARAY,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Director titular,2018-05-16,False,,RICARDO MATIAS ARIAS ETCHEGARAY,CI 4206224,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17,alta
+P0288,RICARDO MATIAS ARIAS ETCHEGARAY,23_sports_marketing,23 Sports Marketing S.A.,autoridad,Presidente,2026-04-27,True,,RICARDO MATIAS ARIAS ETCHEGARAY,CI 4206224,ACTA ORDINARIA NRO 10-APROBADO.pdf p.4,alta
+P0288,RICARDO MATIAS ARIAS ETCHEGARAY,23_sports_marketing,23 Sports Marketing S.A.,beneficiario_final,BF,,True,,RICARDO MATIAS ARIAS ETCHEGARAY,CI 4206224,BENEFICIARIOS FINALES-PENDIENTE.pdf p.1,media
+P0289,ROBERTO YORKI BOGADO,kostas_viajes,Kostas Viajes y Turismo S.R.L.,accionista,Accionista,1985-06-29,False,9.2,Roberto Yorki Bogado,,ESCRITURA CONSTITUCION NRO 79.pdf p.4,baja
+P0290,RODOLFO EUSEBIO RODRIGUEZ LEITH,ueno_seguros,Ueno Seguros S.A.,autoridad,Síndico suplente,1989-05-18,False,,RODOLFO EUSEBIO RODRIGUEZ LEITH,,Escritura pública N°188.pdf p.19,alta
+P0291,RODRIGO ALBERTO WEIBERLEN DUARTE,oniria,Oniria S.A.,accionista,Accionista,2020-11-05,False,50.0,Rodrigo Alberto Weiberlen Duarte,,ESCRITURA MODIFICACION NRO 113.pdf p.4,alta
+P0292,RODRIGO MIGUEL RUIZ GIMENEZ,gsr,GSR E.A.S.,accionista,Accionista,2026-04-06,True,50.0,RODRIGO MIGUEL RUIZ GIMENEZ,CI 4194277,Constancia de RA 2026.pdf p.1,alta
+P0292,RODRIGO MIGUEL RUIZ GIMENEZ,gsr,GSR E.A.S.,beneficiario_final,participación sustantiva (propiedad directa),2026-04-06,True,50.0,RODRIGO MIGUEL RUIZ GIMENEZ,CI 4194277,Constancia de BF 2026.pdf p.1,alta
+P0293,RODRIGO MIGUEL SAMANIEGO DIAZ,kasas_propiedades,Kasas Propiedades S.A.E.,autoridad,Síndico titular,2025-05-20,True,,RODRIGO MIGUEL SAMANIEGO DIAZ,CI 3953595,Acta de Asamblea.pdf p.1,alta
+P0294,RODRIGO SALDIVAR HEISECKE,ueno_bank,Ueno Bank S.A.,accionista,Accionista,2024-03-25,False,0.17,"Saldívar Heisecke, Rodrigo",CI 3.495.978,ESCRITURA NRO 44--09-05-2024.pdf p.9,media
+P0295,ROMILDA CONCEPCION NUNES DE LEVI,ueno_seguros,Ueno Seguros S.A.,accionista,Accionista,2025-12-31,True,0.1566,ROMILDA CONCEPCION NUNES DE LEVI,,Registro de accionistas.pdf p.1-2,alta
+P0296,ROMILDO ANDRES LACONICH ROMERO,ueno_bank,Ueno Bank S.A.,accionista,Accionista,2026-02-20,False,0.13,Romildo Andrés Laconich Romero,CI 568.518,ACTA ASAMBLEA.pdf p.1,alta
+P0296,ROMILDO ANDRES LACONICH ROMERO,ueno_bank,Ueno Bank S.A.,accionista,Accionista,2026-07-13,True,0.12,Romildo Andrés Laconich Romero,CI 568.518,ACTA DE ASAMBLEA.pdf p.1,alta
+P0297,RONALD BIRKS TEVILIN,inter_express,Inter-Express S.A.,autoridad,Director titular,2018-04-27,False,,RONALD BIRKS TEVILIN,,ESCRITURA MODIFICACIÓN NRO 2.pdf p.1,alta
+P0298,ROSS MARY MONTI,aime_corredores,AIME S.A. Corredores de Seguros,autoridad,Director titular,2024-12-02,False,,Ross Mary Monti,,Acta de Directorio 19-2025.pdf p.1,alta
+P0299,ROSSANA CESPEDES,galadriel,Galadriel S.A.,autoridad,Síndico titular,2025-11-05,,,ROSSANA CESPEDES,CI 2189588,Escritura N° 111.pdf p.20,media
+P0300,ROSSANA MONTIEL,vinanzas,Vinanzas S.A.,autoridad,Director suplente,2026-03-30,,,ROSSANA MONTIEL,,ACTA ORDINARIA NRO 1.pdf p.2,alta
+P0301,RUBEN DARIO SALDIVAR RAMIREZ,cbs,CBS S.A.,declarante,Responsable de la solicitud SIARA,2017-06-29,,,Ruben Dario Saldivar Ramirez (solicitante DRFS),CI 5.170.926,Constancia inscripción 2017/Constancia inscripción 2017.pdf p.1,
+P0302,RUDOLPH FERNANDO GOETZ GONZALEZ,grupo_hendy,Grupo Hendy S.A.,autoridad,Director suplente,2015-10-05,False,,RUDOLPH FERNANDO GOETZ GONZALEZ,,ESCRITURA MODIFICACION NRO 43.pdf p.6,alta
+P0303,SANDRA CABALLERO CORREO,v_media,V Media S.A.,declarante,Responsable de la solicitud SIARA,2026-06-04,,,Sandra Caballero (correo),,CONSTANCIA RA NRO 13311.pdf p.1,
+P0304,SANTIAGO WEILER GUSTAFSON,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),accionista,Accionista,2026-10-08,True,1.0,SANTIAGO WEILER GUSTAFSON,,Registro de accionistas.pdf p.1,alta
+P0304,SANTIAGO WEILER GUSTAFSON,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Síndico suplente,2022-05-04,False,,Santiago Weiler,,Escritura 40 16-08-2022 modificación de estatutos.pdf p.6,alta
+P0304,SANTIAGO WEILER GUSTAFSON,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridad,Director titular,2026-04-09,True,,Santiago Weiler,,Acta de Asamblea.pdf p.1,alta
+P0305,SEBASTIAN PEREZ CABALLERO,mowi,MOWI S.A.,autoridad,Apoderados para trámites de constitución/inscripción (abogados) y ante SET/BCP,2021-01-12,False,,SEBASTIAN PEREZ CABALLERO,,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0306,SERGIO DANIEL MARIN PERALTA,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,SERGIO DANIEL MARIN PERALTA,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0307,SERGIO MIGUEL STUDENKO URUSOFF,terravaz,Terravaz S.A. Emisora,accionista,Accionista,2025-08-04,True,1.33,SERGIO MIGUEL STUDENKO URUSOFF,CI 921150,REGISTRO ACCIONISTAS.pdf p.1,alta
+P0308,SIGFRIDO GROSS BROWN ABREU,vinanzas,Vinanzas S.A.,autoridad,Presidente de EL RIACHO S.A. (accionista fundador),2015-07-27,False,,SIGFRIDO GROSS BROWN ABREU,,ESCRITURA CONSTITUCION NRO 142.pdf p.2,alta
+P0309,STEPHAN VYSOKOLAN,bic,BIC S.A. (Buró de Información Comercial),autoridad,Síndico suplente (también asesor jurídico),2025-04-10,True,,STEPHAN VYSOKOLÁN,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0310,TADEO MIGUEL CARRASCO MARTINEZ,kaitel,Kaitel S.R.L.,accionista,Accionista,2021-07-28,False,98.0,TADEO MIGUEL CARRASCO MARTINEZ,CI 1.977.262,KAITEL SRL-SIARA-REV/ESCRITURA CONSTITUCION NRO 1153.pdf p.4,alta
+P0310,TADEO MIGUEL CARRASCO MARTINEZ,kaitel,Kaitel S.R.L.,autoridad,Gerente,2021-07-28,False,,TADEO MIGUEL CARRASCO MARTINEZ,CI 1.977.262,KAITEL SRL-SIARA-REV/ESCRITURA CONSTITUCION NRO 1153.pdf p.5,alta
+P0311,TANIA PATRICIA GONZALEZ RUIZ DIAZ,cbs,CBS S.A.,declarante,Responsable de la solicitud SIARA,2019-10-11,,,Tania Patricia Gonzalez Ruiz Diaz (solicitante DRFS),CI 5.069.578,Constancia inscripción 2019/Constancia inscripción 2019.pdf p.1,
+P0312,TITO LORENZO BENITEZ CAMARAZA,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2025-05-20,False,23.33,TITO LORENZO BENITEZ CAMARAZA,CI 741200,Escritura Pública N° 80.pdf p.7,alta
+P0312,TITO LORENZO BENITEZ CAMARAZA,kasas_propiedades,Kasas Propiedades S.A.E.,accionista,Accionista,2026-03-10,True,12.0,TITO LORENZO BENITEZ CAMARAZA,CI 741200,Libro de Registro de Accionistas.pdf p.1,alta
+P0312,TITO LORENZO BENITEZ CAMARAZA,kasas_propiedades,Kasas Propiedades S.A.E.,autoridad,Socio gerente (S.R.L.),2025-05-20,False,,TITO LORENZO BENITEZ CAMARAZA,CI 741200,Escritura Pública N° 80.pdf p.8,alta
+P0313,TIZIANA BUSSINI,terravaz,Terravaz S.A. Emisora,autoridad,Vicepresidente (presidió asambleas 17-06-2025),2025-06-17,False,,TIZIANA BUSSINI,,ACTA ORDINARIA NRO 20.pdf p.1,alta
+P0314,VALENTIN GALEANO,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,VALENTÍN GALEANO,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0315,VENANCIO RIOS PORTILLO,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director titular,2025-04-10,True,,VENANCIO RÍOS PORTILLO,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0316,VENICIO ADOLFO SANCHEZ GUERREROS,mowi,MOWI S.A.,autoridad,Director suplente,2021-01-12,False,,VENICIO ADOLFO SANCHEZ GUERREROS,CI 511818,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0317,VICTOR ANDRES BOGARIN OCAMPOS,grupo_berilo,Grupo Berilo S.A.,accionista,Accionista,2026-04-27,True,0.0429,VÍCTOR ANDRÉS BOGARÍN OCAMPOS,"CI 1.996.698 (OCR, dudoso)",Libro de Registro de Accionistas.pdf p.1,alta
+P0317,VICTOR ANDRES BOGARIN OCAMPOS,grupo_berilo,Grupo Berilo S.A.,accionista,Accionista,2021-06-28,False,15.0,VICTOR ANDRES BOGARIN OCAMPOS,,Escritura Pública N° 36.pdf p.19,media
+P0317,VICTOR ANDRES BOGARIN OCAMPOS,grupo_berilo,Grupo Berilo S.A.,accionista,Accionista,2019-08-17,False,15.0,VICTOR ANDRES BOGARIN OCAMPOS,,Escritura Pública N° 36.pdf p.10,media
+P0317,VICTOR ANDRES BOGARIN OCAMPOS,grupo_berilo,Grupo Berilo S.A.,autoridad,Director titular,2019-08-17,False,,VICTOR ANDRES BOGARIN OCAMPOS,,Escritura Pública N° 36.pdf p.10,media
+P0318,VICTOR ATILIO ANDRES VARELA ALLEGRETTI,solucion_efectiva,Solución Efectiva S.A.,accionista,Accionista,2013-08-20,False,,VICTOR ATILIO ANDRES VARELA ALLEGRETTI,CI 280029,Constancia inscripción2018/Escritura 60 20-08-2013 Constitución de la sociedad.pdf p.1,alta
+P0319,VICTOR EDUARDO CARTES LEON,tiva,Tiva S.A.,accionista,Accionista,2012-07-30,False,80.0,Victor Eduardo Cartes Leon,CI 1.857.270,Constancia escritura constitución 2018/Escritura 89 30-07-2012 constitución.pdf p.1,alta
+P0319,VICTOR EDUARDO CARTES LEON,tiva,Tiva S.A.,accionista,Accionista,2020-06-24,False,80.0,Victor Eduardo Cartes Leon,CI 1857270 (RUC 1857270-7),Constancia RA 2020.pdf p.1,alta
+P0319,VICTOR EDUARDO CARTES LEON,tiva,Tiva S.A.,autoridad,Presidente,2012-07-30,False,,Victor Eduardo Cartes Leon,CI 1857270,Constancia RA 2020.pdf p.1,alta
+P0319,VICTOR EDUARDO CARTES LEON,tiva,Tiva S.A.,beneficiario_final,"propiedad directa (director, representante legal)",2020-06-24,True,80.0,Victor Eduardo Cartes Leon,CI 1857270,Constancia BF 2020.pdf p.1,alta
+P0319,VICTOR EDUARDO CARTES LEON,tiva,Tiva S.A.,beneficiario_final,A - propiedad directa (26% votos),2025-01-23,True,26.0,Victor Eduardo Cartes Leon,CI 1857270,Constancia BF 2025 1.pdf p.1,alta
+P0319,VICTOR EDUARDO CARTES LEON,tiva,Tiva S.A.,accionista,Accionista,2025-01-23,False,26.0,Victor Cartes Leon,CI 1857270,Constancia RA 2025 3.pdf p.1,alta
+P0319,VICTOR EDUARDO CARTES LEON,tiva,Tiva S.A.,accionista,Accionista,2025-12-10,True,26.0,Víctor Cartes León,CI 1.857.270 (RUC 1857270-7),Constancia RA 2025 1.pdf p.1,alta
+P0320,VICTOR HUGO VAZQUEZ,mowi,MOWI S.A.,autoridad,Presidente,2021-01-12,False,,VICTOR HUGO VAZQUEZ,CI 551387,ESCRITURA CONSTITUCIÒN NRO 13.pdf p.19,alta
+P0321,VIVIANNE BERNARDES DE CIBILS,hanoi,Hanoi S.A.,accionista,Accionista,2017-06-20,False,17.0,VIVIANNE BERNARDES DE CIBILS,,ESCRITURA MODIFICACION NRO 204.pdf p.2,media
+P0322,VOLKER EUGENIO HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,accionista,Accionista,2025-09-12,True,25.0,VOLKER EUGENIO HUBER SCHAEFER,CI 1351428 (RUC 1351428-8),Constancia RA 2025 Simple.pdf p.1,media
+P0322,VOLKER EUGENIO HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,autoridad,Representante legal,2015-07-15,True,,VOLKER EUGENIO HUBER SCHAEFER,CI 1351428,Constancia RA 2025 Simple.pdf p.1,alta
+P0322,VOLKER EUGENIO HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,autoridad,Representante legal,2021-07-15,False,,VOLKER EUGENIO HUBER SCHAEFER,CI 1.351.428,Acta de Directorio.pdf p.1,media
+P0322,VOLKER EUGENIO HUBER SCHAEFER,condominio_estancia_don_miguel,Condominio Estancia Don Miguel,beneficiario_final,condómino (BF),2025-09-12,True,,VOLKER EUGENIO HUBER SCHAEFER,CI 1351428 (RUC 1351428-8),Constancia BF 2025 Simple.pdf p.1,alta
+P0323,WALDO EMILIO ROBERTO,ueno_bank,Ueno Bank S.A.,autoridad,Director titular,2026-07-13,True,,Waldo Emilio Roberto,,ACTA DE ASAMBLEA.pdf p.2,alta
+P0324,WALTER BIRKS,inter_express,Inter-Express S.A.,autoridad,Miembro del Directorio,2018-12-07,False,,WALTER BIRKS,,ESCRITURA MODIFICACIÓN NRO 2.pdf p.4,alta
+P0325,WIDILFO ESCOBAR,bic,BIC S.A. (Buró de Información Comercial),autoridad,Director suplente,2025-04-10,True,,WIDILFO ESCOBAR,,Acta de Asamblea 25 10-04-2025.pdf p.4,alta
+P0326,YOLANDA PATRICIA BIRKS TEVILIN,inter_express,Inter-Express S.A.,autoridad,Presidente,2018-04-27,False,,YOLANDA PATRICIA BIRKS TEVILIN,,ESCRITURA MODIFICACIÓN NRO 2.pdf p.1,alta

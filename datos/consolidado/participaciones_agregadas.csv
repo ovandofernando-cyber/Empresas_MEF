@@ -1,0 +1,269 @@
+corte,empresa_id,titular_id,titular,tipo,pct_capital,pct_votos,origen_votos,fechas,fuentes
+vigente,23_sports_marketing,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,60.0,60.0,calculado sobre votos de las filas del mismo corte,2026-04-27,ACTA ORDINARIA NRO 10-APROBADO.pdf p.1
+vigente,23_sports_marketing,P0288,Ricardo Matias Arias Etchegaray,fisica,20.0,20.0,calculado sobre votos de las filas del mismo corte,2026-04-27,ACTA ORDINARIA NRO 10-APROBADO.pdf p.1
+vigente,23_sports_marketing,P0036,Camilo Jose Guanes Mersan,fisica,10.0,10.0,calculado sobre votos de las filas del mismo corte,2026-04-27,ACTA ORDINARIA NRO 10-APROBADO.pdf p.1
+vigente,23_sports_marketing,EXT:BALLOON,Balloon,juridica,10.0,10.0,calculado sobre votos de las filas del mismo corte,2026-04-27,ACTA ORDINARIA NRO 10-APROBADO.pdf p.1
+vigente,aime_corredores,P0242,Martin Vargas Wildberger,fisica,95.65,95.6522,calculado sobre votos de las filas del mismo corte,2026-01-29,Constancia RA 2026.pdf p.1
+vigente,aime_corredores,P0059,Mauro Vargas Wildberger,fisica,4.35,4.3478,calculado sobre votos de las filas del mismo corte,2026-01-29,Constancia RA 2026.pdf p.1
+vigente,bic,EXT:EMPRESA IZAGUIRRE BARRAIL INVERSORA,Empresa Izaguirre Barrail Inversora,juridica,5.889,5.889,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.1
+vigente,bic,EXT:NEGOFIN,Negofin,juridica,5.889,5.889,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.1
+vigente,bic,EXT:GESTION Y VENTA,Gestion Y Venta,juridica,5.025,5.025,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.1
+vigente,bic,EXT:UNIVERSO DE CREDITOS Y CONSUMO,Universo De Creditos Y Consumo,juridica,5.889,5.889,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.1
+vigente,bic,EXT:COMPANIA ADMINISTRADORA DE RIESGOS,Compania Administradora De Riesgos,juridica,5.889,5.889,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.1
+vigente,bic,EXT:CREDISOLUCION,Credisolucion,juridica,5.889,5.889,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.1
+vigente,bic,EXT:SDM SERVICIOS Y MANDATOS,Sdm Servicios Y Mandatos,juridica,5.025,5.025,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.1
+vigente,bic,EXT:SERFIN,Serfin,juridica,5.025,5.025,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.2
+vigente,bic,EXT:ELECTROBAN,Electroban,juridica,3.299,3.299,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.2
+vigente,bic,EXT:BELLA VISTA SOCIEDAD ANONIMA DE INMUEBLES Y MANDATOS,Bella Vista Sociedad Anonima De Inmuebles Y Mandatos,juridica,1.572,1.572,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.2
+vigente,bic,EXT:PAC,Pac,juridica,4.162,4.162,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.2
+vigente,bic,EXT:PIRA PIRE S A DE ADMINISTRACION CREDITOS Y MANDATOS,Pira Pire S A De Administracion Creditos Y Mandatos,juridica,2.435,2.435,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.2
+vigente,bic,EXT:BANCO CONTINENTAL,Banco Continental,juridica,12.486,12.486,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.2
+vigente,bic,EXT:CRISOL ENCARNACION FINANCIERA,Crisol Encarnacion Financiera,juridica,3.454,3.454,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.3
+vigente,bic,EXT:SISTEMAS Y GESTIONES,Sistemas Y Gestiones,juridica,2.435,2.435,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.3
+vigente,bic,EXT:COOP MULT DE AHORRO CRED Y SERV MEDALLA MILAGROSA,Coop Mult De Ahorro Cred Y Serv Medalla Milagrosa,juridica,4.162,4.162,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.3
+vigente,bic,EXT:CAMARA INDUSTRIAL PARAGUAYA DE MOTOCICLETAS Y AUTOMOTORES,Camara Industrial Paraguaya De Motocicletas Y Automotores,juridica,1.295,1.295,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.3
+vigente,bic,ueno_bank,Ueno Bank S.A.,juridica,7.46,7.46,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.3
+vigente,bic,ueno_holding_saeca,Ueno Holding S.A.E.C.A.,juridica,1.572,1.572,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.3
+vigente,bic,itti,ITTI S.A.E.C.A.,juridica,1.572,1.572,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.3
+vigente,bic,EXT:IOIO,Ioio,juridica,1.572,1.572,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.4
+vigente,bic,redisa,Red Digital S.A. (REDISA),juridica,1.572,1.572,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.4
+vigente,bic,vinanzas,Vinanzas S.A.,juridica,1.295,1.295,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.4
+vigente,bic,EXT:CREDICLAVE,Crediclave,juridica,0.173,0.173,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.4
+vigente,bic,EXT:VIP GROUP,Vip Group,juridica,0.181,0.181,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.4
+vigente,bic,EXT:TARJETA PY,Tarjeta Py,juridica,0.173,0.173,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.4
+vigente,bic,EXT:CREDITO AMIGO,Credito Amigo,juridica,0.173,0.173,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.4
+vigente,bic,EXT:SOLUFIN,Solufin,juridica,0.44,0.44,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.4
+vigente,bic,EXT:DIPRESA,Dipresa,juridica,0.173,0.173,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.4
+vigente,bic,EXT:TUPI RAMOS GENERALES,Tupi Ramos Generales,juridica,0.44,0.44,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.4
+vigente,bic,EXT:LHC,Lhc,juridica,0.259,0.259,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.5
+vigente,bic,EXT:PRECIOS BAJOS PARAGUAY,Precios Bajos Paraguay,juridica,0.181,0.181,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.5
+vigente,bic,EXT:SIMPLE,Simple,juridica,0.173,0.173,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.5
+vigente,bic,EXT:JET TRADE ELECTRODOMESTICOS,Jet Trade Electrodomesticos,juridica,0.173,0.173,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.5
+vigente,bic,EXT:SERSA,Sersa,juridica,0.173,0.173,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.5
+vigente,bic,EXT:SALLUSTRO,Sallustro,juridica,0.173,0.173,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.5
+vigente,bic,satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),juridica,0.863,0.863,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.5
+vigente,bic,EXT:FINEXPAR,Finexpar,juridica,0.872,0.872,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.5
+vigente,bic,EXT:SOLUCIONES DE NEGOCIOS,Soluciones De Negocios,juridica,0.173,0.173,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.5
+vigente,bic,EXT:COOPENSA,Coopensa,juridica,0.345,0.345,igual a % de capital (sin dato de votos),2026-09-22,Registro de accionistas.pdf p.5
+vigente,cbs,EXT:CHACO I TRADER,Chaco I Trader,juridica,90.0,90.0,calculado sobre votos de las filas del mismo corte,2025-06-17,Constancia RA Simple 2025.pdf p.1
+vigente,cbs,P0203,Julio Cesar Garcete Funes,fisica,10.0,10.0,calculado sobre votos de las filas del mismo corte,2025-06-17,Constancia RA Simple 2025.pdf p.1
+vigente,comdetur,itti,ITTI S.A.E.C.A.,juridica,99.0,99.0,calculado sobre votos de las filas del mismo corte,2025-07-25,ESCRITURA MODIFICACION NRO 201.pdf p.15
+vigente,comdetur,discover_paraguay,Discover Paraguay S.A.,juridica,1.0,1.0,calculado sobre votos de las filas del mismo corte,2025-07-25,ESCRITURA MODIFICACION NRO 201.pdf p.15
+vigente,condominio_estancia_don_miguel,P0239,Maria Graciela Huber Schaefer,fisica,25.0,25.0,igual a % de capital (sin dato de votos),2025-09-12,Constancia RA 2025 Simple.pdf p.1
+vigente,condominio_estancia_don_miguel,P0090,Brigitte Waltraut Huber Schaefer,fisica,25.0,25.0,igual a % de capital (sin dato de votos),2025-09-12,Constancia RA 2025 Simple.pdf p.1
+vigente,condominio_estancia_don_miguel,P0322,Volker Eugenio Huber Schaefer,fisica,25.0,25.0,igual a % de capital (sin dato de votos),2025-09-12,Constancia RA 2025 Simple.pdf p.1
+vigente,condominio_estancia_don_miguel,P0206,Jurgen Miguel Huber Schaefer,fisica,25.0,25.0,igual a % de capital (sin dato de votos),2025-09-12,Constancia RA 2025 Simple.pdf p.1
+vigente,discover_paraguay,itti,ITTI S.A.E.C.A.,juridica,74.79,74.7934,calculado sobre votos de las filas del mismo corte,2026-01-22,REGISTRO ACCIONISTAS-PAG 14.pdf p.1
+vigente,discover_paraguay,P0029,Andre Gayol Pires,fisica,14.88,14.876,calculado sobre votos de las filas del mismo corte,2026-01-22,REGISTRO ACCIONISTAS-PAG 14.pdf p.1
+vigente,discover_paraguay,P0045,Geraldine Dessiree Person Resquin,fisica,9.92,9.9174,calculado sobre votos de las filas del mismo corte,2026-01-22,REGISTRO ACCIONISTAS-PAG 14.pdf p.1
+vigente,discover_paraguay,P0003,Federico Miguel Vazquez Villasanti,fisica,0.41,0.4132,calculado sobre votos de las filas del mismo corte,2026-01-22,REGISTRO ACCIONISTAS-PAG 14.pdf p.1
+vigente,factopar,P0098,Carlos De Cominges San Martin,fisica,50.0,50.0,calculado sobre votos de las filas del mismo corte,2025-05-01,Constancia RA 2025 Simple.pdf p.1
+vigente,factopar,P0212,Kemly Ayesa Yambay Vallejo,fisica,50.0,50.0,calculado sobre votos de las filas del mismo corte,2025-05-01,Constancia RA 2025 Simple.pdf p.1
+vigente,fideicomiso_shopping_costanera,terravaz,Terravaz S.A. Emisora,juridica,,,igual a % de capital (sin dato de votos),2019-01,contratodefideicomisoshoppingcostanera21012019091525.pdf p.1
+vigente,fideicomiso_shopping_costanera,P0048,Horacio Jose Biga,fisica,80.0,80.0,igual a % de capital (sin dato de votos),2019-01,contratodefideicomisoshoppingcostanera21012019091525.pdf p.1
+vigente,fideicomiso_shopping_costanera,P0037,Carlos Emilio Soler,fisica,20.0,20.0,igual a % de capital (sin dato de votos),2019-01,contratodefideicomisoshoppingcostanera21012019091525.pdf p.1
+vigente,fintux,itti,ITTI S.A.E.C.A.,juridica,30.0,44.6903,calculado sobre votos de las filas del mismo corte,2026-11-05,Constancia EAS 2026 2.pdf p.1
+vigente,fintux,P0149,Francisco Abel Ledezma Matto,fisica,20.0,27.6549,calculado sobre votos de las filas del mismo corte,2026-11-05,Constancia EAS 2026 2.pdf p.1
+vigente,fintux,P0159,Giselle Corina Ramirez Rojas,fisica,20.0,27.6549,calculado sobre votos de las filas del mismo corte,2026-11-05,Constancia EAS 2026 2.pdf p.1
+vigente,franede,P0059,Mauro Vargas Wildberger,fisica,99.62,100.0,calculado sobre votos de las filas del mismo corte,2026-04-23,ACTA ORDINARIA NRO 78.pdf p.1
+vigente,galadriel,P0081,Antonio Ignacio Villa Berkemeyer,fisica,90.0,90.0,calculado sobre votos de las filas del mismo corte,2026-02-23,Constancia de RA 2026 (2).pdf p.1
+vigente,galadriel,P0178,Jorge David Peralta Sosa,fisica,10.0,10.0,calculado sobre votos de las filas del mismo corte,2026-02-23,Constancia de RA 2026 (2).pdf p.1
+vigente,grupo_berilo,EXT:13 DE AGOSTO,13 De Agosto,juridica,51.0,51.0,calculado sobre votos de las filas del mismo corte,2026-04-27,Libro de Registro de Accionistas.pdf p.1
+vigente,grupo_berilo,EXT:SUNLIT,Sunlit,juridica,48.96,48.9571,calculado sobre votos de las filas del mismo corte,2026-04-27,Libro de Registro de Accionistas.pdf p.1
+vigente,grupo_berilo,P0317,Victor Andres Bogarin Ocampos,fisica,0.0429,0.0429,calculado sobre votos de las filas del mismo corte,2026-04-27,Libro de Registro de Accionistas.pdf p.1
+vigente,grupo_hendy,P0066,Vanessa Esther Godoy Ayala,fisica,90.0,90.0,calculado sobre votos de las filas del mismo corte,2026-04-13,ACTA ORDINARIA NRO 21.pdf p.1
+vigente,grupo_hendy,P0015,Oscar Luis Urdapilleta Garcia,fisica,10.0,10.0,calculado sobre votos de las filas del mismo corte,2026-04-13,ACTA ORDINARIA NRO 21.pdf p.1
+vigente,grupo_m,P0015,Oscar Luis Urdapilleta Garcia,fisica,90.0,90.0,calculado sobre votos de las filas del mismo corte,2026-04-13,ACTA ORDINARIA NRO 21.pdf p.1
+vigente,grupo_m,P0030,Diego Sebastian Gomez Arce,fisica,10.0,10.0,calculado sobre votos de las filas del mismo corte,2026-04-13,ACTA ORDINARIA NRO 21.pdf p.1
+vigente,grupo_vazquez,P0003,Federico Miguel Vazquez Villasanti,fisica,75.94,94.0173,calculado sobre votos de las filas del mismo corte,2026-03-27,Libro de registro de accionistas.pdf p.25
+vigente,grupo_vazquez,P0004,Guillermo Vazquez Muniagurria,fisica,8.02,1.9942,calculado sobre votos de las filas del mismo corte,2026-03-27,Libro de registro de accionistas.pdf p.25
+vigente,grupo_vazquez,P0019,Adriana Vazquez Muniagurria,fisica,8.02,1.9942,calculado sobre votos de las filas del mismo corte,2026-03-27,Libro de registro de accionistas.pdf p.25
+vigente,grupo_vazquez,P0286,Rebeca Elizabeth Villasanti Farina,fisica,8.02,1.9942,calculado sobre votos de las filas del mismo corte,2026-03-27,Libro de registro de accionistas.pdf p.25
+vigente,gsr,P0050,Jose Augusto Sala Cardozo,fisica,50.0,50.0,calculado sobre votos de las filas del mismo corte,2026-04-06,Constancia de RA 2026.pdf p.1
+vigente,gsr,P0292,Rodrigo Miguel Ruiz Gimenez,fisica,50.0,50.0,calculado sobre votos de las filas del mismo corte,2026-04-06,Constancia de RA 2026.pdf p.1
+vigente,hanoi,itti,ITTI S.A.E.C.A.,juridica,72.76,72.76,calculado sobre votos de las filas del mismo corte,2026-08-25,REGISTRO ACCIONISTAS-HOJA 11.pdf p.1
+vigente,hanoi,EXT:MARKHEL,Markhel,juridica,27.24,27.24,calculado sobre votos de las filas del mismo corte,2026-08-25,REGISTRO ACCIONISTAS-HOJA 11.pdf p.1
+vigente,hd_invest,P0209,Karim Hamza Damani Chaparro,fisica,100.0,100.0,calculado sobre votos de las filas del mismo corte,2023-05-29,Proforma EAS.pdf p.5
+vigente,idl,itti,ITTI S.A.E.C.A.,juridica,99.23,99.2308,calculado sobre votos de las filas del mismo corte,2026-04-06,ACTA ORDINARIA NRO 17.pdf p.1
+vigente,idl,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,0.77,0.7692,calculado sobre votos de las filas del mismo corte,2026-04-06,ACTA ORDINARIA NRO 17.pdf p.1
+vigente,inter_express,kostas_viajes,Kostas Viajes y Turismo S.R.L.,juridica,99.98,99.98,calculado sobre votos de las filas del mismo corte,2026-04-22,REGISTRO ACCIONISTAS PAG 6.pdf p.1
+vigente,inter_express,itti,ITTI S.A.E.C.A.,juridica,0.02,0.02,calculado sobre votos de las filas del mismo corte,2026-04-22,REGISTRO ACCIONISTAS PAG 6.pdf p.1
+vigente,intertours,EXT:MATCH,Match,juridica,30.0,30.0,calculado sobre votos de las filas del mismo corte,2025-09-24,ACTA DIRECTORIO NRO 109.pdf p.4
+vigente,intertours,itti,ITTI S.A.E.C.A.,juridica,70.0,70.0,calculado sobre votos de las filas del mismo corte,2026-07-22,CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf p.1
+vigente,itti,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,77.4584,90.97,Calculado: 150.000 OVM×5 + 160.764 OVS = 910.764 de 1.001.201 votos (registro 02/10/2026),2026-10-02,REGISTRO ACCIONISTAS FOLIO 5.pdf p.2
+vigente,itti,ueno_bank,Ueno Bank S.A.,juridica,16.9491,6.79,Calculado: 68.000 OVS de 1.001.201 votos,2026-10-02,REGISTRO ACCIONISTAS FOLIO 5.pdf p.2
+vigente,itti,ueno_seguros,Ueno Seguros S.A.,juridica,3.0307,1.21,Calculado: 12.159 OVS de 1.001.201 votos,2026-10-02,REGISTRO ACCIONISTAS FOLIO 5.pdf p.2
+vigente,itti,EXT:BUSINESS Y FINANCIAL GROUP,Business Y Financial Group,juridica,2.5618,2.5618,igual a % de capital (sin dato de votos),2026-10-02,REGISTRO ACCIONISTAS FOLIO 5.pdf p.2
+vigente,kaitel,EXT:WOM77,Wom77,juridica,98.0,98.0,igual a % de capital (sin dato de votos),2025-03-25,KAITEL SRL-SIARA-REV/ESCRITURA MODIFICACION NRO 44.pdf p.8
+vigente,kaitel,idl,Impresión Distribución y Logística S.A.,juridica,2.0,2.0,igual a % de capital (sin dato de votos),2025-03-25,KAITEL SRL-SIARA-REV/ESCRITURA MODIFICACION NRO 44.pdf p.8
+vigente,kasas_propiedades,EXT:SKY LINK,Sky Link,juridica,38.0,50.0,calculado sobre votos de las filas del mismo corte,2026-03-10,Libro de Registro de Accionistas.pdf p.1
+vigente,kasas_propiedades,P0177,Joaquin Pagan,fisica,38.0,50.0,calculado sobre votos de las filas del mismo corte,2026-03-10,Libro de Registro de Accionistas.pdf p.1
+vigente,kasas_propiedades,P0312,Tito Lorenzo Benitez Camaraza,fisica,12.0,0.0,calculado sobre votos de las filas del mismo corte,2026-03-10,Libro de Registro de Accionistas.pdf p.1
+vigente,kasas_propiedades,P0272,Patricia Andrea Barboza Farina,fisica,6.0,0.0,calculado sobre votos de las filas del mismo corte,2026-03-10,Libro de Registro de Accionistas.pdf p.1
+vigente,kasas_propiedades,P0276,Pedro Mazurek Yuk,fisica,6.0,0.0,calculado sobre votos de las filas del mismo corte,2026-03-10,Libro de Registro de Accionistas.pdf p.1
+vigente,kostas_viajes,itti,ITTI S.A.E.C.A.,juridica,98.94,98.9403,calculado sobre votos de las filas del mismo corte,2026-05-07,ESCRITURA MODIFICION NRO 301.pdf p.15
+vigente,kostas_viajes,discover_paraguay,Discover Paraguay S.A.,juridica,1.06,1.0597,calculado sobre votos de las filas del mismo corte,2026-05-07,ESCRITURA MODIFICION NRO 301.pdf p.15
+vigente,la_tropa_fletes,P0096,Carlos Damian Gauto Paredes,fisica,65.0,65.0,calculado sobre votos de las filas del mismo corte,2021-11-11,Proforma EAS.pdf p.5
+vigente,la_tropa_fletes,P0164,Guillermo Damian Gauto Skaf,fisica,35.0,35.0,calculado sobre votos de las filas del mismo corte,2021-11-11,Proforma EAS.pdf p.6
+vigente,mowi,P0018,Sergio Amado Pizurno Szaran,fisica,90.0,90.0,calculado sobre votos de las filas del mismo corte,2026-04-28,ACTA ORDINARIA NRO 6.pdf p.1
+vigente,mowi,P0050,Jose Augusto Sala Cardozo,fisica,10.0,10.0,calculado sobre votos de las filas del mismo corte,2026-04-28,ACTA ORDINARIA NRO 6.pdf p.1
+vigente,nubicom_paraguay,EXT:NUBICOM,Nubicom,juridica,99.32,99.32,igual a % de capital (sin dato de votos),2026-06-27,Libro de Registro de Accionistas.pdf p.1
+vigente,nubicom_paraguay,P0139,Emanuel Eduardo Salinas,fisica,0.68,0.68,igual a % de capital (sin dato de votos),2026-06-27,Libro de Registro de Accionistas.pdf p.1
+vigente,office_design,P0025,Monica Leticia Gadea Gomez De La Fuente,fisica,95.0,95.0,igual a % de capital (sin dato de votos),2025-10-30,Escritura Públcia N° 190.pdf p.10
+vigente,office_design,P0044,Enrique Javier Vera Moreira,fisica,5.0,5.0,igual a % de capital (sin dato de votos),2025-10-30,Escritura Públcia N° 190.pdf p.10
+vigente,oniria,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,60.0,60.0,calculado sobre votos de las filas del mismo corte,2025-01-03,REGISTRO ACCIONISTAS.pdf p.4
+vigente,oniria,P0036,Camilo Jose Guanes Mersan,fisica,30.0,30.0,calculado sobre votos de las filas del mismo corte,2026-04-28,ACTA ORDINARIA NRO 31.pdf p.1
+vigente,oniria,P0042,Daniel Achaval Barousse,fisica,10.0,10.0,calculado sobre votos de las filas del mismo corte,2026-04-28,ACTA ORDINARIA NRO 31.pdf p.1
+vigente,place_analyzer,itti,ITTI S.A.E.C.A.,juridica,60.0,60.0,calculado sobre votos de las filas del mismo corte,2026-04-14,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.1
+vigente,place_analyzer,P0166,Gustavo Enrique Mayeregger Varela,fisica,32.0,32.0,calculado sobre votos de las filas del mismo corte,2026-04-14,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.1
+vigente,place_analyzer,P0144,Federico Hernan Vargas Pena Gill,fisica,8.0,8.0,calculado sobre votos de las filas del mismo corte,2026-04-14,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf p.1
+vigente,redipro,u_paraguay,U Paraguay S.A.,juridica,50.94,100.0,Registro 02/10/2026: U Paraguay 100% de los votos (Ueno Bank sólo preferidas),2026-10-02,REGISTRO ACCIONISTAS 02-10-2026.pdf p.1
+vigente,redipro,ueno_bank,Ueno Bank S.A.,juridica,49.06,0.0,Preferidas sin voto,2026-10-02,REGISTRO ACCIONISTAS 02-10-2026.pdf p.1
+vigente,redisa,u_paraguay,U Paraguay S.A.,juridica,27.88,99.99,Registro: 9.131 OVS de 9.132 votos; preferidas sin voto; % capital documentado (CAP_DOC),2026-01-26; 2026-05-29,Constancia R.A..pdf p.1; REGISTRO ACCIONISTAS.pdf p.11
+vigente,redisa,ueno_bank,Ueno Bank S.A.,juridica,72.12,0.01,1 OVS; 23.623 preferidas sin voto; % capital documentado (CAP_DOC),2026-01-26; 2026-05-29,Constancia R.A..pdf p.1; REGISTRO ACCIONISTAS.pdf p.10
+vigente,red_uts_paraguay,itti,ITTI S.A.E.C.A.,juridica,40.2332,40.2332,calculado sobre votos de las filas del mismo corte,2026-01-21,RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf p.1
+vigente,red_uts_paraguay,P0247,Monica Gabriela Masulli Barcarolo,fisica,20.1166,20.1166,calculado sobre votos de las filas del mismo corte,2026-01-21,RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf p.1
+vigente,red_uts_paraguay,P0049,Jack Samy Fleischman Benathan,fisica,19.8251,19.8251,calculado sobre votos de las filas del mismo corte,2026-01-21,RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf p.1
+vigente,red_uts_paraguay,P0029,Andre Gayol Pires,fisica,19.8251,19.8251,calculado sobre votos de las filas del mismo corte,2026-01-21,RED UTS SA/REGISTRO ACCIONISTAS FOLIO 2.pdf p.1
+vigente,satec,P0236,Maria Elena Matsumiya De Endo,fisica,29.0,29.0,calculado sobre votos de las filas del mismo corte,2026-10-08,Registro de accionistas.pdf p.1
+vigente,satec,P0210,Katsuhiko Victor Maehara Ueda,fisica,29.0,29.0,calculado sobre votos de las filas del mismo corte,2026-10-08,Registro de accionistas.pdf p.1
+vigente,satec,P0211,Kazuki Endo,fisica,29.0,29.0,calculado sobre votos de las filas del mismo corte,2026-10-08,Registro de accionistas.pdf p.1
+vigente,satec,P0173,Ignacio Constantino Florentin Mendoza,fisica,3.0,3.0,calculado sobre votos de las filas del mismo corte,2026-10-08,Registro de accionistas.pdf p.1
+vigente,satec,P0253,Nestor Diaz Caceres,fisica,3.0,3.0,calculado sobre votos de las filas del mismo corte,2026-10-08,Registro de accionistas.pdf p.1
+vigente,satec,P0088,Blanca Britez De Nara,fisica,3.0,3.0,calculado sobre votos de las filas del mismo corte,2026-10-08,Registro de accionistas.pdf p.1
+vigente,satec,P0190,Jose Ignacio Caballero,fisica,1.5,1.5,calculado sobre votos de las filas del mismo corte,2026-10-08,Registro de accionistas.pdf p.1
+vigente,satec,P0138,Elias Valiente Villalba,fisica,1.5,1.5,calculado sobre votos de las filas del mismo corte,2026-10-08,Registro de accionistas.pdf p.1
+vigente,satec,P0304,Santiago Weiler Gustafson,fisica,1.0,1.0,calculado sobre votos de las filas del mismo corte,2026-10-08,Registro de accionistas.pdf p.1
+vigente,solucion_efectiva,P0181,Jorge Javier Achon Fornells,fisica,35.23,34.7546,calculado sobre votos de las filas del mismo corte,2025-05-05,Constancia RA 2025 Simple.pdf p.1
+vigente,solucion_efectiva,EXT:ELECTROBAN,Electroban,juridica,27.56,28.6063,calculado sobre votos de las filas del mismo corte,2025-05-05,Constancia RA 2025 Simple.pdf p.1
+vigente,solucion_efectiva,EXT:MTA,Mta,juridica,17.12,17.0094,calculado sobre votos de las filas del mismo corte,2025-05-05,Constancia RA 2025 Simple.pdf p.1
+vigente,solucion_efectiva,P0051,Jose Nicolas Rivarola Oneto,fisica,11.98,11.6757,calculado sobre votos de las filas del mismo corte,2025-05-05,Constancia RA 2025 Simple.pdf p.1
+vigente,solucion_efectiva,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,8.1,7.954,calculado sobre votos de las filas del mismo corte,2025-05-05,Constancia RA 2025 Simple.pdf p.1
+vigente,technoma,P0044,Enrique Javier Vera Moreira,fisica,23.325,51.8333,calculado sobre votos de las filas del mismo corte,2026-05-20,Registro de Accionistas.pdf p.1
+vigente,technoma,P0018,Sergio Amado Pizurno Szaran,fisica,21.675,48.1667,calculado sobre votos de las filas del mismo corte,2026-05-20,Registro de Accionistas.pdf p.1
+vigente,technoma,P0277,Pedro Pablo Servin Barreto,fisica,3.25,0.0,calculado sobre votos de las filas del mismo corte,2026-05-20,Registro de Accionistas.pdf p.3
+vigente,terravaz,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,97.33,98.3562,calculado sobre votos de las filas del mismo corte,2026-04-17,ACTA ORDINARIA NRO 21.pdf p.1
+vigente,terravaz,P0307,Sergio Miguel Studenko Urusoff,fisica,1.33,0.8219,calculado sobre votos de las filas del mismo corte,2025-08-04,REGISTRO ACCIONISTAS.pdf p.1
+vigente,terravaz,EXT:RUMANI,Rumani,juridica,1.33,0.8219,calculado sobre votos de las filas del mismo corte,2025-08-04,REGISTRO ACCIONISTAS.pdf p.1
+vigente,tiva,itti,ITTI S.A.E.C.A.,juridica,60.0,60.0,calculado sobre votos de las filas del mismo corte,2025-12-10,Constancia RA 2025 1.pdf p.1
+vigente,tiva,P0319,Victor Eduardo Cartes Leon,fisica,26.0,26.0,calculado sobre votos de las filas del mismo corte,2025-12-10,Constancia RA 2025 1.pdf p.1
+vigente,tiva,P0234,Maria Belen Serra De Cartes,fisica,10.0,10.0,calculado sobre votos de las filas del mismo corte,2025-12-10,Constancia RA 2025 1.pdf p.1
+vigente,tiva,P0104,Carlos Rodriguez Alcala Villagra,fisica,4.0,4.0,calculado sobre votos de las filas del mismo corte,2025-12-10,Constancia RA 2025 1.pdf p.1
+vigente,tuiu,P0056,Luis Fernando Rios Espinola,fisica,50.0,83.3333,calculado sobre votos de las filas del mismo corte,2026-08-26,ACTA ORDINARIA NRO 7.pdf p.1
+vigente,tuiu,P0029,Andre Gayol Pires,fisica,50.0,16.6667,calculado sobre votos de las filas del mismo corte,2026-08-26,ACTA ORDINARIA NRO 7.pdf p.1
+vigente,ueno_holdings_sarl,P0003,Federico Miguel Vazquez Villasanti,declarado,,,control declarado: BF declarado (condición E: control o cadena de titularidad) en el listado BF de Redipro (2026-10): Federico M. Vázquez Villasanti controla a través de U Holdings S.à r.l.; la composición de U Holdings no consta,,BF declarado (condición E: control o cadena de titularidad) en el listado BF de Redipro (2026-10): Federico M. Vázquez Villasanti controla a través de U Holdings S.à r.l.; la composición de U Holdings no consta
+vigente,u_paraguay,ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,juridica,97.993,97.993,calculado sobre votos de las filas del mismo corte,2026-09-25,REGISTRO ACCIONISTAS 25-09-2026.pdf p.1
+vigente,u_paraguay,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,2.0071,2.0069,calculado sobre votos de las filas del mismo corte,2026-09-25,REGISTRO ACCIONISTAS 25-09-2026.pdf p.1
+vigente,u_paraguay,P0003,Federico Miguel Vazquez Villasanti,fisica,0.0001,0.0001,calculado sobre votos de las filas del mismo corte,2026-09-25,REGISTRO ACCIONISTAS 25-09-2026.pdf p.1
+vigente,ueno_afpi,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,juridica,99.9736,99.9736,calculado sobre votos de las filas del mismo corte,2026-02-06,ACTA ORDINARIA NRO 8.pdf p.1
+vigente,ueno_afpi,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,0.0264,0.0264,calculado sobre votos de las filas del mismo corte,2026-02-06,ACTA ORDINARIA NRO 8.pdf p.1
+vigente,ueno_bank,u_paraguay,U Paraguay S.A.,juridica,93.08,98.7,"Acta Asamblea N° 99 (13/07/2026): U Paraguay 98,70% de los votos",2026-07-13,ACTA DE ASAMBLEA.pdf p.1
+vigente,ueno_bank,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,1.96,0.08,"Acta N° 99: Grupo Vázquez 0,08% de los votos",2026-07-13,ACTA DE ASAMBLEA.pdf p.1
+vigente,ueno_bank,EXT:AGRICOLA S A DE SEGUROS,Agricola S A De Seguros,juridica,0.05,0.05,igual a % de capital (sin dato de votos),2026-07-13,ACTA DE ASAMBLEA.pdf p.1
+vigente,ueno_bank,P0296,Romildo Andres Laconich Romero,fisica,0.12,0.12,igual a % de capital (sin dato de votos),2026-07-13,ACTA DE ASAMBLEA.pdf p.1
+vigente,ueno_bank,EXT:TRIODOS SICAV II,Triodos Sicav Ii,juridica,,,igual a % de capital (sin dato de votos),2026-07-27,REGISTRO DE ACCIONISTAS (2).pdf p.
+vigente,ueno_bank,EXT:OIKOCREDIT ECUMENICAL DEVELOPMENT COOPERATIVE,Oikocredit Ecumenical Development Cooperative,juridica,,,igual a % de capital (sin dato de votos),2026-07-27,REGISTRO DE ACCIONISTAS (2).pdf p.
+vigente,ueno_bank,P0060,Osmar Alberto Coronel Cabrera,fisica,,,igual a % de capital (sin dato de votos),2026-07-27,REGISTRO DE ACCIONISTAS (2).pdf p.
+vigente,ueno_bank,EXT:CAJA MUTUAL DE COOPERATIVISTAS DEL PARAGUAY,Caja Mutual De Cooperativistas Del Paraguay,juridica,,,igual a % de capital (sin dato de votos),2026-07-27,REGISTRO DE ACCIONISTAS (2).pdf p.
+vigente,ueno_bank,P0089,Blanca Diana Vazquez Santacruz,fisica,,,igual a % de capital (sin dato de votos),2026-07-27,REGISTRO DE ACCIONISTAS (2).pdf p.
+vigente,ueno_casa_de_bolsa,u_paraguay,U Paraguay S.A.,juridica,99.99,99.9918,calculado sobre votos de las filas del mismo corte,2026-02-06,ACTA ORDINARIA NRO 10.pdf p.1
+vigente,ueno_casa_de_bolsa,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,0.01,0.0082,calculado sobre votos de las filas del mismo corte,2026-02-06,ACTA ORDINARIA NRO 10.pdf p.1
+vigente,ueno_seguros,u_paraguay,U Paraguay S.A.,juridica,82.0449,90.58,"Calculado: 5.648 OVS + 55.135 OVM×5 sobre 310.593 votos (OVM 5 votos, Art. 9)",2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,ueno_seguros,P0259,Nicolas Tolentino Sarubbi Zayas,fisica,8.8506,8.8506,igual a % de capital (sin dato de votos),2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,ueno_seguros,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,5.3884,6.43,Calculado: 3.992 OVM×5 sobre 310.593 votos,2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,ueno_seguros,P0233,Maria America Caballero De Sarubbi,fisica,0.9881,0.9881,igual a % de capital (sin dato de votos),2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,ueno_seguros,P0184,Jorge Ricardo Sarubbi Caballero,fisica,0.8085,0.8085,igual a % de capital (sin dato de votos),2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,ueno_seguros,P0191,Jose Javier Sarubbi Caballero,fisica,0.764,0.764,igual a % de capital (sin dato de votos),2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,ueno_seguros,P0168,Hector Manuel Sarubbi Caballero,fisica,0.7248,0.7248,igual a % de capital (sin dato de votos),2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,ueno_seguros,P0241,Martin Marcelo Sarubbi Caballero,fisica,0.193,0.193,igual a % de capital (sin dato de votos),2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,ueno_seguros,P0295,Romilda Concepcion Nunes De Levi,fisica,0.1566,0.1566,igual a % de capital (sin dato de votos),2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,ueno_seguros,P0279,Ramira Almada Colman,fisica,0.058,0.058,igual a % de capital (sin dato de votos),2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,ueno_seguros,P0157,Gerardo Valiente Veron,fisica,0.0229,0.0229,igual a % de capital (sin dato de votos),2025-12-31,Registro de accionistas.pdf p.1-2
+vigente,v_media,P0046,Gloria Elizabeth Villasanti Farinha,fisica,99.9,99.9,calculado sobre votos de las filas del mismo corte,2026-03-23,REGISTRO DE ACCIONISTAS.pdf p.1
+vigente,v_media,cbs,CBS S.A.,juridica,0.1,0.1,calculado sobre votos de las filas del mismo corte,2026-03-23,REGISTRO DE ACCIONISTAS.pdf p.1
+vigente,villa_oliva_rice,EXT:CAMILATAM,Camilatam,juridica,99.9472,99.9472,calculado sobre votos de las filas del mismo corte,2025-11-25,Registro de accionistas.pdf p.1
+vigente,villa_oliva_rice,EXT:SAMAN,Saman,juridica,0.0528,0.0528,calculado sobre votos de las filas del mismo corte,2025-11-25,Registro de accionistas.pdf p.1
+vigente,vinanzas,itti,ITTI S.A.E.C.A.,juridica,49.73,49.7278,calculado sobre votos de las filas del mismo corte,2026-08-17,ACTA ORDINARIA NRO 2.pdf p.1
+vigente,vinanzas,EXT:IOIO,Ioio,juridica,37.93,37.931,calculado sobre votos de las filas del mismo corte,2026-05-18,REGISTRO ACCIONISTAS.pdf p.1
+vigente,vinanzas,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,12.34,12.3412,calculado sobre votos de las filas del mismo corte,2026-08-17,ACTA ORDINARIA NRO 2.pdf p.1
+vigente,EXT:WOM77,itti,ITTI S.A.E.C.A.,declarado,,,control declarado: BF de Kaitel (04/07/2025): cadena WOM 77 S.A. – ITTI S.A.E.C.A. – Grupo Vázquez; WOM 77 preside César Astigarraga,,BF de Kaitel (04/07/2025): cadena WOM 77 S.A. – ITTI S.A.E.C.A. – Grupo Vázquez; WOM 77 preside César Astigarraga
+2024,23_sports_marketing,EXT:BALLOON,Balloon,juridica,27.0,27.0,calculado sobre votos de las filas del mismo corte,2018-05-16,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17
+2024,23_sports_marketing,P0152,Francisco Martin Lettieri,fisica,27.0,27.0,calculado sobre votos de las filas del mismo corte,2018-05-16,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17
+2024,23_sports_marketing,P0036,Camilo Jose Guanes Mersan,fisica,27.0,27.0,calculado sobre votos de las filas del mismo corte,2018-05-16,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17
+2024,23_sports_marketing,P0288,Ricardo Matias Arias Etchegaray,fisica,19.0,19.0,calculado sobre votos de las filas del mismo corte,2018-05-16,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf p.17
+2024,cbs,P0203,Julio Cesar Garcete Funes,fisica,25.0,25.0,calculado sobre votos de las filas del mismo corte,2005-02-08,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14
+2024,cbs,P0140,Emilio Victor Andres Peralta Duarte,fisica,25.0,25.0,calculado sobre votos de las filas del mismo corte,2005-02-08,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14
+2024,cbs,P0269,Ovidio Cesar Jara Florentin,fisica,25.0,25.0,calculado sobre votos de las filas del mismo corte,2005-02-08,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14
+2024,cbs,P0179,Jorge Duilio Benitez Estigarribia,fisica,25.0,25.0,calculado sobre votos de las filas del mismo corte,2005-02-08,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf p.14
+2024,comdetur,P0227,Luis Fernando Canillas Vallejo,fisica,50.0,50.0,calculado sobre votos de las filas del mismo corte,1986-07-03,ESCRITURA MODIFICACION NRO 49.pdf p.1
+2024,comdetur,P0110,Celso Oscar Alonso Balbuena,fisica,50.0,50.0,calculado sobre votos de las filas del mismo corte,1986-07-03,ESCRITURA MODIFICACION NRO 49.pdf p.1
+2024,discover_paraguay,itti,ITTI S.A.E.C.A.,juridica,74.79,74.79,reconstrucción 2024: Suscripción ITTI 19/02/2024,<=2024,Suscripción ITTI 19/02/2024
+2024,factopar,P0098,Carlos De Cominges San Martin,fisica,50.0,50.0,calculado sobre votos de las filas del mismo corte,2017-05-24,Constancia inscripción 2026/Escritura constitución.pdf p.13
+2024,factopar,P0212,Kemly Ayesa Yambay Vallejo,fisica,50.0,50.0,calculado sobre votos de las filas del mismo corte,2017-05-24,Constancia inscripción 2026/Escritura constitución.pdf p.13
+2024,fideicomiso_shopping_costanera,terravaz,Terravaz S.A. Emisora,juridica,,,igual a % de capital (sin dato de votos),2019-01,contratodefideicomisoshoppingcostanera21012019091525.pdf p.1
+2024,fideicomiso_shopping_costanera,P0048,Horacio Jose Biga,fisica,80.0,80.0,igual a % de capital (sin dato de votos),2019-01,contratodefideicomisoshoppingcostanera21012019091525.pdf p.1
+2024,fideicomiso_shopping_costanera,P0037,Carlos Emilio Soler,fisica,20.0,20.0,igual a % de capital (sin dato de votos),2019-01,contratodefideicomisoshoppingcostanera21012019091525.pdf p.1
+2024,franede,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,99.62,99.62,reconstrucción 2024: Registro folio 2: GV 2.618 acciones hasta la transferencia a Mauro Vargas (30/06/2025); fecha de ingreso de GV no documentada,<=2024,Registro folio 2: GV 2.618 acciones hasta la transferencia a Mauro Vargas (30/06/2025); fecha de ingreso de GV no documentada
+2024,grupo_berilo,EXT:SUNLIT,Sunlit,juridica,35.0,35.0,calculado sobre votos de las filas del mismo corte,2021-06-28,Escritura Pública N° 36.pdf p.18-19
+2024,grupo_berilo,P0117,Cristian Marcos Tigero,fisica,35.0,35.0,calculado sobre votos de las filas del mismo corte,2021-06-28,Escritura Pública N° 36.pdf p.19
+2024,grupo_berilo,P0317,Victor Andres Bogarin Ocampos,fisica,15.0,15.0,calculado sobre votos de las filas del mismo corte,2021-06-28,Escritura Pública N° 36.pdf p.19
+2024,grupo_berilo,P0084,Ariel Fernando Elizeche Escobar,fisica,15.0,15.0,calculado sobre votos de las filas del mismo corte,2021-06-28,Escritura Pública N° 36.pdf p.19
+2024,grupo_hendy,itti,ITTI S.A.E.C.A.,juridica,99.04,99.04,reconstrucción 2024: Registro: 1.951 acciones de ITTI hasta 30/09/2025,<=2024,Registro: 1.951 acciones de ITTI hasta 30/09/2025
+2024,grupo_hendy,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,0.96,0.96,reconstrucción 2024: 19 acciones hasta 30/09/2025,<=2024,19 acciones hasta 30/09/2025
+2024,grupo_m,itti,ITTI S.A.E.C.A.,juridica,99.02,99.02,reconstrucción 2024: Registro: acciones 1-1624 de ITTI hasta la venta del 30/09/2025,<=2024,Registro: acciones 1-1624 de ITTI hasta la venta del 30/09/2025
+2024,grupo_m,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,0.98,0.98,reconstrucción 2024: Acciones 1625-1640 hasta 30/09/2025,<=2024,Acciones 1625-1640 hasta 30/09/2025
+2024,grupo_vazquez,P0003,Federico Miguel Vazquez Villasanti,otro,,,reconstrucción 2024: Constancias BF de Tiva (23/01/2025) y Kaitel (04/07/2025): Federico M. Vázquez V. 'accionista mayoritario en Grupo Vázquez'; registro de GV sólo disponible a 27/03/2026,<=2024,Constancias BF de Tiva (23/01/2025) y Kaitel (04/07/2025): Federico M. Vázquez V. 'accionista mayoritario en Grupo Vázquez'; registro de GV sólo disponible a 27/03/2026
+2024,gsr,P0205,Julio Esteban Jose Martinez Appleyard,fisica,50.0,50.0,calculado sobre votos de las filas del mismo corte,2023-02-20,Proforma de Estatuto EAS.pdf p.5
+2024,gsr,P0128,Eduardo Daniel Aguero,fisica,50.0,50.0,calculado sobre votos de las filas del mismo corte,2023-02-20,Proforma de Estatuto EAS.pdf p.5
+2024,hanoi,itti,ITTI S.A.E.C.A.,juridica,72.76,72.76,reconstrucción 2024: Registro: acciones a nombre de ITTI desde 14/03/2024,<=2024,Registro: acciones a nombre de ITTI desde 14/03/2024
+2024,hd_invest,P0209,Karim Hamza Damani Chaparro,fisica,100.0,100.0,calculado sobre votos de las filas del mismo corte,2023-05-29,Proforma EAS.pdf p.5
+2024,idl,itti,ITTI S.A.E.C.A.,juridica,99.23,99.23,reconstrucción 2024: Registro: títulos suscritos 2021-2022 (J. Fleischman fusionada en ITTI),<=2024,Registro: títulos suscritos 2021-2022 (J. Fleischman fusionada en ITTI)
+2024,idl,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,0.77,0.77,reconstrucción 2024: Registro 2021-2022,<=2024,Registro 2021-2022
+2024,intertours,P0246,Miguel Angel Martin Del Castillo,fisica,75.0,75.0,calculado sobre votos de las filas del mismo corte,2019-11-25,ESCRITURA MODIFICACION NRO 321.pdf p.11
+2024,intertours,P0251,Nelson Arnaldo Ferreira Prieto,fisica,25.0,25.0,calculado sobre votos de las filas del mismo corte,2019-11-25,ESCRITURA MODIFICACION NRO 321.pdf p.11
+2024,itti,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,94.41,94.4,reconstrucción 2024: Registro folio 8 (02/01/2026) refleja tenencia de GV previa a 2025; Asamblea N° 39 (12/05/2025),<=2024,Registro folio 8 (02/01/2026) refleja tenencia de GV previa a 2025; Asamblea N° 39 (12/05/2025)
+2024,itti,ueno_seguros,Ueno Seguros S.A.,juridica,3.03,1.0,reconstrucción 2024: Títulos comprados a GV el 23/03/2023,<=2024,Títulos comprados a GV el 23/03/2023
+2024,kaitel,"Carlos F. Impagliatelli Bareiro y Vanessa E. Godoy Ayala (50 cuotas, reparto no indicado)","Carlos F. Impagliatelli Bareiro y Vanessa E. Godoy Ayala (50 cuotas, reparto no indicado)",otro,,,reconstrucción 2024: Socios hasta la cesión a WOM77/IDL del 25/03/2025,<=2024,Socios hasta la cesión a WOM77/IDL del 25/03/2025
+2024,kostas_viajes,PX:CARLOS ELISEO VELAZQUEZ VALIENTE FALLECIDO SUCESION,PX:CARLOS ELISEO VELAZQUEZ VALIENTE FALLECIDO SUCESION,fisica,50.0,50.0,igual a % de capital (sin dato de votos),2024-12-23,ESCRITURA MODIFICION NRO 301.pdf p.11
+2024,la_tropa_fletes,P0096,Carlos Damian Gauto Paredes,fisica,65.0,65.0,calculado sobre votos de las filas del mismo corte,2021-11-11,Proforma EAS.pdf p.5
+2024,la_tropa_fletes,P0164,Guillermo Damian Gauto Skaf,fisica,35.0,35.0,calculado sobre votos de las filas del mismo corte,2021-11-11,Proforma EAS.pdf p.6
+2024,mowi,itti,ITTI S.A.E.C.A.,juridica,100.0,100.0,reconstrucción 2024: Registro: ITTI 8.000 acciones (compras a GV 29/12/2022 y a Ueno Holding 30/06/2023) hasta 19/05/2025,<=2024,Registro: ITTI 8.000 acciones (compras a GV 29/12/2022 y a Ueno Holding 30/06/2023) hasta 19/05/2025
+2024,office_design,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,,,reconstrucción 2024: Esc. 190 (30/10/2025): GV e ITTI ceden la totalidad de las cuotas; reparto ilegible (control conjunto GV/ITTI),<=2024,Esc. 190 (30/10/2025): GV e ITTI ceden la totalidad de las cuotas; reparto ilegible (control conjunto GV/ITTI)
+2024,office_design,itti,ITTI S.A.E.C.A.,juridica,,,reconstrucción 2024: Idem,<=2024,Idem
+2024,oniria,P0036,Camilo Jose Guanes Mersan,fisica,75.0,75.0,calculado sobre votos de las filas del mismo corte,2024-01-03,REGISTRO ACCIONISTAS.pdf p.1
+2024,oniria,P0042,Daniel Achaval Barousse,fisica,25.0,25.0,calculado sobre votos de las filas del mismo corte,2024-01-04,REGISTRO ACCIONISTAS.pdf p.1
+2024,place_analyzer,itti,ITTI S.A.E.C.A.,juridica,60.0,60.0,calculado sobre votos de las filas del mismo corte,2024-04-29,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.1
+2024,place_analyzer,P0166,Gustavo Enrique Mayeregger Varela,fisica,32.0,32.0,calculado sobre votos de las filas del mismo corte,2024-04-29,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.1
+2024,place_analyzer,P0144,Federico Hernan Vargas Pena Gill,fisica,8.0,8.0,calculado sobre votos de las filas del mismo corte,2024-04-29,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf p.1
+2024,redipro,itti,ITTI S.A.E.C.A.,juridica,,,"reconstrucción 2024: BF 26/06/2025: Federico M. Vázquez vía GV→ITTI–Ueno Holding (62,87% / 77,75% votos); reparto no documentado",<=2024,"BF 26/06/2025: Federico M. Vázquez vía GV→ITTI–Ueno Holding (62,87% / 77,75% votos); reparto no documentado"
+2024,redisa,itti,ITTI S.A.E.C.A.,juridica,99.99,99.99,reconstrucción 2024: Registro: cadena Financiera Ueno→Ueno Holding→ITTI (2023)→GV (30/06/2025)→U Paraguay,<=2024,Registro: cadena Financiera Ueno→Ueno Holding→ITTI (2023)→GV (30/06/2025)→U Paraguay
+2024,red_uts_paraguay,P0049,Jack Samy Fleischman Benathan,fisica,45.0,45.0,igual a % de capital (sin dato de votos),1998-09-17,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13
+2024,red_uts_paraguay,P0283,Raul Jose Gualberto Prono Tonanez,fisica,45.0,45.0,igual a % de capital (sin dato de votos),1998-09-17,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13
+2024,red_uts_paraguay,P0188,Jose Felix Bogado Tabacman,fisica,10.0,10.0,igual a % de capital (sin dato de votos),1998-09-17,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf p.13
+2024,satec,P0236,Maria Elena Matsumiya De Endo,fisica,33.4,33.4,calculado sobre votos de las filas del mismo corte,2022-05-04,Escritura 40 16-08-2022 modificación de estatutos.pdf p.5
+2024,satec,P0210,Katsuhiko Victor Maehara Ueda,fisica,33.3,33.3,calculado sobre votos de las filas del mismo corte,2022-05-04,Escritura 40 16-08-2022 modificación de estatutos.pdf p.5
+2024,satec,P0211,Kazuki Endo,fisica,33.3,33.3,calculado sobre votos de las filas del mismo corte,2022-05-04,Escritura 40 16-08-2022 modificación de estatutos.pdf p.5
+2024,solucion_efectiva,P0318,Victor Atilio Andres Varela Allegretti,fisica,,,igual a % de capital (sin dato de votos),2013-08-20,Constancia inscripción2018/Escritura 60 20-08-2013 Constitución de la sociedad.pdf p.1
+2024,solucion_efectiva,P0124,Diego Luis Varela Urrutia,fisica,,,igual a % de capital (sin dato de votos),2013-08-20,Constancia inscripción2018/Escritura 60 20-08-2013 Constitución de la sociedad.pdf p.1
+2024,solucion_efectiva,P0265,Oscar Enrique Diesel Junghanns,fisica,,,igual a % de capital (sin dato de votos),2013-08-20,Constancia inscripción2018/Escritura 60 20-08-2013 Constitución de la sociedad.pdf p.1
+2024,terravaz,P0163,Guido Martinez Lopez,fisica,,,igual a % de capital (sin dato de votos),2018-08-28,ESCRITURA CONSTITUCIÒN NRO 119.pdf p.2
+2024,terravaz,P0109,Cecilia Del Carmen Escobar De Martinez,fisica,,,igual a % de capital (sin dato de votos),2018-08-28,ESCRITURA CONSTITUCIÒN NRO 119.pdf p.2
+2024,tiva,itti,ITTI S.A.E.C.A.,juridica,60.0,60.0,reconstrucción 2024: RA ene-2025 (tenencia previa),<=2024,RA ene-2025 (tenencia previa)
+2024,tuiu,itti,ITTI S.A.E.C.A.,juridica,50.0,50.0,igual a % de capital (sin dato de votos),2024-11-28,ESCRITURA CONSTITUCION NRO 216.pdf p.20
+2024,tuiu,P0257,Nicolas Sebastian Di Iorio Olivares,fisica,10.0,10.0,igual a % de capital (sin dato de votos),2024-11-28,ESCRITURA CONSTITUCION NRO 216.pdf p.20
+2024,tuiu,P0029,Andre Gayol Pires,fisica,40.0,40.0,igual a % de capital (sin dato de votos),2024-11-28,ESCRITURA CONSTITUCION NRO 216.pdf p.20
+2024,ueno_holdings_sarl,P0003,Federico Miguel Vazquez Villasanti,declarado,,,control declarado: BF declarado (condición E: control o cadena de titularidad) en el listado BF de Redipro (2026-10): Federico M. Vázquez Villasanti controla a través de U Holdings S.à r.l.; la composición de U Holdings no consta,,BF declarado (condición E: control o cadena de titularidad) en el listado BF de Redipro (2026-10): Federico M. Vázquez Villasanti controla a través de U Holdings S.à r.l.; la composición de U Holdings no consta
+2024,u_paraguay,ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,juridica,99.99,99.99,"reconstrucción 2024: Registro de acciones: integraciones de U Holdings desde 10/03/2023 (CONTRADICCIÓN: actas 21/07/2025 dan GV 70,36% votos)",<=2024,"Registro de acciones: integraciones de U Holdings desde 10/03/2023 (CONTRADICCIÓN: actas 21/07/2025 dan GV 70,36% votos)"
+2024,ueno_afpi,ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,juridica,90.0,90.0,reconstrucción 2024: Asamblea Extraordinaria N° 3 (11/09/2023),<=2024,Asamblea Extraordinaria N° 3 (11/09/2023)
+2024,ueno_afpi,ueno_bank,Ueno Bank S.A.,juridica,10.0,10.0,reconstrucción 2024: Acción N° 10 transferida por Sergio Pizurno a Ueno Bank el 31/05/2024,<=2024,Acción N° 10 transferida por Sergio Pizurno a Ueno Bank el 31/05/2024
+2024,ueno_bank,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,94.91,94.91,"reconstrucción 2024: Acta N° 90 (Asamblea Extraordinaria 25/03/2024): GV 94,91% de los votos",<=2024,"Acta N° 90 (Asamblea Extraordinaria 25/03/2024): GV 94,91% de los votos"
+2024,ueno_casa_de_bolsa,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,88.6,88.6,"reconstrucción 2024: Registro folio 6 (27/06/2025), anterior a la transferencia a U Paraguay",<=2024,"Registro folio 6 (27/06/2025), anterior a la transferencia a U Paraguay"
+2024,ueno_casa_de_bolsa,u_paraguay,U Paraguay S.A.,juridica,11.4,11.4,reconstrucción 2024: Registro folio 6 (27/06/2025),<=2024,Registro folio 6 (27/06/2025)
+2024,ueno_seguros,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,,,"reconstrucción 2024: Notas del registro: compras de GV en 2023-2024 y canje GV→U Paraguay el 30/06/2025 (aprobado SIS 30/12/2025); GV mayoritario, % 2024 no determinado",<=2024,"Notas del registro: compras de GV en 2023-2024 y canje GV→U Paraguay el 30/06/2025 (aprobado SIS 30/12/2025); GV mayoritario, % 2024 no determinado"
+2024,ueno_seguros,u_paraguay,U Paraguay S.A.,juridica,,,reconstrucción 2024: 748 acciones cedidas por GV a U Paraguay el 28/06/2024,<=2024,748 acciones cedidas por GV a U Paraguay el 28/06/2024
+2024,v_media,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,99.9,99.9,"reconstrucción 2024: Asambleas N° 26-27 (07/10/2025) con GV 99,90% (Invercentro S.A.); tenencia previa a 2025 no documentada",<=2024,"Asambleas N° 26-27 (07/10/2025) con GV 99,90% (Invercentro S.A.); tenencia previa a 2025 no documentada"
+2024,vinanzas,ueno_holding_saeca,Ueno Holding S.A.E.C.A.,juridica,49.18,49.1833,calculado sobre votos de las filas del mismo corte,2023-04-26,ESCRITURA CONSTITUCION NRO 142.pdf p.33
+2024,vinanzas,EXT:IOIO,Ioio,juridica,37.93,37.931,calculado sobre votos de las filas del mismo corte,2023-04-26,ESCRITURA CONSTITUCION NRO 142.pdf p.33
+2024,vinanzas,itti,ITTI S.A.E.C.A.,juridica,12.7,12.7042,calculado sobre votos de las filas del mismo corte,2023-04-26,ESCRITURA CONSTITUCION NRO 142.pdf p.34
+2024,vinanzas,grupo_vazquez,Grupo Vázquez S.A.E.,juridica,0.18,0.1815,calculado sobre votos de las filas del mismo corte,2023-04-26,ESCRITURA CONSTITUCION NRO 142.pdf p.33
+2024,EXT:WOM77,itti,ITTI S.A.E.C.A.,declarado,,,control declarado: BF de Kaitel (04/07/2025): cadena WOM 77 S.A. – ITTI S.A.E.C.A. – Grupo Vázquez; WOM 77 preside César Astigarraga,,BF de Kaitel (04/07/2025): cadena WOM 77 S.A. – ITTI S.A.E.C.A. – Grupo Vázquez; WOM 77 preside César Astigarraga

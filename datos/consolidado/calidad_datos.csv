@@ -1,0 +1,606 @@
+empresa_id,empresa,tipo,severidad,detalle
+23_sports_marketing,23 Sports Marketing S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+23_sports_marketing,23 Sports Marketing S.A.,autoridades_sin_ci,baja,4 autoridad(es) sin número de documento
+23_sports_marketing,23 Sports Marketing S.A.,observacion_extractor,info,"Constancia de BF en estado PENDIENTE: es solo una captura de pantalla sin porcentajes, tipo de control ni cadena; incluye personas jurídicas (Balloon S.R.L., Grupo Vázquez S.A.E.) como BF y a personas que no son accionistas ni directores (empleados/ejecutivos de ITTI, Ueno, Grupo Vázquez), lo que sugiere que se declararon como BF a quienes ejercen control por la vía de Grupo Vázquez."
+23_sports_marketing,23 Sports Marketing S.A.,observacion_extractor,info,Acta de Directorio N° 23 en estado PENDIENTE (aún no aprobada/rubricada).
+23_sports_marketing,23 Sports Marketing S.A.,observacion_extractor,info,"Acta N° 10: el texto dice que Ricardo Arias fue electo Presidente de Asamblea, pero en las firmas Camilo José Guanes Mersan figura como 'Presidente de Asamblea'."
+23_sports_marketing,23 Sports Marketing S.A.,observacion_extractor,info,Acta N° 10: se distribuyen dividendos a Francisco Lettieri (10%) aunque había vendido sus 10 acciones a Ricardo Arias el 30/03/2026 (antes de la asamblea); Arias figura con 20 acciones pero sólo recibe dividendo por 10 (ajuste por titularidad durante el ejercicio).
+23_sports_marketing,23 Sports Marketing S.A.,observacion_extractor,info,El registro de accionistas no documenta las transferencias por las que Grupo Vázquez S.A.E. adquirió 60 acciones ni la reducción de tenencias de los fundadores; las fechas de suscripción difieren entre folio 11 y folio 12.
+23_sports_marketing,23 Sports Marketing S.A.,observacion_extractor,info,Correo de la PEJ en SIARA pertenece a dominio ghp.com.py (no corporativo de la empresa).
+aime_corredores,AIME S.A. Corredores de Seguros,autoridades_sin_ci,baja,4 autoridad(es) sin número de documento
+aime_corredores,AIME S.A. Corredores de Seguros,observacion_extractor,info,"Composición accionaria inconsistente entre fuentes: 182+2 acciones (RA ene-2025 y RA 18/06/2025), 400+100 (RA 17/06/2025 y planilla digital), 8+176 (RA ene-2026 y libro manuscrito). Dos constancias RA de días consecutivos (17 y 18/06/2025) declaran composiciones distintas."
+aime_corredores,AIME S.A. Corredores de Seguros,observacion_extractor,info,"Capital: RA 2026 declara suscripto Gs. 5.000 M e integrado Gs. 1.840 M (184 acciones x 10 M), pero valor nominal Gs. 1.000.000; el libro manuscrito indica Gs. 10.000.000 por acción."
+aime_corredores,AIME S.A. Corredores de Seguros,observacion_extractor,info,"Constancia BF 2025 y Constancia BF 2026 2 tienen el mismo N° 371250 y la misma fecha de emisión (18/06/2025) pero distinto código de verificación; una sin BF y otra con Mauro Vargas 99,9%. El nombre del archivo 'BF 2026 2' no corresponde a su fecha."
+aime_corredores,AIME S.A. Corredores de Seguros,observacion_extractor,info,"La planilla digital del registro atribuye a Martin Vargas Wildberger el CI 404.147, que es el CI de Gloria Elizabeth Villasanti Farinha (Presidente)."
+aime_corredores,AIME S.A. Corredores de Seguros,observacion_extractor,info,RA 2026: el campo 'Correo electrónico' de la PEJ contiene una dirección postal y el 'Representante Legal' no trae número de CI.
+aime_corredores,AIME S.A. Corredores de Seguros,observacion_extractor,info,No se remitió estatuto/escritura de constitución ni actas de asamblea; Raúl Sanchez y Ricardo Fernandez sin CI.
+aime_corredores,AIME S.A. Corredores de Seguros,observacion_extractor,info,Constancias RA 2025 1 y 3 escriben 'MAURA' / 'MILDBERGER' (errores de tipeo).
+bic,BIC S.A. (Buró de Información Comercial),pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+bic,BIC S.A. (Buró de Información Comercial),sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+bic,BIC S.A. (Buró de Información Comercial),autoridades_sin_ci,baja,27 autoridad(es) sin número de documento
+bic,BIC S.A. (Buró de Información Comercial),observacion_extractor,info,"No se aportó constancia de Beneficiarios Finales; BIC tiene capital atomizado (máx. Banco Continental 12,49%)."
+bic,BIC S.A. (Buró de Información Comercial),observacion_extractor,info,"La constancia RA 2026 no detalla socios, autoridades ni capital."
+bic,BIC S.A. (Buró de Información Comercial),observacion_extractor,info,"El registro aportado comienza en 'Página 2' del libro; la suma de acciones de los asientos (11.581) coincide con el total declarado, por lo que no faltarían titulares."
+bic,BIC S.A. (Buró de Información Comercial),observacion_extractor,info,El registro denomina 'UENO BANK S.A.E.C.A' al accionista; la razón social actual es Ueno Bank S.A.
+bic,BIC S.A. (Buró de Información Comercial),observacion_extractor,info,Banco Río S.A.E.C.A. figura presente en la asamblea 2025 pero no en el registro de accionistas aportado.
+bic,BIC S.A. (Buró de Información Comercial),observacion_extractor,info,Los rangos de numeración de títulos no siempre coinciden con las cantidades de acciones (p.ej. Ueno Holding serie A 100 acciones con rango 00001-00060 y 01021-01040).
+bic,BIC S.A. (Buró de Información Comercial),observacion_extractor,info,Objeto social no extraído en detalle.
+cbs,CBS S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+cbs,CBS S.A.,autoridades_sin_ci,baja,5 autoridad(es) sin número de documento
+cbs,CBS S.A.,observacion_extractor,info,El nombre del archivo indica 'Escritura 90 22-07-2017' pero la escritura y el dictamen DRFS dicen 22-07-2019.
+cbs,CBS S.A.,observacion_extractor,info,"Las constancias RA/BF 2025 usan fechas en formato mes-día-año (p. ej. '4-28-2025', '8-18-1966')."
+cbs,CBS S.A.,observacion_extractor,info,No hay documento que acredite la transferencia de acciones de los fundadores a Chaco-I Trader S.A.; tampoco registro de accionistas en la carpeta.
+cbs,CBS S.A.,observacion_extractor,info,La constancia RA no consigna capital suscripto ni integrado (campos vacíos).
+cbs,CBS S.A.,observacion_extractor,info,Inscripción DRFS 2017 hecha fuera de plazo (Res. AT 3/16: NO).
+cbs,CBS S.A.,observacion_extractor,info,"La empresa no muestra vínculos documentales con Ueno/Grupo Vázquez: su inclusión entre las 51 personas jurídicas no se explica con estos documentos (posible vínculo por otra vía, p. ej. como cliente/deudor o por declaraciones de terceros)."
+cbs,CBS S.A.,observacion_extractor,info,CI de algunos fundadores ilegibles en el OCR de la escritura de 2005.
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),autoridades_sin_ci,baja,2 autoridad(es) sin número de documento
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),observacion_extractor,info,"La constancia RA del nuevo SIARA (2026) no detalla socios, autoridades ni beneficiarios finales; no hay constancia BF en la carpeta."
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),observacion_extractor,info,El archivo 'ESCRITURA MODIFICACION NRO 49' es en realidad la escritura de constitución de 1986.
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),observacion_extractor,info,En la escritura 201 el socio fundador figura como 'Oscar Celso Alonso Balbuena' mientras que en la escritura 49 es 'Celso Oscar Alonso Balbuena'.
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),observacion_extractor,info,"Parte del precio (USD 2.098.000) se paga con bonos corporativos de ITTI S.A.E.C.A., lo que vincula financieramente la operación al grupo."
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),observacion_extractor,info,Domicilio SIARA (Herib Campos Cervera 886) difiere del domicilio de los socios (Torres del Paseo); coincide con el domicilio SIARA de Discover Paraguay S.A. ('HERIB CAMPOS CERVERA').
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),observacion_extractor,info,Escritura firmada digitalmente por Guillermo Vázquez Muniagurria el 28-05-2026.
+condominio_estancia_don_miguel,Condominio Estancia Don Miguel,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+condominio_estancia_don_miguel,Condominio Estancia Don Miguel,observacion_extractor,info,Estructura familiar (hermanos Huber Schaefer); no se observan vínculos con Ueno / Grupo Vázquez.
+condominio_estancia_don_miguel,Condominio Estancia Don Miguel,observacion_extractor,info,Porcentajes no declarados en SIARA; 25% por condómino es estimación (cuadro OCR muestra '25%').
+condominio_estancia_don_miguel,Condominio Estancia Don Miguel,observacion_extractor,info,Nombre 'Maria Graciela' (SIARA) vs 'Marina Graciela' (acta y sentencia); 'Brugitte' en BF. BF de María Graciela indica país de residencia Alemania.
+condominio_estancia_don_miguel,Condominio Estancia Don Miguel,observacion_extractor,info,Correo de la entidad EST.CONT.INDEPENDENCIA@GMAIL.COM (posible estudio contable).
+discover_paraguay,Discover Paraguay S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+discover_paraguay,Discover Paraguay S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+discover_paraguay,Discover Paraguay S.A.,autoridades_sin_ci,baja,14 autoridad(es) sin número de documento
+discover_paraguay,Discover Paraguay S.A.,observacion_extractor,info,"Inconsistencia entre el Acta N° 11 (27-10-2025: ITTI 229 acciones, Geraldine Person 12) y el registro de accionistas al 22-01-2026 (ITTI 181, André Gayol 36, Geraldine Person 24, Federico Miguel Vázquez 1). Además el acta de octubre 2025 incluye como accionista a Geraldine Person, cuyas acciones según el registro se suscribieron/transfirieron en enero 2026."
+discover_paraguay,Discover Paraguay S.A.,observacion_extractor,info,"En el registro, la nota dice que Gayol transfirió 12 acciones a Person, pero a Person se le asignan 24 acciones (N° 218-241); a Gayol se le asignan 36 tras haber suscrito el 21-01-2026."
+discover_paraguay,Discover Paraguay S.A.,observacion_extractor,info,No hay constancia de beneficiarios finales en la carpeta; la constancia RA del nuevo SIARA solo trae cabecera.
+discover_paraguay,Discover Paraguay S.A.,observacion_extractor,info,"No consta el paso de Texo S.A., Rodrigo Martin y Christyan Pérez (accionistas 2019) a ITTI S.A.E.C.A. (2024): faltan los documentos de transferencia."
+discover_paraguay,Discover Paraguay S.A.,observacion_extractor,info,Documentos firmados digitalmente por Luis Marcelo Cardozo Ledesma el 30-06-2026.
+factopar,Factopar S.A.,observacion_extractor,info,No se observan vínculos con Ueno / Grupo Vázquez en los documentos.
+factopar,Factopar S.A.,observacion_extractor,info,Constancias SIARA del periodo 2024 (emitidas 01/05/2025); no hay actualización 2025/2026.
+factopar,Factopar S.A.,observacion_extractor,info,"Inscripción ante la Abogacía del Tesoro realizada en 2026, fuera de plazo."
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,ruc_tercero_dv_invalido,baja,RADICE S.A.: RUC 80104014-7 (DV correcto 0)
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,pct_faltante,media,1 fila(s) vigentes sin porcentaje
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,autoridades_sin_ci,baja,3 autoridad(es) sin número de documento
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,observacion_extractor,info,"La constancia BF 2026 no declara ningún beneficiario final (tabla vacía), pese a que el contrato identifica fideicomitentes/beneficiarios (RADICE S.A., Horacio José Biga 80% y Carlos Emilio Soler 20%)."
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,observacion_extractor,info,"La constancia RA 2026 no declara socios/miembros; las autoridades listadas parecen ser el directorio de la fiduciaria (zbanco), no del fideicomiso."
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,observacion_extractor,info,Inconsistencia de nombre en el contrato: 'RACIDE S.A.' en el encabezado vs 'RADICE S.A.' en el resto del documento.
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,observacion_extractor,info,El RUC de RADICE S.A. (80104014-7) comparte la base numérica con el RUC informado para Terravaz S.A. Emisora (80104014-0); verificar.
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,observacion_extractor,info,Fecha exacta del contrato ambigua ('ocho dos días' de enero 2019).
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,observacion_extractor,info,Nombre de la carpeta MEF con error ortográfico: 'Shoping'.
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,observacion_extractor,info,No se observan vínculos documentales con Ueno Bank ni con el Grupo Vázquez en esta carpeta.
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,observacion_extractor,info,"[VERIFICACIÓN 2026-11-24] RADICE S.A., fideicomitente desarrollador del Fideicomiso Shopping Costanera (contrato 21/01/2019), es la misma persona jurídica que TERRAVAZ S.A.E. (ex RADICE S.A.E.C.A., RUC 80104014-0): mismo número base de RUC (el contrato, leído por OCR, trae '80104014-7'; el dígito verificador correcto de 80104014 es 0), mismos firmantes Horacio José Biga (CI 5.990.871, Presidente) y Carlos Emilio Soler (CI 5.992.466, Vicepresidente), que son fundadores de RADICE S.A. (Esc. 119 del 28/08/2018), mismo ámbito (Encarnación, Costanera) y correos @radice.com.py. Desde jun-ago 2025 Gr"
+fintux,Fintux E.A.S.,suma_pct_vigente,alta,La suma de % de los accionistas vigentes es 70.0% (3 filas)
+fintux,Fintux E.A.S.,observacion_extractor,info,Los socios declarados suman 1.808 acciones (70%) pero el capital integrado (Gs. 1.308.500.000 / Gs. 500.000) equivale a 2.617 acciones: faltan 809 acciones (~30%) sin titular declarado.
+fintux,Fintux E.A.S.,observacion_extractor,info,"La constancia BF declara como beneficiario final a una persona jurídica (Grupo Vázquez S.A.E.), no a personas físicas; contiene filas duplicadas con 0%."
+fintux,Fintux E.A.S.,observacion_extractor,info,Mandato de autoridades vencido el 29/12/2024 según la propia constancia.
+fintux,Fintux E.A.S.,observacion_extractor,info,"Domicilio de ITTI declarado: Torres del Paseo La Galería, Torre 2, Piso 25 (mismo que Grupo Vázquez)."
+franede,Franede S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+franede,Franede S.A.,autoridades_sin_ci,baja,3 autoridad(es) sin número de documento
+franede,Franede S.A.,observacion_extractor,info,Constancia BF definitiva solo de 2025 (Mauro Vargas); hay declaración BF 2026 'en proceso de aprobación' que agrega a Cecilia María Domínguez Elizeche (PENDIENTE).
+franede,Franede S.A.,observacion_extractor,info,"Mauro Vargas recibió el 99,62% de Grupo Vázquez S.A.E. el 30/06/2025; posible testaferro/fiduciario del grupo: los correos (gvcorp, uenoholding, itti.digital), el domicilio Santa Teresa 1827 y la participación de Guillermo Vázquez en la asamblea indican administración común con el grupo Vázquez."
+franede,Franede S.A.,observacion_extractor,info,No consta documento de la adquisición por Grupo Vázquez de las acciones de la familia Bittar (2019-2025).
+franede,Franede S.A.,observacion_extractor,info,Domicilio inconsistente: Avda. España 1725 (RA) vs Avda. España 1925 (acta) vs 'Encarnación' (BF).
+franede,Franede S.A.,observacion_extractor,info,Acta N° 78: designa a Guillermo Vázquez presidente de asamblea pero firma Mauro Vargas; designa síndica a Raquel Monzón Villasanti pero firma como síndico Mónica Gadea.
+franede,Franede S.A.,observacion_extractor,info,Teléfono 0994391858 compartido por dos declarantes distintos (Sandra Caballero y Alan Campos Pardo).
+franede,Franede S.A.,observacion_extractor,info,"Franede S.A. figura como accionista de sí misma (10 acciones, 0,38%)."
+franede,Franede S.A.,observacion_extractor,info,Cantidad de Oscar Amado Bittar David (2019) con OCR dudoso.
+galadriel,Galadriel S.A.,observacion_extractor,info,"La carpeta incluye la Escritura N° 110 que constituye ARWENT S.A., no Galadriel S.A. (documento ajeno o sociedad gemela de los mismos abogados)."
+galadriel,Galadriel S.A.,observacion_extractor,info,"Sociedad de muy reciente constitución (05-11-2025, inscripta 20-01-2026), capital integrado mínimo (Gs. 10.000.000) y accionistas/BF que son abogados de un estudio jurídico (berke.com.py): alta probabilidad de accionistas nominales; los BF reales podrían no estar declarados."
+galadriel,Galadriel S.A.,observacion_extractor,info,Inconsistencia en valor nominal: constancia 7666667 indica 'G. 10.000.000' por acción y la 7668659 'G. 1.000.000'; el estatuto fija Gs. 1.000.000.
+galadriel,Galadriel S.A.,observacion_extractor,info,La constancia BF fija la 'fecha desde que se constituyó en BF' en 05-11-2025; domicilio de Peralta Sosa figura Piso 20 en BF y Piso 19 en RA.
+galadriel,Galadriel S.A.,observacion_extractor,info,Cambio de correo de la PEJ de contabilidad.lgk@gmail.com a contabilidad16@logistik.com.py dos días después de la comunicación inicial: indicio de administración contable por un tercero ('Logistik').
+galadriel,Galadriel S.A.,observacion_extractor,info,"Varios certificados duplicados o en versión resumida (7666668, 7666670, 7668660 no muestran socios/BF)."
+grupo_berilo,Grupo Berilo S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+grupo_berilo,Grupo Berilo S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+grupo_berilo,Grupo Berilo S.A.,autoridades_sin_ci,baja,5 autoridad(es) sin número de documento
+grupo_berilo,Grupo Berilo S.A.,observacion_extractor,info,Sin constancia BF: no se identifican personas físicas detrás de 13 de Agosto S.A. ni Sunlit S.A.
+grupo_berilo,Grupo Berilo S.A.,observacion_extractor,info,"Diego Mario Peña aparece con DNI argentino 23.598.940 (2019), CI paraguaya 8.608.278 (OCR 2021) y CI 3.767.321 (acta 2026): posible inconsistencia/OCR."
+grupo_berilo,Grupo Berilo S.A.,observacion_extractor,info,El acta 2026 califica a Diego Mario Peña como 'Accionista' aunque actúa en representación de Sunlit.
+grupo_berilo,Grupo Berilo S.A.,observacion_extractor,info,Correo SIARA en dominio personal (yahoo.com).
+grupo_hendy,Grupo Hendy S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+grupo_hendy,Grupo Hendy S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+grupo_hendy,Grupo Hendy S.A.,autoridades_sin_ci,baja,8 autoridad(es) sin número de documento
+grupo_hendy,Grupo Hendy S.A.,observacion_extractor,info,"Inconsistencia grave: el registro de accionistas consigna a ITTI S.A.E.C.A. (1.951 acciones) y Grupo Vázquez S.A.E. (19) con fecha de suscripción 15-11-2013, pero en las asambleas de 2015 los accionistas eran César Javier Mengual Mazacotte (35%), Marcelo Giménez Recalde (35%) y Augusto César Mengual Herken (10%). En 2013 ITTI se llamaba 'IT Consultores Tecnología y Organización S.A.' y Grupo Vázquez 'F.M.V.V. S.A.I.C.A.G.'. Parece un libro rehecho; faltan las transferencias intermedias."
+grupo_hendy,Grupo Hendy S.A.,observacion_extractor,info,"Desde el 30-09-2025 la sociedad pasa de estar en manos de ITTI/Grupo Vázquez a dos personas físicas que son directivos del grupo (Vanessa Godoy y Oscar Urdapilleta, este último Presidente de Ueno Holding): posible tenencia fiduciaria o de testaferro; no hay constancia BF que lo aclare."
+grupo_hendy,Grupo Hendy S.A.,observacion_extractor,info,Cambio de directorio en abril 2026 (Rodrigo Franco presidente) y de nuevo en octubre 2026 (Oscar Urdapilleta presidente).
+grupo_hendy,Grupo Hendy S.A.,observacion_extractor,info,Registro y acta manuscritos; nombres de pila con variantes (Vanesa/Vanessa).
+grupo_hendy,Grupo Hendy S.A.,observacion_extractor,info,Sin constancia BF ni datos de objeto social en la carpeta.
+grupo_m,Grupo M S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+grupo_m,Grupo M S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+grupo_m,Grupo M S.A.,autoridades_sin_ci,baja,8 autoridad(es) sin número de documento
+grupo_m,Grupo M S.A.,observacion_extractor,info,No hay constancia de BF ni nómina SIARA con accionistas; los BF declarados se desconocen.
+grupo_m,Grupo M S.A.,observacion_extractor,info,"Inconsistencia: en 2020 los accionistas eran César Javier Mengual Mazacotte y Augusto César Mengual Herken (50/50), pero el registro de accionistas presentado muestra a ITTI S.A.E.C.A. y Grupo Vázquez S.A.E. con suscripción fechada 29-05-2014; no hay documento de la transferencia de los Mengual a ITTI/GV."
+grupo_m,Grupo M S.A.,observacion_extractor,info,Capital social autorizado Gs. 5.000 M pero solo figuran 1.640 acciones suscriptas (Gs. 1.640 M); no hay acta de emisión.
+grupo_m,Grupo M S.A.,observacion_extractor,info,Error en registro: acciones de Diego Gómez numeradas 1475-1640 (solapan con 1-1476 de Urdapilleta).
+grupo_m,Grupo M S.A.,observacion_extractor,info,"Acta N° 20: el texto designa Presidente a Diego Gómez, pero Sergio Pizurno firma como 'Presidente del Directorio'."
+grupo_m,Grupo M S.A.,observacion_extractor,info,Tras la venta a personas físicas (sep-2025) la sociedad sigue domiciliada en Santa Teresa 1827 y usa el correo legales@itti.digital: indicio de que sigue gestionada por el grupo ITTI/Vázquez (posibles testaferros o ejecutivos del grupo).
+grupo_m,Grupo M S.A.,observacion_extractor,info,Grandes utilidades 2025 (Gs. 7.753 M) no distribuidas sino destinadas a aporte a futura capitalización.
+grupo_m,Grupo M S.A.,observacion_extractor,info,No se dispone de CI de Urdapilleta ni de Gómez en los documentos.
+grupo_vazquez,Grupo Vázquez S.A.E.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+grupo_vazquez,Grupo Vázquez S.A.E.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+grupo_vazquez,Grupo Vázquez S.A.E.,observacion_extractor,info,"Sin constancia de BF en la carpeta; por el registro, Federico Miguel Vázquez Villasanti controla ≈76% del capital y ≈94% de los votos (cálculo propio)."
+grupo_vazquez,Grupo Vázquez S.A.E.,observacion_extractor,info,Registro de accionistas manuscrito y escaneado en orientación rotada: cantidades leídas de imagen (confianza media).
+grupo_vazquez,Grupo Vázquez S.A.E.,observacion_extractor,info,La constancia RA 2026 no trae socios ni autoridades (formato nuevo de solo cabecera).
+grupo_vazquez,Grupo Vázquez S.A.E.,observacion_extractor,info,Escritura 131 (88 págs.) no leída íntegramente: faltan relación de canje y balances de fusión.
+gsr,GSR E.A.S.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+gsr,GSR E.A.S.,observacion_extractor,info,Los socios fundadores (Martínez Appleyard y Agüero) no coinciden con los socios declarados en 2026 (Sala Cardozo y Ruiz Giménez); no se aportó documento de transferencia de acciones ni registro de accionistas.
+gsr,GSR E.A.S.,observacion_extractor,info,"La constancia BF contiene una fila duplicada de José Augusto Sala Cardozo con 0% y fecha 03-10-2025, inconsistente con la otra fila (50% desde 01-05-2025)."
+gsr,GSR E.A.S.,observacion_extractor,info,CI del fundador Julio E. J. Martínez Appleyard leída de anotación manuscrita (3640891); confianza media. CI de Eduardo Daniel Agüero no consta.
+gsr,GSR E.A.S.,observacion_extractor,info,Empresa de seguridad/investigación sin vínculos documentados con Ueno o Grupo Vázquez en esta carpeta; correos personales gmail.
+hanoi,Hanoi S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+hanoi,Hanoi S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+hanoi,Hanoi S.A.,autoridades_sin_ci,baja,2 autoridad(es) sin número de documento
+hanoi,Hanoi S.A.,observacion_extractor,info,No se aportó constancia de Beneficiarios Finales de Hanoi.
+hanoi,Hanoi S.A.,observacion_extractor,info,"La constancia RA no detalla socios, autoridades ni capital."
+hanoi,Hanoi S.A.,observacion_extractor,info,"No hay documento que explique cómo ITTI y Markhel S.A. adquirieron las acciones de los socios fundadores/2017 (Brizuela Cartes, Franco Tubino, Bernardes de Cibils, Cibils Wilson Smith)."
+hanoi,Hanoi S.A.,observacion_extractor,info,"MARKHEL S.A. (27,24%) no tiene RUC ni representante identificados; no asistió a la asamblea de 2026."
+hanoi,Hanoi S.A.,observacion_extractor,info,Objeto social y plazo no extraídos (escritura escaneada con OCR deficiente; no constan en las páginas revisadas).
+hanoi,Hanoi S.A.,observacion_extractor,info,Las CI de los socios de 2017 distintos de Brizuela Cartes no constan en las páginas revisadas.
+hd_invest,HD Invest E.A.S. Unipersonal,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+hd_invest,HD Invest E.A.S. Unipersonal,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+hd_invest,HD Invest E.A.S. Unipersonal,autoridades_sin_ci,baja,2 autoridad(es) sin número de documento
+hd_invest,HD Invest E.A.S. Unipersonal,observacion_extractor,info,"La constancia RA se presentó y expidió el 16/11/2026 (después del inicio del expediente SIME 78.318/2026), como 'Regularización'."
+hd_invest,HD Invest E.A.S. Unipersonal,observacion_extractor,info,No se remitió constancia de BF ni constancia de inscripción; no hay registro de accionistas.
+hd_invest,HD Invest E.A.S. Unipersonal,observacion_extractor,info,"No se encontró en estos documentos ningún vínculo explícito con Ueno, ITTI o Grupo Vázquez; la inclusión en el lote del MEF debería explicarse por otras fuentes."
+hd_invest,HD Invest E.A.S. Unipersonal,observacion_extractor,info,La proforma no muestra sello de inscripción; el CI del socio sólo aparece manuscrito.
+hd_invest,HD Invest E.A.S. Unipersonal,observacion_extractor,info,"[VERIFICACIÓN 2026-11-24] Corregida la lectura previa ('analista del MEF = accionista'). En las 35 constancias SIARA restantes el campo 'Analista' muestra funcionarios del MEF (15 nombres distintos, ninguno vinculado a las empresas). En las dos constancias de tipo 'REGULARIZACIÓN DE EAS' (HD Invest y La Tropa Fletes), presentadas y expedidas el mismo día 16/11/2026 en horario nocturno, el campo 'Analista' repite el nombre del representante legal de la propia EAS. Se interpreta que en ese trámite de autogestión el sistema consigna al usuario que cargó la declaración (equivalente al 'Responsable"
+idl,Impresión Distribución y Logística S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+idl,Impresión Distribución y Logística S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+idl,Impresión Distribución y Logística S.A.,autoridades_sin_ci,baja,3 autoridad(es) sin número de documento
+idl,Impresión Distribución y Logística S.A.,observacion_extractor,info,No se aportó constancia de Beneficiarios Finales (BF último sería vía ITTI -> Grupo Vázquez).
+idl,Impresión Distribución y Logística S.A.,observacion_extractor,info,Constancia RA sin detalle de socios/autoridades.
+idl,Impresión Distribución y Logística S.A.,observacion_extractor,info,Hueco en la numeración del registro: no figuran los títulos 128-163 (36 acciones); el total registrado (650) coincide igualmente con el acta.
+idl,Impresión Distribución y Logística S.A.,observacion_extractor,info,"El registro atribuye a ITTI los títulos 1-122 desde 15-11-2021, pero en agosto de 2022 el acta los asigna a 'J Fleischman y Cía en proceso de fusión con ITTI'."
+idl,Impresión Distribución y Logística S.A.,observacion_extractor,info,Fecha de constitución inconsistente (3 vs 13 de agosto de 2008).
+idl,Impresión Distribución y Logística S.A.,observacion_extractor,info,Presidente del primer directorio no extraído (página no legible en OCR).
+inter_express,Inter-Express S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+inter_express,Inter-Express S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+inter_express,Inter-Express S.A.,autoridades_sin_ci,baja,8 autoridad(es) sin número de documento
+inter_express,Inter-Express S.A.,observacion_extractor,info,No hay constancia de BF ni nómina SIARA; los BF no constan en la documentación.
+inter_express,Inter-Express S.A.,observacion_extractor,info,No hay documento de la transferencia de la familia Birks (antiguos administradores) a Kostas Viajes y Turismo S.R.L.; el registro asienta a Kostas con 'fecha de suscripción' 30/7/2025.
+inter_express,Inter-Express S.A.,observacion_extractor,info,El acta denomina al accionista 'ITTI S.A.E.' mientras el registro dice 'ITTI S.A.E.C.A.'.
+inter_express,Inter-Express S.A.,observacion_extractor,info,Mónica Costa (Barriocanal) vende su única acción a ITTI y simultáneamente es directora titular.
+inter_express,Inter-Express S.A.,observacion_extractor,info,"Control efectivo del grupo ITTI/Vázquez: accionista mayoritario representado por Guillermo Vázquez, presidente César Astigarraga (ITTI), correo legales@itti.digital."
+intertours,Intertours S.A.,foto_vigente_mixta,baja,"Filas vigentes con fechas distintas: 2025-09-24, 2026-07-22"
+intertours,Intertours S.A.,fuentes_contradictorias,media,Las filas vigentes provienen de documentos distintos: ACTA DIRECTORIO NRO 109.pdf; CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf
+intertours,Intertours S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+intertours,Intertours S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+intertours,Intertours S.A.,autoridades_sin_ci,baja,7 autoridad(es) sin número de documento
+intertours,Intertours S.A.,observacion_extractor,info,No se remitió registro de accionistas ni constancia BF; la composición vigente (ITTI 70% / Match S.A. 30%) es un cálculo a partir del acta de 2025 y de la constancia de transferencia de 2026.
+intertours,Intertours S.A.,observacion_extractor,info,"El vendedor figura como 'Miguel Angel del Castillo' en la constancia de transferencia y como 'Miguel Martín del Castillo' en el acta manuscrita; la escritura lo identifica como Miguel Ángel Martín del Castillo, CI 1.109.145 (misma persona)."
+intertours,Intertours S.A.,observacion_extractor,info,El acta de asamblea 2019 de emisión se cita como N° 25 y como N° 23 dentro de la misma escritura.
+intertours,Intertours S.A.,observacion_extractor,info,Entre 2019 (Martín 3.000 / Ferreira 1.000) y 2025 (400/600/1.200/1.800) no hay documentos de las transferencias que dieron entrada a ITTI y Match S.A.
+intertours,Intertours S.A.,observacion_extractor,info,Archivo 'COSNTANCIA RA' con error tipográfico en el nombre; la constancia RA es un resumen sin socios ni autoridades.
+intertours,Intertours S.A.,observacion_extractor,info,"Autoridades sin número de CI (Cardozo, Person, Costa, Almada, Barrios)."
+itti,ITTI S.A.E.C.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+itti,ITTI S.A.E.C.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+itti,ITTI S.A.E.C.A.,autoridades_sin_ci,baja,2 autoridad(es) sin número de documento
+itti,ITTI S.A.E.C.A.,observacion_extractor,info,No se remitió constancia BF de ITTI; la constancia RA es un resumen.
+itti,ITTI S.A.E.C.A.,observacion_extractor,info,Acta N° 42 (jul-2026) no incluye a Business & Financial Group S.A. (6.405 acc. según registro) y reparte las clases de GV distinto al registro.
+itti,ITTI S.A.E.C.A.,observacion_extractor,info,"El folio 5 lleva fecha 30/09/2026 y totaliza 401.201 acciones, excediendo el capital suscripto de 250.000 del folio 8 sin documento de emisión; fila '25001 al 253373' (debería ser 250001)."
+itti,ITTI S.A.E.C.A.,observacion_extractor,info,Transferencia de 68.000 acciones GV -> U Paraguay -> Ueno Bank el 02/10/2026 coincide en fecha y cantidad con la cesión de 68.000 preferidas de Redipro de Ueno Bank a U Paraguay.
+itti,ITTI S.A.E.C.A.,observacion_extractor,info,Ueno Seguros figura también como 'Alfa Seguros' y 'ueno de Seguros'.
+kaitel,Kaitel S.R.L.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+kaitel,Kaitel S.R.L.,observacion_extractor,info,Porcentajes declarados en la constancia RA (99% / 1%) no coinciden con 49/50 y 1/50 cuotas (98% / 2%).
+kaitel,Kaitel S.R.L.,observacion_extractor,info,La constancia BF consigna CI de Federico Miguel Vázquez como 2.491.546-2 y fecha de nacimiento 28-02-1190; en la constancia BF de Red Digital figura CI 2.941.546 y nacimiento 28-02-1990. Probable error de tipeo; la CI 2.491.546 es casi igual a la de Carlos Impagliatelli (2.491.308) — no confundir.
+kaitel,Kaitel S.R.L.,observacion_extractor,info,"No están en la carpeta las escrituras N° 132/2022 ni N° 67/2024, por lo que no se conoce cómo pasaron las cuotas de los fundadores a Impagliatelli y Godoy, ni el reparto entre ambos."
+kaitel,Kaitel S.R.L.,observacion_extractor,info,Kaitel es una empresa de tercerización de personal controlada por el grupo: relevante para identificar empleadores reales de trabajadores tercerizados.
+kaitel,Kaitel S.R.L.,observacion_extractor,info,La carpeta contiene dos archivos de la Escritura N° 44 (uno con nombre 'MODIFICACCION').
+kaitel,Kaitel S.R.L.,observacion_extractor,info,"[VERIFICACIÓN 2026-11-24] CI de Federico Miguel Vázquez Villasanti: el correcto es 2.941.546 (14 archivos fuente, incluida la Escritura 131 de Grupo Vázquez y constancias BF de Red Digital, Redipro, Place Analyzer, Red UTS). La variante 2.491.546 aparece sólo en las constancias BF de Kaitel y Tiva y es una transposición de dígitos: en ambas va acompañada del DV '-2', que es el dígito verificador de 2941546 (el de 2491546 sería 7)."
+kasas_propiedades,Kasas Propiedades S.A.E.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+kasas_propiedades,Kasas Propiedades S.A.E.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+kasas_propiedades,Kasas Propiedades S.A.E.,autoridades_sin_ci,baja,2 autoridad(es) sin número de documento
+kasas_propiedades,Kasas Propiedades S.A.E.,observacion_extractor,info,No hay constancia de BF; los BF de Sky Link S.A. (50% de votos) se desconocen.
+kasas_propiedades,Kasas Propiedades S.A.E.,observacion_extractor,info,Gustavo Mathias Angulo Turitich (19.000 acc. A en mayo-2025) no aparece en el registro; en su lugar figura Joaquín Pagan sin asiento de transferencia.
+kasas_propiedades,Kasas Propiedades S.A.E.,observacion_extractor,info,Capital suscripto Gs. 50.000 M con solo Gs. 2.100 M integrados.
+kasas_propiedades,Kasas Propiedades S.A.E.,observacion_extractor,info,"Registro de accionistas sin domicilios, números de título ni números de acciones."
+kasas_propiedades,Kasas Propiedades S.A.E.,observacion_extractor,info,"No se observan vínculos documentales con Ueno, ITTI ni Grupo Vázquez en esta carpeta; correo personal gmail del presidente."
+kasas_propiedades,Kasas Propiedades S.A.E.,observacion_extractor,info,Domicilio SIARA 'Avenida Irrazábal' (Encarnación) vs. domicilio legal Gral. Artigas c/ 14 de Mayo (Encarnación).
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,confianza_baja,media,4 fila(s) de accionistas con confianza baja (OCR/manuscrito)
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,autoridades_sin_ci,baja,1 autoridad(es) sin número de documento
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,observacion_extractor,info,No se remitió constancia BF ni la Esc. N° 200 (25/07/2025) que documentaría la entrada de ITTI y Discover Paraguay; no consta cómo salieron la sucesión Velázquez/Costa (526 cuotas) ni los demás socios.
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,observacion_extractor,info,Correo SIARA con error tipográfico ('ITTI.DIGOTAL').
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,observacion_extractor,info,Datos de la constitución de 1985 provienen de OCR de mala calidad (nombres y cifras con confianza baja).
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,observacion_extractor,info,La escritura 301 fecha la inscripción de la Esc. 9/1986 en 28/05/1985 (anterior a la escritura): error del documento.
+la_tropa_fletes,La Tropa Fletes E.A.S.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+la_tropa_fletes,La Tropa Fletes E.A.S.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+la_tropa_fletes,La Tropa Fletes E.A.S.,autoridades_sin_ci,baja,2 autoridad(es) sin número de documento
+la_tropa_fletes,La Tropa Fletes E.A.S.,observacion_extractor,info,"No hay registro de accionistas, actas ni constancia de BF; la composición accionaria solo consta en el estatuto de 2021."
+la_tropa_fletes,La Tropa Fletes E.A.S.,observacion_extractor,info,No figuran números de CI de los socios.
+la_tropa_fletes,La Tropa Fletes E.A.S.,observacion_extractor,info,"La regularización SIARA se presentó el 16/11/2026, días antes del envío al MTESS."
+la_tropa_fletes,La Tropa Fletes E.A.S.,observacion_extractor,info,"No se encontró en los documentos mención a Ueno, ITTI ni Grupo Vázquez; el vínculo con el grupo económico no surge de esta documentación."
+la_tropa_fletes,La Tropa Fletes E.A.S.,observacion_extractor,info,Domicilio cambió de Adrián Aguiar Matheu 345 (2021) a Coronel Villasboa (2026).
+la_tropa_fletes,La Tropa Fletes E.A.S.,observacion_extractor,info,"[VERIFICACIÓN 2026-11-24] Corregida la lectura previa ('analista homónimo del accionista'). En las 35 constancias SIARA restantes el campo 'Analista' muestra funcionarios del MEF (15 nombres distintos, ninguno vinculado a las empresas). En las dos constancias de tipo 'REGULARIZACIÓN DE EAS' (HD Invest y La Tropa Fletes), presentadas y expedidas el mismo día 16/11/2026 en horario nocturno, el campo 'Analista' repite el nombre del representante legal de la propia EAS. Se interpreta que en ese trámite de autogestión el sistema consigna al usuario que cargó la declaración (equivalente al 'Responsa"
+mowi,MOWI S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+mowi,MOWI S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+mowi,MOWI S.A.,autoridades_sin_ci,baja,3 autoridad(es) sin número de documento
+mowi,MOWI S.A.,observacion_extractor,info,"Contradicción grave: el registro de accionistas (30/09/2025) asigna 7.200 acciones (90%) a José Augusto Sala Cardozo y 800 (10%) a Sergio Pizurno; el Acta N° 6 (28/04/2026) consigna lo inverso (Pizurno 90%, Sala 10%), sin transferencia registrada entre ambos."
+mowi,MOWI S.A.,observacion_extractor,info,Registro: la observación sobre cesión de Ueno Holding dice '1.013 acciones' para un renglón de 213 acciones (6988-7200).
+mowi,MOWI S.A.,observacion_extractor,info,Acta N° 6 designa síndico a Walter Hermosa pero firma como síndico Vanessa Godoy.
+mowi,MOWI S.A.,observacion_extractor,info,No hay constancia de BF ni nómina SIARA; correo de la PEJ es personal (gmail) del presidente.
+mowi,MOWI S.A.,observacion_extractor,info,"Sociedad creada por Grupo Vázquez, pasó por Ueno Holding e ITTI y fue vendida en mayo-2025 a dos personas físicas, una de ellas (Pizurno) director en otra sociedad del grupo (Grupo M) y domiciliada en la sede ITTI/GV: posible traspaso formal dentro del grupo económico."
+mowi,MOWI S.A.,observacion_extractor,info,Faltan CI de José Augusto Sala Cardozo.
+nubicom_paraguay,Nubicom Paraguay S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+nubicom_paraguay,Nubicom Paraguay S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+nubicom_paraguay,Nubicom Paraguay S.A.,autoridades_sin_ci,baja,5 autoridad(es) sin número de documento
+nubicom_paraguay,Nubicom Paraguay S.A.,observacion_extractor,info,"Sin constancia de BF. El controlante es Nubicom S.R.L. (sin RUC, país ni socios identificados en la carpeta); no consta quién es su dueño."
+nubicom_paraguay,Nubicom Paraguay S.A.,observacion_extractor,info,"Contradicción: el Acta 4 asigna a Salinas 0,06% mientras 1/148 acciones = 0,68%; y solo 148 de las 1628 acciones del capital estatutario figuran en el registro."
+nubicom_paraguay,Nubicom Paraguay S.A.,observacion_extractor,info,"Personas sin CI en los documentos leídos: Marco Galanti, Paul Gastón, Gilberto Ramos Amarilla, Carlos Díaz, Emanuel Eduardo Salinas."
+nubicom_paraguay,Nubicom Paraguay S.A.,observacion_extractor,info,"Fundadores de Biopulp (abogados domiciliados en Torres del Paseo) sugieren sociedad 'de estante' del entorno Vázquez, luego usada para Nubicom (inferencia)."
+office_design,Office Design S.R.L.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+office_design,Office Design S.R.L.,observacion_extractor,info,"Hasta octubre 2025 la sociedad pertenecía a Grupo Vázquez S.A.E. e ITTI S.A.E.C.A.; los nuevos socios fijan domicilio en la sede del grupo (Torres del Paseo, Torre 3, Piso 11): posible persistencia de control del grupo."
+office_design,Office Design S.R.L.,observacion_extractor,info,"Falta en el PDF la hoja notarial N° 000752616 (entre pp. 9 y 10), donde constarían la distribución de cuotas previa y la cesión; no se conoce cuántas cuotas tenía cada cedente."
+office_design,Office Design S.R.L.,observacion_extractor,info,Sin constancia BF; la constancia RA no lista socios.
+office_design,Office Design S.R.L.,observacion_extractor,info,Domicilio SIARA (Av. San Martín) distinto al de los socios.
+oniria,Oniria S.A.,foto_vigente_mixta,baja,"Filas vigentes con fechas distintas: 2025-01-03, 2026-04-28"
+oniria,Oniria S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+oniria,Oniria S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+oniria,Oniria S.A.,autoridades_sin_ci,baja,3 autoridad(es) sin número de documento
+oniria,Oniria S.A.,observacion_extractor,info,"No se remitió constancia BF; GV controla 60% por lo que su BF (F. M. Vázquez Villasanti en otras empresas) sería BF indirecto, no declarado aquí."
+oniria,Oniria S.A.,observacion_extractor,info,La fusión de 2020 se protocolizó recién el 27/05/2026 (y se rectificó la emisión de 2014 en feb-2026).
+oniria,Oniria S.A.,observacion_extractor,info,Registro 2024 sin fecha de entrada de Achaval/salida de Weiberlen Duarte (socio 50% en 2020): falta documentación de esa transferencia.
+oniria,Oniria S.A.,observacion_extractor,info,Registro: la fila del título 04 en la sección 2025 tiene fecha 04/01/2024 mientras en la 2024 dice 03/01/2024.
+place_analyzer,Place Analyzer E.A.S.,autoridades_sin_ci,baja,4 autoridad(es) sin número de documento
+place_analyzer,Place Analyzer E.A.S.,observacion_extractor,info,"La base de datos lista la empresa como 'Place Analyzer E.A.S.', pero fue transformada en S.A. por escritura N° 44 del 25/03/2025; la carpeta MEF y SIARA ya la denominan S.A."
+place_analyzer,Place Analyzer E.A.S.,observacion_extractor,info,Constancia RA 2025: no informa capital suscripto/integrado; el porcentaje de ITTI aparece en blanco; correo empresa con error tipográfico 'FEDEREICO.VARGAS@ITTI.DIGITAL'.
+place_analyzer,Place Analyzer E.A.S.,observacion_extractor,info,"El BF Gustavo Mayeregger figura 'desde 01-06-2021', anterior a la constitución documentada de la E.A.S. (estatutos referenciados en 2023)."
+place_analyzer,Place Analyzer E.A.S.,observacion_extractor,info,En la cadena de control el BF figura 'Grupo Vázquez S.A.E.C.A.' y 'Grupo Vázquez S.A.E.' (denominación inconsistente).
+place_analyzer,Place Analyzer E.A.S.,observacion_extractor,info,"La suma de porcentajes de BF (43,77% + 32%) y el 60% de ITTI implican que Federico M. Vázquez Villasanti controla ~72,95% de ITTI (dato no documentado aquí)."
+place_analyzer,Place Analyzer E.A.S.,observacion_extractor,info,Inscripción registral leída por OCR (fecha y números con confianza media).
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),filas_detalle_y_total,baja,El registro trae filas por título y totales; se usan los totales para el cálculo
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),observacion_extractor,info,La declaración de BF vigente (2026) está PENDIENTE / en proceso de aprobación en SIARA; la única constancia BF aprobada es de junio 2025 (F. M. Vázquez Villasanti).
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),observacion_extractor,info,"Entre el 09/09/2026 y el 02/10/2026 Ueno Bank transfirió a U Paraguay una acción ordinaria y 263.339 preferidas (9.714 + 68.000 + 5.979 + 180.646, esta última vía Red Digital S.A. -> ITTI -> Grupo Vázquez -> U Paraguay el mismo día 25/09/2026): operación circular entre empresas del grupo inmediatamente antes de la resolución de Ueno Bank."
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),observacion_extractor,info,Capital: RA (enero 2026) declara 50.000 M; el registro de octubre 2026 declara 766.681 M suscripto e integrado tras emisión de preferidas del 29/05/2026.
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),observacion_extractor,info,"El registro anota 'UENO HOLDING TRANSFIERE A GRUPO VAZQUEZ EN FECHA 15/09/202' (año incompleto) y la última fila tiene domicilio 'Torre 2, Piso 26' (resto Piso 25)."
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),observacion_extractor,info,Constancia BF escribe el CI de F. M. Vázquez Villasanti como 2.941.546 sin DV; en Tiva figura como 2491546 (dígitos transpuestos).
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),observacion_extractor,info,Correo de la PEJ en la RA es personal (a.pardo08@hotmail.com) del declarante.
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),observacion_extractor,info,"U Paraguay S.A. figura como BF (persona jurídica), lo que no corresponde a la definición de BF (persona física)."
+redisa,Red Digital S.A. (REDISA),suma_pct_vigente,alta,La suma de % de los accionistas vigentes es 172.12% (4 filas)
+redisa,Red Digital S.A. (REDISA),foto_vigente_mixta,baja,"Filas vigentes con fechas distintas: 2026-01-26, 2026-05-29"
+redisa,Red Digital S.A. (REDISA),pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+redisa,Red Digital S.A. (REDISA),observacion_extractor,info,"Ueno Bank S.A. (entidad en resolución) integró el 29-05-2026 acciones preferidas por Gs. 236.230.000.000 en Red Digital, sociedad controlada por U Paraguay / Grupo Vázquez: posible traspaso de recursos del banco a una vinculada; merece análisis."
+redisa,Red Digital S.A. (REDISA),observacion_extractor,info,La constancia RA (ene-2026) indica capital suscripto Gs. 100.000 millones (10.000 acciones) pero el registro solo muestra 9.132 OVS emitidas antes de mayo 2026; el Acta 15 habla de 10.000 acciones emitidas.
+redisa,Red Digital S.A. (REDISA),observacion_extractor,info,"La Escritura 57 asigna a Oscar Urdapilleta García la CI 1.418.920, que corresponde a Silvia Susana Bracho (en las constancias de Ueno Holding la CI de Urdapilleta es 1.495.964)."
+redisa,Red Digital S.A. (REDISA),observacion_extractor,info,El listado de BF (35 registros) está pendiente de aprobación en SIARA; incluye a la sociedad luxemburguesa U Holdings S.A.R.L. y a dos personas de Arendt Services (Luxemburgo).
+redisa,Red Digital S.A. (REDISA),observacion_extractor,info,La constancia BF cita CI 2.941.546 para Federico Miguel Vázquez Villasanti; la de Kaitel cita 2.491.546.
+redisa,Red Digital S.A. (REDISA),observacion_extractor,info,"Domicilio de U Paraguay: 'Torre 3 nivel 25' en la constancia RA vs 'Torre 2, Piso 25' en el registro."
+redisa,Red Digital S.A. (REDISA),observacion_extractor,info,Valor nominal de acciones: Gs. 100.000.000 en la constitución y Gs. 10.000.000 en el registro y actas posteriores (no se vio la escritura del cambio).
+red_uts_paraguay,Red UTS Paraguay S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+red_uts_paraguay,Red UTS Paraguay S.A.,autoridades_sin_ci,baja,11 autoridad(es) sin número de documento
+red_uts_paraguay,Red UTS Paraguay S.A.,observacion_extractor,info,"Capital: se aprobó la emisión de 4.657 acciones (hasta 5.000) en 2024, pero el registro de 2026 solo muestra 343 acciones; no consta suscripción de las nuevas acciones."
+red_uts_paraguay,Red UTS Paraguay S.A.,observacion_extractor,info,"Jack Fleischman (68 acciones según registro, RA y BF) no figura en las nóminas de asistentes de las asambleas de 2024 y 2026; en 2026 el acta totaliza 275 acciones pero usa porcentajes calculados sobre 343."
+red_uts_paraguay,Red UTS Paraguay S.A.,observacion_extractor,info,El archivo 'ACTA DIRECTORIO NRO 35' es en realidad un acta de asamblea ordinaria de accionistas.
+red_uts_paraguay,Red UTS Paraguay S.A.,observacion_extractor,info,"BF suma 96,24% (36,46+19,83+20,12+19,83); el 36,46% de Federico Vázquez parece calcularse sobre la participación previa de ITTI (60,06%), no sobre el 40,23% posterior a la transferencia a André Gayol."
+red_uts_paraguay,Red UTS Paraguay S.A.,observacion_extractor,info,Nombres con variantes: Luis Ernesto Angulo / Angulo Rivera; André Gayol / Andre Gayol Pires; Mónica Masulli / Masulli Barcarolo; ITTI S.A.E. / S.A.E.C.A. Domicilio de Jack Fleischman: 'Edificio The Tower' (RA) vs 'The Top' (BF y registro).
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),autoridades_sin_ci,baja,11 autoridad(es) sin número de documento
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),observacion_extractor,info,No se aportó constancia de Beneficiarios Finales.
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),observacion_extractor,info,"La constancia RA 2026 (formato nuevo) no detalla socios, autoridades ni capital."
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),observacion_extractor,info,"Pese a las transferencias a Santiago Weiler (20+15+15) del 18/12/2025, el registro mantiene 1.450 acciones para cada uno de Matsumiya, Maehara y Endo; la suma total (5.000) es coherente con la emisión, por lo que las 1.450 serían saldos posteriores a la transferencia, pero los rangos de numeración se superponen (p.ej. acciones 2117-2132 vs 1001-2116)."
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),observacion_extractor,info,"En el registro, el asiento de 20 acciones de Weiler cubre las acciones 2117-2132 (16 números), inconsistente."
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),observacion_extractor,info,Objeto social no extraído (no consta en las páginas revisadas).
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),observacion_extractor,info,"Sin vínculos documentales con el Grupo Vázquez/Ueno, salvo la participación cruzada en BIC S.A., donde también son accionistas Ueno Bank, Ueno Holding, ITTI, Red Digital y Vinanzas."
+solucion_efectiva,Solución Efectiva S.A.,autoridades_sin_ci,baja,1 autoridad(es) sin número de documento
+solucion_efectiva,Solución Efectiva S.A.,observacion_extractor,info,"Grupo Vázquez S.A.E. es accionista minoritario (8,10% del capital, 7,59% de votos aprox.); el control lo ejercen Achón Fornells (directo y vía Electroban), MTA SA y Rivarola."
+solucion_efectiva,Solución Efectiva S.A.,observacion_extractor,info,"La AGO N° 19 solo computa 9.850 acciones (Achón, Rivarola, Electroban); MTA SA y Grupo Vázquez no estuvieron presentes. El acta suma capital Gs. 4.925 M aunque escribe 4.725.000.000."
+solucion_efectiva,Solución Efectiva S.A.,observacion_extractor,info,Constancia BF 2024 no incluye BF por la participación de Grupo Vázquez (por debajo del umbral).
+solucion_efectiva,Solución Efectiva S.A.,observacion_extractor,info,Inscripción DRFS de la constitución realizada en 2018 fuera de plazo (sociedad constituida en 2013).
+solucion_efectiva,Solución Efectiva S.A.,observacion_extractor,info,Cambios de domicilio declarados entre 2024 (Pitiantuta c/ Mcal. Estigarribia) y 2025 (Francisco Vergara esq. Acceso Sur).
+technoma,Technoma S.A.E.C.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+technoma,Technoma S.A.E.C.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+technoma,Technoma S.A.E.C.A.,autoridades_sin_ci,baja,2 autoridad(es) sin número de documento
+technoma,Technoma S.A.E.C.A.,observacion_extractor,info,No se remitió constancia BF ni la constancia RA detallada (socios/autoridades).
+technoma,Technoma S.A.E.C.A.,observacion_extractor,info,No se hallaron vínculos accionarios directos con Ueno/ITTI/Grupo Vázquez; los vínculos son domicilio (Torres del Paseo) y Miguel Almada como representante de accionistas.
+technoma,Technoma S.A.E.C.A.,observacion_extractor,info,"Technoma posee el 51,75% de sus propias acciones (cartera) tras comprarlas a L. F. Ríos el 03/06/2025."
+technoma,Technoma S.A.E.C.A.,observacion_extractor,info,El registro escribe 'Pizurno' y 'Pizzurno'; la transferencia de 2 acciones a Enrique Vera (título 24) no tiene fecha.
+technoma,Technoma S.A.E.C.A.,observacion_extractor,info,CI de Enrique Vera Moreira leído por OCR como 12.543.551 (dudoso).
+terravaz,Terravaz S.A. Emisora,foto_vigente_mixta,baja,"Filas vigentes con fechas distintas: 2025-08-04, 2026-04-17"
+terravaz,Terravaz S.A. Emisora,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+terravaz,Terravaz S.A. Emisora,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+terravaz,Terravaz S.A. Emisora,autoridades_sin_ci,baja,7 autoridad(es) sin número de documento
+terravaz,Terravaz S.A. Emisora,observacion_extractor,info,No hay constancia de BF ni nómina SIARA.
+terravaz,Terravaz S.A. Emisora,observacion_extractor,info,"El registro presentado tiene datos erróneos de RUC de GV (80086759-10, -11, -12) y fechas dobles (28/02/2020 y 01/08/2020)."
+terravaz,Terravaz S.A. Emisora,observacion_extractor,info,Acta N° 20 tachada 'Extraordinaria' por 'Ordinaria' y hora 10:00 por 12:05 (salvadas); firma 'Tiziana Bussini Presidente' aunque era vicepresidente.
+terravaz,Terravaz S.A. Emisora,observacion_extractor,info,Aumento a Gs. 250.000 M aprobado pero el registro al 04/08/2025 aún muestra capital social Gs. 60.000 M y suscripto Gs. 30.000 M.
+terravaz,Terravaz S.A. Emisora,observacion_extractor,info,Toma de control por Grupo Vázquez en junio-agosto 2025 (de ~0% a 97%); correo SIARA aún con dominio radice.com.py.
+terravaz,Terravaz S.A. Emisora,observacion_extractor,info,"[VERIFICACIÓN 2026-11-24] RADICE S.A., fideicomitente desarrollador del Fideicomiso Shopping Costanera (contrato 21/01/2019), es la misma persona jurídica que TERRAVAZ S.A.E. (ex RADICE S.A.E.C.A., RUC 80104014-0): mismo número base de RUC (el contrato, leído por OCR, trae '80104014-7'; el dígito verificador correcto de 80104014 es 0), mismos firmantes Horacio José Biga (CI 5.990.871, Presidente) y Carlos Emilio Soler (CI 5.992.466, Vicepresidente), que son fundadores de RADICE S.A. (Esc. 119 del 28/08/2018), mismo ámbito (Encarnación, Costanera) y correos @radice.com.py. Desde jun-ago 2025 Gr"
+tiva,Tiva S.A.,ruc_tercero_dv_invalido,baja,ITTI S.A.E.C.A.: RUC 80028355-0 (DV correcto 4)
+tiva,Tiva S.A.,observacion_extractor,info,"La Esc. 59 (2019) dice que Tiva fue constituida por 'escritura pública N° 19 de fecha 17/05/2011', mientras el archivo remitido es la Esc. N° 89 del 30/07/2012 (con iguales datos de inscripción)."
+tiva,Tiva S.A.,observacion_extractor,info,"No hay documento (registro de accionistas, acta ni constancia de transferencia) del ingreso de ITTI en enero 2025."
+tiva,Tiva S.A.,observacion_extractor,info,RA ene-2025 omite a Carlos Rodríguez Alcalá (porcentajes suman 96%). RUC de ITTI declarado como 80028355-0 en dos constancias (correcto 80028355-4).
+tiva,Tiva S.A.,observacion_extractor,info,CI de F. M. Vázquez Villasanti escrito 2491546 (dígitos transpuestos respecto de 2941546). BF 2025 indica fecha 30-07-2022 para Cartes y Serra (probablemente 2012).
+tiva,Tiva S.A.,observacion_extractor,info,Declarante Aracely Torres de Yegros con dos CI distintos (2.182.518 en 2018; 2.466.640 en 2020).
+tiva,Tiva S.A.,observacion_extractor,info,No hay constancia BF posterior a ene-2025.
+tiva,Tiva S.A.,observacion_extractor,info,"[VERIFICACIÓN 2026-11-24] CI de Federico Miguel Vázquez Villasanti: el correcto es 2.941.546 (14 archivos fuente, incluida la Escritura 131 de Grupo Vázquez y constancias BF de Red Digital, Redipro, Place Analyzer, Red UTS). La variante 2.491.546 aparece sólo en las constancias BF de Kaitel y Tiva y es una transposición de dígitos: en ambas va acompañada del DV '-2', que es el dígito verificador de 2941546 (el de 2491546 sería 7)."
+tuiu,TUIU S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+tuiu,TUIU S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+tuiu,TUIU S.A.,autoridades_sin_ci,baja,4 autoridad(es) sin número de documento
+tuiu,TUIU S.A.,observacion_extractor,info,"El registro de accionistas consigna todas las acciones como serie 'A' sin distinguir voto múltiple, pero las actas asignan 1.250 votos a las 250 acciones de Ríos (provenientes de ITTI, de voto múltiple): Ríos controla 83,33% de los votos con 50% del capital."
+tuiu,TUIU S.A.,observacion_extractor,info,Luis Fernando Ríos Espínola no tiene CI consignada en los documentos.
+tuiu,TUIU S.A.,observacion_extractor,info,Los nombres de archivo de las constancias no coinciden con su número (el archivo 'CONSTANCIA RA 16474' es la N° 29102).
+tuiu,TUIU S.A.,observacion_extractor,info,"Sin constancia BF; el grupo ITTI salió formalmente del capital en agosto de 2025, pero directivos del grupo siguieron en el directorio (Rodrigo Franco en 2026) y el correo SIARA coincide con el declarante de Red Digital."
+tuiu,TUIU S.A.,observacion_extractor,info,Inscripción registral de la constitución no verificada en las páginas leídas.
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,sin_ruc,media,Entidad sin RUC en los documentos
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,sin_accionistas,alta,No se declaran accionistas/socios en los documentos remitidos
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,observacion_extractor,info,"Sin RUC ni registro SIARA (Informe CRA 385, pág. 2). Toda la información surge de documentos de U Paraguay, Red Digital y Red Digital de Procesamiento."
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,observacion_extractor,info,"No consta capital, socios, beneficiarios finales, domicilio exacto ni administradores formales de U Holdings: es el eslabón opaco de la cadena Ueno Bank/Red Digital → U Paraguay → U Holdings (Luxemburgo)."
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,observacion_extractor,info,"Grafía variable: 'U Holdings S.à r.l.', 'U HOLDINGS S.a.R.L.', 'U HOLDINGS S.A.R.L.'; el MEF la denomina 'UENO HOLDINGS S.A.R.L.'."
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,observacion_extractor,info,"Contradicción de participación en U Paraguay: actas 21-07-2025 (29,63% de votos) vs registros (≈99,99%)."
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,observacion_extractor,info,El número B280698 se declaró como 'Cédula Tributaria Extranjera'; no se verificó en el RCS de Luxemburgo.
+u_paraguay,U Paraguay S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+u_paraguay,U Paraguay S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+u_paraguay,U Paraguay S.A.,autoridades_sin_ci,baja,3 autoridad(es) sin número de documento
+u_paraguay,U Paraguay S.A.,observacion_extractor,info,"CONTRADICCIÓN RELEVANTE: las actas del 21/07/2025 asignan a Grupo Vázquez S.A.E. el 70,36% de los votos y a U Holdings 29,63%, mientras los registros de accionistas (al 30/12/2025 y posteriores) muestran a U Holdings con ≈100% desde 2023 y a Grupo Vázquez solo con 1 acción en copropiedad (hasta su capitalización de 32.109 acciones en 09/2026)."
+u_paraguay,U Paraguay S.A.,observacion_extractor,info,"Los registros de 30/12/2025 y 29/05/2026 difieren en numeración y cantidades de títulos (p.ej. 12.793 vs 12.794 acciones en el primer título de U Holdings; filas del 19/12/2025 distintas), aunque el total de U Holdings coincide hasta dic-2025."
+u_paraguay,U Paraguay S.A.,observacion_extractor,info,"La Escritura 84 fecha la constitución el 10/03/2022, pero la escritura de constitución y el dictamen indican 10/03/2023."
+u_paraguay,U Paraguay S.A.,observacion_extractor,info,U Holdings S.à r.l. es sociedad extranjera sin identificación (RUC/país) en los documentos; no hay constancia de Beneficiarios Finales. Federico Miguel Vázquez la representa.
+u_paraguay,U Paraguay S.A.,observacion_extractor,info,Documentos duplicados en la carpeta (acta N° 7 tres veces; escritura 84 dos veces).
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,autoridades_sin_ci,baja,5 autoridad(es) sin número de documento
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,observacion_extractor,info,Sin constancia BF; la constancia RA no detalla socios ni autoridades.
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,observacion_extractor,info,Nombre de archivo 'CONSTANCIA RA 4379' no coincide con el N° de constancia (10762).
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,observacion_extractor,info,Registro manuscrito: las transferencias Ueno Bank ↔ Grupo Vázquez ↔ Ueno Casa de Bolsa son leídas de anotaciones a mano (confianza media en fechas).
+ueno_bank,Ueno Bank S.A.,suma_pct_vigente,media,La suma de % de los accionistas vigentes es 95.21% (8 filas)
+ueno_bank,Ueno Bank S.A.,pct_faltante,media,5 fila(s) vigentes sin porcentaje
+ueno_bank,Ueno Bank S.A.,foto_vigente_mixta,baja,"Filas vigentes con fechas distintas: 2026-07-13, 2026-07-27"
+ueno_bank,Ueno Bank S.A.,fuentes_contradictorias,media,Las filas vigentes provienen de documentos distintos: ACTA DE ASAMBLEA.pdf; REGISTRO DE ACCIONISTAS (2).pdf
+ueno_bank,Ueno Bank S.A.,confianza_baja,media,5 fila(s) de accionistas con confianza baja (OCR/manuscrito)
+ueno_bank,Ueno Bank S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+ueno_bank,Ueno Bank S.A.,autoridades_sin_ci,baja,13 autoridad(es) sin número de documento
+ueno_bank,Ueno Bank S.A.,observacion_extractor,info,No se aportó constancia de Beneficiarios Finales de Ueno Bank (los BF últimos estarían detrás de U Paraguay S.A. / Grupo Vázquez).
+ueno_bank,Ueno Bank S.A.,observacion_extractor,info,La constancia RA (formato nuevo) no detalla socios ni autoridades.
+ueno_bank,Ueno Bank S.A.,observacion_extractor,info,"Los registros de accionistas listan cada título (miles de filas, muchos minoritarios PREF A provenientes de Visión Banco) sin totales por accionista; las tenencias principales se tomaron de las actas 98 y 99. Las cifras de minoritarios (Triodos, Oikocredit, Coronel Cabrera, etc.) son aproximaciones OCR de baja confianza."
+ueno_bank,Ueno Bank S.A.,observacion_extractor,info,"El control pasó de Grupo Vázquez S.A.E. (94,91% votos en marzo 2024) a U Paraguay S.A. (98,70% votos en julio 2026); no se aportó documento de esa transferencia."
+ueno_bank,Ueno Bank S.A.,observacion_extractor,info,Discrepancia de domicilio social: Paseo La Galería Torre 1 Piso 5 (2024) vs Avda. Santa Teresa 3.088 (2026).
+ueno_bank,Ueno Bank S.A.,observacion_extractor,info,"Distintas ediciones del directorio: entre feb. y jul. 2026 salen Julio Daniel Rey Fernández, Mariana Torres Rubiani y Joshua Abreu Boss; entran Waldo Emilio Roberto y Carlos F. Impagliatelli Bareiro."
+ueno_bank,Ueno Bank S.A.,observacion_extractor,info,En el registro el accionista RUC de La Agrícola S.A. de Seguros se lee 80020935-4 por OCR (verificar).
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,autoridades_sin_ci,baja,5 autoridad(es) sin número de documento
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,observacion_extractor,info,No se aportó constancia de Beneficiarios Finales.
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,observacion_extractor,info,"La constancia RA no detalla socios, autoridades ni capital."
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,observacion_extractor,info,"En el registro, el asiento de 100 acciones (títulos 12.115-12.214) figura con monto Gs. 1.000.000 en lugar de Gs. 100.000.000."
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,observacion_extractor,info,"En el folio 7, la anotación 'transferencia de Grupo Vazquez de U Paraguay' tiene redacción inconsistente (debería ser 'a U Paraguay')."
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,observacion_extractor,info,La acción de Miguel Vázquez (28/06/2024) no tiene CI registrada; identidad exacta no determinada.
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,observacion_extractor,info,"No se revisaron las últimas páginas de la escritura N° 40 (directorio inicial de Ueno Casa de Bolsa en 2023, salvo comparecientes)."
+ueno_holding_saeca,Ueno Holding S.A.E.C.A.,sin_accionistas,alta,No se declaran accionistas/socios en los documentos remitidos
+ueno_holding_saeca,Ueno Holding S.A.E.C.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+ueno_holding_saeca,Ueno Holding S.A.E.C.A.,observacion_extractor,info,No se declaran accionistas ni beneficiarios finales: ambas constancias se remiten al convenio CNV–Abogacía del Tesoro (20-02-2020) por ser emisora de capital abierto.
+ueno_holding_saeca,Ueno Holding S.A.E.C.A.,observacion_extractor,info,"La sociedad fue absorbida por Grupo Vázquez S.A.E. (Esc. 131 del 16-07-2025); las constancias (abril 2025) son previas a la fusión, por lo que el directorio se marca como no vigente."
+ueno_holding_saeca,Ueno Holding S.A.E.C.A.,observacion_extractor,info,"El historial proviene de la Escritura 131 de la carpeta de Grupo Vázquez (páginas 4-9, lectura de imagen; confianza media en fechas)."
+ueno_seguros,Ueno Seguros S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+ueno_seguros,Ueno Seguros S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+ueno_seguros,Ueno Seguros S.A.,autoridades_sin_ci,baja,27 autoridad(es) sin número de documento
+ueno_seguros,Ueno Seguros S.A.,observacion_extractor,info,No se remitió constancia de Beneficiarios Finales; la constancia RA no lista socios ni autoridades.
+ueno_seguros,Ueno Seguros S.A.,observacion_extractor,info,El registro no indica documentos de identidad de los accionistas; CI de Nicolás T. Sarubbi Zayas y Jorge R. Sarubbi Caballero tomados de la Escritura 222/2014.
+ueno_seguros,Ueno Seguros S.A.,observacion_extractor,info,"Acciones OVM (voto múltiple, 5 votos según estatuto 2022): 55.135 de U Paraguay y 3.992 de Grupo Vázquez; porcentaje de votos no calculado en el documento. Con 5 votos por OVM, U Paraguay+Grupo Vázquez superarían ampliamente el 90% de los votos (cálculo propio, no verificado)."
+ueno_seguros,Ueno Seguros S.A.,observacion_extractor,info,El acta 46 menciona 'Grupo Vazquez S.A.' y 'Grupo Vazquez S.A.E.' indistintamente; y 'Rumilda Nunes' (registro: Romilda Concepción Nunes de Levi).
+ueno_seguros,Ueno Seguros S.A.,observacion_extractor,info,Acta 46 (25/10/2024) aprueba balances del ejercicio cerrado al 30/06/2024; no se remitió acta posterior de elección de autoridades.
+v_media,V Media S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+v_media,V Media S.A.,observacion_extractor,info,El registro de accionistas indica 'TOTAL 1.000' acciones aunque las filas suman 2.000; los % de capital y votos son inconsistentes (base 2.000 vs 1.000).
+v_media,V Media S.A.,observacion_extractor,info,"El 23/03/2026 Grupo Vázquez transfirió el 99,9% a Gloria Elizabeth Villasanti Farinha (persona física), pocos meses antes del proceso de resolución de Ueno Bank."
+v_media,V Media S.A.,observacion_extractor,info,No hay constancia BF ni datos de beneficiarios finales; tampoco CI de Gloria Villasanti en este legajo (se toma 404147 de AIME).
+v_media,V Media S.A.,observacion_extractor,info,En el acta N° 28 'el Sr. Mauro Vargas designa' secretaria sin ser accionista directo (representa a CBS S.A.).
+villa_oliva_rice,Villa Oliva Rice S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+villa_oliva_rice,Villa Oliva Rice S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+villa_oliva_rice,Villa Oliva Rice S.A.,autoridades_sin_ci,baja,10 autoridad(es) sin número de documento
+villa_oliva_rice,Villa Oliva Rice S.A.,observacion_extractor,info,Sin constancia de Beneficiarios Finales; no se identifican personas físicas controlantes (accionistas son sociedades uruguayas).
+villa_oliva_rice,Villa Oliva Rice S.A.,observacion_extractor,info,"Inconsistencia aritmética: 1.895 acciones + 489 emitidas = 2.384, pero el acta dice que el capital queda representado por 2.386 acciones."
+villa_oliva_rice,Villa Oliva Rice S.A.,observacion_extractor,info,"En Rice Paraguay, Camilatam figura con 350.592 acciones pero 330.592 votos (posible error de tipeo)."
+villa_oliva_rice,Villa Oliva Rice S.A.,observacion_extractor,info,No se observaron vínculos directos con Ueno / Grupo Vázquez en los documentos leídos. El escribano Peroni Giralt (Reg. 528) también intervino en Escritura 222/2014 de Alfa/Ueno Seguros.
+villa_oliva_rice,Villa Oliva Rice S.A.,observacion_extractor,info,Escritura de 70 páginas leída parcialmente (pp. 1-7).
+vinanzas,Vinanzas S.A.,foto_vigente_mixta,baja,"Filas vigentes con fechas distintas: 2026-05-18, 2026-08-17"
+vinanzas,Vinanzas S.A.,pct_calculado,baja,Porcentajes calculados por el extractor (no declarados en el documento)
+vinanzas,Vinanzas S.A.,sin_bf,media,No hay constancia/listado de beneficiarios finales en la documentación
+vinanzas,Vinanzas S.A.,autoridades_sin_ci,baja,10 autoridad(es) sin número de documento
+vinanzas,Vinanzas S.A.,observacion_extractor,info,No hay constancia de BF ni nómina SIARA.
+vinanzas,Vinanzas S.A.,observacion_extractor,info,"Acta N° 01 computa ITTI 298 acciones (54,08%) e IOIO 185 (33,58%), inconsistente con el registro (ITTI 274/344, IOIO 209) y omite a GV; el % sugiere base 551."
+vinanzas,Vinanzas S.A.,observacion_extractor,info,Segunda versión del registro: porcentajes calculados sobre 484 acciones en vez de 551; renglón ITTI con 23 acciones pero 5 votos; bloque IOIO 519-542 solapa con GV 476-542.
+vinanzas,Vinanzas S.A.,observacion_extractor,info,"Acta N° 2 denomina al accionista 'ITTI S.A.E.' y suma 12,34%+49,73%=62,07% (IOIO ausente)."
+vinanzas,Vinanzas S.A.,observacion_extractor,info,Acta N° 1 usa 'IOIO S.A.' e 'ITTI S.A.E.' en lugar de S.A.E.C.A.
+vinanzas,Vinanzas S.A.,observacion_extractor,info,"Todos los accionistas son sociedades del grupo (ITTI, IOIO, Grupo Vázquez, antes Ueno Holding): control indirecto de la familia Vázquez."
+23_sports_marketing,23 Sports Marketing S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+aime_corredores,AIME S.A. Corredores de Seguros,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+inter_express,Inter-Express S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+intertours,Intertours S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+kaitel,Kaitel S.R.L.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+nubicom_paraguay,Nubicom Paraguay S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+redisa,Red Digital S.A. (REDISA),persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+terravaz,Terravaz S.A. Emisora,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+tuiu,TUIU S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+u_paraguay,U Paraguay S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+ueno_bank,Ueno Bank S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+ueno_seguros,Ueno Seguros S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+v_media,V Media S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+vinanzas,Vinanzas S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA FRUTOS' unida por nombre (sin CI común)
+23_sports_marketing,23 Sports Marketing S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+aime_corredores,AIME S.A. Corredores de Seguros,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+inter_express,Inter-Express S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+intertours,Intertours S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+kaitel,Kaitel S.R.L.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+nubicom_paraguay,Nubicom Paraguay S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+redisa,Red Digital S.A. (REDISA),persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+terravaz,Terravaz S.A. Emisora,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+tuiu,TUIU S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+u_paraguay,U Paraguay S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+ueno_bank,Ueno Bank S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+ueno_seguros,Ueno Seguros S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+v_media,V Media S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+vinanzas,Vinanzas S.A.,persona_union_por_nombre,info,MIGUEL ANGEL ALMADA FRUTOS (P0001): forma 'MIGUEL ALMADA' unida por nombre (sin CI común)
+23_sports_marketing,23 Sports Marketing S.A.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+discover_paraguay,Discover Paraguay S.A.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+grupo_vazquez,Grupo Vázquez S.A.E.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+kaitel,Kaitel S.R.L.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+mowi,MOWI S.A.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+place_analyzer,Place Analyzer E.A.S.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+red_uts_paraguay,Red UTS Paraguay S.A.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+redisa,Red Digital S.A. (REDISA),persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+tiva,Tiva S.A.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+u_paraguay,U Paraguay S.A.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+ueno_bank,Ueno Bank S.A.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,persona_ci_corregida,baja,FEDERICO MIGUEL VAZQUEZ VILLASANTI (P0003): CI 2491546 corregida a 2941546 (transposición verificada)
+23_sports_marketing,23 Sports Marketing S.A.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+franede,Franede S.A.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+grupo_vazquez,Grupo Vázquez S.A.E.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+idl,Impresión Distribución y Logística S.A.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+inter_express,Inter-Express S.A.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+itti,ITTI S.A.E.C.A.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+nubicom_paraguay,Nubicom Paraguay S.A.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+office_design,Office Design S.R.L.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+place_analyzer,Place Analyzer E.A.S.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+terravaz,Terravaz S.A. Emisora,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+ueno_bank,Ueno Bank S.A.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+vinanzas,Vinanzas S.A.,persona_union_por_nombre,info,GUILLERMO VAZQUEZ MUNIAGURRIA (P0004): forma 'GUILLERMO VAZQUEZ' unida por nombre (sin CI común)
+23_sports_marketing,23 Sports Marketing S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'LUIS MARCELO CARDOZO' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'LUIS MARCELO CARDOZO' unida por nombre (sin CI común)
+inter_express,Inter-Express S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'LUIS MARCELO CARDOZO' unida por nombre (sin CI común)
+intertours,Intertours S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'LUIS MARCELO CARDOZO' unida por nombre (sin CI común)
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'LUIS MARCELO CARDOZO' unida por nombre (sin CI común)
+oniria,Oniria S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'LUIS MARCELO CARDOZO' unida por nombre (sin CI común)
+red_uts_paraguay,Red UTS Paraguay S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'LUIS MARCELO CARDOZO' unida por nombre (sin CI común)
+terravaz,Terravaz S.A. Emisora,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'LUIS MARCELO CARDOZO' unida por nombre (sin CI común)
+23_sports_marketing,23 Sports Marketing S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'MARCELO CARDOZO' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'MARCELO CARDOZO' unida por nombre (sin CI común)
+inter_express,Inter-Express S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'MARCELO CARDOZO' unida por nombre (sin CI común)
+intertours,Intertours S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'MARCELO CARDOZO' unida por nombre (sin CI común)
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'MARCELO CARDOZO' unida por nombre (sin CI común)
+oniria,Oniria S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'MARCELO CARDOZO' unida por nombre (sin CI común)
+red_uts_paraguay,Red UTS Paraguay S.A.,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'MARCELO CARDOZO' unida por nombre (sin CI común)
+terravaz,Terravaz S.A. Emisora,persona_union_por_nombre,info,LUIS MARCELO CARDOZO LEDESMA (P0006): forma 'MARCELO CARDOZO' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,LIZ RAQUEL VAZQUEZ BENITEZ (P0007): forma 'RAQUEL VAZQUEZ' unida por nombre (sin CI común)
+place_analyzer,Place Analyzer E.A.S.,persona_union_por_nombre,info,LIZ RAQUEL VAZQUEZ BENITEZ (P0007): forma 'RAQUEL VAZQUEZ' unida por nombre (sin CI común)
+terravaz,Terravaz S.A. Emisora,persona_union_por_nombre,info,LIZ RAQUEL VAZQUEZ BENITEZ (P0007): forma 'RAQUEL VAZQUEZ' unida por nombre (sin CI común)
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,persona_union_por_nombre,info,LIZ RAQUEL VAZQUEZ BENITEZ (P0007): forma 'RAQUEL VAZQUEZ' unida por nombre (sin CI común)
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,persona_union_por_nombre,info,LIZ RAQUEL VAZQUEZ BENITEZ (P0007): forma 'RAQUEL VAZQUEZ' unida por nombre (sin CI común)
+v_media,V Media S.A.,persona_union_por_nombre,info,LIZ RAQUEL VAZQUEZ BENITEZ (P0007): forma 'RAQUEL VAZQUEZ' unida por nombre (sin CI común)
+vinanzas,Vinanzas S.A.,persona_union_por_nombre,info,LIZ RAQUEL VAZQUEZ BENITEZ (P0007): forma 'RAQUEL VAZQUEZ' unida por nombre (sin CI común)
+itti,ITTI S.A.E.C.A.,persona_union_por_nombre,info,LUIS ERNESTO ANGULO RIVERA (P0008): forma 'LUIS ANGULO' unida por nombre (sin CI común)
+office_design,Office Design S.R.L.,persona_union_por_nombre,info,LUIS ERNESTO ANGULO RIVERA (P0008): forma 'LUIS ANGULO' unida por nombre (sin CI común)
+place_analyzer,Place Analyzer E.A.S.,persona_union_por_nombre,info,LUIS ERNESTO ANGULO RIVERA (P0008): forma 'LUIS ANGULO' unida por nombre (sin CI común)
+red_uts_paraguay,Red UTS Paraguay S.A.,persona_union_por_nombre,info,LUIS ERNESTO ANGULO RIVERA (P0008): forma 'LUIS ANGULO' unida por nombre (sin CI común)
+tiva,Tiva S.A.,persona_union_por_nombre,info,LUIS ERNESTO ANGULO RIVERA (P0008): forma 'LUIS ANGULO' unida por nombre (sin CI común)
+tuiu,TUIU S.A.,persona_union_por_nombre,info,LUIS ERNESTO ANGULO RIVERA (P0008): forma 'LUIS ANGULO' unida por nombre (sin CI común)
+ueno_holding_saeca,Ueno Holding S.A.E.C.A.,persona_union_por_nombre,info,LUIS ERNESTO ANGULO RIVERA (P0008): forma 'LUIS ANGULO' unida por nombre (sin CI común)
+mowi,MOWI S.A.,persona_union_por_nombre,info,EDUARDO JAVIER GROSS BROWN COSTA (P0009): forma 'EDUARDO GROSS BROWN' unida por nombre (sin CI común)
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),persona_union_por_nombre,info,EDUARDO JAVIER GROSS BROWN COSTA (P0009): forma 'EDUARDO GROSS BROWN' unida por nombre (sin CI común)
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,persona_union_por_nombre,info,EDUARDO JAVIER GROSS BROWN COSTA (P0009): forma 'EDUARDO GROSS BROWN' unida por nombre (sin CI común)
+ueno_bank,Ueno Bank S.A.,persona_union_por_nombre,info,EDUARDO JAVIER GROSS BROWN COSTA (P0009): forma 'EDUARDO GROSS BROWN' unida por nombre (sin CI común)
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,persona_union_por_nombre,info,EDUARDO JAVIER GROSS BROWN COSTA (P0009): forma 'EDUARDO GROSS BROWN' unida por nombre (sin CI común)
+ueno_seguros,Ueno Seguros S.A.,persona_union_por_nombre,info,EDUARDO JAVIER GROSS BROWN COSTA (P0009): forma 'EDUARDO GROSS BROWN' unida por nombre (sin CI común)
+23_sports_marketing,23 Sports Marketing S.A.,persona_union_por_nombre,info,RODOLFO ANDRES BARRIOS DUBA (P0011): forma 'RODOLFO BARRIOS' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,RODOLFO ANDRES BARRIOS DUBA (P0011): forma 'RODOLFO BARRIOS' unida por nombre (sin CI común)
+inter_express,Inter-Express S.A.,persona_union_por_nombre,info,RODOLFO ANDRES BARRIOS DUBA (P0011): forma 'RODOLFO BARRIOS' unida por nombre (sin CI común)
+intertours,Intertours S.A.,persona_union_por_nombre,info,RODOLFO ANDRES BARRIOS DUBA (P0011): forma 'RODOLFO BARRIOS' unida por nombre (sin CI común)
+oniria,Oniria S.A.,persona_union_por_nombre,info,RODOLFO ANDRES BARRIOS DUBA (P0011): forma 'RODOLFO BARRIOS' unida por nombre (sin CI común)
+place_analyzer,Place Analyzer E.A.S.,persona_union_por_nombre,info,RODOLFO ANDRES BARRIOS DUBA (P0011): forma 'RODOLFO BARRIOS' unida por nombre (sin CI común)
+grupo_m,Grupo M S.A.,persona_union_por_nombre,info,JOSE MARIA MONTERO ZUCCOLILLO (P0013): forma 'JOSE MARIA MONTERO' unida por nombre (sin CI común)
+idl,Impresión Distribución y Logística S.A.,persona_union_por_nombre,info,JOSE MARIA MONTERO ZUCCOLILLO (P0013): forma 'JOSE MARIA MONTERO' unida por nombre (sin CI común)
+red_uts_paraguay,Red UTS Paraguay S.A.,persona_union_por_nombre,info,JOSE MARIA MONTERO ZUCCOLILLO (P0013): forma 'JOSE MARIA MONTERO' unida por nombre (sin CI común)
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),persona_union_por_nombre,info,JOSE MARIA MONTERO ZUCCOLILLO (P0013): forma 'JOSE MARIA MONTERO' unida por nombre (sin CI común)
+u_paraguay,U Paraguay S.A.,persona_union_por_nombre,info,JOSE MARIA MONTERO ZUCCOLILLO (P0013): forma 'JOSE MARIA MONTERO' unida por nombre (sin CI común)
+mowi,MOWI S.A.,persona_union_por_nombre,info,CAROLINA MARIA GALEANO DE BESTARD (P0022): forma 'CAROLINA GALEANO BESTARD' unida por nombre (sin CI común)
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,persona_union_por_nombre,info,CAROLINA MARIA GALEANO DE BESTARD (P0022): forma 'CAROLINA GALEANO BESTARD' unida por nombre (sin CI común)
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,persona_union_por_nombre,info,CAROLINA MARIA GALEANO DE BESTARD (P0022): forma 'CAROLINA GALEANO BESTARD' unida por nombre (sin CI común)
+ueno_seguros,Ueno Seguros S.A.,persona_union_por_nombre,info,CAROLINA MARIA GALEANO DE BESTARD (P0022): forma 'CAROLINA GALEANO BESTARD' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,DIANA LETICIA MONGELOS GONZALEZ (P0023): forma 'DIANA MONGELOS' unida por nombre (sin CI común)
+hanoi,Hanoi S.A.,persona_union_por_nombre,info,DIANA LETICIA MONGELOS GONZALEZ (P0023): forma 'DIANA MONGELOS' unida por nombre (sin CI común)
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),persona_union_por_nombre,info,DIANA LETICIA MONGELOS GONZALEZ (P0023): forma 'DIANA MONGELOS' unida por nombre (sin CI común)
+ueno_bank,Ueno Bank S.A.,persona_union_por_nombre,info,DIANA LETICIA MONGELOS GONZALEZ (P0023): forma 'DIANA MONGELOS' unida por nombre (sin CI común)
+franede,Franede S.A.,persona_union_por_nombre,info,MONICA LETICIA GADEA GOMEZ DE LA FUENTE (P0025): forma 'MONICA GADEA' unida por nombre (sin CI común)
+office_design,Office Design S.R.L.,persona_union_por_nombre,info,MONICA LETICIA GADEA GOMEZ DE LA FUENTE (P0025): forma 'MONICA GADEA' unida por nombre (sin CI común)
+technoma,Technoma S.A.E.C.A.,persona_union_por_nombre,info,MONICA LETICIA GADEA GOMEZ DE LA FUENTE (P0025): forma 'MONICA GADEA' unida por nombre (sin CI común)
+tuiu,TUIU S.A.,persona_union_por_nombre,info,MONICA LETICIA GADEA GOMEZ DE LA FUENTE (P0025): forma 'MONICA GADEA' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,MONICA RAQUEL COSTA BARRIOCANAL (P0026): forma 'MONICA COSTA BARRIOCANAL' unida por nombre (sin CI común)
+inter_express,Inter-Express S.A.,persona_union_por_nombre,info,MONICA RAQUEL COSTA BARRIOCANAL (P0026): forma 'MONICA COSTA BARRIOCANAL' unida por nombre (sin CI común)
+intertours,Intertours S.A.,persona_union_por_nombre,info,MONICA RAQUEL COSTA BARRIOCANAL (P0026): forma 'MONICA COSTA BARRIOCANAL' unida por nombre (sin CI común)
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,persona_union_por_nombre,info,MONICA RAQUEL COSTA BARRIOCANAL (P0026): forma 'MONICA COSTA BARRIOCANAL' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,MONICA RAQUEL COSTA BARRIOCANAL (P0026): forma 'MONICA COSTA' unida por nombre (sin CI común)
+inter_express,Inter-Express S.A.,persona_union_por_nombre,info,MONICA RAQUEL COSTA BARRIOCANAL (P0026): forma 'MONICA COSTA' unida por nombre (sin CI común)
+intertours,Intertours S.A.,persona_union_por_nombre,info,MONICA RAQUEL COSTA BARRIOCANAL (P0026): forma 'MONICA COSTA' unida por nombre (sin CI común)
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,persona_union_por_nombre,info,MONICA RAQUEL COSTA BARRIOCANAL (P0026): forma 'MONICA COSTA' unida por nombre (sin CI común)
+mowi,MOWI S.A.,persona_union_por_nombre,info,PABLO ANTONIO DEBUCKY BOCELLI (P0027): forma 'PABLO DEBUCHY' unida por nombre (sin CI común)
+redisa,Red Digital S.A. (REDISA),persona_union_por_nombre,info,PABLO ANTONIO DEBUCKY BOCELLI (P0027): forma 'PABLO DEBUCHY' unida por nombre (sin CI común)
+ueno_bank,Ueno Bank S.A.,persona_union_por_nombre,info,PABLO ANTONIO DEBUCKY BOCELLI (P0027): forma 'PABLO DEBUCHY' unida por nombre (sin CI común)
+ueno_seguros,Ueno Seguros S.A.,persona_union_por_nombre,info,PABLO ANTONIO DEBUCKY BOCELLI (P0027): forma 'PABLO DEBUCHY' unida por nombre (sin CI común)
+idl,Impresión Distribución y Logística S.A.,persona_union_por_nombre,info,RUTH STAEL RAMIREZ LEZCANO (P0028): forma 'RUTH RAMIREZ' unida por nombre (sin CI común)
+terravaz,Terravaz S.A. Emisora,persona_union_por_nombre,info,RUTH STAEL RAMIREZ LEZCANO (P0028): forma 'RUTH RAMIREZ' unida por nombre (sin CI común)
+ueno_holding_saeca,Ueno Holding S.A.E.C.A.,persona_union_por_nombre,info,RUTH STAEL RAMIREZ LEZCANO (P0028): forma 'RUTH RAMIREZ' unida por nombre (sin CI común)
+vinanzas,Vinanzas S.A.,persona_union_por_nombre,info,RUTH STAEL RAMIREZ LEZCANO (P0028): forma 'RUTH RAMIREZ' unida por nombre (sin CI común)
+grupo_hendy,Grupo Hendy S.A.,persona_union_por_nombre,info,DIEGO SEBASTIAN GOMEZ ARCE (P0030): forma 'DIEGO GOMEZ' unida por nombre (sin CI común)
+grupo_m,Grupo M S.A.,persona_union_por_nombre,info,DIEGO SEBASTIAN GOMEZ ARCE (P0030): forma 'DIEGO GOMEZ' unida por nombre (sin CI común)
+hanoi,Hanoi S.A.,persona_union_por_nombre,info,DIEGO SEBASTIAN GOMEZ ARCE (P0030): forma 'DIEGO GOMEZ' unida por nombre (sin CI común)
+grupo_m,Grupo M S.A.,persona_union_por_nombre,info,HECTOR PALAZON RUIZ (P0031): forma 'HECTOR PALAZON' unida por nombre (sin CI común)
+idl,Impresión Distribución y Logística S.A.,persona_union_por_nombre,info,HECTOR PALAZON RUIZ (P0031): forma 'HECTOR PALAZON' unida por nombre (sin CI común)
+red_uts_paraguay,Red UTS Paraguay S.A.,persona_union_por_nombre,info,HECTOR PALAZON RUIZ (P0031): forma 'HECTOR PALAZON' unida por nombre (sin CI común)
+23_sports_marketing,23 Sports Marketing S.A.,persona_union_por_nombre,info,LAURA VARGAS WILDBERGER (P0032): forma 'LAURA VARGAS' unida por nombre (sin CI común)
+grupo_vazquez,Grupo Vázquez S.A.E.,persona_union_por_nombre,info,LAURA VARGAS WILDBERGER (P0032): forma 'LAURA VARGAS' unida por nombre (sin CI común)
+v_media,V Media S.A.,persona_union_por_nombre,info,LAURA VARGAS WILDBERGER (P0032): forma 'LAURA VARGAS' unida por nombre (sin CI común)
+grupo_vazquez,Grupo Vázquez S.A.E.,persona_union_por_nombre,info,MARIANA ISABEL TORRES RUBIANI (P0033): forma 'MARIANA TORRES RUBIANI' unida por nombre (sin CI común)
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),persona_union_por_nombre,info,MARIANA ISABEL TORRES RUBIANI (P0033): forma 'MARIANA TORRES RUBIANI' unida por nombre (sin CI común)
+ueno_bank,Ueno Bank S.A.,persona_union_por_nombre,info,MARIANA ISABEL TORRES RUBIANI (P0033): forma 'MARIANA TORRES RUBIANI' unida por nombre (sin CI común)
+mowi,MOWI S.A.,persona_union_por_nombre,info,CARLOS LORENZO CODAS ZAVALA (P0038): forma 'CARLOS CODAS' unida por nombre (sin CI común)
+ueno_bank,Ueno Bank S.A.,persona_union_por_nombre,info,CARLOS LORENZO CODAS ZAVALA (P0038): forma 'CARLOS CODAS' unida por nombre (sin CI común)
+franede,Franede S.A.,persona_union_por_nombre,info,CECILIA MARIA DOMINGUEZ ELIZECHE (P0039): forma 'CECILIA DOMINGUEZ ELIZECHE' unida por nombre (sin CI común)
+terravaz,Terravaz S.A. Emisora,persona_union_por_nombre,info,CECILIA MARIA DOMINGUEZ ELIZECHE (P0039): forma 'CECILIA DOMINGUEZ ELIZECHE' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,GERALDINE DESSIREE PERSON RESQUIN (P0045): forma 'GERALDINE PERSON RESQUIN' unida por nombre (sin CI común)
+intertours,Intertours S.A.,persona_union_por_nombre,info,GERALDINE DESSIREE PERSON RESQUIN (P0045): forma 'GERALDINE PERSON RESQUIN' unida por nombre (sin CI común)
+discover_paraguay,Discover Paraguay S.A.,persona_union_por_nombre,info,GERALDINE DESSIREE PERSON RESQUIN (P0045): forma 'GERALDINE PERSON' unida por nombre (sin CI común)
+intertours,Intertours S.A.,persona_union_por_nombre,info,GERALDINE DESSIREE PERSON RESQUIN (P0045): forma 'GERALDINE PERSON' unida por nombre (sin CI común)
+aime_corredores,AIME S.A. Corredores de Seguros,persona_ci_conflicto,media,GLORIA ELIZABETH VILLASANTI FARINHA (P0046): CI 404147 también asignada a 'MARTIN VARGAS WILDBERGER'
+v_media,V Media S.A.,persona_ci_conflicto,media,GLORIA ELIZABETH VILLASANTI FARINHA (P0046): CI 404147 también asignada a 'MARTIN VARGAS WILDBERGER'
+technoma,Technoma S.A.E.C.A.,persona_union_por_nombre,info,LUIS FERNANDO RIOS ESPINOLA (P0056): forma 'LUIS RIOS' unida por nombre (sin CI común)
+tuiu,TUIU S.A.,persona_union_por_nombre,info,LUIS FERNANDO RIOS ESPINOLA (P0056): forma 'LUIS RIOS' unida por nombre (sin CI común)
+mowi,MOWI S.A.,persona_union_por_nombre,info,MARCO DARIO GALANTI BARRIENTOS (P0057): forma 'MARCO GALANTI' unida por nombre (sin CI común)
+nubicom_paraguay,Nubicom Paraguay S.A.,persona_union_por_nombre,info,MARCO DARIO GALANTI BARRIENTOS (P0057): forma 'MARCO GALANTI' unida por nombre (sin CI común)
+grupo_hendy,Grupo Hendy S.A.,persona_union_por_nombre,info,RODRIGO RAMON FRANCO ORTIZ (P0062): forma 'RODRIGO FRANCO' unida por nombre (sin CI común)
+tuiu,TUIU S.A.,persona_union_por_nombre,info,RODRIGO RAMON FRANCO ORTIZ (P0062): forma 'RODRIGO FRANCO' unida por nombre (sin CI común)
+ueno_bank,Ueno Bank S.A.,persona_union_por_nombre,info,SILVIA ROSA SUSANA MURTO DE MENDEZ (P0063): forma 'SILVIA MURTO' unida por nombre (sin CI común)
+ueno_seguros,Ueno Seguros S.A.,persona_union_por_nombre,info,SILVIA ROSA SUSANA MURTO DE MENDEZ (P0063): forma 'SILVIA MURTO' unida por nombre (sin CI común)
+bic,BIC S.A. (Buró de Información Comercial),persona_union_por_nombre,info,THALYA MARIA BENTO COLMAN (P0065): forma 'THALYA BENTO' unida por nombre (sin CI común)
+solucion_efectiva,Solución Efectiva S.A.,persona_union_por_nombre,info,THALYA MARIA BENTO COLMAN (P0065): forma 'THALYA BENTO' unida por nombre (sin CI común)
+grupo_hendy,Grupo Hendy S.A.,persona_union_por_nombre,info,VANESSA ESTHER GODOY AYALA (P0066): forma 'VANESSA GODOY' unida por nombre (sin CI común)
+kaitel,Kaitel S.R.L.,persona_union_por_nombre,info,VANESSA ESTHER GODOY AYALA (P0066): forma 'VANESSA GODOY' unida por nombre (sin CI común)
+mowi,MOWI S.A.,persona_union_por_nombre,info,VERONICA FRANCO LOPEZ MOREIRA (P0067): forma 'VERONICA FRANCO' unida por nombre (sin CI común)
+villa_oliva_rice,Villa Oliva Rice S.A.,persona_union_por_nombre,info,VERONICA FRANCO LOPEZ MOREIRA (P0067): forma 'VERONICA FRANCO' unida por nombre (sin CI común)
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,persona_union_por_nombre,info,VERONICA VAZQUEZ MUNIAGURRIA (P0068): forma 'VERONICA VAZQUEZ' unida por nombre (sin CI común)
+ueno_seguros,Ueno Seguros S.A.,persona_union_por_nombre,info,VERONICA VAZQUEZ MUNIAGURRIA (P0068): forma 'VERONICA VAZQUEZ' unida por nombre (sin CI común)
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),persona_union_por_nombre,info,BLANCA BRITEZ DE NARA (P0088): forma 'BLANCA BRITEZ' unida por nombre (sin CI común)
+franede,Franede S.A.,persona_union_por_nombre,info,CARLOS ALBERTO BITTAR (P0093): forma 'ALBERTO BITTAR' unida por nombre (sin CI común)
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,persona_union_por_nombre,info,CURT ERNESTO TIPPACH MANZONI Y DOS SOCIOS CUALESQUIERA (P0119): forma 'CURT ERNESTO TIPPACH MANZONI' unida por nombre (sin CI común)
+grupo_berilo,Grupo Berilo S.A.,persona_ci_conflicto,media,"DIEGO MARIO PENA (P0125): CI distintas en las fuentes: 23598940 (x1), 3767321 (x1)"
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),persona_union_por_nombre,info,ELIAS VALIENTE VILLALBA (P0138): forma 'ELIAS VALIENTE' unida por nombre (sin CI común)
+cbs,CBS S.A.,persona_ci_conflicto,media,EMILIO VICTOR ANDRES PERALTA DUARTE (P0140): CI ilegible: CI 1.215.82? (OCR ilegible)
+ueno_seguros,Ueno Seguros S.A.,persona_union_por_nombre,info,FRANKLIN GERARDO BOCCIA SILVEIRA (P0154): forma 'FRANKLIN BOCCIA' unida por nombre (sin CI común)
+ueno_seguros,Ueno Seguros S.A.,persona_union_por_nombre,info,FULVIA ESTHER AGUIRRE SANCHEZ DE AQUINO (P0156): forma 'FULVIA ESTHER AGUIRRE AQUINO' unida por nombre (sin CI común)
+cbs,CBS S.A.,persona_ci_conflicto,media,JORGE DUILIO BENITEZ ESTIGARRIBIA (P0179): CI ilegible: CI ?51.929 (OCR ilegible)
+ueno_seguros,Ueno Seguros S.A.,persona_union_por_nombre,info,JORGE RICARDO SARUBBI CABALLERO (P0184): forma 'JORGE RICARDO SARUBBI' unida por nombre (sin CI común)
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),persona_union_por_nombre,info,JOSE IGNACIO CABALLERO (P0190): forma 'JOSE CABALLERO' unida por nombre (sin CI común)
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),persona_union_por_nombre,info,KATSUHIKO VICTOR MAEHARA UEDA (P0210): forma 'KATSUHIKO VICTOR MAEHARA' unida por nombre (sin CI común)
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,persona_union_por_nombre,info,LUIS MARIA EUGENIO ZUBIZARRETA ZAPUTOVICH (P0228): forma 'LUIS MARIA ZUBIZARRETA' unida por nombre (sin CI común)
+aime_corredores,AIME S.A. Corredores de Seguros,persona_ci_conflicto,media,MARTIN VARGAS WILDBERGER (P0242): CI 404147 pertenece a GLORIA ELIZABETH VILLASANTI FARINHA (conflicto; no usada como clave)
+aime_corredores,AIME S.A. Corredores de Seguros,persona_ci_conflicto,media,MARTIN VARGAS WILDBERGER (P0242): CI 404147 también asignada a 'GLORIA ELIZABETH VILLASANTI FARINHA'
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),persona_union_por_nombre,info,NESTOR DIAZ CACERES (P0253): forma 'NESTOR DIAZ' unida por nombre (sin CI común)
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),persona_union_por_nombre,info,SANTIAGO WEILER GUSTAFSON (P0304): forma 'SANTIAGO WEILER' unida por nombre (sin CI común)
+kaitel,Kaitel S.R.L.,bf_vs_calculo,info,BF declara 74.51% para Federico M. Vázquez V. (2025-07-04); participación integrada calculada vía GV con la foto vigente: 1.19%
+place_analyzer,Place Analyzer E.A.S.,bf_vs_calculo,info,BF declara 43.77% para Federico M. Vázquez V. (2025-10-07); participación integrada calculada vía GV con la foto vigente: 35.69%
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),bf_vs_calculo,info,BF declara 62.87% para Federico M. Vázquez V. (2025-06-26); participación integrada calculada vía GV con la foto vigente: 2.2%
+redisa,Red Digital S.A. (REDISA),bf_vs_calculo,info,BF declara 76.0% para Federico M. Vázquez V. (2025-08-01); participación integrada calculada vía GV con la foto vigente: 2.52%
+red_uts_paraguay,Red UTS Paraguay S.A.,bf_vs_calculo,info,BF declara 36.46% para Federico M. Vázquez V. (2026-02-11); participación integrada calculada vía GV con la foto vigente: 23.93%
+tiva,Tiva S.A.,bf_vs_calculo,info,BF declara 35.32% para Federico M. Vázquez V. (2025-01-23); participación integrada calculada vía GV con la foto vigente: 35.69%
+u_paraguay,U Paraguay S.A.,contradiccion_documental,alta,"Actas N° 5 y 6 (21/07/2025) atribuyen a Grupo Vázquez 70,36% de los votos y a U Holdings 29,63%, mientras los registros de acciones muestran a U Holdings con ≈99,99% desde 2023."

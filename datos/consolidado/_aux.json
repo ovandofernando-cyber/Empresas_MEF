@@ -1,0 +1,450 @@
+{
+ "segmento": {
+  "23_sports_marketing": "controlada_itti_gv",
+  "aime_corredores": "participada_minoritaria_o_vinculo_indirecto",
+  "bic": "participada_minoritaria_o_vinculo_indirecto",
+  "cbs": "participada_minoritaria_o_vinculo_indirecto",
+  "comdetur": "controlada_itti_gv",
+  "condominio_estancia_don_miguel": "sin_vinculo_detectado",
+  "discover_paraguay": "controlada_itti_gv",
+  "factopar": "sin_vinculo_detectado",
+  "fideicomiso_shopping_costanera": "participada_minoritaria_o_vinculo_indirecto",
+  "fintux": "controlada_itti_gv",
+  "franede": "ex_vinculada",
+  "galadriel": "sin_vinculo_detectado",
+  "grupo_berilo": "sin_vinculo_detectado",
+  "grupo_hendy": "ex_vinculada",
+  "grupo_m": "ex_vinculada",
+  "grupo_vazquez": "holding_controlante",
+  "gsr": "participada_minoritaria_o_vinculo_indirecto",
+  "hanoi": "controlada_itti_gv",
+  "hd_invest": "sin_vinculo_detectado",
+  "idl": "controlada_itti_gv",
+  "inter_express": "controlada_itti_gv",
+  "intertours": "controlada_itti_gv",
+  "itti": "holding_controlante",
+  "kaitel": "controlada_itti_gv",
+  "kasas_propiedades": "sin_vinculo_detectado",
+  "kostas_viajes": "controlada_itti_gv",
+  "la_tropa_fletes": "sin_vinculo_detectado",
+  "mowi": "ex_vinculada",
+  "nubicom_paraguay": "participada_minoritaria_o_vinculo_indirecto",
+  "office_design": "ex_vinculada",
+  "oniria": "controlada_itti_gv",
+  "place_analyzer": "controlada_itti_gv",
+  "redipro": "nucleo_financiero_ueno",
+  "redisa": "nucleo_financiero_ueno",
+  "red_uts_paraguay": "controlada_itti_gv",
+  "satec": "sin_vinculo_detectado",
+  "solucion_efectiva": "participada_minoritaria_o_vinculo_indirecto",
+  "technoma": "participada_minoritaria_o_vinculo_indirecto",
+  "terravaz": "controlada_itti_gv",
+  "tiva": "controlada_itti_gv",
+  "tuiu": "ex_vinculada",
+  "ueno_holdings_sarl": "holding_controlante",
+  "u_paraguay": "holding_controlante",
+  "ueno_afpi": "nucleo_financiero_ueno",
+  "ueno_bank": "nucleo_financiero_ueno",
+  "ueno_casa_de_bolsa": "nucleo_financiero_ueno",
+  "ueno_holding_saeca": "holding_controlante",
+  "ueno_seguros": "nucleo_financiero_ueno",
+  "v_media": "ex_vinculada",
+  "villa_oliva_rice": "sin_vinculo_detectado",
+  "vinanzas": "controlada_itti_gv"
+ },
+ "justificacion": {
+  "23_sports_marketing": "Controlante directo Grupo Vázquez S.A.E. (60.0% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "aime_corredores": "Vínculo por personas: Presidente Gloria E. Villasanti Farinha (compradora de V Media), director suplente Miguel Á. Almada Frutos; declarante Alan Campos (@uenoholding.com.py); sede Torres del Paseo, Torre 3 piso 11.",
+  "bic": "Participada minoritaria: Ueno Bank 7,46%, Ueno Holding 1,57%, ITTI 1,57%, Red Digital 1,57% y Vinanzas 1,30% (≈13,5% el conjunto) en el registro 22/09/2026; sin control.",
+  "cbs": "Vínculo débil: CBS compró 0,1% de V Media a Grupo Vázquez (23/03/2026) y fue representada por Mauro Vargas. Sus accionistas (Chaco-I Trader 90%) no se vinculan al grupo.",
+  "comdetur": "Controlante directo ITTI S.A.E.C.A. (99.0% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "condominio_estancia_don_miguel": "No se detectó participación, autoridades, beneficiarios, declarantes ni correos comunes con el grupo en la documentación remitida.",
+  "discover_paraguay": "Controlante directo ITTI S.A.E.C.A. (74.79% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "factopar": "No se detectó participación, autoridades, beneficiarios, declarantes ni correos comunes con el grupo en la documentación remitida.",
+  "fideicomiso_shopping_costanera": "Vínculo indirecto: su fideicomitente desarrollador RADICE S.A. es Terravaz S.A.E. (controlada 97,33% por GV desde 2025). Verificado.",
+  "fintux": "ITTI 30% (mayor accionista) y la constancia BF (05/11/2026) declara a Grupo Vázquez por 'condición de control' vía ITTI.",
+  "franede": "Salió del grupo el 2025-06-30: vendedores Grupo Vázquez S.A.E.; titulares actuales Mauro Vargas Wildberger (99.62%).",
+  "galadriel": "No se detectó participación, autoridades, beneficiarios, declarantes ni correos comunes con el grupo en la documentación remitida.",
+  "grupo_berilo": "No se detectó participación, autoridades, beneficiarios, declarantes ni correos comunes con el grupo en la documentación remitida.",
+  "grupo_hendy": "Salió del grupo el 2025-09-30: vendedores Grupo Vázquez S.A.E.; ITTI S.A.E.C.A.; titulares actuales Vanessa Esther Godoy Ayala (90.0%); Oscar Luis Urdapilleta Garcia (10.0%).",
+  "grupo_m": "Salió del grupo el 2025-09-30: vendedores Grupo Vázquez S.A.E.; ITTI S.A.E.C.A.; titulares actuales Oscar Luis Urdapilleta Garcia (90.0%); Diego Sebastian Gomez Arce (10.0%).",
+  "grupo_vazquez": "Holding familiar: Federico M. Vázquez Villasanti 75,94% del capital y ≈94% de los votos; controla ITTI y las sociedades no financieras.",
+  "gsr": "Vínculo débil por persona: accionista y representante José Augusto Sala Cardozo, comprador de acciones de MOWI a ITTI (2025). Sin otra relación documental.",
+  "hanoi": "Controlante directo ITTI S.A.E.C.A. (72.76% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "hd_invest": "No se detectó participación, autoridades, beneficiarios, declarantes ni correos comunes con el grupo en la documentación remitida.",
+  "idl": "Controlante directo ITTI S.A.E.C.A. (99.23% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "inter_express": "Controlante directo Kostas Viajes y Turismo S.R.L. (99.98% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "intertours": "Controlante directo ITTI S.A.E.C.A. (70.0% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "itti": "Holding intermedio/tecnológica: GV 77,46% (≈91% de votos), Ueno Bank 16,95%; titular de la mayoría de las sociedades operativas no financieras.",
+  "kaitel": "Controlante directo Wom77 (98.0% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "kasas_propiedades": "No se detectó participación, autoridades, beneficiarios, declarantes ni correos comunes con el grupo en la documentación remitida.",
+  "kostas_viajes": "Controlante directo ITTI S.A.E.C.A. (98.94% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "la_tropa_fletes": "No se detectó participación, autoridades, beneficiarios, declarantes ni correos comunes con el grupo en la documentación remitida.",
+  "mowi": "Salió del grupo el 2025-05-19: vendedores Grupo Vázquez S.A.E.; ITTI S.A.E.C.A.; Ueno Holding S.A.E.C.A.; titulares actuales Sergio Amado Pizurno Szaran (90.0%); Jose Augusto Sala Cardozo (10.0%).",
+  "nubicom_paraguay": "Vínculo por directorio: Guillermo Vázquez Muniagurria fue Presidente (AGO N° 1, 13/09/2025) hasta jun-2026; secretarios de asamblea Algorta/Almada; escribana del grupo. Sin participación accionaria del grupo.",
+  "office_design": "Salió del grupo el 2025-10-30: vendedores Grupo Vázquez S.A.E.; ITTI S.A.E.C.A.; titulares actuales Monica Leticia Gadea Gomez De La Fuente (95.0%); Enrique Javier Vera Moreira (5.0%).",
+  "oniria": "Controlante directo Grupo Vázquez S.A.E. (60.0% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "place_analyzer": "Controlante directo ITTI S.A.E.C.A. (60.0% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "redipro": "Entidad financiera/de pagos del grupo Ueno; controlante directo U Paraguay S.A. (100.0% votos); controlante último Federico Miguel Vazquez Villasanti.",
+  "redisa": "Entidad financiera/de pagos del grupo Ueno; controlante directo U Paraguay S.A. (99.99% votos); controlante último Federico Miguel Vazquez Villasanti.",
+  "red_uts_paraguay": "Control de hecho: ITTI es el mayor accionista (40,23%) frente a tres personas físicas de ≈20% cada una; la constancia BF declara a Federico M. Vázquez V. (36,46%, condición B).",
+  "satec": "No se detectó participación, autoridades, beneficiarios, declarantes ni correos comunes con el grupo en la documentación remitida.",
+  "solucion_efectiva": "Participada minoritaria: Grupo Vázquez 8,1% del capital (registro 05/05/2025); controlan Achón Fornells / Electroban.",
+  "technoma": "Vínculo por personas: accionistas/directores Enrique J. Vera Moreira (cesionario de Office Design) y Sergio Pizurno (ex accionista de Ueno AFPI, director de Grupo M, accionista de MOWI); Miguel Almada representó a accionistas; sede en Torres del Paseo.",
+  "terravaz": "Controlante directo Grupo Vázquez S.A.E. (98.36% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "tiva": "Controlante directo ITTI S.A.E.C.A. (60.0% votos) — mayoría directa de votos; controlante último Federico Miguel Vazquez Villasanti.",
+  "tuiu": "Salió del grupo el 2025-08-28: vendedores ITTI S.A.E.C.A.; titulares actuales Luis Fernando Rios Espinola (50.0%); Andre Gayol Pires (50.0%).",
+  "ueno_holdings_sarl": "Holding luxemburguesa, titular de 97,99% de U Paraguay; composición propia no documentada (BF declarado: Federico M. Vázquez V.).",
+  "u_paraguay": "Holding local del núcleo financiero (Ueno Bank, Ueno Seguros, Casa de Bolsa, Red Digital, Redipro); 97,99% de U Holdings.",
+  "ueno_afpi": "Entidad financiera/de pagos del grupo Ueno; controlante directo Ueno Casa de Bolsa S.A. (99.97% votos); controlante último Federico Miguel Vazquez Villasanti.",
+  "ueno_bank": "Entidad financiera/de pagos del grupo Ueno; controlante directo U Paraguay S.A. (98.7% votos); controlante último Federico Miguel Vazquez Villasanti.",
+  "ueno_casa_de_bolsa": "Entidad financiera/de pagos del grupo Ueno; controlante directo U Paraguay S.A. (99.99% votos); controlante último Federico Miguel Vazquez Villasanti.",
+  "ueno_holding_saeca": "Ex holding (ex Credicentro); absorbida por Grupo Vázquez por fusión (Esc. 131, 16/07/2025). Entidad extinguida.",
+  "ueno_seguros": "Entidad financiera/de pagos del grupo Ueno; controlante directo U Paraguay S.A. (90.58% votos); controlante último Federico Miguel Vazquez Villasanti.",
+  "v_media": "Salió del grupo el 2026-03-23: vendedores Grupo Vázquez S.A.E.; titulares actuales Gloria Elizabeth Villasanti Farinha (99.9%); CBS S.A. (0.1%).",
+  "villa_oliva_rice": "No se detectó participación, autoridades, beneficiarios, declarantes ni correos comunes con el grupo en la documentación remitida.",
+  "vinanzas": "Controlante directo ITTI S.A.E.C.A. (62.07% votos) — mayoría de grupo (62.07% votos sumando titulares bajo Federico Miguel Vazquez Villasanti); controlante último Federico Miguel Vazquez Villasanti."
+ },
+ "federico": "P0003",
+ "control": {
+  "vigente": {
+   "23_sports_marketing": [
+    "grupo_vazquez",
+    60.0,
+    "mayoría directa de votos"
+   ],
+   "aime_corredores": [
+    "P0242",
+    95.65217391304348,
+    "mayoría directa de votos"
+   ],
+   "cbs": [
+    "EXT:CHACO I TRADER",
+    90.0,
+    "mayoría directa de votos"
+   ],
+   "comdetur": [
+    "itti",
+    99.0,
+    "mayoría directa de votos"
+   ],
+   "discover_paraguay": [
+    "itti",
+    74.79338842975207,
+    "mayoría directa de votos"
+   ],
+   "franede": [
+    "P0059",
+    100.0,
+    "mayoría directa de votos"
+   ],
+   "galadriel": [
+    "P0081",
+    90.0,
+    "mayoría directa de votos"
+   ],
+   "grupo_berilo": [
+    "EXT:13 DE AGOSTO",
+    51.0,
+    "mayoría directa de votos"
+   ],
+   "grupo_hendy": [
+    "P0066",
+    90.0,
+    "mayoría directa de votos"
+   ],
+   "grupo_m": [
+    "P0015",
+    90.0,
+    "mayoría directa de votos"
+   ],
+   "grupo_vazquez": [
+    "P0003",
+    94.01730654465884,
+    "mayoría directa de votos"
+   ],
+   "hanoi": [
+    "itti",
+    72.76,
+    "mayoría directa de votos"
+   ],
+   "hd_invest": [
+    "P0209",
+    100.0,
+    "mayoría directa de votos"
+   ],
+   "idl": [
+    "itti",
+    99.23076923076923,
+    "mayoría directa de votos"
+   ],
+   "inter_express": [
+    "kostas_viajes",
+    99.98,
+    "mayoría directa de votos"
+   ],
+   "intertours": [
+    "itti",
+    70.0,
+    "mayoría directa de votos"
+   ],
+   "itti": [
+    "grupo_vazquez",
+    90.97,
+    "mayoría directa de votos"
+   ],
+   "kaitel": [
+    "EXT:WOM77",
+    98.0,
+    "mayoría directa de votos"
+   ],
+   "kostas_viajes": [
+    "itti",
+    98.94026974951831,
+    "mayoría directa de votos"
+   ],
+   "la_tropa_fletes": [
+    "P0096",
+    65.0,
+    "mayoría directa de votos"
+   ],
+   "mowi": [
+    "P0018",
+    90.0,
+    "mayoría directa de votos"
+   ],
+   "nubicom_paraguay": [
+    "EXT:NUBICOM",
+    99.32,
+    "mayoría directa de votos"
+   ],
+   "office_design": [
+    "P0025",
+    95.0,
+    "mayoría directa de votos"
+   ],
+   "oniria": [
+    "grupo_vazquez",
+    60.0,
+    "mayoría directa de votos"
+   ],
+   "place_analyzer": [
+    "itti",
+    60.0,
+    "mayoría directa de votos"
+   ],
+   "redipro": [
+    "u_paraguay",
+    100.0,
+    "mayoría directa de votos"
+   ],
+   "redisa": [
+    "u_paraguay",
+    99.99,
+    "mayoría directa de votos"
+   ],
+   "technoma": [
+    "P0044",
+    51.833333333333336,
+    "mayoría directa de votos"
+   ],
+   "terravaz": [
+    "grupo_vazquez",
+    98.35616438356165,
+    "mayoría directa de votos"
+   ],
+   "tiva": [
+    "itti",
+    60.0,
+    "mayoría directa de votos"
+   ],
+   "tuiu": [
+    "P0056",
+    83.33333333333333,
+    "mayoría directa de votos"
+   ],
+   "ueno_holdings_sarl": [
+    "P0003",
+    null,
+    "control declarado (BF)"
+   ],
+   "u_paraguay": [
+    "ueno_holdings_sarl",
+    97.993,
+    "mayoría directa de votos"
+   ],
+   "ueno_afpi": [
+    "ueno_casa_de_bolsa",
+    99.97360084477296,
+    "mayoría directa de votos"
+   ],
+   "ueno_bank": [
+    "u_paraguay",
+    98.7,
+    "mayoría directa de votos"
+   ],
+   "ueno_casa_de_bolsa": [
+    "u_paraguay",
+    99.99181267398068,
+    "mayoría directa de votos"
+   ],
+   "ueno_seguros": [
+    "u_paraguay",
+    90.58,
+    "mayoría directa de votos"
+   ],
+   "v_media": [
+    "P0046",
+    99.9,
+    "mayoría directa de votos"
+   ],
+   "villa_oliva_rice": [
+    "EXT:CAMILATAM",
+    99.94722955145119,
+    "mayoría directa de votos"
+   ],
+   "EXT:WOM77": [
+    "itti",
+    null,
+    "control declarado (BF)"
+   ],
+   "vinanzas": [
+    "itti",
+    62.06896551724138,
+    "mayoría de grupo (62.07% votos sumando titulares bajo Federico Miguel Vazquez Villasanti)"
+   ]
+  },
+  "2024": {
+   "discover_paraguay": [
+    "itti",
+    74.79,
+    "mayoría directa de votos"
+   ],
+   "franede": [
+    "grupo_vazquez",
+    99.62,
+    "mayoría directa de votos"
+   ],
+   "grupo_hendy": [
+    "itti",
+    99.04,
+    "mayoría directa de votos"
+   ],
+   "grupo_m": [
+    "itti",
+    99.02,
+    "mayoría directa de votos"
+   ],
+   "grupo_vazquez": [
+    "P0003",
+    null,
+    "control declarado (BF)"
+   ],
+   "hanoi": [
+    "itti",
+    72.76,
+    "mayoría directa de votos"
+   ],
+   "hd_invest": [
+    "P0209",
+    100.0,
+    "mayoría directa de votos"
+   ],
+   "idl": [
+    "itti",
+    99.23,
+    "mayoría directa de votos"
+   ],
+   "intertours": [
+    "P0246",
+    75.0,
+    "mayoría directa de votos"
+   ],
+   "itti": [
+    "grupo_vazquez",
+    94.4,
+    "mayoría directa de votos"
+   ],
+   "la_tropa_fletes": [
+    "P0096",
+    65.0,
+    "mayoría directa de votos"
+   ],
+   "mowi": [
+    "itti",
+    100.0,
+    "mayoría directa de votos"
+   ],
+   "office_design": [
+    "grupo_vazquez",
+    null,
+    "control documentado sin % (reconstrucción 2024)"
+   ],
+   "oniria": [
+    "P0036",
+    75.0,
+    "mayoría directa de votos"
+   ],
+   "place_analyzer": [
+    "itti",
+    60.0,
+    "mayoría directa de votos"
+   ],
+   "redipro": [
+    "itti",
+    null,
+    "control declarado (BF)"
+   ],
+   "redisa": [
+    "itti",
+    99.99,
+    "mayoría directa de votos"
+   ],
+   "tiva": [
+    "itti",
+    60.0,
+    "mayoría directa de votos"
+   ],
+   "ueno_holdings_sarl": [
+    "P0003",
+    null,
+    "control declarado (BF)"
+   ],
+   "u_paraguay": [
+    "ueno_holdings_sarl",
+    99.99,
+    "mayoría directa de votos"
+   ],
+   "ueno_afpi": [
+    "ueno_casa_de_bolsa",
+    90.0,
+    "mayoría directa de votos"
+   ],
+   "ueno_bank": [
+    "grupo_vazquez",
+    94.91,
+    "mayoría directa de votos"
+   ],
+   "ueno_casa_de_bolsa": [
+    "grupo_vazquez",
+    88.6,
+    "mayoría directa de votos"
+   ],
+   "ueno_seguros": [
+    "grupo_vazquez",
+    null,
+    "control documentado sin % (reconstrucción 2024)"
+   ],
+   "v_media": [
+    "grupo_vazquez",
+    99.9,
+    "mayoría directa de votos"
+   ],
+   "EXT:WOM77": [
+    "itti",
+    null,
+    "control declarado (BF)"
+   ]
+  }
+ }
+}

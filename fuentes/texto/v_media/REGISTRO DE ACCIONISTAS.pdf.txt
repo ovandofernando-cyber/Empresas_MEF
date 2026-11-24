@@ -1,0 +1,53 @@
+# Fuente: V MEDIA SA/REGISTRO DE ACCIONISTAS.pdf
+# Texto digital o OCR (tesseract spa 200dpi). Las páginas marcadas [OCR] pueden tener errores.
+
+
+===== Página 1 =====
+                                                                                                                                                                                                               9
+                                                          COMPOSICIÓN ACCIONARIA 23 DE MARZO DE 2026
+
+
+                                          Capital Autorizado: Gs. 20.000.000.000
+                                            Capital Emitido: Gs. 20.000.000.000
+                                           Capital Suscripto: Gs. 20.000.000.000
+                                           Capital Integrado: Gs. 20.000.000.000
+                                 Valor nominal de las acciones: Gs. 10.000.000
+
+
+
+ Fecha de                                 Acción del   Acción al   Cant. de                     Valor       Votos por Cant. Total                    % Partic.
+                         Accionista                                            Clase   Serie                                         Monto Gs.                    % Votos            Observaciones
+suscripción                                  Nº          N°         Acc.                       Nominal       Acción    de Votos                      En Capital
+
+                                                                                                                                                                            VENTA DE GRUPO VAZQUEZ A GLORIA
+ 23/5/1995    GLORIA VILLASANTI                   1           17         17    OVS       1     10.000.000       1             17       170.000.000     0,85%       1,70%      VILLASANTI EN FECHA 23/03/2026
+
+                                                                                                                                                                            VENTA DE GRUPO VAZQUEZ A GLORIA
+ 23/5/1995    GLORIA VILLASANTI                  18           19          2    OVS       1     10.000.000       1              2        20.000.000     0,10%       0,20%      VILLASANTI EN FECHA 23/03/2026
+
+                                                                                                                                                                              LAURA VARGAS VENDE A GLORIA
+ 23/9/2025    GLORIA VILLASANTI                  20           20          1    OVS       1     10.000.000       1              1        10.000.000     0,05%       0,10%      VILLASANTI EN FECHA 03/07/2025
+
+                                                                                                                                                                            VENTA DE GRUPO VAZQUEZ A GLORIA
+30/12/2025    GLORIA VILLASANTI                  21        1.000        980    OVS       1     10.000.000       1            980     9.800.000.000     49,00%      98,00%     VILLASANTI EN FECHA 23/03/2026
+
+                                                                                                                                                                            VENTA DE GRUPO VAZQUEZ A GLORIA
+30/12/2025    GLORIA VILLASANTI                1.001       1.998        998    OVS       1     10.000.000       1            998     9.980.000.000     49,90%      99,80%     VILLASANTI EN FECHA 23/03/2026
+
+                                                                                                                                                                             VENTA DE GRUPO VAZQUEZ A CBS
+30/12/2025    CBS S.A.                         1.999       2.000          2    OVS       1     10.000.000       1              2        20.000.000     0,10%       0,20%         S.A.EN FECHA 23/03/2026
+
+              TOTAL                                                    1.000                                                1.000   20.000.000.000    100,00%     100,00%
+
+
+
+
+                                                                                                                                                                               Firmado
+                                                                                                                                                                LIZ     digitalmente por
+                                                                                                                                                                        LIZ RAQUEL
+                                                                                                                                                                RAQUEL VAZQUEZ
+                                                                                                                                                                VAZQUEZ BENITEZ
+                                                                                                                                                                        Fecha:
+                                                                                                                                                                BENITEZ 2026.06.10
+                                                                                                                                                                        11:49:36 -03'00'
+

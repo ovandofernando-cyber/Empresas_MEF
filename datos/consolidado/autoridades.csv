@@ -1,0 +1,487 @@
+empresa_id,empresa,nombre,documento,persona_id,cargo,fecha_asuncion,vigencia,fecha_dato,vigente,fuente_archivo,fuente_pagina,confianza,notas
+23_sports_marketing,23 Sports Marketing S.A.,OLIVER STANLEY MERSAN,CI 2491734,P0262,Presidente,2018-05-16,primer directorio (1 ejercicio),2018-05-16,False,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf,17,alta,
+23_sports_marketing,23 Sports Marketing S.A.,CAMILO JOSE GUANES MERSAN,CI 1539271,P0036,Vicepresidente,2018-05-16,primer directorio,2018-05-16,False,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf,17,alta,
+23_sports_marketing,23 Sports Marketing S.A.,RICARDO MATIAS ARIAS ETCHEGARAY,CI 4206224,P0288,Director titular,2018-05-16,primer directorio,2018-05-16,False,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf,17,alta,
+23_sports_marketing,23 Sports Marketing S.A.,FRANCISCO MARTIN LETTIERI,CI 7779444,P0152,Director suplente,2018-05-16,primer directorio,2018-05-16,False,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf,17,alta,
+23_sports_marketing,23 Sports Marketing S.A.,DANIEL ACHAVAL BOROUSE,CI 4247931,P0042,Síndico titular,2018-05-16,primer directorio,2018-05-16,False,ESCRITURA CONSTITUCION NRO 46-APROBADO.pdf,17,media,
+23_sports_marketing,23 Sports Marketing S.A.,RICARDO MATIAS ARIAS ETCHEGARAY,CI 4206224,P0288,Presidente,2026-04-27,1 ejercicio,2026-10-28,True,ACTA ORDINARIA NRO 10-APROBADO.pdf,4,alta,
+23_sports_marketing,23 Sports Marketing S.A.,LUIS MARCELO CARDOZO LEDESMA,,P0006,Vicepresidente,2026-04-27,"renunció el 28-10-2026 (aceptada por Acta de Directorio N° 23, PENDIENTE)",2026-10-28,False,ACTA ORDINARIA NRO 10-APROBADO.pdf,4,media,
+23_sports_marketing,23 Sports Marketing S.A.,CAMILO JOSE GUANES MERSAN,CI 1539271,P0036,Director titular,2026-04-27,1 ejercicio,2026-10-28,True,ACTA ORDINARIA NRO 10-APROBADO.pdf,4,alta,
+23_sports_marketing,23 Sports Marketing S.A.,PAOLA ANALIA MEZA,CI 2525200,P0010,Director titular,2026-04-27,1 ejercicio,2026-04-27,True,ACTA ORDINARIA NRO 10-APROBADO.pdf,4,alta,CI y correo paola.meza@itti.digital tomados del listado de BF SIARA
+23_sports_marketing,23 Sports Marketing S.A.,LUIS FERNANDO MORALES,,P0055,Director titular,2026-04-27,"renunció el 28-10-2026 (aceptada por Acta de Directorio N° 23, PENDIENTE)",2026-10-28,False,ACTA ORDINARIA NRO 10-APROBADO.pdf,4,media,
+23_sports_marketing,23 Sports Marketing S.A.,RODOLFO ANDRES BARRIOS DUBA,,P0011,Síndico titular,2026-04-27,1 ejercicio (también firmó informe de síndico ejercicio 2025),2026-10-28,True,ACTA ORDINARIA NRO 10-APROBADO.pdf,4,alta,
+23_sports_marketing,23 Sports Marketing S.A.,BERNARDO JOSE ALGORTA REY,CI 7375741,P0005,Representante del accionista Grupo Vázquez S.A.E. (carta poder),,Asamblea 27-04-2026,2026-04-27,,ACTA ORDINARIA NRO 10-APROBADO.pdf,1,alta,
+23_sports_marketing,23 Sports Marketing S.A.,FRANCISCO FREITAS,CI 2881332,P0151,Representante del accionista Balloon S.R.L. (carta poder),,Asamblea 27-04-2026,2026-04-27,,ACTA ORDINARIA NRO 10-APROBADO.pdf,1,media,
+23_sports_marketing,23 Sports Marketing S.A.,MARIELA GONZALEZ,,P0240,Secretaria de Asamblea,2026-04-27,Asamblea 27-04-2026,2026-04-27,,ACTA ORDINARIA NRO 10-APROBADO.pdf,2,alta,Su correo MARIELA.GONZALEZ@GHP.COM.PY es el correo de la PEJ en SIARA
+aime_corredores,AIME S.A. Corredores de Seguros,Ross Mary Monti,,P0298,Director titular,,renunció (aceptada en Acta Directorio 19 del 02/12/2024),2024-12-02,False,Acta de Directorio 19-2025.pdf,1,alta,
+aime_corredores,AIME S.A. Corredores de Seguros,Gloria Elizabeth Villasanti Farinha,CI 404147,P0046,Presidente,2024-12-02,1 año o hasta la próxima asamblea,2026-01-29,True,Constancia RA 2026.pdf,1,alta,
+aime_corredores,AIME S.A. Corredores de Seguros,Carlos Mauricio Benitez Duarte,CI 2464429,P0103,Director titular,2024-12-02,renunció; reemplazado por Acta Directorio 22 del 29/12/2025,2025-12-29,False,Acta de Dirertorio 22-2025.pdf,1,alta,Figuró como Representante Legal en Constancias RA 2025 2 y 3.
+aime_corredores,AIME S.A. Corredores de Seguros,Raúl Sanchez,,P0284,Director titular,2025-12-29,hasta la próxima Asamblea General Ordinaria,2026-01-29,True,Acta de Dirertorio 22-2025.pdf,1,alta,Abogado (RA 2026); CI no declarado.
+aime_corredores,AIME S.A. Corredores de Seguros,Miguel Angel Almada Frutos,,P0001,Director suplente,2024-12-02,ratificado 29/12/2025,2025-12-29,True,Acta de Dirertorio 22-2025.pdf,1,alta,
+aime_corredores,AIME S.A. Corredores de Seguros,Ricardo Fernandez,,P0016,Síndico titular,,,2025-12-29,True,Acta de Dirertorio 22-2025.pdf,1,alta,El síndico designó el directorio en ambas actas.
+bic,BIC S.A. (Buró de Información Comercial),PEDRO ESPINOLA VARGAS PEÑA,CI 488.876,P0278,Presidente del Directorio (Director titular),2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista COMPAÑÍA ADMINISTRADORA DE RIESGOS S.A – CARSA
+bic,BIC S.A. (Buró de Información Comercial),DIANA ARELLANO,,P0121,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista COMPAÑÍA ADMINISTRADORA DE RIESGOS S.A – CARSA
+bic,BIC S.A. (Buró de Información Comercial),JUAN MAX REJALAGA,CI 1.046.140,P0201,Vicepresidente del Directorio (Director titular),2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista CREDI SOLUCIÓN S.A.E.C.A
+bic,BIC S.A. (Buró de Información Comercial),CARLOS BALTEYRO,,P0095,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista CREDI SOLUCIÓN S.A.E.C.A
+bic,BIC S.A. (Buró de Información Comercial),VENANCIO RÍOS PORTILLO,,P0315,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista NEGOFIN S.A.E.C.A
+bic,BIC S.A. (Buró de Información Comercial),WIDILFO ESCOBAR,,P0325,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista NEGOFIN S.A.E.C.A
+bic,BIC S.A. (Buró de Información Comercial),JULIO CÉSAR VÁZQUEZ PIATTI,,P0204,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista UNIVERSO DE CRÉDITOS Y CONSUMO S.A
+bic,BIC S.A. (Buró de Información Comercial),JOSÉ ANIBAL ARGUELLO ROJAS,,P0186,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista UNIVERSO DE CRÉDITOS Y CONSUMO S.A
+bic,BIC S.A. (Buró de Información Comercial),ADELIO ALBERTO IBÁÑEZ,,P0071,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista EMPRESA IZAGUIRRE BARRAIL INVERSORA S.A.E.C.A
+bic,BIC S.A. (Buró de Información Comercial),REBECCA GISELLE RECALDE RUIZ,,P0287,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista EMPRESA IZAGUIRRE BARRAIL INVERSORA S.A.E.C.A
+bic,BIC S.A. (Buró de Información Comercial),SERGIO DANIEL MARIN PERALTA,,P0306,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista SDM SERVICIOS Y MANDATOS S.A
+bic,BIC S.A. (Buró de Información Comercial),JOSÉ ROLANDO BÁEZ AGUILERA,,P0194,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista SDM SERVICIOS Y MANDATOS S.A
+bic,BIC S.A. (Buró de Información Comercial),JOSÉ NICOLÁS RIVAROLA ONETO,,P0051,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista ELECTROBAN S.A.E.C.A
+bic,BIC S.A. (Buró de Información Comercial),THALYA BENTO,,P0065,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista ELECTROBAN S.A.E.C.A
+bic,BIC S.A. (Buró de Información Comercial),JOSÉ ORLANDO CÁCERES ACOSTA,,P0193,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista PAC S.A
+bic,BIC S.A. (Buró de Información Comercial),JOSÉ EDUARDO CÁCERES ARAUJO,,P0187,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista PAC S.A
+bic,BIC S.A. (Buró de Información Comercial),GUSTAVO DÍAZ,,P0165,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista SERFIN S.A
+bic,BIC S.A. (Buró de Información Comercial),LUIS DÍAZ,,P0224,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista SERFIN S.A
+bic,BIC S.A. (Buró de Información Comercial),PAULA MARIA VELILLA,,P0274,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista SISTEMAS Y GESTIONES S.A – SIGESA
+bic,BIC S.A. (Buró de Información Comercial),CARLOS GUSTAVO HEISECKE GONZALEZ,,P0101,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista SISTEMAS Y GESTIONES S.A – SIGESA
+bic,BIC S.A. (Buró de Información Comercial),LORENZO BARRETO DUARTE,,P0221,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista COOP. MULT. DE AHORRO CRED. Y SERV. MEDALLA MILAGROSA LTDA
+bic,BIC S.A. (Buró de Información Comercial),VALENTÍN GALEANO,,P0314,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista COOP. MULT. DE AHORRO CRED. Y SERV. MEDALLA MILAGROSA LTDA
+bic,BIC S.A. (Buró de Información Comercial),LUIS FERNANDO BÁEZ,,P0226,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista BANCO CONTINENTAL S.A.E.C.A
+bic,BIC S.A. (Buró de Información Comercial),JUAN JOSÉ PANDO RODAS,,P0200,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista BANCO CONTINENTAL S.A.E.C.A
+bic,BIC S.A. (Buró de Información Comercial),CÉSAR CORONEL,,P0112,Director titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista CÁMARA INDUSTRIAL PARAGUAYA DE MOTOCICLETAS Y AUTOMOTORES
+bic,BIC S.A. (Buró de Información Comercial),ALICIA SAMANIEGO,,P0077,Director suplente,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,Designado por el accionista CÁMARA INDUSTRIAL PARAGUAYA DE MOTOCICLETAS Y AUTOMOTORES
+bic,BIC S.A. (Buró de Información Comercial),FERNANDO BECONI,,P0146,Síndico titular,2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,
+bic,BIC S.A. (Buró de Información Comercial),STEPHAN VYSOKOLÁN,,P0309,Síndico suplente (también asesor jurídico),2025-04-10,periodo 2025-2026 (2 años),2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,4,alta,
+bic,BIC S.A. (Buró de Información Comercial),CHRISTIAN L. MENDOZA GÓMEZ,,P0114,Gerente General,,,2025-04-10,True,Acta de Asamblea 25 10-04-2025.pdf,2,alta,
+bic,BIC S.A. (Buró de Información Comercial),PEDRO RAMON ESPINOLA VARGAS PEÑA,CI 488.876,P0278,Presidente,2022-04-07,,2022-07-11,False,Escritura 14 11-07-2022 Modificación de Estatutos.pdf,1,alta,Nombrado por Acta de Asamblea Ordinaria N° 19 del 07/04/2022
+bic,BIC S.A. (Buró de Información Comercial),JUAN MAX REJALAGA QUIÑONES,CI 1.046.140,P0201,Vicepresidente,2022-04-07,,2022-07-11,False,Escritura 14 11-07-2022 Modificación de Estatutos.pdf,1,alta,
+cbs,CBS S.A.,JAVIER RENE BERNARDES BANTI,CI 553.963,P0176,Presidente,2025-04-28,En vigencia,2025-06-17,True,Constancia RA Simple 2025.pdf,1,alta,
+cbs,CBS S.A.,JAVIER RENE BERNARDES BANTI,CI 553.963,P0176,Representante legal,,,2025-06-17,True,Constancia RA Simple 2025.pdf,1,alta,
+cbs,CBS S.A.,FRANCISCO RUBEN CAREAGA,CI 792.917,P0153,Vicepresidente,2025-04-28,En vigencia,2025-06-17,True,Constancia RA Simple 2025.pdf,1,alta,
+cbs,CBS S.A.,JULIO CESAR GARCETE,CI 1.083.891,P0203,Director titular,2025-04-28,En vigencia,2025-06-17,True,Constancia RA Simple 2025.pdf,1,alta,
+cbs,CBS S.A.,LIDA GILL,,P0216,Síndico titular,2025-04-28,,2025-04-28,True,Acta asamblea 28-04-2025.pdf,2,media,
+cbs,CBS S.A.,JULIO CESAR GARCETE FUNES,CI 1.083.891,P0203,Presidente,2019-04-12,,2019-07-22,False,Constancia inscripción 2019/Escritura 90 22-07-2017 modificación de estatutos.pdf,1,media,
+cbs,CBS S.A.,OVIDIO CESAR JARA FLORENTIN,CI 1.044.000,P0269,Director titular,2019-04-12,,2019-07-22,False,Constancia inscripción 2019/Escritura 90 22-07-2017 modificación de estatutos.pdf,1,media,
+cbs,CBS S.A.,FERNANDO PENAYO (OCR),,P0147,Síndico titular,,,2019-07-12,False,Constancia inscripción 2019/Escritura 90 22-07-2017 modificación de estatutos.pdf,3,baja,
+cbs,CBS S.A.,JULIO CESAR GARCETE FUNES,CI 1.083.891,P0203,Presidente,2005-02-08,,2005-02-08,False,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf,14,alta,
+cbs,CBS S.A.,EMILIO VICTOR ANDRES PERALTA DUARTE,,P0140,Vicepresidente,2005-02-08,,2005-02-08,False,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf,14,alta,
+cbs,CBS S.A.,OVIDIO CESAR JARA FLORENTIN,CI 1.044.000,P0269,Director titular,2005-02-08,,2005-02-08,False,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf,14,alta,
+cbs,CBS S.A.,JORGE DUILIO BENITEZ ESTIGARRIBIA,,P0179,Director suplente,2005-02-08,,2005-02-08,False,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf,14,alta,
+cbs,CBS S.A.,NELSON AMARILLA ANDINO (lectura dudosa),,P0250,Síndico titular,2005-02-08,,2005-02-08,False,Constancia inscripción 2017/Escritura 13 del 08-02-2005 Estatutos sociales.pdf,14,baja,
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),GUILLERMO VAZQUEZ MUNIAGURRIA,CI 3.799.529,P0004,Gerente,2025-07-25,Sin plazo (cláusula QUINTO del contrato social),2025-07-25,True,ESCRITURA MODIFICACION NRO 201.pdf,15,alta,
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),GUILLERMO VAZQUEZ MUNIAGURRIA,CI 3.799.529,P0004,Representante legal,2025-07-25,,2025-07-25,True,ESCRITURA MODIFICACION NRO 201.pdf,15,alta,
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),LUIS FERNANDO CANILLAS VALLEJO,,P0227,Gerente,1986-07-03,,1986-07-03,False,ESCRITURA MODIFICACION NRO 49.pdf,3,alta,
+comdetur,Compañía de Desarrollo Turístico S.R.L. (COMDETUR),CELSO OSCAR ALONSO BALBUENA,,P0110,Gerente,1986-07-03,,1986-07-03,False,ESCRITURA MODIFICACION NRO 49.pdf,3,alta,
+condominio_estancia_don_miguel,Condominio Estancia Don Miguel,BRIGITTE WALTRAUT HUBER SCHAEFER,CI 822611,P0090,Representante legal,2015-07-15,Indefinido (principal),2025-09-12,True,Constancia RA 2025 Simple.pdf,1,alta,
+condominio_estancia_don_miguel,Condominio Estancia Don Miguel,VOLKER EUGENIO HUBER SCHAEFER,CI 1351428,P0322,Representante legal,2015-07-15,Indefinido (secundario),2025-09-12,True,Constancia RA 2025 Simple.pdf,1,alta,
+condominio_estancia_don_miguel,Condominio Estancia Don Miguel,VOLKER EUGENIO HUBER SCHAEFER,CI 1.351.428,P0322,Representante legal,2021-07-15,designado por acta de condóminos,2021-07-15,False,Acta de Directorio.pdf,1,media,
+condominio_estancia_don_miguel,Condominio Estancia Don Miguel,BRIGITTE WALTRAUT HUBER SCHAEFER,CI 822.611,P0090,Representante legal,2021-07-15,designada por acta de condóminos,2021-07-15,False,Acta de Directorio.pdf,1,media,
+discover_paraguay,Discover Paraguay S.A.,LUIS MARCELO CARDOZO LEDESMA,,P0006,Presidente,2025-10-27,,2025-10-27,True,ACTA ORDINARIA NRO 11.pdf,1,alta,
+discover_paraguay,Discover Paraguay S.A.,GERALDINE DESSIREE PERSON RESQUIN,,P0045,Vicepresidente,2025-10-27,,2025-10-27,True,ACTA ORDINARIA NRO 11.pdf,1,alta,
+discover_paraguay,Discover Paraguay S.A.,MONICA RAQUEL COSTA BARRIOCANAL,,P0026,Director titular,2025-10-27,,2025-10-27,True,ACTA ORDINARIA NRO 11.pdf,1,alta,
+discover_paraguay,Discover Paraguay S.A.,DIANA MONGELOS,,P0023,Director suplente,2025-10-27,,2025-10-27,True,ACTA ORDINARIA NRO 11.pdf,1,alta,
+discover_paraguay,Discover Paraguay S.A.,MIGUEL ALMADA,,P0001,Síndico titular,2025-10-27,,2025-10-27,True,ACTA ORDINARIA NRO 11.pdf,1,alta,
+discover_paraguay,Discover Paraguay S.A.,RODOLFO BARRIOS,,P0011,Síndico suplente,2025-10-27,,2025-10-27,True,ACTA ORDINARIA NRO 11.pdf,1,alta,
+discover_paraguay,Discover Paraguay S.A.,ANDRE GAYOL PIRES,CI 2.377.708,P0029,Presidente,2025-05-23,,2025-07-25,False,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf,11,alta,
+discover_paraguay,Discover Paraguay S.A.,PAOLA ANALIA MEZA,CI 2.525.200 (OCR),P0010,Vicepresidente,2025-05-23,,2025-07-25,False,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf,11,alta,
+discover_paraguay,Discover Paraguay S.A.,RAQUEL VAZQUEZ,,P0007,Director titular,2025-05-23,,2025-07-25,False,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf,11,alta,
+discover_paraguay,Discover Paraguay S.A.,DIANA MONGELOS,,P0023,Director suplente,2025-05-23,,2025-07-25,False,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf,11,alta,
+discover_paraguay,Discover Paraguay S.A.,MIGUEL ALMADA,,P0001,Síndico titular,2025-05-23,,2025-07-25,False,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf,11,alta,
+discover_paraguay,Discover Paraguay S.A.,RODOLFO BARRIOS,,P0011,Síndico suplente,2025-05-23,,2025-07-25,False,../COMPAÑIA DE DESARROLLO TURISTICO SRL (COMDETUR)/ESCRITURA MODIFICACION NRO 201.pdf,11,alta,
+discover_paraguay,Discover Paraguay S.A.,ANDRE GAYOL PIRES,CI 2.377.708,P0029,Presidente,2019-06-27,,2019-10-18,False,ESCRITURA MODIFICACION NRO 10.pdf,1,alta,
+discover_paraguay,Discover Paraguay S.A.,RODRIGO MARTIN (RODRIGO ANTONIO MARTIN FERREIRA),,P0061,Director titular,2019-06-27,,2019-06-27,False,ESCRITURA MODIFICACION NRO 10.pdf,6,media,
+discover_paraguay,Discover Paraguay S.A.,CHRISTYAN PEREZ (CHRISTYAN ALFONSO PEREZ REYES),,P0115,Director titular,2019-06-27,,2019-06-27,False,ESCRITURA MODIFICACION NRO 10.pdf,6,baja,
+discover_paraguay,Discover Paraguay S.A.,NERY ACOSTA,,P0252,Síndico titular,2019-06-27,,2019-06-27,False,ESCRITURA MODIFICACION NRO 10.pdf,6,alta,
+discover_paraguay,Discover Paraguay S.A.,DIEGO JOSE BUTELER PEREZ,,P0123,Síndico suplente,2019-06-27,,2019-06-27,False,ESCRITURA MODIFICACION NRO 10.pdf,6,media,
+factopar,Factopar S.A.,CARLOS DE COMINGES SAN MARTÍN,CI 7679613,P0098,Presidente,2025-04-01,1 año,2025-05-01,True,Constancia RA 2025 Simple.pdf,1,alta,
+factopar,Factopar S.A.,KEMLY AYESA YAMBAY VALLEJO,CI 3407698,P0212,Vicepresidente,2025-04-01,1 año,2025-05-01,True,Constancia RA 2025 Simple.pdf,1,alta,
+factopar,Factopar S.A.,CARLOS DE COMINGES SAN MARTIN,CI 7679613-2,P0098,Representante legal,,,2025-05-01,True,Constancia RA 2025 Simple.pdf,1,alta,
+factopar,Factopar S.A.,JOSE SEBASTIAN GONZALEZ OCAMPOS,CI 3.511.569,P0195,Síndico titular,2017-05-24,primer directorio,2017-05-24,False,Constancia inscripción 2026/Escritura constitución.pdf,13,media,
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,FINANCIERA FINEXPAR S.A.E.C.A. (Unidad de Negocios Fiduciarios),,,Fiduciario,2019-01,duración del contrato,2019-01,,contratodefideicomisoshoppingcostanera21012019091525.pdf,1,alta,Habilitada por Nota SB.SG. N° 00862/2018 del 17/05/2018. En 2026 los correos del fiduciario son del dominio zbanco.com.py (posible continuadora/nueva denominación de Finexpar; no consta en los documentos).
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,LUIS MARIA ZUBIZARRETA,,P0228,"Presidente del fiduciario (Financiera Finexpar S.A.E.C.A.), firmante",,,2019-01,False,contratodefideicomisoshoppingcostanera21012019091525.pdf,1,alta,
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,FRANCISCO BENZO,,P0150,"Director del fiduciario (Financiera Finexpar S.A.E.C.A.), firmante",,,2019-01,False,contratodefideicomisoshoppingcostanera21012019091525.pdf,1,alta,
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,LUIS MARIA EUGENIO ZUBIZARRETA ZAPUTOVICH,CI 195355,P0228,Representante legal (declarado en SIARA); Presidente,2026-01-22,1 año,2026-06-04,True,Constancias RA 2026 Simple.pdf,1,alta,"Domicilio: Avda. del Yacht N° 303, Lambaré. Empresario."
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,Pablo Marcelo Bedoya Saenz,CI 8663273,P0270,Vicepresidente,2026-01-22,1 año,2026-06-04,True,Constancias RA 2026 Simple.pdf,1,alta,"Domicilio: Calle Sevilla Nro. 1, Sta. Cruz"
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,Edgar Antonio Valda Careaga,CI 8996346,P0126,Director,2026-01-22,1 año,2026-06-04,True,Constancias RA 2026 Simple.pdf,1,alta,"Domicilio: Avda. Sta. Teresa Nro. 3045, Asunción"
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,Hugo Fernando Martínez Fernandez,CI 1964836,P0170,Director,2026-01-22,1 año,2026-06-04,True,Constancias RA 2026 Simple.pdf,1,alta,"Domicilio: Camacho Dure Nro. 550, Asunción"
+fideicomiso_shopping_costanera,Fideicomiso Shopping Costanera,Gonzalo Doria Zubizarreta,CI 4311744,P0160,Director,2026-01-22,1 año,2026-06-04,True,Constancias RA 2026 Simple.pdf,1,alta,"Domicilio: El Dorado Nro. 250, Asunción"
+fintux,Fintux E.A.S.,GISELLE CORINA RAMIREZ ROJAS,CI 5158476,P0159,Presidente,2022-12-29,hasta 29-12-2024,2026-11-05,True,Constancia EAS 2026 2.pdf,1,alta,
+fintux,Fintux E.A.S.,GISELLE CORINA RAMIREZ ROJAS,CI 5158476,P0159,Representante legal,2022-12-29,hasta 29-12-2024,2026-11-05,True,Constancia EAS 2026 2.pdf,1,alta,
+fintux,Fintux E.A.S.,FRANCISCO ABEL LEDEZMA MATTO,CI 3988489,P0149,Vicepresidente,2022-12-29,hasta 29-12-2024,2026-11-05,True,Constancia EAS 2026 2.pdf,1,alta,
+fintux,Fintux E.A.S.,FRANCISCO ABEL LEDEZMA MATTO,CI 3988489,P0149,Representante legal,2022-12-29,hasta 29-12-2024,2026-11-05,True,Constancia EAS 2026 2.pdf,1,alta,
+franede,Franede S.A.,Lilian Graciela Bittar David,CI 619.061,P0218,Presidente,2019-05-28,,2019-09-20,False,ESCRITURA MODIFICACIÒN NRO 41.pdf,1,alta,Designada por Acta N° 71 del 28/05/2019; también presidenta en 2015 (Acta N° 65).
+franede,Franede S.A.,MAURO VARGAS (Mauro Vargas Wildberger),CI 2.178.019,P0059,Presidente - Director titular; Representante legal,2025-06-30,Hasta la próxima asamblea,2025-07-07,False,Constancia RA 2025.pdf,1,alta,
+franede,Franede S.A.,CECILIA DOMINGUEZ (Cecilia María Domínguez Elizeche),CI 2.887.717,P0039,Directora titular,2025-06-30,Hasta la próxima asamblea,2025-07-07,False,Constancia RA 2025.pdf,1,alta,Domicilio Encarnación.
+franede,Franede S.A.,Mauro Vargas,CI 2.178.019,P0059,Presidente (Director Presidente),2026-04-23,,2026-04-23,True,ACTA ORDINARIA NRO 78.pdf,2,alta,
+franede,Franede S.A.,Cecilia Dominguez,CI 2.887.717,P0039,Vicepresidente (Director Vicepresidente),2026-04-23,,2026-04-23,True,ACTA ORDINARIA NRO 78.pdf,2,alta,
+franede,Franede S.A.,Raquel Monzón Villasanti,,P0034,Síndico titular,2026-04-23,,2026-04-23,True,ACTA ORDINARIA NRO 78.pdf,2,alta,"Designada en el acta, pero firma como Síndico Titular 'Mónica Gadea'."
+franede,Franede S.A.,Mónica Gadea,,P0025,Síndico titular (firmante del acta N° 78),,,2026-04-23,,ACTA ORDINARIA NRO 78.pdf,2,media,
+franede,Franede S.A.,Guillermo Vázquez,,P0004,Presidente de Asamblea designado (Acta N° 78),2026-04-23,,2026-04-23,,ACTA ORDINARIA NRO 78.pdf,1,alta,"El texto lo designa presidente de la asamblea, pero el acta la firma Mauro Vargas como 'Presidente de Asamblea y Accionista'."
+galadriel,Galadriel S.A.,JORGE DAVID PERALTA SOSA,CI 4049157,P0178,Director titular / Representante legal,2025-11-05,3 años,2026-02-23,True,Constancia de RA 2026 (2).pdf,1,alta,
+galadriel,Galadriel S.A.,ANTONIO IGNACIO VILLA BERKEMEYER,CI 2034678,P0081,Director suplente,2025-11-05,3 años (estatuto),2025-11-05,True,Escritura N° 111.pdf,20,alta,
+galadriel,Galadriel S.A.,ROSSANA CESPEDES,CI 2189588,P0299,Síndico titular,2025-11-05,,2025-11-05,,Escritura N° 111.pdf,20,media,
+galadriel,Galadriel S.A.,FEDERICO VALINOTTI,CI 1517086 (OCR dudoso),P0145,Síndico suplente,2025-11-05,,2025-11-05,,Escritura N° 111.pdf,20,baja,
+grupo_berilo,Grupo Berilo S.A.,MATHIAS MANUEL RIVAROLA MARTÍNEZ,CI 4.987.687,P0243,Presidente,2026-04-27,,2026-04-27,True,Acta de Asamblea.pdf,2,alta,
+grupo_berilo,Grupo Berilo S.A.,DANIEL ESTEBAN BALGUREVICH,,P0120,Vicepresidente,2026-04-27,,2026-04-27,True,Acta de Asamblea.pdf,2,alta,
+grupo_berilo,Grupo Berilo S.A.,PAOLA ALEJANDRA PAATS DUARTE,,P0271,Director suplente,2026-04-27,,2026-04-27,True,Acta de Asamblea.pdf,2,alta,
+grupo_berilo,Grupo Berilo S.A.,MARÍA DE LA PAZ DELGADILLO,,P0235,Síndico titular,2026-04-27,,2026-04-27,True,Acta de Asamblea.pdf,2,alta,
+grupo_berilo,Grupo Berilo S.A.,DIEGO MARIO PEÑA,CI 3.767.321 (acta 2026); OCR 2021: 8.608.278,P0125,Presidente,2020-01-30,Acta AGO N° 01,2021-11-16,False,Escritura Pública N° 36.pdf,17,media,
+grupo_berilo,Grupo Berilo S.A.,RAZIEL ANDRÉS BUSTO DOMANICZKY,CI 3.384.752,P0285,Síndico titular,2019-08-17,,2021-06-28,False,Escritura Pública N° 36.pdf,"10,18",media,
+grupo_berilo,Grupo Berilo S.A.,VICTOR ANDRES BOGARIN OCAMPOS,,P0317,Director titular,2019-08-17,primer directorio,2019-08-17,False,Escritura Pública N° 36.pdf,10,media,
+grupo_berilo,Grupo Berilo S.A.,ARIEL FERNANDO ELIZECHE ESCOBAR,,P0084,Vice director titular,2019-08-17,primer directorio,2019-08-17,False,Escritura Pública N° 36.pdf,10,media,
+grupo_hendy,Grupo Hendy S.A.,OSCAR URDAPILLETA,CI 1.495.964 (cruce),P0015,Presidente,2026-10-02,,2026-10-19,True,CONSTANCIA ASAMBLEARIA NRO 259596.pdf,1,alta,
+grupo_hendy,Grupo Hendy S.A.,VANESSA GODOY,,P0066,Vicepresidente,2026-10-02,,2026-10-19,True,CONSTANCIA ASAMBLEARIA NRO 259596.pdf,1,alta,
+grupo_hendy,Grupo Hendy S.A.,RODRIGO FRANCO,,P0062,Presidente,2026-04-13,,2026-04-13,False,ACTA ORDINARIA NRO 21.pdf,2,media,
+grupo_hendy,Grupo Hendy S.A.,DIEGO GOMEZ,,P0030,Vicepresidente,2026-04-13,,2026-04-13,False,ACTA ORDINARIA NRO 21.pdf,2,media,
+grupo_hendy,Grupo Hendy S.A.,VANESSA GODOY,,P0066,Director titular,2026-04-13,,2026-04-13,False,ACTA ORDINARIA NRO 21.pdf,2,media,
+grupo_hendy,Grupo Hendy S.A.,WALTER HERMOSA,,P0069,Síndico titular,2026-04-13,,2026-04-13,True,ACTA ORDINARIA NRO 21.pdf,2,media,
+grupo_hendy,Grupo Hendy S.A.,CESAR JAVIER MENGUAL MAZACOTTE,CI 3.471.686,P0041,Presidente,2015-10-05,,2016-04-08,False,ESCRITURA MODIFICACION NRO 43.pdf,5,alta,
+grupo_hendy,Grupo Hendy S.A.,MARCELO GIMENEZ RECALDE,CI 514.881,P0230,Vicepresidente,2015-10-05,,2016-04-08,False,ESCRITURA MODIFICACION NRO 43.pdf,5,alta,
+grupo_hendy,Grupo Hendy S.A.,AUGUSTO CESAR MENGUAL HERKEN,,P0035,Director titular,2015-10-05,,2015-10-05,False,ESCRITURA MODIFICACION NRO 43.pdf,6,alta,
+grupo_hendy,Grupo Hendy S.A.,RUDOLPH FERNANDO GOETZ GONZALEZ,,P0302,Director suplente,2015-10-05,,2015-10-05,False,ESCRITURA MODIFICACION NRO 43.pdf,6,alta,
+grupo_hendy,Grupo Hendy S.A.,JOSE GASPAR BRITEZ MARTINEZ,,P0189,Síndico titular,2015-10-05,,2015-10-05,False,ESCRITURA MODIFICACION NRO 43.pdf,6,alta,
+grupo_m,Grupo M S.A.,CESAR JAVIER MENGUAL MAZACOTTE,CI 3471686,P0041,Presidente,2020-05-18,designado por AGO N° 108 (sic) del 18-05-2020,2021-04-16,False,ESCRITURA MODIFICACION NRO 187.pdf,1,alta,
+grupo_m,Grupo M S.A.,AUGUSTO CESAR MENGUAL HERKEN,,P0035,Vicepresidente,,,2020-10-09,False,ESCRITURA MODIFICACION NRO 187.pdf,4,alta,
+grupo_m,Grupo M S.A.,DIEGO SEBASTIAN GOMEZ ARCE,,P0030,Presidente,2025-11-28,,2025-11-28,False,ACTA ORDINARIA NRO 20.pdf,1,alta,
+grupo_m,Grupo M S.A.,OSCAR LUIS URDAPILLETA GARCIA,,P0015,Vicepresidente,2025-11-28,,2025-11-28,False,ACTA ORDINARIA NRO 20.pdf,1,alta,
+grupo_m,Grupo M S.A.,SERGIO AMADO PIZURNO SZARAN,CI 740326 (según firma digital en documentos de MOWI S.A.),P0018,Director titular,2025-11-28,,2025-11-28,False,ACTA ORDINARIA NRO 20.pdf,1,media,En el acta figura como 'Sergio Pizurno'; presidió la asamblea y firma como 'Presidente del Directorio'
+grupo_m,Grupo M S.A.,JOSE MARIA MONTERO,,P0013,Síndico titular,2025-11-28,,2025-11-28,False,ACTA ORDINARIA NRO 20.pdf,2,media,
+grupo_m,Grupo M S.A.,HECTOR PALAZON,,P0031,Síndico suplente,2025-11-28,,2025-11-28,False,ACTA ORDINARIA NRO 20.pdf,2,media,
+grupo_m,Grupo M S.A.,OSCAR LUIS URDAPILLETA GARCIA,,P0015,Presidente,2026-04-13,hasta próxima AGO,2026-09-01,True,ACTA ORDINARIA NRO 21.pdf,2,alta,
+grupo_m,Grupo M S.A.,DIEGO SEBASTIAN GOMEZ ARCE,,P0030,Director titular,2026-04-13,renunció; renuncia aceptada por Acta de Directorio N° 33 del 01-09-2026,2026-09-01,False,ACTA ORDINARIA NRO 21.pdf,3,alta,
+grupo_m,Grupo M S.A.,RAQUEL MONZON VILLASANTI,,P0034,Síndico titular,2026-04-13,retribución Gs. 660.000 mensuales,2026-09-01,True,ACTA ORDINARIA NRO 21.pdf,2,alta,
+grupo_vazquez,Grupo Vázquez S.A.E.,FEDERICO MIGUEL VÁZQUEZ VILLASANTI,CI 2.941.546 (de otras constancias),P0003,Presidente,2026-07-13,,2026-07-13,True,Acta de asamblea ordinaria N° 31.pdf,2,media,
+grupo_vazquez,Grupo Vázquez S.A.E.,GUILLERMO VÁZQUEZ MUNIAGURRIA,CI 3.799.529,P0004,Vicepresidente,2026-07-13,,2026-07-13,True,Acta de asamblea ordinaria N° 31.pdf,2,media,
+grupo_vazquez,Grupo Vázquez S.A.E.,JULIO REY (JULIO DANIEL REY FERNÁNDEZ),CI 1.417.970 (de listado BF de Red Digital),P0014,Director titular,2026-07-13,,2026-07-13,True,Acta de asamblea ordinaria N° 31.pdf,2,media,
+grupo_vazquez,Grupo Vázquez S.A.E.,BERNARDO JOSÉ ALGORTA REY,CI 7.375.741,P0005,Director titular,2026-07-13,,2026-07-13,True,Acta de asamblea ordinaria N° 31.pdf,2,media,
+grupo_vazquez,Grupo Vázquez S.A.E.,MARIANA TORRES (MARIANA ISABEL TORRES RUBIANI),CI 2.035.857 (de listado BF de Red Digital),P0033,Director titular,2026-07-13,,2026-07-13,True,Acta de asamblea ordinaria N° 31.pdf,2,media,
+grupo_vazquez,Grupo Vázquez S.A.E.,ADRIANA VÁZQUEZ MUNIAGURRIA,CI 3.224.279,P0019,Director suplente,2026-07-13,,2026-07-13,True,Acta de asamblea ordinaria N° 31.pdf,2,media,
+grupo_vazquez,Grupo Vázquez S.A.E.,LAURA VARGAS DE VÁZQUEZ,"CI 3.504.715 (Laura Vargas Wildberger, listado BF Red Digital)",P0032,Director suplente,2026-07-13,,2026-07-13,True,Acta de asamblea ordinaria N° 31.pdf,2,media,
+grupo_vazquez,Grupo Vázquez S.A.E.,GUILLERMO VÁZQUEZ MUNIAGURRIA,CI 3.799.529,P0004,Director,2025-04-28,Asamblea N° 23,2025-07-16,False,Escritura Pública 131.pdf,1-2,media,
+grupo_vazquez,Grupo Vázquez S.A.E.,BERNARDO JOSÉ ALGORTA REY,CI 7.375.741 (uruguayo),P0005,Director,2025-04-28,Asamblea N° 23,2025-07-16,False,Escritura Pública 131.pdf,1-2,media,
+gsr,GSR E.A.S.,JULIO ESTEBAN JOSE MARTINEZ APPLEYARD,CI 3640891,P0205,"Representante legal (Presidente, primer Órgano de Administración)",2023-02-20,,2023-02-20,False,Proforma de Estatuto EAS.pdf,5,media,
+gsr,GSR E.A.S.,JOSE AUGUSTO SALA CARDOZO,CI 3969552,P0050,Representante legal,,,2026-04-06,True,Constancia de RA 2026.pdf,1,alta,
+hanoi,Hanoi S.A.,MATIAS GABRIEL BRIZUELA CARTES,CI 2.201.981,P0244,Presidente,2017-06-20,,2018-08-30,False,ESCRITURA MODIFICACION NRO 204.pdf,1,alta,Electo en Asamblea General Ordinaria Acta N° 04 del 20/06/2017.
+hanoi,Hanoi S.A.,César Astigarraga,CI 3.807.117,P0002,Presidente,2026-03-30,,2026-03-30,True,ACTA ORDINARIA NRO 22.pdf,2,alta,CI tomada de la constancia RA de Place Analyzer (César Manuel Astigarraga Lambaré).
+hanoi,Hanoi S.A.,Diana Mongelos,,P0023,Vicepresidente,2026-03-30,,2026-03-30,True,ACTA ORDINARIA NRO 22.pdf,2,alta,
+hanoi,Hanoi S.A.,Diego Gómez (Diego Sebastián Gómez Arce),,P0030,Director titular,2026-03-30,,2026-03-30,True,ACTA ORDINARIA NRO 22.pdf,2,alta,Presidente de la Asamblea N° 22; firma digitalmente acta y registro.
+hd_invest,HD Invest E.A.S. Unipersonal,Karim Hamza Damani Chaparro,CI 3.875.748,P0209,Representante legal y Presidente (Órgano de Administración),2023-05-29,,2023-05-29,True,Proforma EAS.pdf,5,alta,
+hd_invest,HD Invest E.A.S. Unipersonal,Oscar Fernando Rivela Gregor,,P0266,Vicepresidente / Representante suplente,2023-05-29,,2023-05-29,True,Proforma EAS.pdf,5,alta,
+hd_invest,HD Invest E.A.S. Unipersonal,Carlos Enrique Neffa Persano,,P0100,Síndico titular,2023-05-29,,2023-05-29,True,Proforma EAS.pdf,5,alta,
+idl,Impresión Distribución y Logística S.A.,JORGE JAVIER OSTERTAG CHAVES,CI 859.361,P0182,Director titular,2008-08-03,,2008-08-03,False,ESCRITURA CONSTITUCION NRO 644.pdf,16,media,
+idl,Impresión Distribución y Logística S.A.,JACK SAMY FLEISCHMAN BENATHAN,CI 2.389.204,P0049,Director titular,2008-08-03,,2008-08-03,False,ESCRITURA CONSTITUCION NRO 644.pdf,16,media,
+idl,Impresión Distribución y Logística S.A.,OLGA BEATRIZ DINIZ FERREIRA,CI 864.409,P0261,Director suplente,2008-08-03,,2008-08-03,False,ESCRITURA CONSTITUCION NRO 644.pdf,16,media,
+idl,Impresión Distribución y Logística S.A.,ESTRELLA LEVY DE FLEISCHMAN,CI 2.389.205,P0142,Director suplente,2008-08-03,,2008-08-03,False,ESCRITURA CONSTITUCION NRO 644.pdf,16,media,
+idl,Impresión Distribución y Logística S.A.,FABIAN KOCHMANN GUILLGUINET,CI 691.021,P0143,Síndico titular,2008-08-03,,2008-08-03,False,ESCRITURA CONSTITUCION NRO 644.pdf,16,baja,
+idl,Impresión Distribución y Logística S.A.,CARLOS ARRELLAGA,CI 1.246.576,P0094,Síndico suplente,2008-08-03,,2008-08-03,False,ESCRITURA CONSTITUCION NRO 644.pdf,16,media,
+idl,Impresión Distribución y Logística S.A.,GUILLERMO VAZQUEZ MUNIAGURRIA,CI 3.799.529,P0004,Director Presidente,2022-04-30,,2022-10-12,False,ESCRITURA MODIFICACION NRO 141.pdf,1,alta,Designado por Acta de Asamblea Ordinaria N° 11 del 30/04/2022.
+idl,Impresión Distribución y Logística S.A.,CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3.807.117,P0002,Director Vicepresidente,2022-04-30,,2022-10-12,False,ESCRITURA MODIFICACION NRO 141.pdf,1,alta,
+idl,Impresión Distribución y Logística S.A.,César Manuel Astigarraga Lambaré,CI 3.807.117,P0002,Presidente,2026-04-06,,2026-04-06,True,ACTA ORDINARIA NRO 17.pdf,2,alta,
+idl,Impresión Distribución y Logística S.A.,Ruth Stael Ramírez Lezcano,,P0028,Vicepresidente,2026-04-06,,2026-04-06,True,ACTA ORDINARIA NRO 17.pdf,2,alta,
+idl,Impresión Distribución y Logística S.A.,Paola Analía Meza,CI 2.525.200,P0010,Director titular,2026-04-06,,2026-04-06,True,ACTA ORDINARIA NRO 17.pdf,2,alta,
+idl,Impresión Distribución y Logística S.A.,José María Montero Zuccolillo,,P0013,Síndico titular,2026-04-06,,2026-04-06,True,ACTA ORDINARIA NRO 17.pdf,2,alta,
+idl,Impresión Distribución y Logística S.A.,Héctor Palazón Ruíz,,P0031,Síndico suplente,2026-04-06,,2026-04-06,True,ACTA ORDINARIA NRO 17.pdf,2,alta,
+inter_express,Inter-Express S.A.,YOLANDA PATRICIA BIRKS TEVILIN,,P0326,Presidente,2018-04-27,Acta AGO N° 128,2019-01-17,False,ESCRITURA MODIFICACIÓN NRO 2.pdf,1,alta,
+inter_express,Inter-Express S.A.,RONALD BIRKS TEVILIN,,P0297,Director titular,2018-04-27,Acta AGO N° 128,2019-01-17,False,ESCRITURA MODIFICACIÓN NRO 2.pdf,1,alta,
+inter_express,Inter-Express S.A.,WALTER BIRKS,,P0324,Miembro del Directorio,,,2018-12-07,False,ESCRITURA MODIFICACIÓN NRO 2.pdf,4,alta,
+inter_express,Inter-Express S.A.,ELIANA MORGENSTERN,,P0131,Miembro del Directorio,,,2018-12-07,False,ESCRITURA MODIFICACIÓN NRO 2.pdf,4,alta,
+inter_express,Inter-Express S.A.,CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3807117 (según listado BF de 23 Sports Marketing),P0002,Presidente,2026-04-22,,2026-04-22,True,ACTA ORDINARIA NRO 152.pdf,2,alta,También representante legal del accionista ITTI S.A.E. y firmante digital de los documentos
+inter_express,Inter-Express S.A.,MARCELO CARDOZO,,P0006,Vicepresidente,2026-04-22,,2026-04-22,True,ACTA ORDINARIA NRO 152.pdf,2,alta,Posiblemente el mismo Luis Marcelo Cardozo (Ledesma) director de 23 Sports Marketing
+inter_express,Inter-Express S.A.,MONICA COSTA,,P0026,Director titular,2026-04-22,,2026-04-22,True,ACTA ORDINARIA NRO 152.pdf,2,alta,
+inter_express,Inter-Express S.A.,MIGUEL ANGEL ALMADA FRUTOS,CI 1202532 (según listado BF de 23 Sports Marketing),P0001,Síndico titular,2026-04-22,,2026-04-22,True,ACTA ORDINARIA NRO 152.pdf,2,alta,
+inter_express,Inter-Express S.A.,RODOLFO BARRIOS,,P0011,Síndico suplente,2026-04-22,,2026-04-22,True,ACTA ORDINARIA NRO 152.pdf,2,alta,"Posiblemente Rodolfo Andrés Barrios Duba, síndico de 23 Sports Marketing"
+inter_express,Inter-Express S.A.,GUILLERMO VAZQUEZ,,P0004,Representante legal del accionista Kostas Viajes y Turismo S.R.L.,,,2026-04-22,True,ACTA ORDINARIA NRO 152.pdf,2,alta,
+intertours,Intertours S.A.,Miguel Ángel Martín del Castillo,CI 1.109.145,P0246,Presidente,,Actas 22 (17/04/2018) y 23 (17/04/2019),2019-11-25,False,ESCRITURA MODIFICACION NRO 321.pdf,4,alta,
+intertours,Intertours S.A.,Rodrigo Antonio Martín Ferreira,CI 2.239.308,P0061,Vicepresidente,,,2019-11-25,False,ESCRITURA MODIFICACION NRO 321.pdf,4,alta,
+intertours,Intertours S.A.,Carmen Silvero,,P0108,Síndico titular,,,2019-07-11,False,ESCRITURA MODIFICACION NRO 321.pdf,6,alta,
+intertours,Intertours S.A.,Miguel Martín (del Castillo),CI 1.109.145,P0246,Vicepresidente,2025-09-24,renunció 29/07/2026,2026-07-31,False,ACTA DIRECTORIO NRO 109.pdf,1,media,
+intertours,Intertours S.A.,Nelson Ferreira (Prieto),CI 755.630,P0251,Director titular,2025-09-24,renunció 29/07/2026,2026-07-31,False,ACTA DIRECTORIO NRO 109.pdf,1,media,
+intertours,Intertours S.A.,Luis Marcelo Cardozo (Ledesma),,P0006,Presidente,2025-09-24,mandato hasta 24/06/2028 o próxima asamblea,2026-07-31,True,ACTA DIRECTORIO NRO 109.pdf,1,media,Firma digitalmente los documentos remitidos (firma 'LUIS MARCELO CARDOZO LEDESMA').
+intertours,Intertours S.A.,Geraldine Person,,P0045,Vicepresidente,2026-07-31,hasta 24/06/2028,2026-07-31,True,ACTA DIRECTORIO NRO 109.pdf,1,media,Directora titular desde 24/09/2025.
+intertours,Intertours S.A.,Mónica Costa,,P0026,Director titular,2025-09-24,hasta 24/06/2028,2026-07-31,True,ACTA DIRECTORIO NRO 109.pdf,1,media,
+intertours,Intertours S.A.,Miguel Almada,,P0001,Síndico titular,2025-09-24,,2026-07-31,True,ACTA DIRECTORIO NRO 109.pdf,1,media,
+intertours,Intertours S.A.,Rodolfo Barrios,,P0011,Síndico suplente,2025-09-24,,2025-09-24,True,ACTA DIRECTORIO NRO 109.pdf,5,media,
+intertours,Intertours S.A.,Cesar Astigarraga,,P0002,Representante legal de ITTI S.A.E. (comprador),,,2026-07-22,,CONSTANCIA TRASFERENCIA ACCIONES NRO 54801.pdf,1,alta,No es autoridad de Intertours; firma la compra por ITTI.
+itti,ITTI S.A.E.C.A.,Cesar Manuel Astigarraga Lambaré,CI 3.807.117,P0002,Presidente,2026-07-13,,2026-07-13,True,ACTA ORDINARIA NRO 42.pdf,1,alta,Ya era Director Presidente en mayo 2025.
+itti,ITTI S.A.E.C.A.,Guillermo Vázquez Muniagurria,CI 3.799.529,P0004,Vicepresidente,2026-07-13,,2026-07-13,True,ACTA ORDINARIA NRO 42.pdf,1,alta,Director titular según Acta N° 38 (23/04/2025); firma digitalmente los registros.
+itti,ITTI S.A.E.C.A.,Bernardo José Algorta Rey,CI 7.375.741 (dato del acta de Oniria),P0005,Director titular,2026-07-13,,2026-07-13,True,ACTA ORDINARIA NRO 42.pdf,1,alta,
+itti,ITTI S.A.E.C.A.,Adriana Vázquez Muniagurria,,P0019,Director suplente,2026-07-13,,2026-07-13,True,ACTA ORDINARIA NRO 42.pdf,1,alta,
+itti,ITTI S.A.E.C.A.,Marta Marin de Daumas,,P0058,Director suplente,2026-07-13,,2026-07-13,True,ACTA ORDINARIA NRO 42.pdf,1,alta,
+itti,ITTI S.A.E.C.A.,Luis Ernesto Angulo Rivera,CI 8.307.881,P0008,Vicepresidente,2025-04-23,reemplazado 13/07/2026,2026-01-13,False,ESCRITURA MODIFICACION NRO 1.pdf,1,alta,Salvadoreño.
+kaitel,Kaitel S.R.L.,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,CI 2.491.308,P0012,Gerente,2025-05-20,Hasta próxima modificación de estatutos sociales,2025-05-20,True,CONSTANCIA RA.pdf,1,alta,
+kaitel,Kaitel S.R.L.,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,CI 2.491.308,P0012,Representante legal,,,2025-05-20,True,CONSTANCIA RA.pdf,1,alta,
+kaitel,Kaitel S.R.L.,MIGUEL ANGEL ALMADA FRUTOS,CI 1.202.532,P0001,Gerente,2025-05-20,Hasta próxima modificación de estatutos sociales,2025-05-20,True,CONSTANCIA RA.pdf,1,alta,
+kaitel,Kaitel S.R.L.,TADEO MIGUEL CARRASCO MARTINEZ,CI 1.977.262,P0310,Gerente,2021-07-28,,2021-07-28,False,KAITEL SRL-SIARA-REV/ESCRITURA CONSTITUCION NRO 1153.pdf,5,alta,
+kaitel,Kaitel S.R.L.,ELIAS FABIAN VERA ALONSO,CI 5.492.475,P0136,Gerente,2021-07-28,Uso de la firma en ausencia de Carrasco,2021-07-28,False,KAITEL SRL-SIARA-REV/ESCRITURA CONSTITUCION NRO 1153.pdf,5,alta,
+kasas_propiedades,Kasas Propiedades S.A.E.,TITO LORENZO BENITEZ CAMARAZA,CI 741200,P0312,Socio gerente (S.R.L.),,hasta 20-05-2025,2025-05-20,False,Escritura Pública N° 80.pdf,8,alta,
+kasas_propiedades,Kasas Propiedades S.A.E.,PATRICIA ANDREA BARBOZA FARIÑA,CI 4289654,P0272,Socio gerente (S.R.L.),,hasta 20-05-2025,2025-05-20,False,Escritura Pública N° 80.pdf,8,alta,
+kasas_propiedades,Kasas Propiedades S.A.E.,HUGO RODRIGO VON KNOBLOCH BARBOZA,CI 2474282,P0172,Socio gerente (S.R.L.),,hasta 20-05-2025,2025-05-20,False,Escritura Pública N° 80.pdf,8,alta,
+kasas_propiedades,Kasas Propiedades S.A.E.,ARSENIO MARIA ORTIZ JARA,CI 824472,P0086,Presidente (en representación de Sky Link S.A.),2025-05-20,reelecto 10-03-2026 por período 2026/2027,2026-03-10,True,Acta de Asamblea.pdf,1,alta,
+kasas_propiedades,Kasas Propiedades S.A.E.,GUSTAVO MATHIAS ANGULO TURITICH,CI 3518421,P0167,Vicepresidente,2025-05-20,reemplazado 10-03-2026,2025-05-20,False,Escritura Pública N° 80.pdf,27,alta,
+kasas_propiedades,Kasas Propiedades S.A.E.,JOAQUIN PAGAN,,P0177,Vicepresidente,2026-03-10,2026/2027,2026-03-10,True,Acta de Asamblea.pdf,1,alta,
+kasas_propiedades,Kasas Propiedades S.A.E.,RODRIGO MIGUEL SAMANIEGO DIAZ,CI 3953595,P0293,Síndico titular,2025-05-20,reelecto 2026/2027,2026-03-10,True,Acta de Asamblea.pdf,1,alta,
+kasas_propiedades,Kasas Propiedades S.A.E.,CESAR CABRAL,,P0111,Síndico suplente,2026-03-10,2026/2027,2026-03-10,True,Acta de Asamblea.pdf,1,alta,
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,Luis Marcelo Cardozo Ledesma,CI 2.484.390,P0006,Gerente titular / Representante legal,2026-05-07,,2026-05-07,True,ESCRITURA MODIFICION NRO 301.pdf,13,alta,
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,Mónica Raquel Costa Barriocanal,CI 656.417,P0026,Gerente suplente / Representante legal,2026-05-07,,2026-05-07,True,ESCRITURA MODIFICION NRO 301.pdf,13,alta,
+kostas_viajes,Kostas Viajes y Turismo S.R.L.,Curt Ernesto Tippach Manzoni y dos socios cualesquiera,,P0119,Gerentes (1985),1985-06-29,,1985-06-29,False,ESCRITURA CONSTITUCION NRO 79.pdf,4,baja,
+la_tropa_fletes,La Tropa Fletes E.A.S.,CARLOS DAMIAN GAUTO PAREDES,,P0096,Representante legal / Presidente,2021-11-11,,2021-11-11,,Proforma EAS.pdf,5,alta,
+la_tropa_fletes,La Tropa Fletes E.A.S.,GUILLERMO DAMIAN GAUTO SKAF,,P0164,Director / Representante suplente,2021-11-11,,2021-11-11,,Proforma EAS.pdf,5,alta,
+mowi,MOWI S.A.,VICTOR HUGO VAZQUEZ,CI 551387,P0320,Presidente,2021-01-12,primer directorio,2021-01-12,False,ESCRITURA CONSTITUCIÒN NRO 13.pdf,19,alta,
+mowi,MOWI S.A.,FEDERICO MIGUEL VAZQUEZ VILLASANTI,CI 2941546,P0003,Vicepresidente,2021-01-12,primer directorio,2021-01-12,False,ESCRITURA CONSTITUCIÒN NRO 13.pdf,19,alta,
+mowi,MOWI S.A.,EDUARDO JAVIER GROSS BROWN,CI 439189,P0009,Director titular,2021-01-12,primer directorio,2021-01-12,False,ESCRITURA CONSTITUCIÒN NRO 13.pdf,19,alta,
+mowi,MOWI S.A.,MARCO DARIO GALANTI BARRIENTOS,CI 938862,P0057,Director titular,2021-01-12,primer directorio,2021-01-12,False,ESCRITURA CONSTITUCIÒN NRO 13.pdf,19,alta,
+mowi,MOWI S.A.,OSMAR ALBERTO CORONEL CABRERA,CI 840494,P0060,Director titular,2021-01-12,primer directorio,2021-01-12,False,ESCRITURA CONSTITUCIÒN NRO 13.pdf,19,alta,
+mowi,MOWI S.A.,CAROLINA MARIA GALEANO DE BESTARD,CI 601616,P0022,Director suplente,2021-01-12,primer directorio,2021-01-12,False,ESCRITURA CONSTITUCIÒN NRO 13.pdf,19,alta,
+mowi,MOWI S.A.,VENICIO ADOLFO SANCHEZ GUERREROS,CI 511818,P0316,Director suplente,2021-01-12,primer directorio,2021-01-12,False,ESCRITURA CONSTITUCIÒN NRO 13.pdf,19,alta,
+mowi,MOWI S.A.,PABLO ANTONIO DEBUCHY BOSELLI,CI 2036251,P0027,Síndico titular,2021-01-12,primer directorio,2021-01-12,False,ESCRITURA CONSTITUCIÒN NRO 13.pdf,19,alta,
+mowi,MOWI S.A.,RICARDO FERNANDEZ,CI 539492,P0016,Síndico suplente,2021-01-12,primer directorio,2021-01-12,False,ESCRITURA CONSTITUCIÒN NRO 13.pdf,19,alta,
+mowi,MOWI S.A.,SERGIO AMADO PIZURNO SZARAN,CI 740326,P0018,Presidente,2026-04-28,,2026-04-28,True,ACTA ORDINARIA NRO 6.pdf,2,alta,
+mowi,MOWI S.A.,JOSE AUGUSTO SALA CARDOZO,,P0050,Vicepresidente,2026-04-28,,2026-04-28,True,ACTA ORDINARIA NRO 6.pdf,2,alta,
+mowi,MOWI S.A.,WALTER HERMOSA,,P0069,Síndico titular,2026-04-28,,2026-04-28,True,ACTA ORDINARIA NRO 6.pdf,2,alta,El acta la firma como síndico 'Vanessa Godoy'
+mowi,MOWI S.A.,CARLOS LORENZO CODAS ZAVALA; NESTOR GABRIEL LOIZAGA FRANCO; VERONICA FRANCO LOPEZ MOREIRA; SEBASTIAN PEREZ CABALLERO (CI 7296807); OMAR SANCHEZ (CI 3642488),,,Apoderados para trámites de constitución/inscripción (abogados) y ante SET/BCP,2021-01-12,trámites constitutivos,2021-01-12,False,ESCRITURA CONSTITUCIÒN NRO 13.pdf,19,alta,
+nubicom_paraguay,Nubicom Paraguay S.A.,MARCO GALANTI,,P0057,Presidente,2026-06-19,,2026-06-19,True,Acta de Asamblea Ordinaria.pdf,1,media,
+nubicom_paraguay,Nubicom Paraguay S.A.,PAUL GASTÓN,,P0273,Vicepresidente,2026-06-19,,2026-06-19,True,Acta de Asamblea Ordinaria.pdf,1,media,
+nubicom_paraguay,Nubicom Paraguay S.A.,GILBERTO RAMOS AMARILLA,,P0158,Director,2026-06-19,,2026-06-19,True,Acta de Asamblea Ordinaria.pdf,1,media,
+nubicom_paraguay,Nubicom Paraguay S.A.,CARLOS DÍAZ,,P0099,Síndico,2026-06-19,,2026-06-19,True,Acta de Asamblea Ordinaria.pdf,1,media,
+nubicom_paraguay,Nubicom Paraguay S.A.,GUILLERMO VÁZQUEZ MUNIAGURRIA,CI 3.799.529,P0004,Presidente,2025-09-13,Acta AGO N° 1 del 13-09-2025,2026-06-19,False,Escritura Públcia N° 83.pdf,1,alta,Presidió la Asamblea N° 4 del 19-06-2026 como presidente saliente.
+nubicom_paraguay,Nubicom Paraguay S.A.,BERNARDO ALGORTA,CI 7.375.741 (de otros documentos),P0005,Secretario de asamblea,2026-06-19,,2026-06-19,False,Acta de Asamblea Ordinaria.pdf,1,media,
+nubicom_paraguay,Nubicom Paraguay S.A.,MIGUEL ALMADA,,P0001,Secretario de asamblea (Asamblea Extraordinaria N° 2),2025-09-13,,2025-09-13,False,Escritura Públcia N° 83.pdf,3,alta,
+office_design,Office Design S.R.L.,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,CI 1.539.203,P0025,Gerente,2025-10-30,uso de la firma social,2025-10-30,True,Escritura Públcia N° 190.pdf,11,alta,
+office_design,Office Design S.R.L.,ENRIQUE JAVIER VERA MOREIRA,CI 2.543.551,P0044,Gerente suplente,2025-10-30,,2025-10-30,True,Escritura Públcia N° 190.pdf,11,alta,
+office_design,Office Design S.R.L.,JUAN RICARDO GUSTALE PORTILLO,CI 390.617,P0202,Socio-gerente,2003-08-29,,2003-08-29,False,Escritura Pública N° 77.pdf,5,alta,
+office_design,Office Design S.R.L.,CARMEN AMANDA GUSTALE DE TALAVERA,CI 214.761,P0107,Socio-gerente,2003-08-29,,2003-08-29,False,Escritura Pública N° 77.pdf,5,alta,
+office_design,Office Design S.R.L.,GUILLERMO VAZQUEZ MUNIAGURRIA,CI 3.799.529,P0004,Director titular de Grupo Vázquez S.A.E. (cedente); también actúa por ITTI,2025-04-28,,2025-10-30,False,Escritura Públcia N° 190.pdf,1-2,alta,
+office_design,Office Design S.R.L.,BERNARDO JOSE ALGORTA REY,CI 7.375.741 (uruguayo),P0005,Director titular de Grupo Vázquez S.A.E. (cedente),2025-04-28,,2025-10-30,False,Escritura Públcia N° 190.pdf,1-2,alta,
+office_design,Office Design S.R.L.,LUIS ERNESTO ANGULO RIVERA,CI 8.307.881 (salvadoreño),P0008,Representante de ITTI S.A.E.C.A. (cedente),,,2025-10-30,False,Escritura Públcia N° 190.pdf,1,alta,
+oniria,Oniria S.A.,Camilo José Guanes Mersan,CI 1.539.271,P0036,Presidente,2026-04-28,,2026-10-28,True,ACTA DIRECTORIO NRO 65.pdf,1,alta,
+oniria,Oniria S.A.,Daniel Achaval Barousse,CI 4.247.931,P0042,Vicepresidente,2026-04-28,,2026-10-28,True,ACTA DIRECTORIO NRO 65.pdf,1,alta,
+oniria,Oniria S.A.,Luis Marcelo Cardozo Ledesma,CI 2.484.390 (dato de Kostas),P0006,Director titular,2026-04-28,renunció 28/10/2026,2026-10-28,False,ACTA DIRECTORIO NRO 65.pdf,1,alta,
+oniria,Oniria S.A.,Paola Analía Meza,,P0010,Director titular,2026-04-28,,2026-04-28,,ACTA ORDINARIA NRO 31.pdf,3,alta,No aparece en la reunión de directorio del 28/10/2026.
+oniria,Oniria S.A.,Luis Fernando Morales,,P0055,Director titular,2026-04-28,renunció 28/10/2026,2026-10-28,False,ACTA DIRECTORIO NRO 65.pdf,1,alta,
+oniria,Oniria S.A.,Rodolfo Andrés Barrios Duba,,P0011,Síndico titular,2026-04-28,,2026-10-28,True,ACTA DIRECTORIO NRO 65.pdf,1,alta,
+place_analyzer,Place Analyzer E.A.S.,Gustavo Enrique Mayeregger Varela,CI 822.983,P0166,Presidente,2025-03-25,,2025-03-25,False,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf,16,media,Primer directorio de la S.A. (cláusula transitoria)
+place_analyzer,Place Analyzer E.A.S.,Federico Hernán Vargas Peña Gill,CI 2.207.101,P0144,Vicepresidente,2025-03-25,,2025-03-25,False,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf,16,media,
+place_analyzer,Place Analyzer E.A.S.,César Manuel Astigarraga Lambaré,CI 3.807.117,P0002,Director titular,2025-03-25,,2025-03-25,False,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf,16,media,
+place_analyzer,Place Analyzer E.A.S.,Paola Analía Meza,CI 2.525.200,P0010,Director titular,2025-03-25,,2025-03-25,False,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf,16,media,
+place_analyzer,Place Analyzer E.A.S.,Marcos Eugenio Godinot,,P0232,Director suplente,2025-03-25,,2025-03-25,False,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf,16,media,
+place_analyzer,Place Analyzer E.A.S.,Liz Raquel Vázquez Benítez,CI 1.050.627,P0007,Síndico titular,2025-03-25,anual,2025-03-25,False,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf,16,media,
+place_analyzer,Place Analyzer E.A.S.,Gustavo Enrique Mayeregger Varela,CI 822.983,P0166,Presidente,2025-04-15,Hasta la próxima asamblea,2025-10-07,False,CONSTANCIA RA.pdf,1,alta,Domicilio Moisés Bertoni N° 2031; Licenciado
+place_analyzer,Place Analyzer E.A.S.,Federico Hernan Vargas Peña,CI 2.207.101,P0144,Vicepresidente y Representante legal,2025-04-15,Hasta la próxima asamblea,2025-10-07,False,CONSTANCIA RA.pdf,1,alta,Domicilio Nuestra Señora del Carmen N° 728; representante legal declarado en SIARA
+place_analyzer,Place Analyzer E.A.S.,César Manuel Astigarraga Lambaré,CI 3.807.117,P0002,Director titular,2025-04-15,Hasta la próxima asamblea,2025-10-07,False,CONSTANCIA RA.pdf,1,alta,
+place_analyzer,Place Analyzer E.A.S.,Paola Analia Meza,CI 2.525.200,P0010,Director titular,2025-04-15,Hasta la próxima asamblea,2025-10-07,False,CONSTANCIA RA.pdf,1,alta,
+place_analyzer,Place Analyzer E.A.S.,Gustavo Mayeregger,CI 822.983,P0166,Presidente,2026-04-14,,2026-04-14,True,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf,2,alta,
+place_analyzer,Place Analyzer E.A.S.,Federico Vargas Peña,CI 2.207.101,P0144,Vicepresidente,2026-04-14,,2026-04-14,True,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf,2,alta,
+place_analyzer,Place Analyzer E.A.S.,César Astigarraga,CI 3.807.117,P0002,Director titular,2026-04-14,,2026-04-14,True,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf,2,alta,
+place_analyzer,Place Analyzer E.A.S.,Paola Meza,CI 2.525.200,P0010,Director titular,2026-04-14,,2026-04-14,True,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf,2,alta,
+place_analyzer,Place Analyzer E.A.S.,Guillermo Vázquez,,P0004,Director titular,2026-04-14,,2026-04-14,True,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf,2,alta,También representante legal de ITTI S.A.E. en la asamblea y secretario de asamblea.
+place_analyzer,Place Analyzer E.A.S.,Rodolfo Barrios,,P0011,Síndico titular,2026-04-14,,2026-04-14,True,PLACE ANALYZER SA-SIARA/ACTA ORDINARIA NRO 1.pdf,2,alta,
+place_analyzer,Place Analyzer E.A.S.,Luis Angulo,,P0008,Representante de ITTI S.A.E.C.A. y Presidente de Asamblea (Asamblea Extraordinaria N° 03 de la E.A.S.),2024-04-29,,2024-04-29,False,PLACE ANALYZER SA-SIARA/ESCRITURA TRANSFORMACION NRO 44.pdf,1,media,
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),Eduardo Gross Brown (Eduardo Javier Gross Brown Costa),CI 439189,P0009,Presidente,2025-05-28,1 año o hasta la próxima asamblea,2026-01-13,True,Constancia RA.pdf,1,alta,"Firma digitalmente el registro de accionistas (09/10/2026). En planilla BF: C1 autoridad desde 17/04/2026, correo eduardo@grossbrown.com.py."
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),Cesar Berea (Cesar Berea Vargas),CI 2368373,P0040,Director titular,2025-05-28,1 año o hasta la próxima asamblea,2026-01-13,True,Constancia RA.pdf,1,alta,Representante Legal según RA. Correo cesar.berea@itti.digital.
+redipro,Red Digital de Procesamiento S.A. (REDIPRO),Silvia Bracho (Silvia Susana Bracho Meza),CI 1418920,P0064,Director titular,2025-05-28,1 año o hasta la próxima asamblea,2026-01-13,True,Constancia RA.pdf,1,alta,Correo silvia.bracho@upay.com.py.
+redisa,Red Digital S.A. (REDISA),CESAR BEREA VARGAS,CI 2.368.373,P0040,Presidente,2026-04-15,,2026-05-06,True,ACTA ORDINARIA NRO 16.pdf,2,alta,
+redisa,Red Digital S.A. (REDISA),SILVIA SUSANA BRACHO (MEZA),CI 1.418.920,P0064,Vicepresidente,2026-04-15,,2026-04-15,True,ACTA ORDINARIA NRO 16.pdf,2,alta,
+redisa,Red Digital S.A. (REDISA),OSCAR URDAPILLETA (OSCAR LUIS URDAPILLETA GARCIA),CI 1.495.964,P0015,Director titular,2026-04-15,,2026-05-06,True,ACTA ORDINARIA NRO 16.pdf,2,alta,También 'Gerente General de Red Digital S.A.' en las Asambleas 11 y 13 de 2026. En la Escritura 57 se le atribuye erróneamente la CI 1.418.920 (que es la de Silvia Bracho).
+redisa,Red Digital S.A. (REDISA),MIGUEL ALMADA (MIGUEL ANGEL ALMADA FRUTOS),CI 1.202.532,P0001,Síndico titular,2026-04-15,,2026-04-15,True,ACTA ORDINARIA NRO 16.pdf,2,alta,
+redisa,Red Digital S.A. (REDISA),OSCAR URDAPILLETA,CI 1.495.964,P0015,Gerente,,,2026-04-06,True,ESCRITURA MODIFICACION NRO 57.pdf,5,alta,Gerente General
+redisa,Red Digital S.A. (REDISA),CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3.807.117,P0002,Presidente,2025-04-28,Hasta la próxima asamblea,2026-01-26,False,Constancia R.A..pdf,1,alta,Representante legal según constancia RA; correo CESAR.ASTIGARRAGA@ITTI.DIGITAL
+redisa,Red Digital S.A. (REDISA),CESAR BEREA VARGAS,CI 2.368.373,P0040,Vicepresidente,2025-04-28,Hasta la próxima asamblea,2026-01-26,False,Constancia R.A..pdf,1,alta,
+redisa,Red Digital S.A. (REDISA),SILVIA SUSANA BRACHO,CI 1.418.920,P0064,Director titular,2025-04-28,Hasta la próxima asamblea,2026-01-26,False,Constancia R.A..pdf,1,alta,
+redisa,Red Digital S.A. (REDISA),FERNANDO RAUL BAZAN,CI 6.313.071,P0148,Presidente,2020-11-27,,2020-11-27,False,ESCRITURA CONSTITUCIÒN NRO 122.pdf,24,alta,Argentino; Vicepresidente de IT Consultores/ITTI en 2020
+redisa,Red Digital S.A. (REDISA),SERGIO AMADO PIZURNO SZARAN,CI 740.326,P0018,Vicepresidente,2020-11-27,,2020-11-27,False,ESCRITURA CONSTITUCIÒN NRO 122.pdf,25,alta,
+redisa,Red Digital S.A. (REDISA),JUAN CARLOS DOMINGO PRONO TOÑANEZ,CI 666.633,P0198,Director titular,2020-11-27,,2020-11-27,False,ESCRITURA CONSTITUCIÒN NRO 122.pdf,25,alta,
+redisa,Red Digital S.A. (REDISA),LILIANA RAQUEL RODRIGUEZ CUEVAS,CI 3.386.877,P0219,Director suplente,2020-11-27,Presidente suplente,2020-11-27,False,ESCRITURA CONSTITUCIÒN NRO 122.pdf,25,alta,
+redisa,Red Digital S.A. (REDISA),RAQUEL VICTORIA ROJAS DE BUSCAGLIA,CI 751.253,P0282,Director suplente,2020-11-27,Vicepresidente suplente,2020-11-27,False,ESCRITURA CONSTITUCIÒN NRO 122.pdf,25,alta,
+redisa,Red Digital S.A. (REDISA),CRISTIAN RICARDO PENAYO OCAMPOS,CI 3.193.831,P0118,Director suplente,2020-11-27,,2020-11-27,False,ESCRITURA CONSTITUCIÒN NRO 122.pdf,25,alta,
+redisa,Red Digital S.A. (REDISA),PABLO ANTONIO DEBUCKY BOCELLI,CI 2.036.251,P0027,Síndico titular,2020-11-27,,2020-11-27,False,ESCRITURA CONSTITUCIÒN NRO 122.pdf,25,alta,
+redisa,Red Digital S.A. (REDISA),RICARDO MIGUEL FERNANDEZ OLMEDO,CI 539.492,P0016,Síndico suplente,2020-11-27,,2020-11-27,False,ESCRITURA CONSTITUCIÒN NRO 122.pdf,25,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,CÉSAR MANUEL ASTIGARRAGA LAMBARÉ,CI 3.807.117,P0002,Presidente,2026-04-20,,2026-04-20,True,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,LUIS MARCELO CARDOZO LEDESMA,,P0006,Vicepresidente,2026-04-20,,2026-04-20,True,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,ANDRE GAYOL PIRES,CI 2.377.708,P0029,Director titular,2026-04-20,,2026-04-20,True,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,BERNARDO JOSÉ ALGORTA REY,,P0005,Director suplente,2026-04-20,,2026-04-20,True,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,MARTA MARIN DE DAUMAS,,P0058,Director suplente,2026-04-20,,2026-04-20,True,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,JOSE MARIA MONTERO ZUCCOLILLO,,P0013,Síndico titular,2026-04-20,,2026-04-20,True,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,HECTOR PALAZÓN RUIZ,,P0031,Síndico suplente,2026-04-20,,2026-04-20,True,RED UTS SA/ACTA DIRECTORIO NRO 35.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,MONICA GABRIELA MASULLI BARCAROLO,CI 1150588,P0247,Representante legal,,,2025-06-27,True,CONSTANCIA RA.pdf,1,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,CESAR ASTIGARRAGA LAMBARÉ,CI 3807117,P0002,Presidente,2025-05-25,Hasta la próx. Asamblea,2025-06-27,False,CONSTANCIA RA.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,LUIS ERNESTO ANGULO (RIVERA),CI 8307881,P0008,Vicepresidente,2025-05-25,Hasta la próx. Asamblea,2025-06-27,False,CONSTANCIA RA.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,ANDRE GAYOL,,P0029,Director titular,2025-05-25,Hasta la próx. Asamblea,2025-06-27,False,CONSTANCIA RA.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,PAOLA MEZA,CI 2525200,P0010,Director titular,2025-05-25,Hasta la próx. Asamblea,2025-06-27,False,CONSTANCIA RA.pdf,2,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3.807.117,P0002,Presidente,2024-04-29,Acta AGO N° 31,2025-01-21,False,RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf,1,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,LUIS ERNESTO ANGULO RIVERA,CI 8.307.881,P0008,Vicepresidente,2024-04-29,Acta AGO N° 31,2025-01-21,False,RED UTS SA/ESCRITURA MODIFICACION NRO 7.pdf,1,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,JACK SAMY FLEISCHMAN BENATHAN,CI 2.389.204,P0049,Presidente,1998-09-17,primer directorio,1998-09-17,False,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf,13,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,RAUL JOSE G. PRONO TOÑANEZ,CI 550.400,P0283,Vicepresidente,1998-09-17,primer directorio,1998-09-17,False,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf,13,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,JOSE FELIX BOGADO TABACMAN,CI 353.615,P0188,Director titular,1998-09-17,primer directorio,1998-09-17,False,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf,13,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,CARLOS MARCELO QUEVEDO,,P0102,Director titular,1998-09-17,primer directorio,1998-09-17,False,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf,13,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,RAMIRO FREITAS OCAMPO,,P0280,Director titular,1998-09-17,primer directorio,1998-09-17,False,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf,13,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,MARIA ESTELA RUIZ DIAZ DE BOGADO,,P0237,Director suplente,1998-09-17,primer directorio,1998-09-17,False,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf,13-14,alta,
+red_uts_paraguay,Red UTS Paraguay S.A.,JOSE ANDRES BOGADO,,P0185,Director suplente,1998-09-17,primer directorio (lectura parcial),1998-09-17,False,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf,14,media,
+red_uts_paraguay,Red UTS Paraguay S.A.,JUAN CARLOS DESCALZO JARA,,P0197,Síndico titular,1998-09-17,primer directorio,1998-09-17,False,RED UTS SA/ESCRITURA CONSTITUCION NRO 60.pdf,14,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Katsuhiko Víctor Maehara,,P0210,Presidente (de asamblea; presidía el directorio según actas 2021-2022),,,2022-05-04,False,Escritura 40 16-08-2022 modificación de estatutos.pdf,3,media,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Ignacio Constantino Florentín Mendoza,CI 495.352,P0173,Presidente,2022-05-04,,2022-08-16,False,Escritura 40 16-08-2022 modificación de estatutos.pdf,6,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),María Elena Matsumiya de Endo,CI 907.164,P0236,Director titular,2022-05-04,,2022-08-16,False,Escritura 40 16-08-2022 modificación de estatutos.pdf,6,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Blanca Britez,,P0088,Director titular,2022-05-04,,2022-05-04,False,Escritura 40 16-08-2022 modificación de estatutos.pdf,6,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Néstor Díaz,,P0253,Director titular,2022-05-04,,2022-05-04,False,Escritura 40 16-08-2022 modificación de estatutos.pdf,6,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),José Caballero,,P0190,Director titular,2022-05-04,,2022-05-04,False,Escritura 40 16-08-2022 modificación de estatutos.pdf,6,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Narciso Sanabria,,P0249,Síndico titular,2022-05-04,,2022-05-04,False,Escritura 40 16-08-2022 modificación de estatutos.pdf,6,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Santiago Weiler,,P0304,Síndico suplente,2022-05-04,,2022-05-04,False,Escritura 40 16-08-2022 modificación de estatutos.pdf,6,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Ignacio Florentín (Mendoza),CI 495.352,P0173,Presidente,2026-04-09,,2026-04-09,True,Acta de Asamblea.pdf,1,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),María Elena Matsumiya,CI 907.164,P0236,Director titular,2026-04-09,,2026-04-09,True,Acta de Asamblea.pdf,1,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),José Caballero,,P0190,Director titular,2026-04-09,,2026-04-09,True,Acta de Asamblea.pdf,1,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Santiago Weiler,,P0304,Director titular,2026-04-09,,2026-04-09,True,Acta de Asamblea.pdf,1,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Elias Valiente,,P0138,Director titular,2026-04-09,,2026-04-09,True,Acta de Asamblea.pdf,1,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Narciso Sanabria,,P0249,Síndico titular,2026-04-09,,2026-04-09,True,Acta de Asamblea.pdf,1,alta,
+satec,Servicios de Asistencia Tecnológica al Comercio S.A. (SATEC),Eliana Villalba,,P0132,Síndico suplente,2026-04-09,,2026-04-09,True,Acta de Asamblea.pdf,1,alta,
+solucion_efectiva,Solución Efectiva S.A.,JOSE NICOLAS RIVAROLA ONETO,CI 610635,P0051,Presidente / Representante legal,2025-04-10,1 año,2025-05-05,True,Constancia RA 2025 Simple.pdf,2,alta,
+solucion_efectiva,Solución Efectiva S.A.,DIANA NATALIA TREVISAN TROCHE,CI 1269161,P0122,Vicepresidente,2025-04-10,1 año,2025-05-05,True,Constancia RA 2025 Simple.pdf,2,alta,Lic. en contabilidad
+solucion_efectiva,Solución Efectiva S.A.,THALYA MARIA BENTO COLMAN,CI 4225658,P0065,Director titular,2025-04-10,1 año,2025-05-05,True,Constancia RA 2025 Simple.pdf,2,alta,Empleada
+solucion_efectiva,Solución Efectiva S.A.,MATILDE DA COSTA YODICE,CI 916042,P0245,Director suplente,2025-04-10,1 año,2025-05-05,True,Constancia RA 2025 Simple.pdf,2,alta,Abogada; mismo domicilio que el presidente (Trejo y Sanabria 1569)
+solucion_efectiva,Solución Efectiva S.A.,MONICA MORALES SILVEIRA,,P0248,Síndico titular,2025-04-10,,2025-04-10,True,Acta asamblea 19 10-04-2025.pdf,2,media,
+technoma,Technoma S.A.E.C.A.,Pedro Pablo Servín Barreto,CI 1.841.284,P0277,Presidente,2022-04-19,,2023-06-27,False,Escritura 35 27-06-2023 modificación de estatutos sociales.pdf,1,alta,
+technoma,Technoma S.A.E.C.A.,Mónica Leticia Gadea Gómez de la Fuente,CI 1.539.203,P0025,Director titular,2022-04-19,,2023-06-27,False,Escritura 35 27-06-2023 modificación de estatutos sociales.pdf,1,alta,
+technoma,Technoma S.A.E.C.A.,Marcelo Adrián Romei,,P0229,Síndico titular,,,2022-12-28,False,Escritura 35 27-06-2023 modificación de estatutos sociales.pdf,2,alta,
+technoma,Technoma S.A.E.C.A.,Enrique Javier Vera Moreira,CI 2.543.551 (OCR),P0044,Presidente,2025-04-08,ratificado 16/04/2026,2026-04-16,True,Acta de Asamblea.pdf,2,alta,
+technoma,Technoma S.A.E.C.A.,Sergio Amado Pizurno Szarán,CI 740.326,P0018,Vicepresidente,2025-04-08,ratificado 16/04/2026,2026-04-16,True,Acta de Asamblea.pdf,2,alta,
+technoma,Technoma S.A.E.C.A.,Alberto Caballero,,P0073,Síndico titular,2026-04-16,,2026-04-16,True,Acta de Asamblea.pdf,2,alta,
+terravaz,Terravaz S.A. Emisora,TIZIANA BUSSINI,,P0313,Vicepresidente (presidió asambleas 17-06-2025),,hasta 17-06-2025,2025-06-17,False,ACTA ORDINARIA NRO 20.pdf,1,alta,
+terravaz,Terravaz S.A. Emisora,LUIS MARCELO CARDOZO LEDESMA,CI 2484390,P0006,Presidente,2025-06-17,,2026-04-17,True,ESCRITURA MODIFICACION NRO 121.pdf,1,alta,
+terravaz,Terravaz S.A. Emisora,BERNARDO ALGORTA,,P0005,Vicepresidente,2025-06-17,,2025-06-17,True,ACTA ORDINARIA NRO 20.pdf,2,alta,
+terravaz,Terravaz S.A. Emisora,RUTH STAEL RAMIREZ LEZCANO,CI 3977833,P0028,Director titular,2025-06-17,,2025-07-07,True,ESCRITURA MODIFICACION NRO 121.pdf,1,alta,Firma digitalmente todos los documentos presentados
+terravaz,Terravaz S.A. Emisora,CECILIA DOMINGUEZ ELIZECHE,,P0039,Director suplente,2025-06-17,,2025-06-17,True,ACTA ORDINARIA NRO 20.pdf,2,alta,
+terravaz,Terravaz S.A. Emisora,MIGUEL ANGEL ALMADA FRUTOS,,P0001,Síndico titular,2025-06-17,reelecto 17-04-2026,2026-04-17,True,ACTA ORDINARIA NRO 21.pdf,2,alta,
+terravaz,Terravaz S.A. Emisora,CESAR ASTIGARRAGA,,P0002,Síndico suplente,2025-06-17,,2025-06-17,,ACTA ORDINARIA NRO 20.pdf,2,alta,
+terravaz,Terravaz S.A. Emisora,GUILLERMO VAZQUEZ,,P0004,Representante del accionista Grupo Vázquez S.A.E.,,,2026-04-17,True,ACTA ORDINARIA NRO 21.pdf,1,alta,
+terravaz,Terravaz S.A. Emisora,RAQUEL VAZQUEZ,,P0007,Representante del accionista Grupo Vázquez S.A.E.,,,2025-06-17,,ACTA ORDINARIA NRO 20.pdf,1,alta,
+tiva,Tiva S.A.,Victor Eduardo Cartes Leon,CI 1857270,P0319,Presidente,2012-07-30,,2020-06-24,False,Constancia RA 2020.pdf,1,alta,
+tiva,Tiva S.A.,María Belén Serra de Cartes,CI 2.055.009,P0234,Director titular,,,2019-07-12,False,Constancia modificación de estatutos 2020/escritura 59 20-08-2019 modificación de estatutos.pdf,2,alta,
+tiva,Tiva S.A.,Carlos Rodríguez Alcalá Villagra,CI 1.162.931,P0104,Síndico titular,,,2019-07-12,False,Constancia modificación de estatutos 2020/escritura 59 20-08-2019 modificación de estatutos.pdf,2,alta,
+tiva,Tiva S.A.,Cesar Manuel Astigarraga,CI 3.807.117,P0002,Presidente / Representante legal,2025-04-11,hasta la próxima asamblea,2025-12-10,True,Constancia RA 2025 1.pdf,1,alta,En RA ene-2025 figura asunción 20-01-2025.
+tiva,Tiva S.A.,Luis Ernesto Angulo (Rivera),CI 8.307.881,P0008,Vicepresidente,2025-04-11,hasta la próxima asamblea,2025-12-10,True,Constancia RA 2025 1.pdf,1,alta,Salvadoreño con CI paraguaya; también Vicepresidente de ITTI (Esc. 1/2026).
+tiva,Tiva S.A.,Laura Almiron,CI 4.500.757,P0214,Director titular,2025-04-11,hasta la próxima asamblea,2025-06-05,False,Constancia RA 2025 2.pdf,1,alta,
+tiva,Tiva S.A.,María Belén Serra Masulli,CI 2.055.009,P0234,Director titular,2025-11-24,hasta la próxima asamblea,2025-12-10,True,Constancia RA 2025 1.pdf,1,alta,
+tuiu,TUIU S.A.,ANDRE GAYOL (ANDRE GAYOL PIRES),CI 2.377.708,P0029,Presidente,2026-08-26,,2026-08-26,True,ACTA ORDINARIA NRO 7.pdf,1,alta,
+tuiu,TUIU S.A.,LUIS FERNANDO RIOS ESPINOLA,,P0056,Vicepresidente,2026-08-26,,2026-08-26,True,ACTA ORDINARIA NRO 7.pdf,1,alta,
+tuiu,TUIU S.A.,MONICA GADEA (MONICA LETICIA GADEA GOMEZ DE LA FUENTE),CI 1.539.203,P0025,Síndico titular,,,2026-08-26,True,ACTA ORDINARIA NRO 7.pdf,2,media,Firma como síndico titular el Acta N° 7; CI tomada de la escritura de constitución (era síndico suplente).
+tuiu,TUIU S.A.,RODRIGO FRANCO (RODRIGO RAMON FRANCO ORTIZ),,P0062,Presidente,2026-04-23,,2026-04-23,False,ACTA ORDINARIA NRO 6.pdf,2,alta,
+tuiu,TUIU S.A.,LUIS RIOS,,P0056,Vicepresidente,2026-04-23,,2026-04-23,False,ACTA ORDINARIA NRO 6.pdf,2,alta,
+tuiu,TUIU S.A.,RAQUEL MONZON VILLASANTI,,P0034,Síndico titular,2026-04-23,,2026-04-23,False,ACTA ORDINARIA NRO 6.pdf,2,alta,
+tuiu,TUIU S.A.,CESAR MANUEL ASTIGARRAGA LAMBARE,CI 3.807.117,P0002,Presidente,2024-11-28,,2024-11-28,False,ESCRITURA CONSTITUCION NRO 216.pdf,20,alta,
+tuiu,TUIU S.A.,LUIS ERNESTO ANGULO RIVERA,CI 8.307.881,P0008,Vicepresidente,2024-11-28,,2024-11-28,False,ESCRITURA CONSTITUCION NRO 216.pdf,20,alta,
+tuiu,TUIU S.A.,ANDRE GAYOL PIRES,CI 2.377.708,P0029,Director titular,2024-11-28,,2024-11-28,False,ESCRITURA CONSTITUCION NRO 216.pdf,20,alta,
+tuiu,TUIU S.A.,MIGUEL ANGEL ALMADA FRUTOS,CI 1.202.532,P0001,Síndico titular,2024-11-28,,2024-11-28,False,ESCRITURA CONSTITUCION NRO 216.pdf,20,alta,
+tuiu,TUIU S.A.,MONICA LETICIA GADEA GOMEZ DE LA FUENTE,CI 1.539.203,P0025,Síndico suplente,2024-11-28,,2024-11-28,False,ESCRITURA CONSTITUCION NRO 216.pdf,20,alta,
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,MIGUEL ÁNGEL ALMADA FRUTOS,CI 1.202.532,P0001,Representante del accionista U Holdings S.a.R.L. en asambleas de U Paraguay S.A. N° 5 y 6,2025-07-21,,2025-07-21,,(carpeta U PARAGUAY S.A) ESCRITURA MODIFICACION NRO 84.pdf,4,alta,Su correo MIGUEL.ALMADA@ITTI.DIGITAL figura como contacto de U Holdings en el listado BF de Red Digital.
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,FEDERICO MIGUEL VÁZQUEZ VILLASANTI,CI 2.941.546,P0003,Representante de U Holdings en la Asamblea Ordinaria N° 7 de U Paraguay,2026-04-16,,2026-04-16,,(carpeta U PARAGUAY S.A) ACTA ORDINARIA.pdf,2,media,Dato tomado de la ficha u_paraguay.json (página de firmas); en la pág. 1 U Holdings figura como único accionista presente.
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,FREDERIK PETRUS VAN DYK,Documento de identidad extranjero CP1274,P0155,"No consta (persona de Luxemburgo listada como BF de Red Digital, frederik.vandyk@arendtservices.com)",,,,,(carpeta RED DIGITAL S.A) Listado de Beneficiarios Finales declarado en el SIARA pendiente de aprobación.pdf,2,baja,"Arendt Services es un proveedor de servicios corporativos/domiciliación en Luxemburgo; es plausible que sea gerente de U Holdings, pero el documento no lo dice."
+ueno_holdings_sarl,UENO HOLDINGS S.A.R.L.,ELENA TITKOVA,Documento de identidad extranjero CP1273,P0130,"No consta (persona de Luxemburgo listada como BF de Red Digital, elena.titkova@arendtservices.com)",,,,,(carpeta RED DIGITAL S.A) Listado de Beneficiarios Finales declarado en el SIARA pendiente de aprobación.pdf,2,baja,Ídem anterior.
+u_paraguay,U Paraguay S.A.,JUAN MANUEL GUSTALE CARDONI,CI 2.479.821,P0024,Presidente,2026-04-16,,2026-04-16,True,ACTA ORDINARIA.pdf,2,alta,
+u_paraguay,U Paraguay S.A.,FEDERICO MIGUEL VÁZQUEZ,,P0003,Vicepresidente,2026-04-16,,2026-04-16,True,ACTA ORDINARIA.pdf,2,alta,
+u_paraguay,U Paraguay S.A.,ALEJANDRO GÓMEZ ABENTE,CI 1.432.121,P0021,Director titular,2026-04-16,,2026-04-16,True,ACTA ORDINARIA.pdf,2,alta,
+u_paraguay,U Paraguay S.A.,MIGUEL ALMADA,,P0001,Síndico titular,2026-04-16,,2026-04-16,True,ACTA ORDINARIA.pdf,2,alta,
+u_paraguay,U Paraguay S.A.,JOSÉ MARIA MONTERO,,P0013,Síndico suplente,2026-04-16,,2026-04-16,True,ACTA ORDINARIA.pdf,2,alta,
+u_paraguay,U Paraguay S.A.,JUAN MANUEL GUSTALE CARDONI,CI 2.479.821,P0024,Presidente,2025-05-20,Acta AGO N° 04 del 20/05/2025,2025-09-24,False,ESCRITURA MODIFICACION NRO 84.pdf,1,alta,
+u_paraguay,U Paraguay S.A.,ALEJANDRO GOMEZ ABENTE,CI 1.432.121,P0021,Director titular,2025-05-20,Acta AGO N° 04 del 20/05/2025,2025-09-24,False,ESCRITURA MODIFICACION NRO 84.pdf,1,alta,
+u_paraguay,U Paraguay S.A.,KAMILA MANUELA GIMENEZ CARRIZOSA,CI 4.378.554,P0208,Presidente,2023-03-10,primer directorio,2023-03-10,False,ESCRITURA CONSTITUCIÒN.pdf,15,alta,
+u_paraguay,U Paraguay S.A.,CAMILA ALESSANDRA BASILI YORKI,CI 3.797.138,P0091,Vicepresidente,2023-03-10,primer directorio,2023-03-10,False,ESCRITURA CONSTITUCIÒN.pdf,15,alta,
+u_paraguay,U Paraguay S.A.,PAULINA FIGARI PENAYO,CI 4.493.620,P0275,Síndico titular,2023-03-10,primer directorio,2023-03-10,False,ESCRITURA CONSTITUCIÒN.pdf,15,alta,
+u_paraguay,U Paraguay S.A.,ALBERTO LUIS FLEYTAS SQUEF,CI 4.344.167,P0074,Síndico suplente,2023-03-10,primer directorio,2023-03-10,False,ESCRITURA CONSTITUCIÒN.pdf,15,alta,
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,EDUARDO JAVIER GROSS BROWN COSTA,,P0009,Presidente,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 8.pdf,1,alta,
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,,P0012,Vicepresidente,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 8.pdf,1,alta,
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,CAROLINA GALEANO DE BESTARD,,P0022,Director titular,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 8.pdf,1,alta,
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,LEONARDO RAFAEL ALFONZO SEGOVIA,,P0054,Director suplente,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 8.pdf,1,alta,
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,RICARDO FERNÁNDEZ,,P0016,Síndico titular,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 8.pdf,1,alta,
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,LIZ RAQUEL VAZQUEZ BENITEZ,CI 1.050.627,P0007,Presidente,2023-09-11,Acta AGO N° 4,2023-11-21,False,ESCRITURA MODIFICACION NRO 138.pdf,1,alta,
+ueno_afpi,Ueno Administradora de Fondos Patrimoniales de Inversión S.A.,OSCAR LUIS URDAPILLETA GARCIA,CI 1.495.964,P0015,Vicepresidente,2023-09-11,Acta AGO N° 4,2023-11-21,False,ESCRITURA MODIFICACION NRO 138.pdf,1,alta,
+ueno_bank,Ueno Bank S.A.,ALEJANDRO GOMEZ ABENTE,CI 1.432.121,P0021,Vicepresidente 2°,2024-03-04,,2024-05-09,False,ESCRITURA NRO 44--09-05-2024.pdf,1,alta,
+ueno_bank,Ueno Bank S.A.,SILVIA ROSA SUSANA MURTO DE MÉNDEZ,CI 589.898,P0063,Director titular,2024-03-04,,2024-05-09,False,ESCRITURA NRO 44--09-05-2024.pdf,1,alta,
+ueno_bank,Ueno Bank S.A.,Juan Manuel Gustale Cardoni,CI 2.479.821,P0024,Presidente,2024-03-25,,2024-03-25,False,ESCRITURA NRO 44--09-05-2024.pdf,9,alta,
+ueno_bank,Ueno Bank S.A.,Pablo Debuchy,,P0027,Síndico titular,2024-03-25,,2024-03-25,False,ESCRITURA NRO 44--09-05-2024.pdf,10,alta,
+ueno_bank,Ueno Bank S.A.,Juan Manuel Gustale Cardoni,CI 2.479.821,P0024,Presidente,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,3,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Federico Miguel Vázquez Villasanti,CI 2.941.546,P0003,Vicepresidente 1°,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,3,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Julio Daniel Rey Fernández,,P0014,Vicepresidente 2°,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,3,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Alejandro Gómez Abente,CI 1.432.121,P0021,Director titular,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,3,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Diego Fernando Duarte Schussmuller,,P0043,Director titular,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,3,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Diana Leticia Mongelos González,,P0023,Director titular,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,3,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Mariana Torres Rubiani,,P0033,Director titular,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,3,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Joshua Daniel Abreu Boss,,P0052,Director suplente,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,3,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Guillermo Vázquez Muniagurria,CI 3.799.529,P0004,Director suplente,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,3,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Silvia Murto de Méndez,CI 589.898,P0063,Director suplente,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,3,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Miguel Ángel Almada Frutos,,P0001,Síndico titular,2026-02-20,,2026-02-20,True,ACTA ASAMBLEA.pdf,4,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,César Manuel Astigarraga Lambaré,CI 3.807.117,P0002,Síndico suplente,2026-02-20,,2026-02-20,True,ACTA ASAMBLEA.pdf,4,alta,Ratificación/designación en Acta N° 98.
+ueno_bank,Ueno Bank S.A.,Juan Manuel Gustale Cardoni,CI 2.479.821,P0024,Presidente,2026-07-13,,2026-07-13,True,ACTA DE ASAMBLEA.pdf,2,alta,Elección Acta N° 99.
+ueno_bank,Ueno Bank S.A.,Federico Miguel Vázquez Villasanti,CI 2.941.546,P0003,Vicepresidente 1°,2026-07-13,,2026-07-13,True,ACTA DE ASAMBLEA.pdf,2,alta,Elección Acta N° 99.
+ueno_bank,Ueno Bank S.A.,Diana Leticia Mongelos González,,P0023,Vicepresidente 2°,2026-07-13,,2026-07-13,True,ACTA DE ASAMBLEA.pdf,2,alta,Elección Acta N° 99.
+ueno_bank,Ueno Bank S.A.,Alejandro Gómez Abente,CI 1.432.121,P0021,Director titular,2026-07-13,,2026-07-13,True,ACTA DE ASAMBLEA.pdf,2,alta,Elección Acta N° 99.
+ueno_bank,Ueno Bank S.A.,Waldo Emilio Roberto,,P0323,Director titular,2026-07-13,,2026-07-13,True,ACTA DE ASAMBLEA.pdf,2,alta,Elección Acta N° 99.
+ueno_bank,Ueno Bank S.A.,Carlos Francisco Impagliatelli Bareiro,,P0012,Director titular,2026-07-13,,2026-07-13,True,ACTA DE ASAMBLEA.pdf,2,alta,Elección Acta N° 99.
+ueno_bank,Ueno Bank S.A.,Diego Fernando Duarte Schussmuller,,P0043,Director titular,2026-07-13,,2026-07-13,True,ACTA DE ASAMBLEA.pdf,2,alta,Elección Acta N° 99.
+ueno_bank,Ueno Bank S.A.,Guillermo Vázquez Muniagurria,CI 3.799.529,P0004,Director suplente,2026-07-13,,2026-07-13,True,ACTA DE ASAMBLEA.pdf,2,alta,Elección Acta N° 99.
+ueno_bank,Ueno Bank S.A.,Silvia Murto de Méndez,CI 589.898,P0063,Director suplente,2026-07-13,,2026-07-13,True,ACTA DE ASAMBLEA.pdf,2,alta,Elección Acta N° 99.
+ueno_bank,Ueno Bank S.A.,Kristel Duarte,,P0213,Representante de los accionistas U Paraguay S.A. y Grupo Vázquez S.A.E. (apoderada),2026-07-13,,2026-07-13,True,ACTA DE ASAMBLEA.pdf,1,alta,
+ueno_bank,Ueno Bank S.A.,Carlos Codas,,P0038,Representante de los accionistas U Paraguay S.A. y Grupo Vázquez S.A.E.; secretario Asamblea N° 98,2026-02-20,,2026-02-20,False,ACTA ASAMBLEA.pdf,2,alta,
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,LIZ RAQUEL VAZQUEZ BENITEZ,CI 1.050.627,P0007,Presidente (Director Presidente),2023-02-06,,2023-04-03,False,ESCRITURA MODIFICACION NRO 40.pdf,1,alta,
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,VERONICA VAZQUEZ MUNIAGURRIA,CI 3.224.278,P0068,Vicepresidente (Director Vicepresidente),2023-02-06,,2023-04-03,False,ESCRITURA MODIFICACION NRO 40.pdf,1,alta,
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,Eduardo Javier Gross Brown Costa,CI 439.189,P0009,Presidente,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 10.pdf,1,alta,"CI tomada del acta de Ueno Bank (Gross Brown Costa, Eduardo Javier 439189, accionista de Ueno Bank). Firma digitalmente el acta."
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,Carlos Francisco Impagliatelli Bareiro,,P0012,Vicepresidente,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 10.pdf,1,alta,Escrito 'Impaglatelli' en el acta. Firma digitalmente el registro de accionistas; director titular de Ueno Bank (julio 2026).
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,Carolina Galeano de Bestard,,P0022,Director titular,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 10.pdf,1,alta,
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,Leonardo Rafael Alfonzo Segovia,,P0054,Director suplente,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 10.pdf,1,alta,
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,Ricardo Fernandez,,P0016,Síndico titular,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 10.pdf,1,alta,
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,Alejandro Gómez Abente,CI 1.432.121,P0021,Presidente de Asamblea y representante del accionista U Paraguay S.A.,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 10.pdf,1,alta,CI tomada de la escritura 44/2024 de Ueno Bank; director titular de Ueno Bank.
+ueno_casa_de_bolsa,Ueno Casa de Bolsa S.A.,Bernardo Algorta,,P0005,Secretario de Asamblea y representante del accionista Grupo Vázquez S.A.E.,2026-02-06,,2026-02-06,True,ACTA ORDINARIA NRO 10.pdf,1,alta,
+ueno_holding_saeca,Ueno Holding S.A.E.C.A.,OSCAR LUIS URDAPILLETA GARCÍA,CI 1.495.964,P0015,Presidente y Representante Legal,2025-04-01,Hasta la próxima asamblea,2025-04-22,False,CONSTANCIA RA.pdf,1,alta,
+ueno_holding_saeca,Ueno Holding S.A.E.C.A.,LUIS ERNESTO ANGULO RIVERA,CI 8.307.881,P0008,Vicepresidente,2025-04-01,Hasta la próxima asamblea,2025-04-22,False,CONSTANCIA RA.pdf,1,alta,
+ueno_holding_saeca,Ueno Holding S.A.E.C.A.,RUTH STAEL RAMÍREZ LEZCANO,CI 3.977.833,P0028,Directora Titular,2025-04-01,Hasta la próxima asamblea,2025-04-22,False,CONSTANCIA RA.pdf,1,alta,
+ueno_seguros,Ueno Seguros S.A.,FRANKLIN GERARDO BOCCIA SILVEIRA,CI 1.343.171,P0154,Presidente,2024-10-25,hasta próxima asamblea,2024-10-25,True,Acta de Asamblea Ordinaria.pdf,1,alta,
+ueno_seguros,Ueno Seguros S.A.,EDUARDO JAVIER GROSS BROWN COSTA,CI 439.189,P0009,Vicepresidente,2024-10-25,,2024-10-25,True,Acta de Asamblea Ordinaria.pdf,1,alta,
+ueno_seguros,Ueno Seguros S.A.,JULIO DANIEL REY FERNANDEZ,,P0014,Director titular,2024-10-25,,2024-10-25,True,Acta de Asamblea Ordinaria.pdf,1,alta,
+ueno_seguros,Ueno Seguros S.A.,ADRIANA VÁZQUEZ MUNIAGURRIA,,P0019,Director titular,2024-10-25,,2024-10-25,True,Acta de Asamblea Ordinaria.pdf,1,alta,
+ueno_seguros,Ueno Seguros S.A.,CAROLINA MARÍA GALEANO DE BESTARD,,P0022,Director titular,2024-10-25,,2024-10-25,True,Acta de Asamblea Ordinaria.pdf,1,alta,
+ueno_seguros,Ueno Seguros S.A.,SILVIA MURTO DE MÉNDEZ,,P0063,Director suplente,2024-10-25,,2024-10-25,True,Acta de Asamblea Ordinaria.pdf,1,alta,
+ueno_seguros,Ueno Seguros S.A.,MIGUEL ALMADA FRUTOS,,P0001,Síndico titular,2024-10-25,,2024-10-25,True,Acta de Asamblea Ordinaria.pdf,1,alta,
+ueno_seguros,Ueno Seguros S.A.,CESAR ASTIGARRAGA,,P0002,Síndico suplente,2024-10-25,,2024-10-25,True,Acta de Asamblea Ordinaria.pdf,1,alta,
+ueno_seguros,Ueno Seguros S.A.,FRANKLIN BOCCIA,,P0154,Presidente,2022-08-09,,2022-08-09,False,Escritura Pública N° 186.pdf,8,alta,
+ueno_seguros,Ueno Seguros S.A.,EDUARDO GROSS BROWN,,P0009,Vicepresidente,2022-08-09,,2022-08-09,False,Escritura Pública N° 186.pdf,8,alta,
+ueno_seguros,Ueno Seguros S.A.,ALVARO BRASSA,,P0078,Director titular,2022-08-09,,2022-08-09,False,Escritura Pública N° 186.pdf,8,alta,
+ueno_seguros,Ueno Seguros S.A.,SILVIA MURTO,,P0063,Director titular,2022-08-09,,2022-08-09,False,Escritura Pública N° 186.pdf,8,alta,
+ueno_seguros,Ueno Seguros S.A.,JORGE RICARDO SARUBBI,,P0184,Director titular,2022-08-09,,2022-08-09,False,Escritura Pública N° 186.pdf,8,alta,
+ueno_seguros,Ueno Seguros S.A.,CAROLINA GALEANO DE BESTARD,,P0022,Director suplente,2022-08-09,,2022-08-09,False,Escritura Pública N° 186.pdf,8,alta,
+ueno_seguros,Ueno Seguros S.A.,VERONICA VAZQUEZ,,P0068,Director suplente,2022-08-09,,2022-08-09,False,Escritura Pública N° 186.pdf,8,alta,
+ueno_seguros,Ueno Seguros S.A.,PABLO DEBUCHY,,P0027,Síndico titular,2022-08-09,,2022-08-09,False,Escritura Pública N° 186.pdf,8,alta,
+ueno_seguros,Ueno Seguros S.A.,MIGUEL ALMADA,,P0001,Síndico suplente,2022-08-09,,2022-08-09,False,Escritura Pública N° 186.pdf,8,alta,
+ueno_seguros,Ueno Seguros S.A.,NICOLAS TOLENTINO SARUBBI ZAYAS,CI 251.954,P0259,Presidente,2012-10-31,periodo 2012/2014,2014-03-11,False,EScritura Pública n° 222.pdf,2-3,alta,
+ueno_seguros,Ueno Seguros S.A.,INES INSAURRALDE,,P0174,Vicepresidente,2012-10-31,periodo 2012/2014,2014-03-11,False,EScritura Pública n° 222.pdf,3,alta,
+ueno_seguros,Ueno Seguros S.A.,GRACIELA SOSA DE RIVAROLA,,P0161,Director titular,2012-10-31,periodo 2012/2014,2014-03-11,False,EScritura Pública n° 222.pdf,3,alta,
+ueno_seguros,Ueno Seguros S.A.,JORGE RICARDO SARUBBI CABALLERO,CI 1.315.220,P0184,Director titular,2012-10-31,periodo 2012/2014,2014-03-11,False,EScritura Pública n° 222.pdf,3,alta,
+ueno_seguros,Ueno Seguros S.A.,JUSTO SANTACRUZ,,P0207,Director titular,2012-10-31,periodo 2012/2014 (director no accionista),2014-03-11,False,EScritura Pública n° 222.pdf,3,alta,
+ueno_seguros,Ueno Seguros S.A.,NICOLAS T. SARUBBI ZAYAS,,P0258,Presidente,1998-09-24,,1998-10-24,False,Escritura Pública N° 51.pdf,2-3,alta,
+ueno_seguros,Ueno Seguros S.A.,JOSE LUIS MORINIGO AVEIRO,,P0192,Vicepresidente,1998-09-24,,1998-10-24,False,Escritura Pública N° 51.pdf,2,alta,
+ueno_seguros,Ueno Seguros S.A.,GERARDO VALIENTE VERON,,P0157,Presidente,1989-05-18,primer directorio,1989-05-18,False,Escritura pública N°188.pdf,19,alta,
+ueno_seguros,Ueno Seguros S.A.,OSCAR MAURICIO ACUÑA TORRES,,P0268,Vicepresidente,1989-05-18,primer directorio,1989-05-18,False,Escritura pública N°188.pdf,19,alta,
+ueno_seguros,Ueno Seguros S.A.,JORGE RAUL ESCALADA RUDINGER,,P0183,Director titular,1989-05-18,primer directorio,1989-05-18,False,Escritura pública N°188.pdf,19,alta,
+ueno_seguros,Ueno Seguros S.A.,CARLOS RUBEN AQUINO MARTINEZ,,P0105,Director titular,1989-05-18,primer directorio,1989-05-18,False,Escritura pública N°188.pdf,19,alta,
+ueno_seguros,Ueno Seguros S.A.,FULVIA ESTHER AGUIRRE DE AQUINO,,P0156,Director suplente,1989-05-18,primer directorio,1989-05-18,False,Escritura pública N°188.pdf,19,alta,
+ueno_seguros,Ueno Seguros S.A.,AURELIO ROA CHAMORRO,,P0087,Síndico titular,1989-05-18,primer directorio,1989-05-18,False,Escritura pública N°188.pdf,19,alta,
+ueno_seguros,Ueno Seguros S.A.,RODOLFO EUSEBIO RODRIGUEZ LEITH,,P0290,Síndico suplente,1989-05-18,primer directorio,1989-05-18,False,Escritura pública N°188.pdf,19,alta,
+v_media,V Media S.A.,Liz Raquel Vázquez Benitez,CI 1.050.627,P0007,Presidente,2026-05-08,,2026-05-08,True,ACTA ORDINARIA NRO 28.pdf,2,alta,Ya era Presidenta en 2025 (Acta N° 25 del 07/07/2025). Firma digitalmente el registro.
+v_media,V Media S.A.,Gloria Elizabeth Villasanti Farinha,CI 404147,P0046,Vicepresidente,2026-05-08,,2026-05-08,True,ACTA ORDINARIA NRO 28.pdf,2,alta,
+v_media,V Media S.A.,Miguel Ángel Almada Frutos,CI 1202532 (dato de Redipro),P0001,Síndico titular,2026-05-08,,2026-05-08,True,ACTA ORDINARIA NRO 28.pdf,2,alta,
+v_media,V Media S.A.,Cesar Manuel Astigarraga Lambaré,CI 3.807.117,P0002,Director titular,2025-07-07,,2025-10-23,False,ESCRITURA MODIFICACION NRO 141.pdf,1,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,MARCOS ALEX SILVA DOS SANTOS,CI 7.980.682 (brasileño),P0231,Presidente,2026-05-21,,2026-05-21,True,Acta de Asamblea.pdf,3,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,LEOMAR GOLDONI,,P0215,Vicepresidente,2026-05-21,,2026-05-21,True,Acta de Asamblea.pdf,3,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,EDUARDO STINGER,,P0129,Director titular,2026-05-21,también representante legal ante autoridad tributaria,2026-05-21,True,Acta de Asamblea.pdf,3-4,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,LUCIANO MAGGI QUARTIERO,,P0222,Director titular / Presidente suplente,2026-05-21,,2026-05-21,True,Acta de Asamblea.pdf,3,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,CARLOS ACUÑA,,P0092,Síndico titular,2026-05-21,,2026-05-21,True,Acta de Asamblea.pdf,3,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,LÍDER NÚÑEZ,,P0217,Síndico suplente,2026-05-21,,2026-05-21,True,Acta de Asamblea.pdf,3,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,LEOMAR GOLDONI,,P0215,Representante legal (ante autoridad tributaria),2026-05-21,,2026-05-21,True,Acta de Asamblea.pdf,4,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,MARCOS ALEX SILVA DOS SANTOS,CI 7.980.682,P0231,Presidente,2025-04-24,,2025-12-16,False,Escritura 3272 16-12-2025.pdf,1-2,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,LEOMAR GOLDONI,,P0215,Vicepresidente,2025-04-24,,2025-12-16,False,Escritura 3272 16-12-2025.pdf,2,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,EDUARDO STINGER,,P0129,Director titular,2025-04-24,,2025-12-16,False,Escritura 3272 16-12-2025.pdf,2,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,VERONICA FRANCO,,P0067,Apoderado,2026-04-30,apoderada del accionista Camilatam S.A.,2026-05-21,True,Acta de Asamblea.pdf,1,alta,
+villa_oliva_rice,Villa Oliva Rice S.A.,EDUARDO AMMATUNA,,P0127,Apoderado,2026-04-30,apoderado del accionista Saman S.A.,2026-05-21,True,Acta de Asamblea.pdf,1,alta,
+vinanzas,Vinanzas S.A.,SIGFRIDO GROSS BROWN ABREU,,P0308,Presidente de EL RIACHO S.A. (accionista fundador),,,2015-07-27,False,ESCRITURA CONSTITUCION NRO 142.pdf,2,alta,
+vinanzas,Vinanzas S.A.,LIZ RAQUEL VAZQUEZ BENITEZ,CI 1050627,P0007,Presidente,2023-04-26,AGO N° 11,2023-07-26,False,ESCRITURA CONSTITUCION NRO 142.pdf,31,alta,
+vinanzas,Vinanzas S.A.,LUIS ALFREDO GAONA,CI 4923683,P0223,Vicepresidente,2023-04-26,AGO N° 11,2023-07-26,False,ESCRITURA CONSTITUCION NRO 142.pdf,31,alta,argentino
+vinanzas,Vinanzas S.A.,CARLOS FRANCISCO IMPAGLIATELLI BAREIRO,,P0012,Presidente,2026-03-30,hasta 17-08-2026,2026-03-30,False,ACTA ORDINARIA NRO 1.pdf,2,alta,
+vinanzas,Vinanzas S.A.,GUILLERMO VAZQUEZ MUNIAGURRIA,,P0004,Vicepresidente,2026-03-30,hasta 17-08-2026,2026-03-30,False,ACTA ORDINARIA NRO 1.pdf,2,alta,
+vinanzas,Vinanzas S.A.,JUAN JOSE GAMARRA,,P0199,Director titular,2026-03-30,,2026-03-30,False,ACTA ORDINARIA NRO 1.pdf,2,alta,
+vinanzas,Vinanzas S.A.,ROSSANA MONTIEL,,P0300,Director suplente,2026-03-30,,2026-03-30,,ACTA ORDINARIA NRO 1.pdf,2,alta,
+vinanzas,Vinanzas S.A.,MIGUEL ALMADA,,P0001,Síndico titular,2026-03-30,,2026-03-30,True,ACTA ORDINARIA NRO 1.pdf,2,alta,
+vinanzas,Vinanzas S.A.,GUILLERMO VAZQUEZ MUNIAGURRIA,,P0004,Presidente,2026-08-17,,2026-08-17,True,ACTA ORDINARIA NRO 2.pdf,1,alta,
+vinanzas,Vinanzas S.A.,JUAN JOSE GAMARRA,,P0199,Vicepresidente,2026-08-17,,2026-08-17,True,ACTA ORDINARIA NRO 2.pdf,1,alta,
+vinanzas,Vinanzas S.A.,RUTH RAMIREZ,,P0028,Representante del accionista IOIO S.A.,,,2026-03-30,,ACTA ORDINARIA NRO 1.pdf,1,alta,
+vinanzas,Vinanzas S.A.,BERNARDO ALGORTA,,P0005,Representante del accionista Grupo Vázquez S.A.E.,,,2026-08-17,,ACTA ORDINARIA NRO 2.pdf,1,alta,

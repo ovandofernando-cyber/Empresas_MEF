@@ -1,0 +1,61 @@
+# Fuente: VINANZAS S.A/REGISTRO ACCIONISTAS.pdf
+# Texto digital o OCR (tesseract spa 200dpi). Las páginas marcadas [OCR] pueden tener errores.
+
+
+===== Página 1 =====
+                                      Registro de Accionistas Vinanzas S.A.
+                                                      Cant.
+                                  Cant.                                        % Partic.
+                  Acción Acción            Valor      Total                                 %
+   Accionista                      de                          Monto Gs.          En                      Transferencias
+                  del Nº  al Nª           Nominal      de                                  Votos
+                                  Acc.                                         Capital
+                                                      Votos
+GRUPO
+VAZQUEZ S.A.E.      1      1          1 100.000.000    1        100.000.000     0,18%      0,18%
+ITTI S.A.E.C.A.     2      24        23 100.000.000    23      2.300.000.000    4,17%      4,17%
+IOIO SAECA         25      48        24 100.000.000    24      2.400.000.000    4,36%      4,36%
+IOIO SAECA         49     209       161 100.000.000   161     16.100.000.000   29,22%      29,22%
+ITTI S.A.E.C.A.    210    364       155 100.000.000   155     15.500.000.000   28,13%      28,13%
+ITTI S.A.E.C.A.    380    402        23 100.000.000    23      2.300.000.000    4,17%      4,17%
+ITTI S.A.E.C.A.    403    472        70 100.000.000    70      7.000.000.000   12,70%      12,70%
+                                                                                                  Itti transfiere 67 acciones a
+                                                                                                  Grupo Vazquez SAE en fecha 29-
+ITTI S.A.E.C.A.    473    542        70 100.000.000    70      7.000.000.000   12,70%      12,70% 12-2025
+IOIO SAECA         586    609        24 100.000.000    24      2.400.000.000    4,36%      4,36%
+
+
+
+
+                                                                                           Firmado
+                                                                               CARLOS      digitalmente por
+                                                                               FRANCISCO CARLOS    FRANCISCO
+                                                                                           IMPAGLIATELLI
+                                                                               IMPAGLIATE BAREIRO
+                                                                               LLI BAREIRO Fecha: 2026.05.18
+                                                                                           11:56:14 -03'00'
+
+
+===== Página 2 =====
+                                      Registro de Accionistas Vinanzas S.A.
+
+                                                       Cant.
+                                   Cant.
+                   Acción Acción            Valor      Total                     % Partic.
+      Accionista                    de                           Monto Gs.                   % Votos   Transferencias
+                   del Nº  al Nª           Nominal      de                      En Capital
+                                   Acc.
+                                                       Votos
+GRUPO VAZQUEZ
+S.A.E.               1      1          1 100.000.000    1        100.000.000      0,21%       0,21%
+ITTI S.A.E.C.A.      2      24        23 100.000.000    5       2.300.000.000     4,75%       4,75%
+IOIO SAECA          25      48        24 100.000.000    24      2.400.000.000     4,96%       4,96%
+IOIO SAECA          49     209       161 100.000.000   161     16.100.000.000    33,26%      33,26%
+ITTI S.A.E.C.A.     210    364       155 100.000.000   155     15.500.000.000    32,02%      32,02%
+ITTI S.A.E.C.A.     380    402        23 100.000.000    23      2.300.000.000     4,75%       4,75%
+ITTI S.A.E.C.A.     403    472        70 100.000.000    70      7.000.000.000    14,46%      14,46%
+ITTI S.A.E.C.A.     473    475         3 100.000.000    3        300.000.000      0,62%       0,62%
+GRUPO VAZQUEZ
+S.A.E.              476    542        67 100.000.000    67      6.700.000.000    13,84%      13,84%
+IOIO SAECA          519    542        24 100.000.000    24      2.400.000.000     4,96%       4,96%
+

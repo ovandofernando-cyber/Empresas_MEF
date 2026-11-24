@@ -11,7 +11,7 @@ def add_obs(d, txt):
         d["observaciones"] = [o for o in d["observaciones"] if not o.startswith(MARCA) or txt[:60] not in o]
         d["observaciones"].append(f"{MARCA} {txt}")
 
-EXPL = ("En las 35 constancias SIARA restantes el campo 'Analista' muestra funcionarios del MEF (≈16 nombres distintos, "
+EXPL = ("En las 35 constancias SIARA restantes el campo 'Analista' muestra funcionarios del MEF (15 nombres distintos, "
         "ninguno vinculado a las empresas). En las dos constancias de tipo 'REGULARIZACIÓN DE EAS' (HD Invest y La Tropa Fletes), "
         "presentadas y expedidas el mismo día 16/11/2026 en horario nocturno, el campo 'Analista' repite el nombre del representante "
         "legal de la propia EAS. Se interpreta que en ese trámite de autogestión el sistema consigna al usuario que cargó la declaración "

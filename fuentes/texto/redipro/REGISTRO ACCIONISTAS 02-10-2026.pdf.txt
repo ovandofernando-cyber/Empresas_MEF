@@ -1,0 +1,102 @@
+# Fuente: RED DIGITAL DE PROCESAMIENTO S.A/REGISTRO ACCIONISTAS 02-10-2026.pdf
+# Texto digital o OCR (tesseract spa 200dpi). Las páginas marcadas [OCR] pueden tener errores.
+
+
+===== Página 1 =====
+RED DIGITAL DE PROCESAMIENTO S.A.                                                                                                     REGISTRO DE ACCIONISTAS
+RUC N° 80114621-6                                                                                                                                                                                                                                                 21
+
+
+
+
+Capital Social:           Gs.1.000.000.000.000
+Capital Emitido:          Gs. 766.681.000.000
+Capital Suscripto:        Gs. 766.681.000.000
+Capital Integrado:        Gs. 766.681.000.000                                                                                                                                                                                    02/10/2026
+Valor nominal:            Gs. 1.000.000
+
+
+                                                                                                                                                  Cantidad
+                                                                                       Valor del                                    Cantidad de                                % Part. En   % Part. En
+   Fecha de Suscripción           Nombre                       Domicilio                            Clase        DEL       AL                     Total de    Monto en Gs.                                                  TRANSFERENCIAS                                         OBSERVACIONES
+                                                                                        Título                                       Acciones                                   Capital       Votos
+                                                                                                                                                   Votos
+                                                 Avda. Santa Teresa entre Herminio                                                                                                                       Kamila Manuela Gimenez Carrizosa transfiere a ITTI SAECA el
+                                                 Maldonado y Aviadores del Chaco,                                                                                                                        01/07/2022.
+                                                 Torres del Paseo, Torre 2, Piso 25                                                                                                                      ITTI SAECA VENDE A UENO BANK EN FECHA
+       09/09/2020           U PARAGUAY S.A.                                            1.000.000     OVS          1         1            1           1          1.000.000        0,00%        0,00%
+                                                                                                                                                                                                         28/04/2025
+                                                                                                                                                                                                         UENO BANK VENDE A U PARAGUAY S.A. EN FECHA
+                                                                                                                                                                                                         30/09/2026
+                                                 Avda. Santa Teresa entre Herminio                                                                                                                       Camila Alesandra Basilli Yorki transfiere a Ueno Holding
+                                                 Maldonado y Aviadores del Chaco,                                                                                                                        SAECA el 01/07/2022-UENO HOLDING TRANSFIERE A
+                                                 Torres del Paseo, Torre 2, Piso 25                                                                                                                      GRUPO VAZQUEZ EN FECHA 15/09/202/ GRUPO
+                                                                                                                                                                                                         VAZQUEZ TRANSFIERE A U PARAGUAY EN FECHA
+       09/09/2020           U PARAGUAY S.A.                                            1.000.000     OVS          2         2            1           1          1.000.000        0,00%        0,00%      30/09/2023
+
+
+
+
+                                                 Avda. Santa Teresa entre Herminio                                                                                                                       Financiera Ueno vende UH en fecha 31/07-UENO HOLDING
+                                                 Maldonado y Aviadores del Chaco,                                                                                                                        TRANSFIERE A GRUPO VAZQUEZ EN FECHA
+                                                 Torres del Paseo, Torre 2, Piso 25                                                                                                                      15/09/23GRUPO VAZQUEZ TRANSFIERE A U
+       05/10/2022           U PARAGUAY S.A.                                            1.000.000     OVS          3       10.322      10.320       10.320    10.320.000.000      1,35%       20,64%      PARAGUAY EN FECHA 30/09/2023
+
+
+
+
+                                                 Avda. Santa Teresa entre Herminio                                                                                                                       VENTA DE ITTI A GRUPO VAZQUEZ EN FECHA
+                                                 Maldonado y Aviadores del Chaco,                                                                                                                        30/06/2025/ CESION DE GRUPO VAZQUEZ A U
+       05/10/2022           U PARAGUAY S.A.      Torres del Paseo, Torre 2, Piso 25    1.000.000     OVS        10.323    18.850       8.528       8.528      8.528.000.000      1,11%       17,06%      PARAGUAY EN FECHA 30/06/2025
+
+
+
+                                                 Avda. Santa Teresa entre Herminio                                                                                                                       ITTI SAECA transfiere a Grupo Vazquez SAE en fecha
+                                                 Maldonado y Aviadores del Chaco,                                                                                                                        07/08/2023/GRUPO VAZQUEZ TRANSFIERE A U
+       05/10/2022           U PARAGUAY S.A.      Torres del Paseo, Torre 2, Piso 25    1.000.000     OVS        18.851    21.322       2.472       2.472      2.472.000.000      0,32%        4,94%      PARAGUAY EN FECHA 30/09/2023
+
+
+
+                                                 Avda. Santa Teresa entre Herminio
+       05/10/2022           U PARAGUAY S.A.      Maldonado y Aviadores del Chaco,      1.000.000     OVS        21.323    50.000      28.678       28.678    28.678.000.000      3,74%       57,36%                                                                    Integración de aporte en fecha 18/12/25
+                                                 Torres del Paseo, Torre 2, Piso 25
+                                                 Avda. Santa Teresa N° 3088 casi
+                                                                                                                                                                                                                                                                       Integración realizada por ueno bank S.A. en
+       29/05/2026            UENO BANK S.A.      Concejal Vargas, Asunción, Paraguay   1.000.000   Preferidas   50.001    426.129     376.129        0       376.129.000.000    49,06%         0%
+                                                                                                                                                                                                                                                                       fecha 29/05/2026
+                                                 Avda. Santa Teresa entre Herminio
+       29/05/2026           U PARAGUAY S.A.      Maldonado y Aviadores del Chaco,      1.000.000   Preferidas   426.130   435.843      9.714         0        9.714.000.000      1,27%         0%        Ueno Bank vende a U Paraguay S.A. en fecha 02/10/2026
+                                                 Torres del Paseo, Torre 2, Piso 25
+                                                 Avda. Santa Teresa entre Herminio
+                                                                                                                                                                                                         Ueno Bank realiza cesión a U Paraguay S.A. en fecha
+       29/05/2026           U PARAGUAY S.A.      Maldonado y Aviadores del Chaco,      1.000.000   Preferidas   435.844   503.843     68.000         0       68.000.000.000      8,87%         0%
+                                                                                                                                                                                                         02/10/2026
+                                                 Torres del Paseo, Torre 2, Piso 25
+                                                 Avda. Santa Teresa entre Herminio
+       29/05/2026           U PARAGUAY S.A.      Maldonado y Aviadores del Chaco,      1.000.000   Preferidas   503.844   509.822      5.979         0        5.979.000.000      0,78%         0%        Ueno Bank vede a U Paraguay S.A. en fecha 30/09/2026
+                                                 Torres del Paseo, Torre 2, Piso 25
+                                                                                                                                                                                                         Ueno Bank vende a Red Digital SA en fecha 09/09/2026- RED
+                                                                                                                                                                                                         DIGITAL S.A. vende a ITTI S.A.E. en fecha 25/09/2026 -
+                                                 Avda. Santa Teresa entre Herminio
+                                                                                                                                                                                                         ITTI S.A.E. vende a GRUPO VAZQUEZ S.A.E. en fecha
+       29/05/2026           U PARAGUAY S.A.      Maldonado y Aviadores del Chaco,      1.000.000   Preferidas   509.823   690.468     180.646        0       180.646.000.000    23,56%         0%
+                                                                                                                                                                                                         25/09/2026
+                                                 Torres del Paseo, Torre 2, Piso 25
+                                                                                                                                                                                                         GRUPO VAZQUEZ S.A.E. vende a U-PARAGUAY S.A. en
+                                                                                                                                                                                                         fecha 25/09/2026
+                                                 Avda. Santa Teresa entre Herminio
+                                                                                                                                                                                                                                                                       Integración realizada por U Paraguay S.A. en
+       29/05/2026           U PARAGUAY S.A.      Maldonado y Aviadores del Chaco,      1.000.000   Preferidas   690.469   766.681     76.213         0       76.213.000.000      9,94%         0%
+                                                                                                                                                                                                                                                                       fecha 29/05/2026
+                                                 Torres del Paseo, Torre 2, Piso 26
+                                                                TOTAL                                                                 766.681      50.000    766.681.000.000    100,00%      100,00%
+
+
+
+                                                                                                                                                                                                                                                                                        Firmado digitalmente
+                                                                                                                                                                                                                                                               EDUARDO      por EDUARDO JAVIER
+                                                                                                                                                                                                                                                                            GROSS BROWN
+                                                                                                                                                                                                                                                               JAVIER GROSS COSTA
+                                                                                                                                                                                                                                                               BROWN COSTA Fecha: 2026.10.09
+                                                                                                                                                                                                                                                                                        10:40:50 -03'00'
+
