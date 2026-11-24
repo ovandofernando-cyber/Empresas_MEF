@@ -154,7 +154,7 @@
   {
    "entidad_o_persona": "Karim Hamza Damani Chaparro",
    "tipo": "otro",
-   "detalle": "El socio único y representante de HD Invest figura también como 'Analista' del MEF que expidió la Constancia RA N° 35431 de la propia empresa (16/11/2026 22:27). Posible conflicto de interés / autoaprobación.",
+   "detalle": "El socio único y representante legal figura en el campo 'Analista' de la Constancia RA N° 35431 (Regularización de EAS, 16/11/2026 22:27). Verificado: corresponde al usuario declarante de la propia empresa, no a un funcionario del MEF.",
    "fuente": {
     "archivo": "Constancia RA 2026 Siara.pdf",
     "pagina": 1
@@ -182,6 +182,18 @@
     "pagina": 1
    },
    "notas": "Sólo figura el correo de la PEJ; la constancia no trae datos del solicitante."
+  },
+  {
+   "nombre": "KARIM HAMZA DAMANI CHAPARRO",
+   "documento": "CI 3.875.748 (manuscrito en proforma)",
+   "correo": "andreabarrua20@gmail.com",
+   "telefono": null,
+   "fecha": "2026-11-16",
+   "fuente": {
+    "archivo": "Constancia RA 2026 Siara.pdf",
+    "pagina": 1
+   },
+   "notas": "Consignado en el campo 'Analista' de la constancia; interpretado como usuario declarante (ver observaciones)."
   }
  ],
  "correos_dominios": [
@@ -194,7 +206,7 @@
    "fecha": "2026-11-16",
    "paginas": 1,
    "legibilidad": "texto",
-   "resumen": "Constancia RA N° 35431, tipo Regularización de EAS; analista Karim Hamza Damani Chaparro."
+   "resumen": "Constancia RA N° 35431, tipo Regularización de EAS; campo 'Analista' = Karim Hamza Damani Chaparro (declarante de la propia EAS)."
   },
   {
    "archivo": "Proforma EAS.pdf",
@@ -206,10 +218,10 @@
   }
  ],
  "observaciones": [
-  "Conflicto de interés: el analista que expide la constancia RA (Karim Hamza Damani Chaparro) es el mismo socio único y representante legal de la EAS.",
   "La constancia RA se presentó y expidió el 16/11/2026 (después del inicio del expediente SIME 78.318/2026), como 'Regularización'.",
   "No se remitió constancia de BF ni constancia de inscripción; no hay registro de accionistas.",
   "No se encontró en estos documentos ningún vínculo explícito con Ueno, ITTI o Grupo Vázquez; la inclusión en el lote del MEF debería explicarse por otras fuentes.",
-  "La proforma no muestra sello de inscripción; el CI del socio sólo aparece manuscrito."
+  "La proforma no muestra sello de inscripción; el CI del socio sólo aparece manuscrito.",
+  "[VERIFICACIÓN 2026-11-24] Corregida la lectura previa ('analista del MEF = accionista'). En las 35 constancias SIARA restantes el campo 'Analista' muestra funcionarios del MEF (≈16 nombres distintos, ninguno vinculado a las empresas). En las dos constancias de tipo 'REGULARIZACIÓN DE EAS' (HD Invest y La Tropa Fletes), presentadas y expedidas el mismo día 16/11/2026 en horario nocturno, el campo 'Analista' repite el nombre del representante legal de la propia EAS. Se interpreta que en ese trámite de autogestión el sistema consigna al usuario que cargó la declaración (equivalente al 'Responsable de la Solicitud' / declarante de la empresa), NO a un funcionario del MEF. No hay base para afirmar conflicto de interés ni autoaprobación."
  ]
 }

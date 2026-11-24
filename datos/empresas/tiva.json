@@ -735,6 +735,7 @@
   "RA ene-2025 omite a Carlos Rodríguez Alcalá (porcentajes suman 96%). RUC de ITTI declarado como 80028355-0 en dos constancias (correcto 80028355-4).",
   "CI de F. M. Vázquez Villasanti escrito 2491546 (dígitos transpuestos respecto de 2941546). BF 2025 indica fecha 30-07-2022 para Cartes y Serra (probablemente 2012).",
   "Declarante Aracely Torres de Yegros con dos CI distintos (2.182.518 en 2018; 2.466.640 en 2020).",
-  "No hay constancia BF posterior a ene-2025."
+  "No hay constancia BF posterior a ene-2025.",
+  "[VERIFICACIÓN 2026-11-24] CI de Federico Miguel Vázquez Villasanti: el correcto es 2.941.546 (14 archivos fuente, incluida la Escritura 131 de Grupo Vázquez y constancias BF de Red Digital, Redipro, Place Analyzer, Red UTS). La variante 2.491.546 aparece sólo en las constancias BF de Kaitel y Tiva y es una transposición de dígitos: en ambas va acompañada del DV '-2', que es el dígito verificador de 2941546 (el de 2491546 sería 7)."
  ]
 }

@@ -1,88 +1,578 @@
 {
-  "id": "terravaz",
-  "razon_social": "TERRAVAZ SOCIEDAD ANONIMA EMISORA",
-  "ruc": "80104014-0",
-  "tipo": "S.A.E. (Sociedad Anónima Emisora)",
-  "carpeta_mef": "TERRAVAZ SAE",
-  "denominaciones_anteriores": [
-    {"nombre": "RADICE SOCIEDAD ANONIMA", "hasta": "2020-03-02", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 121.pdf", "pagina": 2}},
-    {"nombre": "RADICE SOCIEDAD ANONIMA EMISORA DE CAPITAL ABIERTO (RADICE S.A.E.C.A.)", "hasta": "2025-07-07", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 121.pdf", "pagina": 1}}
-  ],
-  "constitucion": {
-    "fecha": "2018-08-28",
-    "escritura": "N° 119 (folio 740/747, Protocolo Comercial Sección A)",
-    "escribano": "María Emilia Báez Delvalle (Registro N° 68)",
-    "inscripcion_registro_publico": "Matrícula Jurídica N° 15.516 Serie Comercial N° 1 folio 1; Matrícula Comercial N° 15.710 N° 001 folio 1 al 13; ambas 05-10-2018.",
-    "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 121.pdf", "pagina": 1}
+ "id": "terravaz",
+ "razon_social": "TERRAVAZ SOCIEDAD ANONIMA EMISORA",
+ "ruc": "80104014-0",
+ "tipo": "S.A.E. (Sociedad Anónima Emisora)",
+ "carpeta_mef": "TERRAVAZ SAE",
+ "denominaciones_anteriores": [
+  {
+   "nombre": "RADICE SOCIEDAD ANONIMA",
+   "hasta": "2020-03-02",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 121.pdf",
+    "pagina": 2
+   }
   },
-  "domicilio": [
-    {"direccion": "AVDA. COSTANERA (Encarnación)", "fecha_dato": "2026-05-25", "fuente": {"archivo": "CONSTANCIA RA NRO 6572.pdf", "pagina": 1}},
-    {"direccion": "Sede social: Avenida Costanera esquina Ángel Samudio, Encarnación", "fecha_dato": "2026-04-17", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}}
-  ],
-  "objeto_social": "Inmobiliarias (compraventa, locación, administración, centros comerciales, loteamientos, urbanizaciones, colonizaciones), inversiones y créditos (financiamiento, compra de facturas, fideicomisos, préstamos), construcción.",
-  "actividad_principal": "inmobiliaria / desarrollo (Encarnación) e inversiones",
-  "plazo_duracion": null,
-  "capital": [
-    {"tipo": "social", "monto": 60000000000, "moneda": "PYG", "valor_nominal_accion": 100000000, "cantidad_acciones": 600, "fecha_dato": "2025-08-04", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
-    {"tipo": "suscripto", "monto": 30000000000, "moneda": "PYG", "valor_nominal_accion": 100000000, "cantidad_acciones": 300, "fecha_dato": "2025-08-04", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
-    {"tipo": "integrado", "monto": 30000000000, "moneda": "PYG", "valor_nominal_accion": 100000000, "cantidad_acciones": 300, "fecha_dato": "2025-08-04", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
-    {"tipo": "social", "monto": 250000000000, "moneda": "PYG", "valor_nominal_accion": 100000000, "cantidad_acciones": 2500, "fecha_dato": "2025-06-17", "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 2}, "notas": "Aumento aprobado por Asamblea Extraordinaria N° 19 (17-06-2025); se dispone emitir 2.200 acciones (Gs. 220.000 M). El registro al 04/08/2025 aún muestra capital social Gs. 60.000 M."}
-  ],
-  "accionistas": [
-    {"nombre": "HORACIO JOSE BIGA", "tipo_persona": "fisica", "documento": "CI 5990871", "nacionalidad": "argentina", "acciones": 9, "clase_acciones": "OVM (5) + OVS (4)", "votos": 29, "porcentaje": 3.0, "porcentaje_calculado": true, "fecha_dato": "2025-08-04", "vigente": false, "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}, "confianza": "alta", "notas": "Fundador; acciones 5-13 vendidas a Grupo Vázquez el 04/08/2025"},
-    {"nombre": "CARLOS EMILIO SOLER", "tipo_persona": "fisica", "documento": "CI 5992466", "nacionalidad": "argentina", "acciones": 4, "clase_acciones": "OVM (2) + OVS (2)", "votos": 12, "porcentaje": 1.33, "porcentaje_calculado": true, "fecha_dato": "2025-08-04", "vigente": false, "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}, "confianza": "alta", "notas": "Fundador; acciones 1-4 vendidas a Grupo Vázquez el 04/08/2025"},
-    {"nombre": "GUIDO MARTINEZ LOPEZ", "tipo_persona": "fisica", "documento": "CI 926552", "nacionalidad": "paraguaya", "acciones": null, "clase_acciones": null, "votos": null, "porcentaje": null, "porcentaje_calculado": false, "fecha_dato": "2018-08-28", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 119.pdf", "pagina": 2}, "confianza": "alta", "notas": "Fundador; no figura en registro 2025 (posible vínculo con Rumani SRL)"},
-    {"nombre": "CECILIA DEL CARMEN ESCOBAR DE MARTINEZ", "tipo_persona": "fisica", "documento": "CI 2807193", "nacionalidad": "paraguaya", "acciones": null, "clase_acciones": null, "votos": null, "porcentaje": null, "porcentaje_calculado": false, "fecha_dato": "2018-08-28", "vigente": false, "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 119.pdf", "pagina": 2}, "confianza": "alta", "notas": "Fundadora"},
-    {"nombre": "GRUPO VAZQUEZ S.A.E.", "tipo_persona": "juridica", "documento": "RUC 80086759-9", "nacionalidad": "paraguaya", "acciones": 292, "clase_acciones": "OVM (5 votos) 286 + OVS 6", "votos": 1436, "porcentaje": 97.33, "porcentaje_calculado": false, "fecha_dato": "2026-04-17", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}, "confianza": "alta", "notas": "279 acciones suscriptas el 04/06/2025 (acc. 22-300) + 13 compradas a Soler y Biga el 04/08/2025. 98,36% de los votos. Representado por Guillermo Vázquez / Raquel Vázquez."},
-    {"nombre": "SERGIO MIGUEL STUDENKO URUSOFF", "tipo_persona": "fisica", "documento": "CI 921150", "nacionalidad": "paraguaya", "acciones": 4, "clase_acciones": "OVM 2 + OVS 2", "votos": 12, "porcentaje": 1.33, "porcentaje_calculado": true, "fecha_dato": "2025-08-04", "vigente": true, "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}, "confianza": "alta", "notas": "Fundador; acciones 14-17"},
-    {"nombre": "RUMANI SRL", "tipo_persona": "juridica", "documento": "RUC 80113363-7", "nacionalidad": "paraguaya", "acciones": 4, "clase_acciones": "OVM 2 + OVS 2", "votos": 12, "porcentaje": 1.33, "porcentaje_calculado": true, "fecha_dato": "2025-08-04", "vigente": true, "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}, "confianza": "alta", "notas": "Acciones 18-21"}
-  ],
-  "autoridades": [
-    {"nombre": "TIZIANA BUSSINI", "documento": null, "cargo": "Vicepresidente (presidió asambleas 17-06-2025)", "fecha_asuncion": null, "vigencia": "hasta 17-06-2025", "fecha_dato": "2025-06-17", "vigente": false, "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 1}, "confianza": "alta"},
-    {"nombre": "LUIS MARCELO CARDOZO LEDESMA", "documento": "CI 2484390", "cargo": "Presidente", "fecha_asuncion": "2025-06-17", "vigencia": null, "fecha_dato": "2026-04-17", "vigente": true, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 121.pdf", "pagina": 1}, "confianza": "alta"},
-    {"nombre": "BERNARDO ALGORTA", "documento": null, "cargo": "Vicepresidente", "fecha_asuncion": "2025-06-17", "vigencia": null, "fecha_dato": "2025-06-17", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 2}, "confianza": "alta"},
-    {"nombre": "RUTH STAEL RAMIREZ LEZCANO", "documento": "CI 3977833", "cargo": "Director titular", "fecha_asuncion": "2025-06-17", "vigencia": null, "fecha_dato": "2025-07-07", "vigente": true, "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 121.pdf", "pagina": 1}, "confianza": "alta", "notas": "Firma digitalmente todos los documentos presentados"},
-    {"nombre": "CECILIA DOMINGUEZ ELIZECHE", "documento": null, "cargo": "Director suplente", "fecha_asuncion": "2025-06-17", "vigencia": null, "fecha_dato": "2025-06-17", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 2}, "confianza": "alta"},
-    {"nombre": "MIGUEL ANGEL ALMADA FRUTOS", "documento": null, "cargo": "Síndico titular", "fecha_asuncion": "2025-06-17", "vigencia": "reelecto 17-04-2026", "fecha_dato": "2026-04-17", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}, "confianza": "alta"},
-    {"nombre": "CESAR ASTIGARRAGA", "documento": null, "cargo": "Síndico suplente", "fecha_asuncion": "2025-06-17", "vigencia": null, "fecha_dato": "2025-06-17", "vigente": null, "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 2}, "confianza": "alta"},
-    {"nombre": "GUILLERMO VAZQUEZ", "documento": null, "cargo": "Representante del accionista Grupo Vázquez S.A.E.", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2026-04-17", "vigente": true, "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}, "confianza": "alta"},
-    {"nombre": "RAQUEL VAZQUEZ", "documento": null, "cargo": "Representante del accionista Grupo Vázquez S.A.E.", "fecha_asuncion": null, "vigencia": null, "fecha_dato": "2025-06-17", "vigente": null, "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 1}, "confianza": "alta"}
-  ],
-  "beneficiarios_finales": [],
-  "historial": [
-    {"fecha": "2018-08-28", "evento": "constitucion", "detalle": "Constitución de RADICE S.A. (Esc. 119) por Horacio José Biga, Carlos Emilio Soler, Guido Martínez López, Cecilia del Carmen Escobar de Martínez y Sergio Miguel Studenko Urusoff (Encarnación).", "fuente": {"archivo": "ESCRITURA CONSTITUCIÒN NRO 119.pdf", "pagina": 2}},
-    {"fecha": "2020-03-02", "evento": "cambio_denominacion", "detalle": "Esc. 42: cambio a RADICE S.A.E.C.A.; inscripto 01-06-2020.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 121.pdf", "pagina": 2}},
-    {"fecha": "2024-09-10", "evento": "aumento_capital", "detalle": "Esc. 228: aumento de capital; inscripto 14-03-2025.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 121.pdf", "pagina": 2}},
-    {"fecha": "2025-06-04", "evento": "aumento_capital", "detalle": "Grupo Vázquez S.A.E. suscribe 279 acciones (N° 22 a 300, Gs. 27.900 M) y pasa a controlar ~93% del capital.", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
-    {"fecha": "2025-06-17", "evento": "modificacion_estatutos", "detalle": "AGE N° 19 (solo GV presente, 279 acc.): modifica Art. 1, 4, 5, 6, 10, 17, 28; nueva denominación TERRAVAZ S.A.E.; aumento de capital a Gs. 250.000 M.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 121.pdf", "pagina": 3}},
-    {"fecha": "2025-06-17", "evento": "cambio_directorio", "detalle": "AGO N° 20: Directorio: Pres. Marcelo Cardozo, VP Bernardo Algorta, Dir. Ruth Ramírez, Supl. Cecilia Domínguez Elizeche; Síndicos Miguel Almada / César Astigarraga; utilidades 2024 a reservas facultativas; emisión de 2.200 acciones.", "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 2}},
-    {"fecha": "2025-07-07", "evento": "cambio_denominacion", "detalle": "Esc. 121 (Esc. María Teresa López de Aponte): transcripción del AGE 19 y cambio de denominación de RADICE S.A.E.C.A. a TERRAVAZ S.A.E.", "fuente": {"archivo": "ESCRITURA MODIFICACION NRO 121.pdf", "pagina": 1}},
-    {"fecha": "2025-08-04", "evento": "transferencia_acciones", "detalle": "Carlos Emilio Soler (4 acc.) y Horacio José Biga (9 acc.) venden a Grupo Vázquez S.A.E.", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
-    {"fecha": "2026-04-17", "evento": "otro", "detalle": "AGO N° 21: GV 292 acc. (97,33%); dividendos Gs. 1.946.943.046; Síndico Miguel Ángel Almada Frutos.", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 2}}
-  ],
-  "vinculos": [
-    {"entidad_o_persona": "GRUPO VAZQUEZ S.A.E. (RUC 80086759-9)", "tipo": "accionista_de", "detalle": "Controlante con 97,33% del capital y 98,36% de los votos; el nombre 'TerraVaz' alude a Vázquez.", "fuente": {"archivo": "ACTA ORDINARIA NRO 21.pdf", "pagina": 1}},
-    {"entidad_o_persona": "RUMANI SRL (RUC 80113363-7)", "tipo": "accionista_de", "detalle": "Accionista minoritario 1,33%.", "fuente": {"archivo": "REGISTRO ACCIONISTAS.pdf", "pagina": 1}},
-    {"entidad_o_persona": "Marcelo Cardozo, Bernardo Algorta, Miguel Almada, César Astigarraga, Guillermo Vázquez", "tipo": "director_comun", "detalle": "Mismo elenco de directores/síndicos/representantes que en 23 Sports Marketing, Inter-Express y Vinanzas.", "fuente": {"archivo": "ACTA ORDINARIA NRO 20.pdf", "pagina": 2}},
-    {"entidad_o_persona": "radice.com.py", "tipo": "mismo_correo_dominio", "detalle": "Correo PEJ: ADMINISTRACION@RADICE.COM.PY (dominio de la denominación anterior).", "fuente": {"archivo": "CONSTANCIA RA NRO 6572.pdf", "pagina": 1}}
-  ],
-  "declarantes_siara": [
-    {"nombre": null, "documento": null, "correo": "ADMINISTRACION@RADICE.COM.PY", "telefono": null, "fecha": "2026-05-25", "fuente": {"archivo": "CONSTANCIA RA NRO 6572.pdf", "pagina": 1}, "notas": "Constancia RA N° 6572, cumplimiento anual presentado 25/05/2026, expedida 16/07/2026 (analista Liza Ana Belén Duarte Benítez)"}
-  ],
-  "correos_dominios": ["radice.com.py"],
-  "documentos": [
-    {"archivo": "CONSTANCIA RA NRO 6572.pdf", "tipo": "constancia_RA", "fecha": "2026-07-16", "paginas": 1, "legibilidad": "texto", "resumen": "Constancia SIARA de cumplimiento anual; sin nómina."},
-    {"archivo": "REGISTRO ACCIONISTAS.pdf", "tipo": "registro_accionistas", "fecha": "2025-08-04", "paginas": 1, "legibilidad": "ocr_bueno", "resumen": "Composición accionaria al 04/08/2025 (300 acc.): GV 292, Studenko 4, Rumani SRL 4; logo RADICE."},
-    {"archivo": "ACTA ORDINARIA NRO 20.pdf", "tipo": "acta_asamblea", "fecha": "2025-06-17", "paginas": 3, "legibilidad": "ocr_bueno", "resumen": "AGO N° 20 de RADICE S.A.E.C.A.: GV 279 acc.; nuevo directorio; emisión de 2.200 acciones."},
-    {"archivo": "ACTA ORDINARIA NRO 21.pdf", "tipo": "acta_asamblea", "fecha": "2026-04-17", "paginas": 2, "legibilidad": "ocr_bueno", "resumen": "AGO N° 21: GV 97,33%; dividendos; síndico."},
-    {"archivo": "ESCRITURA CONSTITUCIÒN NRO 119.pdf", "tipo": "escritura_constitucion", "fecha": "2018-08-28", "paginas": 17, "legibilidad": "ocr_bueno", "resumen": "Constitución de RADICE S.A. por 5 fundadores de Encarnación (solo primeras páginas revisadas)."},
-    {"archivo": "ESCRITURA MODIFICACION NRO 121.pdf", "tipo": "escritura_modificacion", "fecha": "2025-07-07", "paginas": 46, "legibilidad": "ocr_bueno", "resumen": "Transcripción AGE N° 19: cambio de denominación a TERRAVAZ S.A.E., objeto, capital."}
-  ],
-  "observaciones": [
-    "No hay constancia de BF ni nómina SIARA.",
-    "El registro presentado tiene datos erróneos de RUC de GV (80086759-10, -11, -12) y fechas dobles (28/02/2020 y 01/08/2020).",
-    "Acta N° 20 tachada 'Extraordinaria' por 'Ordinaria' y hora 10:00 por 12:05 (salvadas); firma 'Tiziana Bussini Presidente' aunque era vicepresidente.",
-    "Aumento a Gs. 250.000 M aprobado pero el registro al 04/08/2025 aún muestra capital social Gs. 60.000 M y suscripto Gs. 30.000 M.",
-    "Toma de control por Grupo Vázquez en junio-agosto 2025 (de ~0% a 97%); correo SIARA aún con dominio radice.com.py."
-  ]
+  {
+   "nombre": "RADICE SOCIEDAD ANONIMA EMISORA DE CAPITAL ABIERTO (RADICE S.A.E.C.A.)",
+   "hasta": "2025-07-07",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 121.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "constitucion": {
+  "fecha": "2018-08-28",
+  "escritura": "N° 119 (folio 740/747, Protocolo Comercial Sección A)",
+  "escribano": "María Emilia Báez Delvalle (Registro N° 68)",
+  "inscripcion_registro_publico": "Matrícula Jurídica N° 15.516 Serie Comercial N° 1 folio 1; Matrícula Comercial N° 15.710 N° 001 folio 1 al 13; ambas 05-10-2018.",
+  "fuente": {
+   "archivo": "ESCRITURA MODIFICACION NRO 121.pdf",
+   "pagina": 1
+  }
+ },
+ "domicilio": [
+  {
+   "direccion": "AVDA. COSTANERA (Encarnación)",
+   "fecha_dato": "2026-05-25",
+   "fuente": {
+    "archivo": "CONSTANCIA RA NRO 6572.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "direccion": "Sede social: Avenida Costanera esquina Ángel Samudio, Encarnación",
+   "fecha_dato": "2026-04-17",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 21.pdf",
+    "pagina": 1
+   }
+  }
+ ],
+ "objeto_social": "Inmobiliarias (compraventa, locación, administración, centros comerciales, loteamientos, urbanizaciones, colonizaciones), inversiones y créditos (financiamiento, compra de facturas, fideicomisos, préstamos), construcción.",
+ "actividad_principal": "inmobiliaria / desarrollo (Encarnación) e inversiones",
+ "plazo_duracion": null,
+ "capital": [
+  {
+   "tipo": "social",
+   "monto": 60000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 100000000,
+   "cantidad_acciones": 600,
+   "fecha_dato": "2025-08-04",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "suscripto",
+   "monto": 30000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 100000000,
+   "cantidad_acciones": 300,
+   "fecha_dato": "2025-08-04",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "integrado",
+   "monto": 30000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 100000000,
+   "cantidad_acciones": 300,
+   "fecha_dato": "2025-08-04",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "tipo": "social",
+   "monto": 250000000000,
+   "moneda": "PYG",
+   "valor_nominal_accion": 100000000,
+   "cantidad_acciones": 2500,
+   "fecha_dato": "2025-06-17",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 20.pdf",
+    "pagina": 2
+   },
+   "notas": "Aumento aprobado por Asamblea Extraordinaria N° 19 (17-06-2025); se dispone emitir 2.200 acciones (Gs. 220.000 M). El registro al 04/08/2025 aún muestra capital social Gs. 60.000 M."
+  }
+ ],
+ "accionistas": [
+  {
+   "nombre": "HORACIO JOSE BIGA",
+   "tipo_persona": "fisica",
+   "documento": "CI 5990871",
+   "nacionalidad": "argentina",
+   "acciones": 9,
+   "clase_acciones": "OVM (5) + OVS (4)",
+   "votos": 29,
+   "porcentaje": 3.0,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-08-04",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fundador; acciones 5-13 vendidas a Grupo Vázquez el 04/08/2025"
+  },
+  {
+   "nombre": "CARLOS EMILIO SOLER",
+   "tipo_persona": "fisica",
+   "documento": "CI 5992466",
+   "nacionalidad": "argentina",
+   "acciones": 4,
+   "clase_acciones": "OVM (2) + OVS (2)",
+   "votos": 12,
+   "porcentaje": 1.33,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-08-04",
+   "vigente": false,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fundador; acciones 1-4 vendidas a Grupo Vázquez el 04/08/2025"
+  },
+  {
+   "nombre": "GUIDO MARTINEZ LOPEZ",
+   "tipo_persona": "fisica",
+   "documento": "CI 926552",
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": null,
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2018-08-28",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCIÒN NRO 119.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Fundador; no figura en registro 2025 (posible vínculo con Rumani SRL)"
+  },
+  {
+   "nombre": "CECILIA DEL CARMEN ESCOBAR DE MARTINEZ",
+   "tipo_persona": "fisica",
+   "documento": "CI 2807193",
+   "nacionalidad": "paraguaya",
+   "acciones": null,
+   "clase_acciones": null,
+   "votos": null,
+   "porcentaje": null,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2018-08-28",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCIÒN NRO 119.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta",
+   "notas": "Fundadora"
+  },
+  {
+   "nombre": "GRUPO VAZQUEZ S.A.E.",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80086759-9",
+   "nacionalidad": "paraguaya",
+   "acciones": 292,
+   "clase_acciones": "OVM (5 votos) 286 + OVS 6",
+   "votos": 1436,
+   "porcentaje": 97.33,
+   "porcentaje_calculado": false,
+   "fecha_dato": "2026-04-17",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 21.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "279 acciones suscriptas el 04/06/2025 (acc. 22-300) + 13 compradas a Soler y Biga el 04/08/2025. 98,36% de los votos. Representado por Guillermo Vázquez / Raquel Vázquez."
+  },
+  {
+   "nombre": "SERGIO MIGUEL STUDENKO URUSOFF",
+   "tipo_persona": "fisica",
+   "documento": "CI 921150",
+   "nacionalidad": "paraguaya",
+   "acciones": 4,
+   "clase_acciones": "OVM 2 + OVS 2",
+   "votos": 12,
+   "porcentaje": 1.33,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-08-04",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Fundador; acciones 14-17"
+  },
+  {
+   "nombre": "RUMANI SRL",
+   "tipo_persona": "juridica",
+   "documento": "RUC 80113363-7",
+   "nacionalidad": "paraguaya",
+   "acciones": 4,
+   "clase_acciones": "OVM 2 + OVS 2",
+   "votos": 12,
+   "porcentaje": 1.33,
+   "porcentaje_calculado": true,
+   "fecha_dato": "2025-08-04",
+   "vigente": true,
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Acciones 18-21"
+  }
+ ],
+ "autoridades": [
+  {
+   "nombre": "TIZIANA BUSSINI",
+   "documento": null,
+   "cargo": "Vicepresidente (presidió asambleas 17-06-2025)",
+   "fecha_asuncion": null,
+   "vigencia": "hasta 17-06-2025",
+   "fecha_dato": "2025-06-17",
+   "vigente": false,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 20.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "LUIS MARCELO CARDOZO LEDESMA",
+   "documento": "CI 2484390",
+   "cargo": "Presidente",
+   "fecha_asuncion": "2025-06-17",
+   "vigencia": null,
+   "fecha_dato": "2026-04-17",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 121.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "BERNARDO ALGORTA",
+   "documento": null,
+   "cargo": "Vicepresidente",
+   "fecha_asuncion": "2025-06-17",
+   "vigencia": null,
+   "fecha_dato": "2025-06-17",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 20.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "RUTH STAEL RAMIREZ LEZCANO",
+   "documento": "CI 3977833",
+   "cargo": "Director titular",
+   "fecha_asuncion": "2025-06-17",
+   "vigencia": null,
+   "fecha_dato": "2025-07-07",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 121.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta",
+   "notas": "Firma digitalmente todos los documentos presentados"
+  },
+  {
+   "nombre": "CECILIA DOMINGUEZ ELIZECHE",
+   "documento": null,
+   "cargo": "Director suplente",
+   "fecha_asuncion": "2025-06-17",
+   "vigencia": null,
+   "fecha_dato": "2025-06-17",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 20.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "MIGUEL ANGEL ALMADA FRUTOS",
+   "documento": null,
+   "cargo": "Síndico titular",
+   "fecha_asuncion": "2025-06-17",
+   "vigencia": "reelecto 17-04-2026",
+   "fecha_dato": "2026-04-17",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 21.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "CESAR ASTIGARRAGA",
+   "documento": null,
+   "cargo": "Síndico suplente",
+   "fecha_asuncion": "2025-06-17",
+   "vigencia": null,
+   "fecha_dato": "2025-06-17",
+   "vigente": null,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 20.pdf",
+    "pagina": 2
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "GUILLERMO VAZQUEZ",
+   "documento": null,
+   "cargo": "Representante del accionista Grupo Vázquez S.A.E.",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2026-04-17",
+   "vigente": true,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 21.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  },
+  {
+   "nombre": "RAQUEL VAZQUEZ",
+   "documento": null,
+   "cargo": "Representante del accionista Grupo Vázquez S.A.E.",
+   "fecha_asuncion": null,
+   "vigencia": null,
+   "fecha_dato": "2025-06-17",
+   "vigente": null,
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 20.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  }
+ ],
+ "beneficiarios_finales": [],
+ "historial": [
+  {
+   "fecha": "2018-08-28",
+   "evento": "constitucion",
+   "detalle": "Constitución de RADICE S.A. (Esc. 119) por Horacio José Biga, Carlos Emilio Soler, Guido Martínez López, Cecilia del Carmen Escobar de Martínez y Sergio Miguel Studenko Urusoff (Encarnación).",
+   "fuente": {
+    "archivo": "ESCRITURA CONSTITUCIÒN NRO 119.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2020-03-02",
+   "evento": "cambio_denominacion",
+   "detalle": "Esc. 42: cambio a RADICE S.A.E.C.A.; inscripto 01-06-2020.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 121.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2024-09-10",
+   "evento": "aumento_capital",
+   "detalle": "Esc. 228: aumento de capital; inscripto 14-03-2025.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 121.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2025-06-04",
+   "evento": "aumento_capital",
+   "detalle": "Grupo Vázquez S.A.E. suscribe 279 acciones (N° 22 a 300, Gs. 27.900 M) y pasa a controlar ~93% del capital.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-06-17",
+   "evento": "modificacion_estatutos",
+   "detalle": "AGE N° 19 (solo GV presente, 279 acc.): modifica Art. 1, 4, 5, 6, 10, 17, 28; nueva denominación TERRAVAZ S.A.E.; aumento de capital a Gs. 250.000 M.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 121.pdf",
+    "pagina": 3
+   }
+  },
+  {
+   "fecha": "2025-06-17",
+   "evento": "cambio_directorio",
+   "detalle": "AGO N° 20: Directorio: Pres. Marcelo Cardozo, VP Bernardo Algorta, Dir. Ruth Ramírez, Supl. Cecilia Domínguez Elizeche; Síndicos Miguel Almada / César Astigarraga; utilidades 2024 a reservas facultativas; emisión de 2.200 acciones.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 20.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "fecha": "2025-07-07",
+   "evento": "cambio_denominacion",
+   "detalle": "Esc. 121 (Esc. María Teresa López de Aponte): transcripción del AGE 19 y cambio de denominación de RADICE S.A.E.C.A. a TERRAVAZ S.A.E.",
+   "fuente": {
+    "archivo": "ESCRITURA MODIFICACION NRO 121.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2025-08-04",
+   "evento": "transferencia_acciones",
+   "detalle": "Carlos Emilio Soler (4 acc.) y Horacio José Biga (9 acc.) venden a Grupo Vázquez S.A.E.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "fecha": "2026-04-17",
+   "evento": "otro",
+   "detalle": "AGO N° 21: GV 292 acc. (97,33%); dividendos Gs. 1.946.943.046; Síndico Miguel Ángel Almada Frutos.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 21.pdf",
+    "pagina": 2
+   }
+  }
+ ],
+ "vinculos": [
+  {
+   "entidad_o_persona": "GRUPO VAZQUEZ S.A.E. (RUC 80086759-9)",
+   "tipo": "accionista_de",
+   "detalle": "Controlante con 97,33% del capital y 98,36% de los votos; el nombre 'TerraVaz' alude a Vázquez.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 21.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "RUMANI SRL (RUC 80113363-7)",
+   "tipo": "accionista_de",
+   "detalle": "Accionista minoritario 1,33%.",
+   "fuente": {
+    "archivo": "REGISTRO ACCIONISTAS.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "Marcelo Cardozo, Bernardo Algorta, Miguel Almada, César Astigarraga, Guillermo Vázquez",
+   "tipo": "director_comun",
+   "detalle": "Mismo elenco de directores/síndicos/representantes que en 23 Sports Marketing, Inter-Express y Vinanzas.",
+   "fuente": {
+    "archivo": "ACTA ORDINARIA NRO 20.pdf",
+    "pagina": 2
+   }
+  },
+  {
+   "entidad_o_persona": "radice.com.py",
+   "tipo": "mismo_correo_dominio",
+   "detalle": "Correo PEJ: ADMINISTRACION@RADICE.COM.PY (dominio de la denominación anterior).",
+   "fuente": {
+    "archivo": "CONSTANCIA RA NRO 6572.pdf",
+    "pagina": 1
+   }
+  },
+  {
+   "entidad_o_persona": "FIDEICOMISO SHOPPING COSTANERA (RUC 80105334-0)",
+   "tipo": "otro",
+   "detalle": "Como RADICE S.A. es fideicomitente desarrollador y beneficiaria del fideicomiso (contrato 21/01/2019, fiduciario Financiera Finexpar).",
+   "fuente": {
+    "archivo": "(carpeta Fideicomiso Shoping Costanera) contratodefideicomisoshoppingcostanera21012019091525.pdf",
+    "pagina": 1
+   },
+   "confianza": "alta"
+  }
+ ],
+ "declarantes_siara": [
+  {
+   "nombre": null,
+   "documento": null,
+   "correo": "ADMINISTRACION@RADICE.COM.PY",
+   "telefono": null,
+   "fecha": "2026-05-25",
+   "fuente": {
+    "archivo": "CONSTANCIA RA NRO 6572.pdf",
+    "pagina": 1
+   },
+   "notas": "Constancia RA N° 6572, cumplimiento anual presentado 25/05/2026, expedida 16/07/2026 (analista Liza Ana Belén Duarte Benítez)"
+  }
+ ],
+ "correos_dominios": [
+  "radice.com.py"
+ ],
+ "documentos": [
+  {
+   "archivo": "CONSTANCIA RA NRO 6572.pdf",
+   "tipo": "constancia_RA",
+   "fecha": "2026-07-16",
+   "paginas": 1,
+   "legibilidad": "texto",
+   "resumen": "Constancia SIARA de cumplimiento anual; sin nómina."
+  },
+  {
+   "archivo": "REGISTRO ACCIONISTAS.pdf",
+   "tipo": "registro_accionistas",
+   "fecha": "2025-08-04",
+   "paginas": 1,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Composición accionaria al 04/08/2025 (300 acc.): GV 292, Studenko 4, Rumani SRL 4; logo RADICE."
+  },
+  {
+   "archivo": "ACTA ORDINARIA NRO 20.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2025-06-17",
+   "paginas": 3,
+   "legibilidad": "ocr_bueno",
+   "resumen": "AGO N° 20 de RADICE S.A.E.C.A.: GV 279 acc.; nuevo directorio; emisión de 2.200 acciones."
+  },
+  {
+   "archivo": "ACTA ORDINARIA NRO 21.pdf",
+   "tipo": "acta_asamblea",
+   "fecha": "2026-04-17",
+   "paginas": 2,
+   "legibilidad": "ocr_bueno",
+   "resumen": "AGO N° 21: GV 97,33%; dividendos; síndico."
+  },
+  {
+   "archivo": "ESCRITURA CONSTITUCIÒN NRO 119.pdf",
+   "tipo": "escritura_constitucion",
+   "fecha": "2018-08-28",
+   "paginas": 17,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Constitución de RADICE S.A. por 5 fundadores de Encarnación (solo primeras páginas revisadas)."
+  },
+  {
+   "archivo": "ESCRITURA MODIFICACION NRO 121.pdf",
+   "tipo": "escritura_modificacion",
+   "fecha": "2025-07-07",
+   "paginas": 46,
+   "legibilidad": "ocr_bueno",
+   "resumen": "Transcripción AGE N° 19: cambio de denominación a TERRAVAZ S.A.E., objeto, capital."
+  }
+ ],
+ "observaciones": [
+  "No hay constancia de BF ni nómina SIARA.",
+  "El registro presentado tiene datos erróneos de RUC de GV (80086759-10, -11, -12) y fechas dobles (28/02/2020 y 01/08/2020).",
+  "Acta N° 20 tachada 'Extraordinaria' por 'Ordinaria' y hora 10:00 por 12:05 (salvadas); firma 'Tiziana Bussini Presidente' aunque era vicepresidente.",
+  "Aumento a Gs. 250.000 M aprobado pero el registro al 04/08/2025 aún muestra capital social Gs. 60.000 M y suscripto Gs. 30.000 M.",
+  "Toma de control por Grupo Vázquez en junio-agosto 2025 (de ~0% a 97%); correo SIARA aún con dominio radice.com.py.",
+  "[VERIFICACIÓN 2026-11-24] RADICE S.A., fideicomitente desarrollador del Fideicomiso Shopping Costanera (contrato 21/01/2019), es la misma persona jurídica que TERRAVAZ S.A.E. (ex RADICE S.A.E.C.A., RUC 80104014-0): mismo número base de RUC (el contrato, leído por OCR, trae '80104014-7'; el dígito verificador correcto de 80104014 es 0), mismos firmantes Horacio José Biga (CI 5.990.871, Presidente) y Carlos Emilio Soler (CI 5.992.466, Vicepresidente), que son fundadores de RADICE S.A. (Esc. 119 del 28/08/2018), mismo ámbito (Encarnación, Costanera) y correos @radice.com.py. Desde jun-ago 2025 Grupo Vázquez controla 97,33% de Terravaz, por lo que el fideicomiso queda vinculado indirectamente al grupo (salvo cesión de la posición de fideicomitente, que no consta en los documentos)."
+ ]
 }
