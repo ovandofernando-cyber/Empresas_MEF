@@ -179,6 +179,108 @@ anchos(ws, [5, 42, 13, 26, 30, 30, 12, 26, 18, 34])
 ws.freeze_panes = "C5"
 ws.auto_filter.ref = f"A4:J{f - 1}"
 
+
+# ---------- Diccionario de variables ----------
+wd = wb.create_sheet("Diccionario", 1)
+wd["A1"] = "Diccionario de variables"
+wd["A1"].font = TITULO
+wd["A3"] = "Columnas de la hoja Índice"
+wd["A3"].font = Font(bold=True, size=12, color="1F4E78")
+DIC = [
+    ("N°", "Número de orden de la entidad en el listado del Informe CRA N° 385/2026 del MEF.", "1 a 51", "Informe CRA 385/2026"),
+    ("Razón social", "Denominación de la entidad tal como figura en el Informe CRA 385/2026. Es un enlace a la hoja de la entidad. La denominación actual o las anteriores pueden diferir (ver la hoja de cada entidad).", "Texto", "Informe CRA 385/2026"),
+    ("RUC", "Registro Único del Contribuyente con dígito verificador. U Holdings S.à r.l. (Luxemburgo) no tiene RUC ni está registrada en el SIARA.", "80000000-0 o «sin RUC»", "Informe CRA 385/2026, constancias RA"),
+    ("Segmento", "Clasificación de la entidad según su posición respecto del grupo, asignada por el equipo de datos a partir de la composición accionaria vigente y la historia societaria.", "Ver tabla de valores de Segmento", "Elaboración propia (datos/consolidado/empresas.csv)"),
+    ("Controlante directo", "Accionista o socio que tiene la mayoría de los votos de la entidad (o, si nadie la tiene, el mayor titular) según el dato vigente más reciente.", "Nombre de persona física o jurídica", "Registros de accionistas, actas, constancias RA"),
+    ("Controlante último", "Persona en la cima de la cadena de control, recorriendo los controlantes directos hacia arriba hasta llegar a una persona física o a una entidad cuyos dueños no constan.", "Nombre de persona física o jurídica", "Cálculo propio sobre participaciones y constancias de beneficiarios finales"),
+    ("% integrado del grupo", "Porcentaje del capital de la entidad que pertenece, directa o indirectamente, al grupo. Se multiplican los porcentajes de capital a lo largo de cada cadena (por ejemplo, 97,99 % de U Paraguay × 93,08 % de Ueno Bank) y se suman todas las cadenas que llegan desde U Holdings S.à r.l., Grupo Vázquez S.A.E. y Federico M. Vázquez Villasanti. Mide capital, no votos: puede ser bajo aunque el grupo controle por votos (acciones de voto múltiple). Supone que U Holdings y Grupo Vázquez responden al mismo controlante, lo que surge de una declaración de beneficiarios finales pendiente de aprobación.", "0 a 100; vacío = sin participación del grupo o sin datos", "Cálculo propio (datos/consolidado/control_indirecto.csv)"),
+    ("Nivel de vínculo (laboral)", "Intensidad del vínculo de la entidad con el grupo según la matriz de indicadores del análisis laboral (hoja Matriz laboral).", "N1 a N4; ver tabla de valores", "analisis/analisis_laboral.md"),
+    ("Imputación (hipótesis)", "Vía jurídica por la cual podría extenderse a la entidad la responsabilidad laboral. Son hipótesis de trabajo (h) a confirmar con prueba laboral (planillas IPS, contratos, inspección); solo un juez puede declarar la solidaridad.", "REF, IMP-A a IMP-E, IMP-0; ver tabla de valores", "analisis/analisis_laboral.md"),
+    ("Presidente / representante actual", "Presidente del directorio, gerente o representante legal según el documento más reciente (acta, constancia RA o escritura).", "Nombre (cargo)", "Actas, constancias RA"),
+]
+f = encabezado(wd, 4, ["Variable", "Definición", "Valores posibles", "Fuente"])
+for fila_d in DIC:
+    for j, v in enumerate(fila_d, 1):
+        c = wd.cell(f, j, v)
+        c.border, c.alignment = BORDE, AJUSTE
+    wd.cell(f, 1).font = NEGRITA
+    f += 1
+
+def tabla_valores(f, titulo, filas):
+    wd.cell(f, 1, titulo).font = Font(bold=True, size=12, color="1F4E78")
+    f = encabezado(wd, f + 1, ["Valor", "Significado", "Cantidad de entidades", ""])
+    for v, d, n in filas:
+        for j, x in enumerate((v, d, n), 1):
+            c = wd.cell(f, j, x)
+            c.border, c.alignment = BORDE, AJUSTE
+        wd.cell(f, 1).font = NEGRITA
+        f += 1
+    return f + 1
+
+from collections import Counter
+cs = Counter(seg(e.get("segmento", "")) for e in EMP.values())
+f = tabla_valores(f + 1, "Valores de Segmento", [
+    ("Núcleo financiero Ueno", "Entidades financieras, de seguros, de valores o de pagos con la marca Ueno o controladas por U Paraguay (Ueno Bank, Ueno Seguros, Ueno Casa de Bolsa, Ueno AFPI, Red Digital, Redipro).", cs.get("Núcleo financiero Ueno", 0)),
+    ("Holding / controlante", "Sociedades cuya función es tener acciones de otras del grupo (U Holdings S.à r.l., U Paraguay, Grupo Vázquez, ITTI, Ueno Holding absorbida en 2025).", cs.get("Holding / controlante", 0)),
+    ("Controlada por ITTI / Grupo Vázquez", "Sociedades operativas en las que ITTI o Grupo Vázquez tienen el control (mayoría de votos o control declarado).", cs.get("Controlada por ITTI / Grupo Vázquez", 0)),
+    ("Participada minoritaria o vínculo indirecto", "El grupo tiene una participación sin control, o el vínculo es indirecto (directores, declarantes o socios en común, o la entidad es socia de otra del grupo).", cs.get("Participada minoritaria o vínculo indirecto", 0)),
+    ("Ex vinculada (salió del grupo 2025-2026)", "Fue del grupo y en 2025-2026 sus acciones pasaron a personas físicas, varias del entorno del grupo. Ver hoja de la entidad para fecha y comprador.", cs.get("Ex vinculada (salió del grupo 2025-2026)", 0)),
+    ("Sin vínculo detectado", "La documentación del MEF no muestra participación, directores ni declarantes comunes con el grupo. Puede ser contraparte comercial o deudora del banco.", cs.get("Sin vínculo detectado", 0)),
+])
+cn = Counter(m.get("nivel", "") for m in MAT.values())
+f = tabla_valores(f, "Valores de Nivel de vínculo (laboral)", [
+    ("N1 – Control común", "Participación o control del grupo, directo o por cadena (S1 o S2 ≥ 2), y además beneficiario final o directores comunes (S3 o S4 ≥ 2).", cn.get("N1", 0)),
+    ("N2 – Vínculo relevante", "Puntaje societario PS ≥ 6, o algún indicador societario con puntaje 3, sin llegar a N1.", cn.get("N2", 0)),
+    ("N3 – Vínculo débil", "Puntaje societario entre 1 y 5.", cn.get("N3", 0)),
+    ("N4 – Sin vínculo documentado", "Ningún indicador societario con puntaje mayor a 0.", cn.get("N4", 0)),
+])
+f = tabla_valores(f, "Valores de Imputación (hipótesis)", [
+    ("REF", "Entidad de referencia: Ueno Bank, empleador formal en resolución (Ley 2334/03).", ""),
+    ("IMP-A", "Empleador real o coempleador: la entidad utiliza los servicios de trabajadores registrados por otra (Código del Trabajo arts. 19, 22, 24 y 48).", ""),
+    ("IMP-B", "Intermediación o contratista sin autonomía: responde solidariamente con el empleador (CT arts. 25 y 26).", ""),
+    ("IMP-C", "Sustitución o sucesión de empleador, por ejemplo por absorción (CT art. 28).", ""),
+    ("IMP-D", "Inoponibilidad de la personalidad jurídica por fraude o abuso (Código Civil art. 372 y jurisprudencia).", ""),
+    ("IMP-E", "Seguridad social: el patrón principal responde ante el IPS por sus contratistas (Decreto-Ley 1860/50 art. 70).", ""),
+    ("IMP-0", "Sin base de imputación con la información actual.", ""),
+    ("(h)", "Sufijo que indica hipótesis no acreditada todavía con prueba laboral.", ""),
+])
+
+wd.cell(f, 1, "Indicadores de la hoja Matriz laboral (escala 0 a 3; s/d = sin datos)").font = Font(bold=True, size=12, color="1F4E78")
+IND = [
+    ("S1", "Participación directa de una sociedad del núcleo de control (GV, U Holdings, U Paraguay, ITTI, Ueno Bank, Ueno Holding, WOM77)."),
+    ("S2", "Participación o control indirecto, por cadena de sociedades o personas del grupo."),
+    ("S3", "Beneficiario final común con el grupo."),
+    ("S4", "Directores, síndicos, representantes o apoderados comunes."),
+    ("S5", "Mismo declarante ante el MEF, mismo correo, dominio o teléfono."),
+    ("S6", "Mismo domicilio (por ejemplo Torres del Paseo, Avda. Santa Teresa 1827)."),
+    ("S7", "Marca común (ueno) o presentación pública como parte del grupo."),
+    ("L1", "Presta servicios al banco u otras del grupo en actividades conexas."),
+    ("L2", "Dependencia económica: proporción de ingresos que vienen del grupo."),
+    ("L3", "Trabajadores compartidos o que rotan entre sociedades del grupo."),
+    ("L4", "Dirección y poder disciplinario común."),
+    ("L5", "Infraestructura común (locales, sistemas, credenciales)."),
+    ("L6", "El empleador registrado en IPS o planilla no coincide con quien usa los servicios."),
+    ("L7", "Salarios o beneficios pagados por una sociedad distinta del empleador formal."),
+    ("L8", "Contratista sin autonomía: sin riesgo, medios ni clientes propios."),
+    ("F1", "Caja común o confusión patrimonial."),
+    ("F2", "Movimientos de activos, personal o contratos previos a la resolución."),
+    ("F3", "Cambios societarios recientes cercanos a la crisis."),
+    ("F4", "Subcapitalización o sociedad «satélite»."),
+    ("PS / PL / PF", "Suma de los puntajes societarios (S), laborales (L) y de fraude (F)."),
+    ("n_sd", "Cantidad de indicadores sin datos."),
+]
+f = encabezado(wd, f + 1, ["Indicador", "Qué mide", "", ""])
+for k, d in IND:
+    wd.cell(f, 1, k).font = NEGRITA
+    c = wd.cell(f, 2, d)
+    c.alignment = AJUSTE
+    for j in (1, 2):
+        wd.cell(f, j).border = BORDE
+    f += 1
+wd.cell(f + 1, 1, "Escala: 0 sin evidencia; 1 indicio débil; 2 indicio relevante (documental); 3 prueba fuerte. Detalle completo en analisis/marco_juridico_laboral.md.").alignment = AJUSTE
+anchos(wd, [30, 90, 30, 34])
+wd.sheet_view.showGridLines = False
+
 # ---------- Matriz laboral ----------
 wm = wb.create_sheet("Matriz laboral")
 wm["A1"] = "Matriz de indicadores laborales (ver analisis/marco_juridico_laboral.md y analisis/analisis_laboral.md)"
