@@ -1,0 +1,82 @@
+digraph G {
+rankdir=LR; graph [fontname="DejaVu Sans", fontsize=11, nodesep=0.12, ranksep=0.9, newrank=true];
+node [shape=box, style="rounded,filled", fillcolor=white, fontname="DejaVu Sans", fontsize=10];
+edge [fontname="DejaVu Sans", fontsize=8, color="#555555"];
+subgraph cluster_persona { label="Controlante último (persona física)"; style="filled,rounded"; fillcolor="#fde68a"; color="#999999";
+n_P0003 [label="Federico Miguel Vazquez\nVillasanti", shape=box];
+}
+subgraph cluster_holding_controlante { label="Holding / controlantes"; style="filled,rounded"; fillcolor="#dbeafe"; color="#999999";
+n_grupo_vazquez [label="Grupo Vázquez S.A.E.", shape=box];
+n_itti [label="ITTI S.A.E.C.A.", shape=box];
+n_u_paraguay [label="U Paraguay S.A.", shape=box];
+n_ueno_holdings_sarl [label="U Holdings S.à r.l.\n(Luxemburgo)", shape=box];
+}
+subgraph cluster_nucleo_financiero_ueno { label="Núcleo financiero Ueno"; style="filled,rounded"; fillcolor="#dcfce7"; color="#999999";
+n_redipro [label="Red Digital de Procesamiento\nS.A. (REDIPRO)", shape=box];
+n_redisa [label="Red Digital S.A. (REDISA)", shape=box];
+n_ueno_afpi [label="Ueno Administradora de\nFondos Patrimoniales de\nInversión S.A.", shape=box];
+n_ueno_bank [label="Ueno Bank S.A.", shape=box];
+n_ueno_casa_de_bolsa [label="Ueno Casa de Bolsa S.A.", shape=box];
+n_ueno_seguros [label="Ueno Seguros S.A.", shape=box];
+}
+subgraph cluster_controlada_itti_gv { label="Controladas por ITTI / Grupo Vázquez"; style="filled,rounded"; fillcolor="#f3f4f6"; color="#999999";
+n_23_sports_marketing [label="23 Sports Marketing S.A.", shape=box];
+n_comdetur [label="Compañía de Desarrollo\nTurístico S.R.L. (COMDETUR)", shape=box];
+n_discover_paraguay [label="Discover Paraguay S.A.", shape=box];
+n_fintux [label="Fintux E.A.S.", shape=box];
+n_hanoi [label="Hanoi S.A.", shape=box];
+n_idl [label="Impresión Distribución y\nLogística S.A.", shape=box];
+n_inter_express [label="Inter-Express S.A.", shape=box];
+n_intertours [label="Intertours S.A.", shape=box];
+n_kaitel [label="Kaitel S.R.L.", shape=box];
+n_kostas_viajes [label="Kostas Viajes y Turismo\nS.R.L.", shape=box];
+n_oniria [label="Oniria S.A.", shape=box];
+n_place_analyzer [label="Place Analyzer E.A.S.", shape=box];
+n_red_uts_paraguay [label="Red UTS Paraguay S.A.", shape=box];
+n_terravaz [label="Terravaz S.A. Emisora", shape=box];
+n_tiva [label="Tiva S.A.", shape=box];
+n_vinanzas [label="Vinanzas S.A.", shape=box];
+}
+subgraph cluster_externa { label="Sociedades fuera del listado"; style="filled,rounded"; fillcolor="#fef2f2"; color="#999999";
+n_EXT_BALLOON [label="Balloon", shape=box];
+n_EXT_IOIO [label="Ioio", shape=box];
+n_EXT_MARKHEL [label="Markhel", shape=box];
+n_EXT_MATCH [label="Match", shape=box];
+n_EXT_WOM77 [label="Wom77", shape=box];
+}
+n_grupo_vazquez -> n_23_sports_marketing [label="60,0%", penwidth=2.2, color="#1f4e78"];
+n_EXT_BALLOON -> n_23_sports_marketing [label="10,0%", ];
+n_itti -> n_comdetur [label="99,0%", penwidth=2.2, color="#1f4e78"];
+n_itti -> n_discover_paraguay [label="74,8%", penwidth=2.2, color="#1f4e78"];
+n_itti -> n_fintux [label="30,0% / 44,7% votos", ];
+n_P0003 -> n_grupo_vazquez [label="75,9% / 94,0% votos", penwidth=2.2, color="#1f4e78"];
+n_itti -> n_hanoi [label="72,8%", penwidth=2.2, color="#1f4e78"];
+n_EXT_MARKHEL -> n_hanoi [label="27,2%", ];
+n_itti -> n_idl [label="99,2%", penwidth=2.2, color="#1f4e78"];
+n_kostas_viajes -> n_inter_express [label="100,0%", penwidth=2.2, color="#1f4e78"];
+n_EXT_MATCH -> n_intertours [label="30,0%", ];
+n_itti -> n_intertours [label="70,0%", penwidth=2.2, color="#1f4e78"];
+n_grupo_vazquez -> n_itti [label="77,5% / 91,0% votos", penwidth=2.2, color="#1f4e78"];
+n_ueno_bank -> n_itti [label="16,9% / 6,8% votos", ];
+n_EXT_WOM77 -> n_kaitel [label="98,0%", penwidth=2.2, color="#1f4e78"];
+n_itti -> n_kostas_viajes [label="98,9%", penwidth=2.2, color="#1f4e78"];
+n_grupo_vazquez -> n_oniria [label="60,0%", penwidth=2.2, color="#1f4e78"];
+n_itti -> n_place_analyzer [label="60,0%", penwidth=2.2, color="#1f4e78"];
+n_u_paraguay -> n_redipro [label="50,9% / 100,0% votos", penwidth=2.2, color="#1f4e78"];
+n_ueno_bank -> n_redipro [label="49,1% / 0,0% votos", ];
+n_u_paraguay -> n_redisa [label="27,9% / 100,0% votos", penwidth=2.2, color="#1f4e78"];
+n_ueno_bank -> n_redisa [label="72,1% / 0,0% votos", ];
+n_itti -> n_red_uts_paraguay [label="40,2%", ];
+n_grupo_vazquez -> n_terravaz [label="97,3% / 98,4% votos", penwidth=2.2, color="#1f4e78"];
+n_itti -> n_tiva [label="60,0%", penwidth=2.2, color="#1f4e78"];
+n_P0003 -> n_ueno_holdings_sarl [label="control declarado BF", style=dashed];
+n_ueno_holdings_sarl -> n_u_paraguay [label="98,0%", penwidth=2.2, color="#1f4e78"];
+n_ueno_casa_de_bolsa -> n_ueno_afpi [label="100,0%", penwidth=2.2, color="#1f4e78"];
+n_u_paraguay -> n_ueno_bank [label="93,1% / 98,7% votos", penwidth=2.2, color="#1f4e78"];
+n_u_paraguay -> n_ueno_casa_de_bolsa [label="100,0%", penwidth=2.2, color="#1f4e78"];
+n_u_paraguay -> n_ueno_seguros [label="82,0% / 90,6% votos", penwidth=2.2, color="#1f4e78"];
+n_itti -> n_vinanzas [label="49,7%", penwidth=2.2, color="#1f4e78"];
+n_EXT_IOIO -> n_vinanzas [label="37,9%", ];
+n_grupo_vazquez -> n_vinanzas [label="12,3%", ];
+n_itti -> n_EXT_WOM77 [label="control declarado BF", style=dashed];
+}
