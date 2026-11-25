@@ -14,7 +14,11 @@ from openpyxl.utils import get_column_letter
 
 RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CONS = os.path.join(RAIZ, "datos", "consolidado")
-SALIDA = sys.argv[1] if len(sys.argv) > 1 else os.path.join(RAIZ, "fichas", "fichas_empresas.xlsx")
+ARGS = [a for a in sys.argv[1:] if not a.startswith("--")]
+# --sin-laboral: versión solo societaria, sin matriz laboral, niveles ni imputaciones jurídicas
+LABORAL = "--sin-laboral" not in sys.argv
+_defecto = "fichas_empresas.xlsx" if LABORAL else "fichas_empresas_societario.xlsx"
+SALIDA = ARGS[0] if ARGS else os.path.join(RAIZ, "fichas", _defecto)
 
 AZUL = PatternFill("solid", fgColor="1F4E78")
 GRIS = PatternFill("solid", fgColor="D9E1F2")
@@ -87,6 +91,8 @@ def sino(v):
     return {"1": "Sí", "0": "No", "True": "Sí", "False": "No"}.get(str(v), v)
 
 
+INTERPRETATIVO = re.compile(r"testaferr|fiduciario del grupo|empleador|laboral|fraude|interposici|solidari|vaciamiento|imputa|indicio de que sigue", re.I)
+
 NIVELES = {"N1": "Control común", "N2": "Vínculo relevante", "N3": "Vínculo débil", "N4": "Sin vínculo documentado"}
 
 # Nombres de hoja únicos (máx. 31 caracteres, sin caracteres prohibidos)
@@ -158,6 +164,8 @@ ws.merge_cells("A2:J2")
 ws.row_dimensions[2].height = 45
 tit = ["N°", "Razón social", "RUC", "Segmento", "Controlante directo", "Controlante último",
        "% integrado del grupo", "Nivel de vínculo (laboral)", "Imputación (hipótesis)", "Presidente / representante actual"]
+if not LABORAL:
+    tit = tit[:7] + tit[9:]
 f = encabezado(ws, 4, tit)
 for r in BASE:
     e, m, c = EMP.get(r["id"], {}), MAT.get(r["id"], {}), CTRL.get(r["id"], {})
@@ -168,6 +176,8 @@ for r in BASE:
             num(e.get("pct_integrado_grupo", "")),
             f"{nivel} – {NIVELES.get(nivel, '')}" if nivel else "", m.get("imputacion", ""),
             e.get("presidente_actual", "")]
+    if not LABORAL:
+        vals = vals[:7] + vals[9:]
     for j, v in enumerate(vals, 1):
         cell = ws.cell(f, j, v)
         cell.border, cell.alignment = BORDE, AJUSTE
@@ -175,9 +185,9 @@ for r in BASE:
     link.hyperlink = f"#'{HOJA[r['id']]}'!A1"
     link.font = Font(color="0563C1", underline="single")
     f += 1
-anchos(ws, [5, 42, 13, 26, 30, 30, 12, 26, 18, 34])
+anchos(ws, [5, 42, 13, 26, 30, 30, 12, 26, 18, 34] if LABORAL else [5, 42, 13, 30, 30, 30, 12, 40])
 ws.freeze_panes = "C5"
-ws.auto_filter.ref = f"A4:J{f - 1}"
+ws.auto_filter.ref = f"A4:{'J' if LABORAL else 'H'}{f - 1}"
 
 
 # ---------- Diccionario de variables ----------
@@ -198,6 +208,8 @@ DIC = [
     ("Imputación (hipótesis)", "Vía jurídica por la cual podría extenderse a la entidad la responsabilidad laboral. Son hipótesis de trabajo (h) a confirmar con prueba laboral (planillas IPS, contratos, inspección); solo un juez puede declarar la solidaridad.", "REF, IMP-A a IMP-E, IMP-0; ver tabla de valores", "analisis/analisis_laboral.md"),
     ("Presidente / representante actual", "Presidente del directorio, gerente o representante legal según el documento más reciente (acta, constancia RA o escritura).", "Nombre (cargo)", "Actas, constancias RA"),
 ]
+if not LABORAL:
+    DIC = [d for d in DIC if d[0] not in ("Nivel de vínculo (laboral)", "Imputación (hipótesis)")]
 f = encabezado(wd, 4, ["Variable", "Definición", "Valores posibles", "Fuente"])
 for fila_d in DIC:
     for j, v in enumerate(fila_d, 1):
@@ -227,82 +239,84 @@ f = tabla_valores(f + 1, "Valores de Segmento", [
     ("Ex vinculada (salió del grupo 2025-2026)", "Fue del grupo y en 2025-2026 sus acciones pasaron a personas físicas, varias del entorno del grupo. Ver hoja de la entidad para fecha y comprador.", cs.get("Ex vinculada (salió del grupo 2025-2026)", 0)),
     ("Sin vínculo detectado", "La documentación del MEF no muestra participación, directores ni declarantes comunes con el grupo. Puede ser contraparte comercial o deudora del banco.", cs.get("Sin vínculo detectado", 0)),
 ])
-cn = Counter(m.get("nivel", "") for m in MAT.values())
-f = tabla_valores(f, "Valores de Nivel de vínculo (laboral)", [
-    ("N1 – Control común", "Participación o control del grupo, directo o por cadena (S1 o S2 ≥ 2), y además beneficiario final o directores comunes (S3 o S4 ≥ 2).", cn.get("N1", 0)),
-    ("N2 – Vínculo relevante", "Puntaje societario PS ≥ 6, o algún indicador societario con puntaje 3, sin llegar a N1.", cn.get("N2", 0)),
-    ("N3 – Vínculo débil", "Puntaje societario entre 1 y 5.", cn.get("N3", 0)),
-    ("N4 – Sin vínculo documentado", "Ningún indicador societario con puntaje mayor a 0.", cn.get("N4", 0)),
-])
-f = tabla_valores(f, "Valores de Imputación (hipótesis)", [
-    ("REF", "Entidad de referencia: Ueno Bank, empleador formal en resolución (Ley 2334/03).", ""),
-    ("IMP-A", "Empleador real o coempleador: la entidad utiliza los servicios de trabajadores registrados por otra (Código del Trabajo arts. 19, 22, 24 y 48).", ""),
-    ("IMP-B", "Intermediación o contratista sin autonomía: responde solidariamente con el empleador (CT arts. 25 y 26).", ""),
-    ("IMP-C", "Sustitución o sucesión de empleador, por ejemplo por absorción (CT art. 28).", ""),
-    ("IMP-D", "Inoponibilidad de la personalidad jurídica por fraude o abuso (Código Civil art. 372 y jurisprudencia).", ""),
-    ("IMP-E", "Seguridad social: el patrón principal responde ante el IPS por sus contratistas (Decreto-Ley 1860/50 art. 70).", ""),
-    ("IMP-0", "Sin base de imputación con la información actual.", ""),
-    ("(h)", "Sufijo que indica hipótesis no acreditada todavía con prueba laboral.", ""),
-])
+if LABORAL:
+    cn = Counter(m.get("nivel", "") for m in MAT.values())
+    f = tabla_valores(f, "Valores de Nivel de vínculo (laboral)", [
+        ("N1 – Control común", "Participación o control del grupo, directo o por cadena (S1 o S2 ≥ 2), y además beneficiario final o directores comunes (S3 o S4 ≥ 2).", cn.get("N1", 0)),
+        ("N2 – Vínculo relevante", "Puntaje societario PS ≥ 6, o algún indicador societario con puntaje 3, sin llegar a N1.", cn.get("N2", 0)),
+        ("N3 – Vínculo débil", "Puntaje societario entre 1 y 5.", cn.get("N3", 0)),
+        ("N4 – Sin vínculo documentado", "Ningún indicador societario con puntaje mayor a 0.", cn.get("N4", 0)),
+    ])
+    f = tabla_valores(f, "Valores de Imputación (hipótesis)", [
+        ("REF", "Entidad de referencia: Ueno Bank, empleador formal en resolución (Ley 2334/03).", ""),
+        ("IMP-A", "Empleador real o coempleador: la entidad utiliza los servicios de trabajadores registrados por otra (Código del Trabajo arts. 19, 22, 24 y 48).", ""),
+        ("IMP-B", "Intermediación o contratista sin autonomía: responde solidariamente con el empleador (CT arts. 25 y 26).", ""),
+        ("IMP-C", "Sustitución o sucesión de empleador, por ejemplo por absorción (CT art. 28).", ""),
+        ("IMP-D", "Inoponibilidad de la personalidad jurídica por fraude o abuso (Código Civil art. 372 y jurisprudencia).", ""),
+        ("IMP-E", "Seguridad social: el patrón principal responde ante el IPS por sus contratistas (Decreto-Ley 1860/50 art. 70).", ""),
+        ("IMP-0", "Sin base de imputación con la información actual.", ""),
+        ("(h)", "Sufijo que indica hipótesis no acreditada todavía con prueba laboral.", ""),
+    ])
 
-wd.cell(f, 1, "Indicadores de la hoja Matriz laboral (escala 0 a 3; s/d = sin datos)").font = Font(bold=True, size=12, color="1F4E78")
-IND = [
-    ("S1", "Participación directa de una sociedad del núcleo de control (GV, U Holdings, U Paraguay, ITTI, Ueno Bank, Ueno Holding, WOM77)."),
-    ("S2", "Participación o control indirecto, por cadena de sociedades o personas del grupo."),
-    ("S3", "Beneficiario final común con el grupo."),
-    ("S4", "Directores, síndicos, representantes o apoderados comunes."),
-    ("S5", "Mismo declarante ante el MEF, mismo correo, dominio o teléfono."),
-    ("S6", "Mismo domicilio (por ejemplo Torres del Paseo, Avda. Santa Teresa 1827)."),
-    ("S7", "Marca común (ueno) o presentación pública como parte del grupo."),
-    ("L1", "Presta servicios al banco u otras del grupo en actividades conexas."),
-    ("L2", "Dependencia económica: proporción de ingresos que vienen del grupo."),
-    ("L3", "Trabajadores compartidos o que rotan entre sociedades del grupo."),
-    ("L4", "Dirección y poder disciplinario común."),
-    ("L5", "Infraestructura común (locales, sistemas, credenciales)."),
-    ("L6", "El empleador registrado en IPS o planilla no coincide con quien usa los servicios."),
-    ("L7", "Salarios o beneficios pagados por una sociedad distinta del empleador formal."),
-    ("L8", "Contratista sin autonomía: sin riesgo, medios ni clientes propios."),
-    ("F1", "Caja común o confusión patrimonial."),
-    ("F2", "Movimientos de activos, personal o contratos previos a la resolución."),
-    ("F3", "Cambios societarios recientes cercanos a la crisis."),
-    ("F4", "Subcapitalización o sociedad «satélite»."),
-    ("PS / PL / PF", "Suma de los puntajes societarios (S), laborales (L) y de fraude (F)."),
-    ("n_sd", "Cantidad de indicadores sin datos."),
-]
-f = encabezado(wd, f + 1, ["Indicador", "Qué mide", "", ""])
-for k, d in IND:
-    wd.cell(f, 1, k).font = NEGRITA
-    c = wd.cell(f, 2, d)
-    c.alignment = AJUSTE
-    for j in (1, 2):
-        wd.cell(f, j).border = BORDE
-    f += 1
-wd.cell(f + 1, 1, "Escala: 0 sin evidencia; 1 indicio débil; 2 indicio relevante (documental); 3 prueba fuerte. Detalle completo en analisis/marco_juridico_laboral.md.").alignment = AJUSTE
+    wd.cell(f, 1, "Indicadores de la hoja Matriz laboral (escala 0 a 3; s/d = sin datos)").font = Font(bold=True, size=12, color="1F4E78")
+    IND = [
+        ("S1", "Participación directa de una sociedad del núcleo de control (GV, U Holdings, U Paraguay, ITTI, Ueno Bank, Ueno Holding, WOM77)."),
+        ("S2", "Participación o control indirecto, por cadena de sociedades o personas del grupo."),
+        ("S3", "Beneficiario final común con el grupo."),
+        ("S4", "Directores, síndicos, representantes o apoderados comunes."),
+        ("S5", "Mismo declarante ante el MEF, mismo correo, dominio o teléfono."),
+        ("S6", "Mismo domicilio (por ejemplo Torres del Paseo, Avda. Santa Teresa 1827)."),
+        ("S7", "Marca común (ueno) o presentación pública como parte del grupo."),
+        ("L1", "Presta servicios al banco u otras del grupo en actividades conexas."),
+        ("L2", "Dependencia económica: proporción de ingresos que vienen del grupo."),
+        ("L3", "Trabajadores compartidos o que rotan entre sociedades del grupo."),
+        ("L4", "Dirección y poder disciplinario común."),
+        ("L5", "Infraestructura común (locales, sistemas, credenciales)."),
+        ("L6", "El empleador registrado en IPS o planilla no coincide con quien usa los servicios."),
+        ("L7", "Salarios o beneficios pagados por una sociedad distinta del empleador formal."),
+        ("L8", "Contratista sin autonomía: sin riesgo, medios ni clientes propios."),
+        ("F1", "Caja común o confusión patrimonial."),
+        ("F2", "Movimientos de activos, personal o contratos previos a la resolución."),
+        ("F3", "Cambios societarios recientes cercanos a la crisis."),
+        ("F4", "Subcapitalización o sociedad «satélite»."),
+        ("PS / PL / PF", "Suma de los puntajes societarios (S), laborales (L) y de fraude (F)."),
+        ("n_sd", "Cantidad de indicadores sin datos."),
+    ]
+    f = encabezado(wd, f + 1, ["Indicador", "Qué mide", "", ""])
+    for k, d in IND:
+        wd.cell(f, 1, k).font = NEGRITA
+        c = wd.cell(f, 2, d)
+        c.alignment = AJUSTE
+        for j in (1, 2):
+            wd.cell(f, j).border = BORDE
+        f += 1
+    wd.cell(f + 1, 1, "Escala: 0 sin evidencia; 1 indicio débil; 2 indicio relevante (documental); 3 prueba fuerte. Detalle completo en analisis/marco_juridico_laboral.md.").alignment = AJUSTE
 anchos(wd, [30, 90, 30, 34])
 wd.sheet_view.showGridLines = False
 
-# ---------- Matriz laboral ----------
-wm = wb.create_sheet("Matriz laboral")
-wm["A1"] = "Matriz de indicadores laborales (ver analisis/marco_juridico_laboral.md y analisis/analisis_laboral.md)"
-wm["A1"].font = TITULO
-wm["A2"] = ("Escala 0–3 por indicador; s/d = sin datos. S = societarios, L = laborales/operativos, F = fraude. "
-            "PS/PL/PF = puntajes por plano. N1 control común, N2 relevante, N3 débil, N4 sin vínculo. "
-            "IMP-A empleador real, IMP-B intermediación, IMP-C sustitución, IMP-D fraude, IMP-E IPS, IMP-0 sin base; (h) = hipótesis.")
-wm["A2"].alignment = AJUSTE
-wm.merge_cells("A2:Z2")
-wm.row_dimensions[2].height = 45
-cols = list(next(iter(MAT.values())).keys())
-f = encabezado(wm, 4, cols)
-for r in BASE:
-    m = MAT.get(r["id"])
-    if not m:
-        continue
-    for j, k in enumerate(cols, 1):
-        c = wm.cell(f, j, num(m[k]) if k not in ("ruc", "id") else m[k])
-        c.border = BORDE
-    f += 1
-anchos(wm, [5, 24, 40, 13] + [6] * (len(cols) - 7) + [8, 16, 50])
-wm.freeze_panes = "D5"
+if LABORAL:
+    # ---------- Matriz laboral ----------
+    wm = wb.create_sheet("Matriz laboral")
+    wm["A1"] = "Matriz de indicadores laborales (ver analisis/marco_juridico_laboral.md y analisis/analisis_laboral.md)"
+    wm["A1"].font = TITULO
+    wm["A2"] = ("Escala 0–3 por indicador; s/d = sin datos. S = societarios, L = laborales/operativos, F = fraude. "
+                "PS/PL/PF = puntajes por plano. N1 control común, N2 relevante, N3 débil, N4 sin vínculo. "
+                "IMP-A empleador real, IMP-B intermediación, IMP-C sustitución, IMP-D fraude, IMP-E IPS, IMP-0 sin base; (h) = hipótesis.")
+    wm["A2"].alignment = AJUSTE
+    wm.merge_cells("A2:Z2")
+    wm.row_dimensions[2].height = 45
+    cols = list(next(iter(MAT.values())).keys())
+    f = encabezado(wm, 4, cols)
+    for r in BASE:
+        m = MAT.get(r["id"])
+        if not m:
+            continue
+        for j, k in enumerate(cols, 1):
+            c = wm.cell(f, j, num(m[k]) if k not in ("ruc", "id") else m[k])
+            c.border = BORDE
+        f += 1
+    anchos(wm, [5, 24, 40, 13] + [6] * (len(cols) - 7) + [8, 16, 50])
+    wm.freeze_panes = "D5"
 
 # ---------- Una hoja por entidad ----------
 for r in BASE:
@@ -357,6 +371,8 @@ for r in BASE:
         ("Imputación (hipótesis de trabajo)", m.get("imputacion", "")),
         ("Vía jurídica principal", m.get("via_principal", "")),
     ]
+    if not LABORAL:
+        datos = datos[:6]
     for k, v in datos:
         a = ws.cell(fila, 1, k)
         a.font, a.border, a.alignment = NEGRITA, BORDE, AJUSTE
@@ -418,7 +434,10 @@ for r in BASE:
     fila = tabla(ws, fila, ["Nombre", "Documento", "Tipo", "Correo", "Dominio", "Teléfono", "Fecha", "Domicilio / fuente / notas"], filas, N)
 
     fila = seccion(ws, fila, "9. Alertas de calidad de datos", N)
-    filas = [([q["severidad"], q["tipo"], q["detalle"], "", "", "", "", ""], False) for q in CAL.get(eid, [])]
+    cal = CAL.get(eid, [])
+    if not LABORAL:  # en la versión societaria se omiten observaciones con valoraciones jurídicas o laborales
+        cal = [q for q in cal if not INTERPRETATIVO.search(q["detalle"])]
+    filas = [([q["severidad"], q["tipo"], q["detalle"], "", "", "", "", ""], False) for q in cal]
     fila0 = fila
     fila = tabla(ws, fila, ["Severidad", "Tipo", "Detalle", "", "", "", "", ""], filas, N, "Sin alertas registradas.")
     for rr in range(fila0 + 1, fila - 1):
